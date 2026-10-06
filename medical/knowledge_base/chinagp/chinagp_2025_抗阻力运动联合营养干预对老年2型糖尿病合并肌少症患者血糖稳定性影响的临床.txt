@@ -1,0 +1,928 @@
+标题: 抗阻力运动联合营养干预对老年2型糖尿病合并肌少症患者血糖稳定性影响的临床研究
+期刊: 中国全科医学 2025 第28卷 第21期
+DOI: 10.12114/j.issn.1007-9572.2024.0422
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0422
+
+
+·2604· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+July 2025，Vol.28 No.21
+Chinese General Practice
+·论著·
+抗阻力运动联合营养干预对老年2 型糖尿病合并肌少症
+患者血糖稳定性影响的临床研究
+王颖
+1，2，颜轶隽
+1，2，刘蕾
+2，胡毓敏
+3，张扬
+3，刘凯
+3，姜博仁
+1，4*
+1.200010 上海市黄浦区豫园街道社区卫生服务中心健康管理门诊
+2.200010 上海市黄浦区老年护理医院二病区
+3.200010 上海市黄浦区老年护理医院康复医学科
+4.200011 上海市，上海交通大学医学院附属第九人民医院内分泌科
+* 通信作者：姜博仁，副主任医师；E-mail：155284156@qq.com
+【摘要】　背景　2 型糖尿病与肌少症是两种危害老年人健康的常见病，目前国内关于2 型糖尿病合并肌少症的
+临床干预研究较少。目的　探讨在基层医院开展抗阻力运动联合营养干预对合并肌少症的老年2 型糖尿病患者骨骼肌
+质量及血糖稳定性的影响。方法　选取2022 年2 月—2024 年5 月于上海市黄浦区豫园街道社区卫生服务中心就诊的
+61 例老年2 型糖尿病合并肌少症的老年患者（≥65 岁）作为研究对象，随机分为对照组（30 例）及试验组（31 例）。
+对照组进行常规糖尿病健康教育，试验组在对照组基础上进行抗阻力运动联合营养干预，干预12 周后，比较两组患
+者的葡萄糖在目标范围内的时间（TIR）、平均血糖波动幅度（MAGE）、四肢骨骼肌质量指数（ASMI）、握力（kg）、
+6 m 步速（m/s），并分析干预前后ASMI、握力、6 m 步速改善程度与TIR、MAGE 改善程度的相关性。结果　干预前，
+两组一般资料比较，差异均无统计学意义（P>0.05）。干预12 周后，对照组TIR 较干预前降低（P<0.05）；试验组糖
+化血红蛋白（HbA1c）、TIR、MAGE、6 m 步速、优势手握力较干预前改善（P<0.05）。干预12 周后，两组HbA1c、
+TIR、MAGE、ASMI、6 m 步速、优势手握力变化幅度比较，差异均有统计学意义（P<0.05）。6 m 步速变化幅度与
+TIR 变化幅度呈正相关（rs=0.411，P<0.05），与MAGE（rs=-0.472，P<0.05）和HbA1c（rs=-0.315，P<0.05）变化幅度
+呈负相关。两组均无不良事件发生。结论　对合并肌少症的老年2 型糖尿病患者，抗阻力运动联合营养干预不但可以
+增加肌肉量和身体功能，而且可以改善血糖稳定性和血糖达标时间。抗阻力运动和营养干预简便易行，安全性高，值
+得在基层医院推广应用。
+【关键词】　抗阻训练；运动疗法；糖尿病，2 型；肌少症；肌，骨骼；血糖控制；血糖稳定性；社区；随机对
+照试验
+【中图分类号】　R 455　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2024.0422
+Effects of Resistance Exercise Combined with Nutritional Intervention on Blood Glucose Stability 
+in Elderly Patients with Type 2 Diabetes Mellitus with Sarcopenia
+WANG Ying
+1，2，YAN Yijun
+1，2，LIU Lei
+2，HU Yumin
+3，ZHANG Yang
+3，LIU Kai
+3，JIANG Boren
+1，4*
+1. Health Management Clinic，Shanghai Huangpu District Yuyuan Community Health Service Center，Shanghai 200010，China
+2. Ward Area 2，Shanghai Huangpu District Geriatric Care Hospital，Shanghai 200010，China
+3. Department of Rehabilitation Medicine，Shanghai Huangpu District Geriatric Care Hospital，Shanghai 200010，China
+4. Department of Endocrinology，Shanghai Ninth People's Hospital，Shanghai Jiao Tong University School of Medicine，
+Shanghai 200011，China
+*Corresponding author：JIANG Boren，Associate chief physician；E-mail：155284156@qq.com
+【Abstract】　Background　Type 2 diabetes mellitus（T2DM）and sarcopenia are common conditions that significantly 
+基金项目：中华国际医学交流基金（Z-2017-26-1902）；上海市黄浦区卫生健康委员会科研项目（HLM202135）
+引用本文：王颖，颜轶隽，刘蕾，等. 抗阻力运动联合营养干预对老年2 型糖尿病合并肌少症患者血糖稳定性影响的临床研究［J］. 中
+国全科医学，2025，28（21）：2604-2610. DOI：10.12114/j.issn.1007-9572.2024.0422.［www.chinagp.net］
+WANG Y，YAN  Y J，LIU L，et al. Effects of resistance exercise combined with nutritional intervention on blood glucose stability in elderly patients 
+with type 2 diabetes mellitus with sarcopenia［J］. Chinese General Practice，2025，28（21）：2604-2610.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·2605·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年7月  第28卷  第21期
+中国全科医学
+随着全球老龄化的加剧，老年人群中2 型糖尿病的
+患病率持续上升，导致心血管疾病、肾病和视网膜病变
+等并发症风险增加，而其伴发的肌少症也受到越来越多
+的关注
+［1］。肌少症降低了老年人的运动能力和生活质
+量
+［2］，增加了跌倒和骨折风险
+［3］，与糖尿病形成恶性
+循环，患有T2DM 的老年人常存在虚弱、认知能力下降
+和功能障碍
+［4］，这凸显了与护理人员和社会支持联系
+的重要性。因此，寻求既能改善代谢控制又能增强肌肉
+质量的干预措施，对提升老年糖尿病患者的整体健康至
+关重要。
+目前还没有药物可以预防或治疗肌少症
+［5］，营养
+干预和抗阻力运动结合近年来被认为是潜在的对抗肌少
+症有效策略
+［6-9］。既往研究证实骨骼肌质量取决于肌肉
+蛋白质合成（MPS）和肌肉蛋白质分解（MPB）之间复
+杂的平衡
+［10］。进行抗阻力运动后，MPS 会大幅升高，
+将抗阻力运动与适当的营养策略结合，可在抗阻力运动
+后最大限度地刺激MPS，随着时间的推移可促进骨骼肌
+质量的增加
+［11］。相对于年轻人，老年人存在合成代谢
+阻力
+［12］，因此对其进行抗阻力运动联合营养指导更为
+重要。摄入足够的高质量（尤其是富含亮氨酸）蛋白质
+与抗阻力运动相结合是改善或至少维持骨骼肌质量和功
+能的决定因素
+［6］。
+合并肌少症的老年2 型糖尿病患者在社区医疗机
+构，尤其是老年护理院中较集中，如能对这部分患者进
+行有效干预，无论对家庭还是对社会，均有非常重要的
+现实价值。已有研究发现，运动和均衡饮食是对抗老年
+人肌少症和 2 型糖尿病的正确对策
+［13］。有效的行为管
+理是实现糖尿病患者治疗目标的基础，实现目标的关键
+是糖尿病自我管理教育和支持（DEMES）
+［14］，本研究
+旨在评估这种联合干预对社区老年2 型糖尿病合并肌少
+症患者血糖稳定性的影响。结合可穿戴设备（连续动态
+血糖监测），远程医疗（微信）等技术，探寻一种以糖
+尿病合并肌少症患者及其家庭为中心、与社区医疗专业
+人员合作的经济、高效的初级保健和预防服务。
+1　资料与方法
+1.1　研究对象
+选择2022 年2 月—2024 年5 月于上海市黄浦区豫
+园街道社区卫生服务中心就诊的老年2 型糖尿病合并肌
+少症患者为研究对象。本研究经上海市黄浦区豫园街道
+社区卫生服务中心伦理委员会审核同意，中国临床试验
+注册中心注册（注册号：ChiCTR2200055220）。纳入
+患者均签署了知情同意书。
+以葡萄糖在目标范围内的时间（TIR）作为研究主
+要终点，检验水准α=0.05，检验效能1-β=0.80，计算
+得到样本量30 例，按15%~20％的失访率，每组计划入
+组35 例。
+1.1.1　纳入标准：（1）≥65 岁的2 型糖尿病患者，糖
+impact the health of elderly individuals. However，clinical intervention studies focusing on T2DM with sarcopenia are relatively 
+limited in China. Objective　To investigate the effects of resistance exercise combined with nutritional intervention on skeletal 
+muscle mass and blood glucose stability in elderly T2DM patients with sarcopenia at a primary care hospital. Methods　A total 
+of 61 elderly T2DM patients with sarcopenia（aged ≥65）who attended the Shanghai Huangpu District Yuyuan Community 
+Health Service Center between February 2022 and May 2024 were enrolled in the study. The patients were randomly assigned to a 
+control group（n=30）and an intervention group（n=31）. All patients were managed by routine diabetes education，and those 
+in the intervention group additionally received resistance exercise combined with nutritional intervention. A 12-week intervention 
+was performed to compare the time in glucose target range（TIR），mean amplitude of glycemic excursions（MAGE），
+appendicular skeletal muscle mass index（ASMI），grip strength，and 6-meter walking speed. The correlations between 
+grip strength，6-meter walking speed，ASMI with TIR and MAGE were assessed before and after the intervention. Results　
+Before the intervention，there was no significant difference in parameters between the two groups（P<0.05）. After the 12-week 
+intervention，significantly decreased TIR was detected in the control group（P<0.05），and significantly improved glycated 
+hemoglobin（HbA1c），TIR，MAGE，and 6-meter walking speed and grip strength were found in the intervention group（P<0.05），
+with statistical differences between groups（P<0.05）. Before and after intervention， the change of HbA1c，TIR，MAGE，and 6-meter 
+walking speed，ASMI，and grip strength showed statistically significant differences between control and intervention group
+（P<0.05）. The change in 6-meter walking speed was positively correlated with the change in TIR（rs=0.411，P<0.05），
+and negatively correlated with changes in MAGE（rs=-0.472，P<0.05）and HbA1c（rs=-0.315，P<0.05）. No adverse events 
+were reported. Conclusion　Resistance exercise combined with nutritional intervention can not only increase muscle mass and 
+physical function，but also improve blood glucose stability and TIR in elderly T2DM patients with sarcopenia.  Our interventions 
+are simple，easy to implement，with high safety，making them valuable for promotion in primary healthcare setting.
+【Key words】　Resistance training；Exercise therapy；Diabetes mellitus，type 2；Sarcopenia；Muscle，skeletal；
+Glycemic control；Blood glucose stability；Community；Randomized controlled trial
+
+·2606· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+July 2025，Vol.28 No.21
+Chinese General Practice
+化血红蛋白（HbA1c）为6.0%~8.5%；（2）符合肌少症
+诊断标准（依据亚洲肌少症工作组2019 共识
+［15］）；（3）
+能够接受糖尿病健康教育及抗阻力运动指导。
+1.1.2　排除标准：（1）合并严重慢性疾病；（2）近6
+个月曾进行抗阻力运动训练；（3）近1 个月内发生严
+重低血糖；（4）有肢体功能缺损认知障碍无法接受运
+动及健康指导的患者；（5）严重肾功能损害患者（慢
+性肾脏病 3~4 期）；（6）严重肝功能损害；（7）有心
+脏起搏器植入；（8）经研究组判定不适宜参加本研究
+的患者（例如患者参与研究前3 个月内经历了重大创伤
+或手术）。
+1.2　方法
+1.2.1　分组过程：首先利用肌少症筛查量表（SARC-F）
+对社区≥65 岁的糖尿病患者进行初筛，SARC-F 评分
+≥4 分的患者接受生物电阻抗分析。共纳入符合肌少症
+诊断标准的患者70 例，通过SAS 软件生成的随机数分
+配至试验组和对照组，每组35 例。最终有61 例患者完
+成了全程干预，9 例患者未能完成（对照组5 例，试验
+组4 例），原因包括疫情的影响及其他个人原因，见图1。
+1.2.2　分组结束后检测受试者体脂率、BMI、血红蛋白、
+空腹血糖、丙氨酸氨基转移酶、肌酐、HbA1c。
+1.2.3　干预措施。对照组：对照组进行常规糖尿病健康
+教育，糖尿病常规健康教育参考《中国老年糖尿病诊疗
+指南（2021 年版）》
+［16］。试验组：试验组在对照组基
+础上联合综合肌肉训练。具体方法：（1）健康宣教（宣
+教肌少症对老年人健康危害，肌少症干预的重要性）；（2）
+营养摄入建议：为患者拟定每周食谱，达到摄入优质蛋
+白每人每天1.2~1.5 g/kg 体质量，并建议补充活性维生
+素D。（3）抗阻力运动指导。抗阻力训练方案如下，
+①屈腕举哑铃：患者双手握持1 kg 哑铃或相同重量的
+矿泉水瓶，端坐或直立，前壁与上臂呈90°，肱二头
+肌必须感觉绷紧，20 次/ 组，每组间可休息30 s，3 组/d；
+②股四头肌静力收缩训练：长腿椅座位，膝关节伸直，
+可在膝下垫一毛巾卷，大腿肌肉收缩绷紧向下压毛巾，
+可见髌骨上移，保持10 s 后放松，休息10 s 后再重复，
+10 次为1 组，3 组/d。③提踵，站立位，双脚与肩同宽，
+双手可轻扶稳定桌面或栏杆，慢慢将脚后跟抬起，仅用
+脚掌支撑身体保持直立10 s 后，再缓慢回到原位，休息
+10 s 后重复10 次为1 组，3 组/d。初次训练均在我院康
+复技师指导下完成。每周完成3 次训练，每次完成后打
+卡。为保证干预有效，采用每天微信打卡的方式，上传
+三餐图片，及抗阻力运动时的视频。
+两组均继续保持原有糖尿病及其他慢性病治疗方案
+不变，持续干预12 周。
+1.3　评价指标
+两组患者基线指标：性别；病程；受教育程度；
+年龄；体脂率（使用生物电阻抗仪生产厂家：InBody 
+Co.，Ltd.，型号：INBODY270）；BMI（身高体重仪，
+品牌：倍泰，型号：HW-B-N1）；血红蛋白（血细胞
+分析仪，品牌：希森美康，型号：Xn1000）；空腹血糖、
+丙氨酸氨基转移酶、肌酐（生化分析仪，品牌：日立，
+型号：7180）。
+临床研究注册
+肌少症筛查量表
+（SARC-F）
+使用SAS 软件随机化分组
+≥65 岁、糖化血红蛋白6.0%~8.5%、2 型糖尿病患者
+符合肌少症诊断且符合入组标准
+签署知情同意书（n=70）
+生物电阻抗分析，
+握力测试，步速测试
+<4 分
+排除
+排除
+不符合肌
+少症诊断
+≥4 分
+完成研究（n=31）
+完成研究（n=30）
+试验组（n=35）
+糖尿病常规健康教育+ 营养
+干预联合抗阻力运动指导
+对照组（n=35）
+糖尿病常规健
+康教育
+提前退出（n=4）
+提前退出（n=5）
+图1　干预及随机化流程
+Figure 1　Intervention and randomization process
+1.3.1　观察指标与评价方法。比较两组患者干预前和
+干预12 周后的下列指标。（1）BMI：身高体重仪（品
+牌：倍泰，型号：HW-B-N1）。（2）HbA1c：全自动
+糖化血红蛋白分析仪（品牌：东曹，型号：G11）。
+（3）TIR，平均血糖波动幅度（MAGE）：佩戴雅培扫
+描式瞬感血糖监测仪（批号：01C199E）7 d，取得TIR
+及MAGE。（4）四肢骨骼肌质量指数（ASMI）：使用
+生物电阻抗仪（生产厂家：InBody Co.，Ltd.，型号：
+INBODY270）测量四肢骨骼肌质量，并用身高矫正（界
+值为男性<7.0 kg/m
+2，女性<5.7 kg/m
+2）。（5）握力与
+6 m 步速：使用弹簧式握力器（品牌：香山，型号：
+101）测量优势手握力，握住弹簧式握力器，站立位，
+伸肘测量握力；如果老年人不能独立站立，则选用坐位
+测量。用优势手最大力量等距收缩，至少2 次测试，选
+取最大读数（界值为男性<28 kg，女性<18 kg），使用
+6 m 步速
+［15］测量身体功能，测量时指导受试者以常规
+步行速度通过6 m 直线距离，中途不加速不减速，并至
+少测量2 次，计算其平均数值（界值为≤1 m/s）。
+1.3.2　安全性评价。试验过程中如实记录任何不良事件
+
+·2607·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年7月  第28卷  第21期
+中国全科医学
+的发生，并记录是否停止干预，是否采取处理措施，不
+良事件是否与试验相关，以客观评价其安全性。对所有
+受试者在干预4、8、12 周时进行随访。
+1.4　统计学方法
+按照符合方案集分析（per protocol analysis，PP
+集），未完成干预和随访的患者数据未纳入最终分析。
+符合正态分布的计量资料采用（x-±s）表示，两组间基
+线和干预后计量指标差异比较采用配对t 检验，呈非正
+态时采用M（P25，P75）表示，采用非参数检验。计数
+资料采用相对数表示，采用χ
+2 检验。相关性分析采用
+Spearman 秩相关分析。采用SPSS 22.0 软件（美国IBM
+公司）进行数据处理，以P<0.05 为差异有统计学意义。
+2　结果
+2.1　一般资料比较
+两组患者的性别、年龄、受教育程度、病程、体脂
+率、BMI、血红蛋白、空腹血糖、丙氨酸氨基转移酶、
+肌酐比较，差异均无统计学意义（P>0.05），见表1。
+2.2　干预效果分析
+干预前，两组一般资料比较，差异均无统计学意义
+（P>0.05）。干预12 周后，对照组TIR 较干预前降低，
+差异有统计学意义（P<0.05）；试验组HbA1c、TIR、
+MAGE、ASMI、6 m 步速、优势手握力较干预前改善，
+差异有统计学意义（P<0.05），见表2。
+干预12 周后，两组HbA1c、TIR、MAGE、ASMI、
+6 m 步速、优势手握力变化幅度比较，差异均有统计学
+意义（P<0.05），见表2。
+2.3　相关性分析
+6 m 步速变化幅度与TIR 变化幅度呈正相关，与
+MAGE 和HbA1c 变化幅度呈负相关（P<0.05），见表3。
+2.4　安全性评价
+研究期间对照组及试验组均未发生不良事件。
+3　讨论
+本研究发现，通过12 周的抗阻力运动联合营养
+干预，试验组老年2 型糖尿病患者的骨骼肌质量增加
+（ASMI）、功能改善（6 m 步速），TIR、MAGE 明显改善，
+证明了在社区开展抗阻力运动和营养干预的有效性。
+既往研究已证实营养干预联合抗阻力运动可以改善
+骨骼肌质量和功能
+［6］。这可能是由于营养干预将“食
+物即药物”
+［17］的理念传达给患者，打卡上传每日饮食
+也在一定程度上提高了患者的健康意识
+［18］。骨骼肌中
+的胰岛素抵抗是加剧2 型糖尿病患者肌少症的重要因
+素
+［19］。均衡饮食与优质蛋白质摄入增加提高了老年糖
+尿病患者的胰岛素敏感性
+［20］，增加肌肉细胞中的胰岛
+素受体表达和胰岛素信号传导，增加了体内的氨基酸浓
+度，而这些氨基酸是肌肉蛋白质合成的基本构建块
+［21］。
+有研究表明，适量的蛋白质摄入可以显著提升胰岛素促
+进骨骼肌细胞中蛋白质合成的速率
+［22］，进而提高骨骼
+肌质量，提升ASMI。
+抗阻力运动通过多种机制促进肌肉蛋白质合成。首
+先，机械张力通过激活mTOR 通路，直接促进肌肉蛋白
+质合成，蛋白激酶mTORC1 的激活是支持体细胞生长、
+蛋白质合成的主要途径，对关键组织和器官的生长以及
+体内平衡具有广泛的影响
+［23］；其次，抗阻力运动引起
+的代谢应激提高了体内的代谢率，促进了肌肉细胞对胰
+岛素的敏感性，进而提高了葡萄糖的摄取和利用。长期
+的抗阻力训练还能增加肌肉纤维的体积和数量，从而显
+著改善老年糖尿病患者的骨骼肌质量和功能。既往已有
+研究证实体力活动的多种临床益处，例如提高胰岛素敏
+感性、降低HbA1c 和增加峰值耗氧量，并对血糖、血脂、
+血压和高敏C 反应蛋白产生有利影响
+［24］，进而降低血
+糖变异性
+［25］，最终改善TIR 与MAGE。
+本研究还发现TIR 变化幅度与6 m 步速变化幅度呈
+正相关，MAGE 变化幅度和6 m 步速变化幅度呈负相关。
+表1　两组患者一般资料比较
+Table 1　Baseline data between control group and intervention group
+组别
+例数
+性别［例（%）］
+年龄
+（x-±s，岁）
+受教育程度［例（%）］
+病程［例（%）］
+男
+女
+小学及以下
+中学
+大学及以上
+1~<5 年
+5~10 年
+>10 年
+对照组
+30
+18（60.0）
+12（40.0）
+76.8±7.8
+6（20.0）
+18（60.0）
+6（20.0）
+2（6.7）
+1（3.3）
+27（90.0）
+试验组
+31
+14（45.2）
+17（54.8）
+73.5±5.3
+1（3.2）
+24（77.4）
+6（19.4）
+6（19.4）
+2（6.5）
+23（74.2）
+t（χ
+2）值
+1.346
+a
+1.927
+4.413
+a
+2.638
+a
+P 值
+0.246
+0.060
+0.110
+0.267
+组别
+体脂率
+（x-±s，%）
+BMI
+（x-±s，kg/m
+2）
+血红蛋白
+（x-±s，g/L）
+空腹血糖
+（x-±s，mmol/L）
+丙氨酸氨基转移酶
+（x-±s，U/L）
+肌酐
+（x-±s，μmol/L）
+对照组
+27.60±6.70
+21.0±2.3
+128.77±10.87
+7.41±1.44
+18.97±10.98
+75.13±25.09
+试验组
+27.79±5.35
+21.3±1.8
+126.03±12.36
+7.30±1.69
+28.48±27.91
+70.26±16.55
+t（χ
+2）值
+-0.123
+-0.501
+0.916
+0.291
+-1.763
+0.884
+P 值
+0.903
+0.618
+0.363
+0.772
+0.086
+0.380
+注：
+a 表示χ
+2 值。
+
+·2608· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+July 2025，Vol.28 No.21
+Chinese General Practice
+较高的TIR 与蛋白尿、视网膜病变、心血管疾病死亡
+率、全因死亡率和颈动脉内膜中层厚度异常的风险降低
+相关。在糖尿病周围神经病变（DPN）中，血糖变异性
+（尤其是MAGE）和较低的TIR 均被认为是危险因素
+［26］。
+DPN是糖尿病最常见的并发症，对生活质量有重大影响，
+多项研究证实饮食和运动相结合是治疗DPN 的有效策
+略
+［27-29］。血糖变异性的改善降低了促炎细胞因子的释放，
+避免了对肌肉蛋白合成的影响，减轻了周围神经和微血
+管的损伤，反向提升了运动能力，增加了肌肉质量与步
+行速度。慢步速是肌少症的重要体能指标
+［30］，被确定
+为全因死亡的独立危险因素
+［31］，由个体的步速可知其
+整体健康和体能状况。本研究进一步验证了营养联合抗
+阻力运动可以通过提升老年2 型糖尿病患者整体的健康
+水平，从而提升步速。
+本研究提升了社区老年人群对糖尿病和肌少症两类
+疾病的认识及自我管理能力，康复师的指导保证了抗阻
+力动作的专业性，微信打卡及定期随访保证了干预的延
+续性和干预效果，提升了依从性，医务人员可以全过程、
+全方位、多维度参与到糖尿病合并肌少症老年人的自我
+管理过程中，实时监督，实时指导，促进老年人健康行
+为。此方案具备在社区老年人群中推广的可行性，具备
+社会效益和卫生经济效益。
+本研究发现了步速改善与TIR、MAGE 显著相关。
+既往研究多集中于单一指标的变化
+［32-34］，本研究通过
+综合分析多项指标，揭示了步速这一整体健康状况的代
+表性指标与各项生理指标之间的紧密联系。这一发现为
+评估老年糖尿病患者的整体健康状况提供了新的视角。
+未来可以考虑将步速纳入老年糖尿病患者的常规健康评
+估体系中，以更全面的方式评估患者的健康状况。
+本研究样本的年龄范围为65~85 岁，性别比例均衡，
+且患者均为已确诊的2 型糖尿病患者。虽然这些特征在
+一定程度上保证了结果的代表性，但也需要注意到，这
+一年龄范围内的患者在身体功能和疾病管理上的差异较
+大。因此，研究结果在更广泛的老年糖尿病患者群体中
+的适用性需要进一步验证。
+本研究样本量有限，为单中心研究，试验对象入组
+时间跨度较大，且受疫情影响，部分患者可能感染后加
+重胰岛素抵抗，易影响研究结果。隔离政策也可能影响
+表2　两组患者干预后BMI、HbA1c、TIR、MAGE、ASMI、优势手握力及6 m 步速比较
+Table 2　BMI，HbA1c，TIR，MAGE，ASMI，grip strength and 6-meter walking speed between groups after intervention
+组别
+例数
+BMI（x-±s，kg/m
+2）
+HbA1c（x-±s，%）
+干预前
+干预后
+变化幅度（%）
+t 配对值
+P 值
+干预前
+干预后
+变化幅度（%）
+t 配对值
+P 值
+对照组
+30
+21.0±2.3
+21.0±2.2
+-0.57±4.82
+0.723
+0.475
+6.98±0.87
+7.26±1.40
+4.30±18.20
+-1.268
+0.215
+试验组
+31
+21.3±1.8
+21.6±2.0
+1.54±3.78
+-2.192
+0.036
+7.23±0.92
+6.75±0.99
+-6.34±10.80
+3.398
+0.002
+t（Z）值
+-0.501
+-1.140
+-1.900
+-1.100
+1.656
+2.762
+P 值
+0.618
+0.259
+0.062
+0.276
+0.103
+0.008
+组别
+TIR（x-±s，%）
+MAGE（x-±s）
+ASMI［M（P25，P75），kg/m
+2］
+干预前
+干预后
+变化幅度（%）t 配对值
+P 值
+干预前干预后变化幅度（%）t 配对值
+P 值
+干预前
+干预后
+变化幅度（%）Z 配对值
+P 值
+对照组
+75.58±
+16.80
+61.62±
+23.14
+-16.53±
+27.87
+3.243
+0.003
+5.86±
+1.73
+6.19±
+1.88
+8.70±
+28.11
+-1.232
+0.228
+5.60
+（5.18，6.53）
+5.60
+（5.20，6.50）
+0
+（-1.96，0）
+-1.620
+a
+0.105
+试验组
+69.58±
+18.74
+76.77±
+15.54
+15.72±
+27.60
+-2.532
+0.017
+6.80±
+2.12
+5.37±
+2.01
+-17.91±
+30.57
+3.444
+0.002
+6.60
+（5.40，6.98）
+6.60
+（5.50，6.90）
+0
+（0，1.85）
+-0.708
+a
+0.479
+t（Z）值
+1.319
+-3.011
+-4.540
+-1.901
+1.634
+3.536
+-1.601
+a
+-2.167
+a
+-2.269
+a
+P 值
+0.192
+0.004
+<0.001
+0.062
+0.107
+0.001
+0.109
+0.030
+0.023
+组别
+优势手握力［M（P25，P75），kg］
+6 m 步速（m/s）
+干预前
+干预后
+变化幅度（%）
+Z 配对值
+P 值
+干预前
+（x-±s）
+干预后
+（x-±s）
+变化幅度
+［M（P25，P75），%］
+t 配对值
+P 值
+对照组
+18.85（16.38，26.78）
+19.05（16.50，25.55）
+0（-3.59，1.07）
+-1.343 
+a 0.179
+0.95±0.11
+0.95±0.11
+0（-2.06，2.05）
+-0.224
+0.824
+试验组
+20.20（15.80，27.10）
+22.10（16.80，28.00）
+3.70（1.43，8.57）
+-4.255
+ a <0.01
+0.95±0.09
+1.03±0.10
+5.10（3.77，12.50）
+5.479
+<0.01
+t（Z）值
+-0.289
+a
+-1.184
+a
+-4.263
+a
+-0.213
+-3.111
+-4.550
+a
+P 值
+0.236
+<0.01
+0.832
+0.003
+<0.01
+注：变化幅度=（干预后- 干预前）/ 干预前×100%；HbA1c= 糖化血红蛋白，ASMI= 四肢骨骼肌质量指数，TIR= 葡萄糖在目标范围内的时
+间，MAGE= 平均血糖波动幅度；
+a 为Z 值。
+表3　干预后ASMI、6 m 步速变化幅度与TIR、MAGE、HbA1c 变化幅
+度的相关性
+Table 3　Correlation coefficient of changing range between ASMI，6-meter 
+walking speed with TIR，MAGE，HbA1c after intervention
+项目
+TIR 变化幅度
+MAGE 变化幅度
+HbA1c 变化幅度
+rs 值
+P 值
+rs 值
+P 值
+rs 值
+P 值
+ASMI 变化幅度
+0.24
+0.063
+-0.139
+0.286
+-0.236
+0.067
+6 m 步速变化幅度
+0.411
+0.001
+-0.472
+<0.001
+-0.315
+0.013
+
+·2609·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年7月  第28卷  第21期
+中国全科医学
+了食物的可及性，干扰了营养干预结果。患者用药方面
+也可能对结果存在一定影响，尽管告知患者在试验期间
+保留原糖尿病治疗方案，但疫情期间部分患者药物获取
+困难。本研究对照组患者血糖控制情况发生恶化，但在
+同样背景条件下，试验组却有好转，证明了干预的有效
+性。这些局限性可能导致研究结果偏向保守，未来需要
+更大规模、多中心的研究进一步验证。
+4　小结
+通过抗阻力运动与营养干预，合并肌少症的老年2
+型糖尿病患者ASMI、步速、TIR 和MAGE 均显著改善，
+且TIR 和MAGE 改善与步速的提高显著相关。研究结
+果展示了在社区内实施综合干预的巨大潜力，为基层医
+院提供了一种有效的老年糖尿病管理新路径。
+致谢：感谢复旦大学附属华山医院康复科协助设计
+并录制抗阻力运动指导视频。
+作者贡献：王颖提出主要研究目标，负责研究的构
+思与设计，撰写论文；颜轶隽负责研究对象的选取；刘
+蕾、胡毓敏、张扬、刘凯负责研究过程的实施，进行数
+据收集与整理；姜博仁负责统计学分析，文章的质量控
+制与审查，对文章整体负责，监督管理。
+本文无利益冲突。
+参考文献
+［1］BELLARY S，KYROU I，BROWN J E，et al. Type 2 
+diabetes mellitus in older adults：clinical considerations and 
+management［J］. Nat Rev Endocrinol，2021，17（9）：534-
+548. DOI：10.1038/s41574-021-00512-2. 
+［2］RODRIGUES F，DOMINGOS C，MONTEIRO D，et al. A review 
+on aging，sarcopenia，falls，and resistance training in community-
+dwelling older adults［J］. Int J Environ Res Public Health，2022，
+19（2）：874. DOI：10.3390/ijerph19020874. 
+［3］YEUNG S S Y，REIJNIERSE E M，PHAM V K，et al. Sarcopenia 
+and its association with falls and fractures in older adults：a 
+systematic review and meta-analysis［J］. J Cachexia Sarcopenia 
+Muscle，2019，10（3）：485-500. DOI：10.1002/jcsm.12411. 
+［4］TAMURA Y，OMURA T，TOYOSHIMA K，et al. Nutrition 
+management in older adults with diabetes：a review on the importance 
+of shifting prevention strategies from metabolic syndrome to 
+frailty［J］. Nutrients，2020，12（11）：3367. DOI：10.3390/
+nu12113367. 
+［5］DAMANTI S，AZZOLINO D，RONCAGLIONE C，et al. Efficacy of 
+nutritional interventions as stand-alone or synergistic treatments with 
+exercise for the management of sarcopenia［J］. Nutrients，2019，
+11（9）：1991. DOI：10.3390/nu11091991. 
+［6］MCKENDRY J，CURRIER B S，LIM C，et al. Nutritional 
+supplements to support resistance exercise in countering the 
+sarcopenia of aging［J］. Nutrients，2020，12（7）：2057. DOI：
+10.3390/nu12072057. 
+［7］张冰青，胡馨云，欧阳煜钦，等. 非肥胖2 型糖尿病患者
+肌肉量减少危险因素的列线图预测模型研究［J］. 中国
+全
+科
+医
+学，2024，27（33）：4139-4146. DOI：10.12114/
+j.issn.1007-9572.2024.0055.
+［8］SHEN Y J，SHI Q Y，NONG K L，et al. Exercise for sarcopenia in 
+older people：a systematic review and network meta-analysis［J］. 
+J Cachexia Sarcopenia Muscle，2023，14（3）：1199-1211. 
+DOI：10.1002/jcsm.13225. 
+［9］ZHU L Y，CHAN R，KWOK T，et al. Effects of exercise and 
+nutrition supplementation in community-dwelling older Chinese 
+people with sarcopenia：a randomized controlled trial［J］. Age 
+Ageing，2019，48（2）：220-228. DOI：10.1093/ageing/afy179. 
+［10］MCCOLL T J，CLARKE D C. Kinetic modeling of leucine-mediated 
+signaling and protein metabolism in human skeletal muscle［J］. 
+iScience，2023，27（1）：108634. DOI：10.1016/j.isci.2023.108634. 
+［11］MORTON R W，MURPHY K T，MCKELLAR S R，et al. A 
+systematic review，meta-analysis and meta-regression of the effect 
+of protein supplementation on resistance training-induced gains in 
+muscle mass and strength in healthy adults［J］. Br J Sports Med，
+2018，52（6）：376-384. DOI：10.1136/bjsports-2017-097608. 
+［12］TEZZE C，SANDRI M，TESSARI P. Anabolic resistance in the 
+pathogenesis of sarcopenia in the elderly：role of nutrition and 
+exercise in young and old people［J］. Nutrients，2023，15（18）：
+4073. DOI：10.3390/nu15184073. 
+［13］ARGYROPOULOU D，GELADAS N D，NOMIKOS T，et al. 
+Exercise and nutrition strategies for combating sarcopenia and type 2 
+diabetes mellitus in older adults［J］. J Funct Morphol Kinesiol，
+2022，7（2）：48. DOI：10.3390/jfmk7020048. 
+［14］American Diabetes Association. 5. Facilitating behavior change and 
+well-being to improve health outcomes：standards of medical care 
+in diabetes-2021［J］. Diabetes Care，2021，44（Suppl 1）：
+S53-72. DOI：10.2337/dc21-S005. 
+［15］CHEN L K，WOO J，ASSANTACHAI P，et al. Asian working 
+group for sarcopenia：2019 consensus update on sarcopenia 
+diagnosis and treatment［J］. J Am Med Dir Assoc，2020，21（3）：
+300-307.e2. DOI：10.1016/j.jamda.2019.12.012. 
+［16］国家老年医学中心，中华医学会老年医学分会，中国老年保
+健协会糖尿病专业委员会. 中国老年糖尿病诊疗指南（2021 年
+版）［J］. 中华糖尿病杂志，2021，13（1）：14-46. DOI：
+10.3760/cma.j.cn115791-20201209-00707.
+［17］DOWNER S，BERKOWITZ S A，HARLAN T S，et al. 
+Food is medicine：actions to integrate food and nutrition into 
+healthcare［J］. BMJ，2020，369：m2482. DOI：10.1136/bmj.
+m2482. 
+［18］BHUROSY T，MIDDLESTADT S E，LIN H C，et al. A 
+randomized mHealth trial to promote vegetable intake through 
+counting and goal setting［J］. J Nutr Educ Behav，2020，52（12）：
+1111-1119. DOI：10.1016/j.jneb.2020.08.009. 
+［19］HOU Y，XIANG J，WANG B，et al. Pathogenesis and 
+comprehensive treatment strategies of sarcopenia in elderly patients 
+with type 2 diabetes mellitus［J］. Front Endocrinol，2023，14：
+1263650. DOI：10.3389/fendo.2023.1263650. 
+［20］DERRICK S A，NGUYEN S T，MARTHENS J R，et al. A 
+Mediterranean-style diet improves the parameters for the management 
+
+·2610· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+July 2025，Vol.28 No.21
+Chinese General Practice
+and prevention of type 2 diabetes mellitus［J］. Medicina，2023，
+59（10）：1882. DOI：10.3390/medicina59101882. 
+［21］陈艳秋，宗敏，李士捷，等. 社区老年人膳食蛋白质摄入量
+及其与骨骼肌量的相关性研究［J］. 中国全科医学，2019，
+22（30）：3662-3666，3671. DOI：10.12114/j.issn.1007-9572.
+2019.00.239.
+［22］KOLB H，KEMPF K，RÖHLING M，et al. Insulin：too much of a 
+good thing is bad［J］. BMC Med，2020，18（1）：224. DOI：
+10.1186/s12916-020-01688-6.
+［23］GOUL C，PERUZZO R，ZONCU R. The molecular basis of nutrient 
+sensing and signalling by mTORC1 in metabolism regulation and 
+disease［J］. Nat Rev Mol Cell Biol，2023，24（12）：857-875. 
+DOI：10.1038/s41580-023-00641-8. 
+［24］AMANAT S，GHAHRI S，DIANATINASAB A，et al. Exercise 
+and type 2 diabetes［EB/OL］.［2024-08-20］. https://doi.
+org/10.1007/978-981-15-1792-1_6.
+［25］ZHU X Y，ZHAO L N，CHEN J，et al. The effect of physical 
+activity on glycemic variability in patients with diabetes：a 
+systematic review and meta-analysis of randomized controlled 
+trials［J］. Front Endocrinol，2021，12：767152. DOI：10.3389/
+fendo.2021.767152. 
+［26］YAPANIS M，JAMES S，CRAIG M E，et al. Complications 
+of diabetes and metrics of glycemic management derived from 
+continuous glucose monitoring［J］. J Clin Endocrinol Metab，
+2022，107（6）：e2221-2236. DOI：10.1210/clinem/dgac034. 
+［27］EID S A，ELZINGA S E，KIM B，et al. High-intensity interval 
+training，caloric restriction，or their combination have beneficial 
+effects on metabolically acquired peripheral neuropathy［J］. 
+Diabetes，2024，20：db230997. DOI：10.2337/db23-0997.
+［28］E N D E R S J ，E L L I O T T D ，W R I G H T D E . E m e r g i n g 
+nonpharmacologic interventions to treat diabetic peripheral 
+neuropathy［J］. Antioxid Redox Signal，2023，38（13/14/15）：
+989-1000. DOI：10.1089/ars.2022.0158. 
+［29］ELAFROS M A，ANDERSEN H，BENNETT D L，et al. Towards 
+prevention of diabetic peripheral neuropathy：clinical presentation，
+pathogenesis，and new treatments［J］. Lancet Neurol，2022，21
+（10）：922-936. DOI：10.1016/S1474-4422(22)00188-0. 
+［30］PETERMANN-ROCHA F，HO F K，WELSH P，et al. Physical 
+capability markers used to define sarcopenia and their association 
+with cardiovascular and respiratory outcomes and all-cause 
+mortality：a prospective study from UK biobank［J］. Maturitas，
+2020，138：69-75. DOI：10.1016/j.maturitas.2020.04.017. 
+［31］WELSH C E，CELIS-MORALES C A，HO F K，et al. Grip 
+strength and walking pace and cardiovascular disease risk prediction 
+in 406，834 UK biobank participants［J］. Mayo Clin Proc，
+2020，95（5）：879-888. DOI：10.1016/j.mayocp.2019.12.032. 
+［32］SAVIKJ M，ZIERATH J R. Train like an athlete：applying exercise 
+interventions to manage type 2 diabetes［J］. Diabetologia，2020，
+63（8）：1491-1499. DOI：10.1007/s00125-020-05166-9. 
+［33］MARCOTTE-CHÉNARD A，LITTLE J. Towards optimizing 
+exercise prescription for type 2 diabetes：modulating exercise 
+parameters to strategically improve glucose control［J］. Transl 
+Exerc Biomed，2024，1：71-88. DOI：10.1515/teb-2024-2007. 
+［34］KOBAYASHI Y，LONG J，DAN S，et al. Strength training is more 
+effective than aerobic exercise for improving glycaemic control and 
+body composition in people with normal-weight type 2 diabetes：a 
+randomised controlled trial［J］. Diabetologia，2023，66（10）：
+1897-1907. DOI：10.1007/s00125-023-05958-9. 
+（收稿日期：2024-06-10；修回日期：2024-10-10）
+（本文编辑：赵跃翠）
+［27］FARHANGIYAN Z，LATIFI S M，RASHIDI H，et al. The most 
+appropriate cut-off point of anthropometric indices in predicting the 
+incidence of metabolic syndrome and its components［J］. Diabetes 
+Metab Syndr，2019，13（4）：2739-2745. DOI：10.1016/
+j.dsx.2019.07.009. 
+［28］JABŁONOWSKA-LIETZ B，WRZOSEK M，WŁODARCZYK 
+M，et al. New indexes of body fat distribution，visceral adiposity 
+index，body adiposity index，waist-to-height ratio，and metabolic 
+disturbances in the obese［J］. Kardiol Pol，2017，75（11）：
+1185-1191. DOI：10.5603/KP.a2017.0149. 
+［29］JI M，ZHANG S，AN R. Effectiveness of A Body Shape Index（ABSI）
+in predicting chronic diseases and mortality：a systematic review 
+and meta-analysis［J］. Obes Rev，2018，19（5）：737-759. 
+DOI：10.1111/obr.12666. 
+［30］RAIMI T H，DELE-OJO B F，DADA S A，et al. Triglyceride-
+glucose index and related parameters predicted metabolic syndrome 
+in nigerians［J］. Metab Syndr Relat Disord，2021，19（2）：
+76-82. DOI：10.1089/met.2020.0092. 
+［31］POU K，MASSARO J，HOFFIMANN U，et al. Visceral and 
+subcutaneous adipose tissue volumes are cross-sectionally related to 
+markers of infla mation and oxidative stress：the Framingham Heart 
+Study［J］. Circulation，2007，116（11）：1234-1241. DOI：
+10.1161/CIRCULATIONAHA.107.710509. 
+［32］WEI X Y，MIN Y，SONG G，et al. Association between 
+triglyceride-glucose related indices with the all-cause and 
+cause-specific mortality among the population with metabolic 
+syndrome［J］. Cardiovasc Diabetol，2024，23（1）：134. 
+DOI：10.1186/s12933-024-02215-0. 
+［33］NILSSON P M，TUOMILEHTO J，RYDÉN L. The metabolic 
+syndrome - what is it and how should it be managed?［J］. 
+Eur J Prev Cardiol，2019，26（2_suppl）：33-46. DOI：
+10.1177/2047487319886404. 
+［34］DE OLIVEIRA C C，RORIZ A K C，RAMOS L B，et al. 
+Indicators of adiposity predictors of metabolic syndrome in the 
+elderly［J］. Ann Nutr Metab，2017，70（1）：9-15. DOI：
+10.1159/000455333. 
+（收稿日期：2025-01-10；修回日期：2025-04-15）
+（本文编辑：赵跃翠）
+（上接第2603 页）

@@ -1,0 +1,513 @@
+标题: IFCN和ILAE常规和睡眠脑电图最低记录标准指南(2023)解读
+作者: 余敏, 朱江, 王晓丽, 张文娟, 刘永红
+期刊: 精准医学杂志 2024 第39卷 第6期
+DOI: 10.13362/j.jpmed.202406001
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202406001
+
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+doi:10.
+13362/j.
+jpmed.
+202406001  文章编号:2096-529X(2024)06-0471-05
+·指南解读·
+[收稿日期]2024-06-27; [修订日期]2024-09-12
+[基金项目]国家自然科学基金项目(82372033);国家重点研发
+计划(2022YFC2503806);陕西省重点研发计划(2023-YBSF-199);
+西京医院技术提升项目(2023XJSY11)
+[通讯作者]刘永红,Email:
+liuyhong@fmmu.
+edu.
+cn
+IFCN 和ILAE常规和睡眠脑电图最低记录标准
+指南(2023)解读
+余敏1,2 朱江1 王晓丽1 张文娟1 刘永红1
+(1 空军军医大学西京医院神经内科,陕西西安 710032; 2 川北医学院附属医院神经内科)
+[摘要] 建立常规和睡眠脑电图的最低记录标准对于临床实践与科学研究至关重要,国际临床神经电生理联
+盟(IFCN)和国际抗癫痫联盟(ILAE)联合工作组制定了该标准指南,以指导临床实践及确保脑电图研究质量。本
+文从脑电图检查的适应证、技术标准、记录持续时间、睡眠剥夺和诱发试验5个方面对该指南进行解读,旨在为国
+内脑电图检查提供可行的标准,进而促进常规与睡眠脑电图检查的规范化。
+[关键词] 脑电描记术;癫痫;电极;睡眠剥夺;指南解读
+[中图分类号] R741.
+04;R444    [文献标志码] A
+InterpretationofroutineandsleepEEG:MinimumrecordingstandardsoftheInternationalFedera-
+tionofClinicalNeurophysiologyandtheInternationalLeagueAgainstEpilepsy(2023) YU Min,ZHU
+Jiang,WANG Xiaoli,ZHANG Wenjuan,LIUYonghong (DepartmentofNeurology,XijingHospitalofAirForceMilitary
+MedicalUniversity,Xi'an710032,China)
+[ABSTRACT] EstablishingtheminimumrecordingstandardsforroutineandsleepEEGisofgreatimportanceforbothclini-
+calpracticeandscientificresearch,andthejointworkinggroupoftheInternationalFederationofClinicalNeurophysiology(IFCN)
+andtheInternationalLeagueAgainstEpilepsy(ILAE)developedthestandardguidelinetoguideclinicalpracticeandensurethe
+qualityofEEGstudies.Thisarticlegivesaninterpretationoftheguidelinefromtheaspectsoftheindications,technicalstandards,
+recordingduration,sleepdeprivation,andactivationmethodsforEEG,inordertoprovidefeasiblestandardsforEEGexamination
+inChinaandpromotethestandardizationofroutineandsleepEEGexamination.
+[KEY WORDS] Electroencephalography;Epilepsy;Electrodes;Sleepdeprivation;Guidelinesinterpretation
+  脑电图(EEG)检查对于癫痫的诊断和脑功能
+的评估具有重要意义。常规EEG 检查在基层医院
+中应用广泛[1-3]。为保证常规EEG 检查质量,指导
+临床医生合理开具EEG 检查单,国际临床神经电生
+理联盟(IFCN)和国际抗癫痫联盟(ILAE)工作组制
+定了常规和睡眠EEG 检查最低记录标准指南建议,
+以确保常规及睡眠EEG 检查的规范化及高质量的
+EEG 研究。该指南主要是针对向患者开具EEG 检
+查的医生和负责EEG 记录、分析和完成报告的医护
+人员,为他们提供EEG 检查的标准及建议,使EEG
+检查更加规范[4]。现就该指南主要内容解读如下,
+以促进常规与睡眠EEG 检查工作更科学规范。
+1 最低记录标准主要内容
+1.
+1 常规和睡眠EEG 检查的适应证
+成人和儿童行EEG 检查主要适应于“临床怀疑
+为癫痫发作”
+[5]和各种脑部疾病,包括颅内感染、昏
+迷及脑外伤等的脑功能评估。EEG 检查对于患者
+癫痫的发作、诊断以及减停药评估等具有重要临床
+意义[6]。基于以往的文献复习,IFCN 和ILAE 工
+作组对常规和睡眠EEG 检查在癫痫的诊断和分型
+中的价值、EEG 检查对患者发作间期癫痫样放电诊
+断的灵敏度和特异度,以及EEG 检查在抗癫痫发作
+药物停药决策中的作用进行了讨论,就常规和睡眠
+EEG 的适应证达成了共识,提出在非紧急情况下通
+过预约EEG 检查的适应证建议如下(表1)。
+表1 预约非紧急EEG 检查的适应证
+癫痫相关适应证
+鉴别诊断
+临床怀疑癫痫发作或癫痫
+心因性非癫痫发作
+癫痫诊断的重新评估
+阵发性行为变化
+癫痫综合征的分类
+疑似脑病
+癫痫发作形式变化确认(发作类型或症状)
+急性或亚急性痴呆
+癫痫的病因评估
+无癫痫发作患者减停ASM 前评估
+癫痫综合征系统随访(如婴儿痉挛综合征以及
+CSWS等)
+注:ASM:抗癫痫发作药物;CSWS:慢波睡眠期持续性棘慢波综合征
+·
+1
+7
+4
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+1.
+2 EEG 检查的技术标准
+  IFCN 和ILAE工作组就目前相关文献复习后
+认为,现有的EEG 技术标准证据质量低,他们通过
+改良德尔菲法制定的常规与睡眠EEG 检查最低技
+术标准建议如下(表2)。
+1.
+2.
+1 电极和导联 对于常规和睡眠EEG,建议使
+用涂有电极膏或凝胶的银-氯化银(或金)盘状电极。
+如果电极阻抗符合标准,也可以使用电极帽。在特
+定情况下,磁共振成像(MRI)兼容电极和针状电极
+也可以应用。建议使用25 个脑电电极导联[7],在
+10-20系统的基础上增加6个覆盖左右颞叶前部与
+底部的电极并使用10-10电极命名法,即F9/F10、
+T9/T10和P9/P10,此导联方式可提高发作期和发
+作间期癫痫样放电阳性检出率[8-10];如果条件有限,
+10-20系统也是可以的,但不能少于19个脑电记录
+电极和2个参考电极[11-12]。
+  需要配置1导ECG,用于鉴别心电伪差、脉搏
+伪差,并观察心率和心律变化等。对于可疑的有临
+床意义的运动事件,建议增加EMG 检查,肌电电极
+通常放置在四肢两侧对称位置(如双侧三角肌和股
+四头肌);也可以根据癫痫发作形式调整电极位置:
+如疑似眼睑肌阵挛发作及枕叶癫痫患者,建议将肌
+电电极安放在眼睑处。合理放置肌电电极,可以用
+于鉴别癫痫性肌阵挛、痉挛、阵挛、强直、失张力及强
+直-阵挛性癫痫发作等[13-14]。强烈建议使用附带有
+同步录像功能的EEG 仪进行常规EEG 检查,以记
+录癫痫发作症状学和可能的伪差来源,对于所有疑
+似癫痫发作或其他发作性疾病患者,视频录像必不
+可少。推荐放置2导EOG 电极[7,15],电极放置在右
+侧外眦上方1cm,左侧外眦下方1cm,对于鉴别一
+些EEG 慢波活动和眼球运动伪差具有一定意义。
+1.
+2.
+2 电极阻抗 推荐在每次EEG 记录前检查头
+皮与电极间阻抗,通常要求100~5000Ω。低于阻
+抗100Ω 会导致盐桥效应,为了保证低于5kΩ 的头
+皮电极阻抗以减少干扰,检查前应清洁头皮,必要时
+需对头皮脱脂。现代EEG 放大器具有相对高的输
+入阻抗,尽管一些研究证明10kΩ 或更高的头皮电
+极阻抗是可接受的[16],然而阻抗过高容易被汗水、
+运动等干扰;高达10kΩ 阻抗可能导致电极阻抗之
+间不平衡,干扰EEG 放大器共模抑制能力。因此,
+推荐阻抗值低于5kΩ,阻抗值小于10kΩ 也可应用。
+1.
+2.
+3 记录和查看参数 对于当前临床实践中的
+常规EEG 检查,很少关注频率大于100 Hz的脑电
+波,因其多数属于肌电伪差,无临床意义。但随着降
+低脑电波伪差软件和更高的EEG 采样频率的应用,
+常规EEG 检查也许会关注高频脑电波。基于专家
+的经验及目前EEG 仪器的特点,建议最小采样率为
+256Hz。其中EEG 低通滤波设置为70Hz,高通滤
+波设置为0.
+5Hz;EOG 低通滤波设置为35 Hz,高
+通滤波设为0.
+3Hz;EMG 低通滤波设为100Hz,高
+通滤波设为10 Hz。EEG 灵敏度成人7μV/mm,
+儿童10μV/mm。EEG 仪器应可以允许阅图者调
+整各通道的灵敏度,并在需要时调整时间分辨率,以
+显示某一时间点的EEG 电位图;阅图期间可以添加
+或者改变注释,开启陷波滤波,调整低通和高通滤波
+参数。
+1.
+2.
+4 数据存储和导出 推荐对所有EEG 记录以
+及同步视频进行存档。目前IFCN 正在通过与医学
+数字通信团体(DICOM)合作研发一种用于存储以
+及交换EEG 数据的新格式[17]。
+1.
+3 检查时间
+工作组对于现有的文献复习后推荐,常规EEG
+表2 常规和睡眠EEG 检查的最低标准总结
+技术项目
+内容说明
+电极类型
+用电极膏、凝胶或电极帽固定的银-氯化银(或金)盘状电极,MRI兼容电极,特定情况下的针状电极
+电极安放
+推荐放置25个脑电电极(IFCN),否则按10-20国际标准放置电极
+多导通道
+1导心电图(ECG)、4导肌电图(EMG)、2导眼动图(EOG)
+电极阻抗
+<10kΩ
+最小采样率
+256Hz
+滤波
+EEG:高通0.
+5Hz,低通70Hz;EOG:高通0.
+3Hz,低通35Hz;EMG:高通10Hz,低通100Hz
+检查时长
+常规EEG:20min,睡眠EEG:30min,如有必要,将EEG 记录时间适当延长
+睡眠诱导
+餐后进行婴儿和儿童的睡眠EEG,成人和12岁以上儿童进行睡眠剥夺,12岁以下儿童用褪黑素或睡眠剥夺,必要时用水合
+氯醛
+过度换气(HV)
+在间断闪光刺激(IPS)结束至少3min后进行HV,如怀疑为遗传性全面性癫痫(GGE),则在记录快结束时进行HV,HV 后
+至少再记录2min清醒EEG
+IPS
+在EEG 记录开始即进行IPS,儿童在睡眠EEG 快结束时进行IPS。分别在合眼、闭眼和睁眼状态下进行IPS,每个频率刺激
+时间5s。如时间有限,可仅进行合眼状态的IPS,每个频率刺激时间7s,观察临床症状及癫痫发作情况
+瞬目、睁-闭眼
+在常规EEG 开始时,睡眠EEG 快结束时清醒期进行瞬目、睁-闭眼试验,以评估后颅部优势节律,儿童可能需要辅助闭眼
+·
+2
+7
+4
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+检查的时间为20 min
+[5],睡眠EEG 检查的时间为
+30min
+[18],其中不包括准备时间。
+建议将婴儿和儿童的睡眠EEG 检查安排在餐
+后,此时患儿更易入睡。为了提高EEG 检查的癫痫
+样放电和癫痫发作阳性检出率,根据患者具体情况
+将检查开始时间和检查时长个体化,如疑似青少年
+肌阵挛癫痫的患者安排在早晨进行检查,对疑似或
+诊断为自限性癫痫伴中央颞区棘波的儿童首先进行
+睡眠EEG 检查,对疑似婴儿痉挛征患儿进行睡眠
+EEG 检查时将记录时间延长至苏醒后至少10min。
+1.
+4 睡眠剥夺
+与常规EEG 检查相比,睡眠EEG 检查更易监
+测到癫痫样放电[19-21]。一些特殊患者尤其是儿童,
+常规的清醒记录容易被伪差影响,睡眠EEG 检查也
+许更为合适。EEG 检查对癫痫样放电的敏感性随
+着重复记录而增加,如果复查EEG,建议第二次记
+录睡眠EEG。
+睡眠剥夺是一种可行的睡眠诱导方案,因为其
+不用考虑给药因素。工作组建议不同年龄段患者清
+晨行睡眠EEG 检查的部分睡眠剥夺方案如下:对于
+6岁以下儿童,夜间睡眠时间缩短1~3h或缩短为
+在预计EEG 检查时入睡所需的时间;对于6~12岁
+儿童,比平时晚睡2h且比平时早醒2h,保持清醒
+直到EEG 检查;对于12岁以上儿童,比平时晚2h
+入睡,最迟在24:00入睡,4:00叫醒,保持清醒直到
+EEG 检查;对于成人患者,24:00入睡,4:00叫醒,
+保持清醒直到EEG 检查。
+工作组复习现有文献后发现,没有研究评估任
+何年龄组部分或完全睡眠剥夺的安全性,睡眠剥夺
+会给孩子和家庭带来诸多不适。他们建议,12岁以
+上儿童和成人进行部分睡眠剥夺,因为他们可以配
+合睡眠剥夺;12岁以下儿童若能配合仍优先进行部
+分睡眠剥夺,否则可以使用褪黑素;如果睡眠剥夺或
+褪黑素不能诱导睡眠,两种方法联合使用则效果更
+好[22]。建议褪黑素用于不能配合部分睡眠剥夺的
+儿童和成人,剂量为1~3mg,在EEG 记录开始前
+30~60min服用。如果没有褪黑素,在部分睡眠剥
+夺无法达到睡眠且在确保患者安全的情况下,也可
+以使用水合氯醛。
+1.
+5 诱发试验
+EEG 诱发试验的目的是通过各种生理性或非
+生理性的方式诱发出异常脑波,特别是癫痫样放电,
+以提高EEG 检查的阳性检出率。不同的诱发试验
+激活大脑区域不同,机制也不尽相同。常规EEG 检
+查时,推荐进行HV、IPS、睁-闭眼试验,其他诱发试
+验如突然的声音刺激、触觉刺激或惊吓刺激等根据
+患者具体情况实施。
+1.
+5.
+1 HV 试验 在常规和睡眠EEG 记录开始时,
+一般先进行IPS,结束至少3min后开始进行HV,
+但如果怀疑为GGE,则在记录快结束时进行HV。
+患者每分钟需深呼吸15~30次,持续至少3min;对
+于高度怀疑典型失神发作的患者,可延长或重复至
+少3min 的HV,令儿童吹风车有助于实施HV。
+一些患者HV 时出现口周和手指麻木、刺痛,属正
+常现象,需继续行HV 直至试验结束。所有患者最
+好在HV 后再记录至少2 min清醒EEG。在HV
+全程,EEG 技术员应该在患者身旁,以便评估HV
+是否符合要求并保证患者安全。
+多项研究显示,HV 可以提高癫痫样放电的阳
+性检出率,1~19 岁患者的HV 阳性检出率最高。
+在安全性方面,现有研究中未发现脑血管、心血管及
+呼吸系统等不良事件。研究发现,当患者被告知
+HV 可能诱发癫痫发作时,心因性非癫痫发作常被
+诱发[23-24]。
+HV 试验的禁忌证包括镰状细胞病、烟雾病及
+其他脑血管畸形(包括动脉瘤)、3个月内的脑血管
+事件、颅内压升高、心肌梗死、心律失常和其他严重
+的心脏疾病、严重的肺部疾病、妊娠等。EEG 技术
+员应根据预备的禁忌证清单逐一询问患者,并记录
+是否有相对禁忌,以预防突发意外。
+1.
+5.
+2 IPS试验 建议在常规和睡眠EEG 记录开
+始时就进行IPS,而后再进行HV,两者至少间隔
+3min
+[25]。如果疑诊为GGE,由于癫痫发作的可能
+性增加,建议在记录快结束时进行IPS。IPS可以提
+高受检者的觉醒度、不利于患者入睡,而HV 具有
+相反的效果,因此,对于儿童,建议在睡眠EEG 记录
+开始时进行HV,在快结束时进行IPS。IPS测试应
+在较暗的环境下进行,先按如下递增频率刺激:1-2-
+8-10-15-18-20-25-40-50-60Hz,如果在某一刺激频
+率(下阈值)诱发出光阵发性反应(PPR),则停止进
+一步递增频率刺激以免诱发发作,然后从60 Hz开
+始递减序列刺激:60-50-40-25-……Hz,直到再次诱
+发PPR(上阈值),由此可确定引起PPR 的刺激频率
+范围。一旦出现了全面性癫痫样放电,应该立即停
+止IPS。
+多项研究提示,IPS可诱发出正常EEG 记录不
+到的癫痫样放电,提高EEG 检查的阳性检出率,年
+龄小于20岁的患者和GGE患者的IPS阳性检出率
+·
+3
+7
+4
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+最高,注意光肌源性反应不是癫痫性肌阵挛发作。
+在安全方面,研究显示IPS导致癫痫发作可能性较
+大,应做好相应的急救准备工作,如果已经明确结
+论,在一次EEG 记录期间没有必要重复IPS。妊娠
+是IPS的禁忌证,EEG 技术员一定需提前了解患者
+相关生理情况,以免发生意外。
+1.
+5.
+3 其他诱发试验 除了HV 和IPS试验,现有
+文献没有发现需要在常规EEG 记录中增加其他诱
+发试验的意义。其他诱发试验的适应证:具有反射
+性或特定触发因素特点的癫痫。在青少年肌阵挛癫
+痫患者中,认知测试更容易诱发肌阵挛发作。至少
+15~30min以上的认知测试,其EEG 检查的阳性
+检出率可能高于HV 以及IPS试验,但是不高于睡
+眠剥夺[26-27]。
+目前研究提示,视觉图形刺激和嗅觉刺激无提
+高常规EEG 检查诊断的价值。
+1.
+5.
+4 诱发试验的建议 工作组复习文献后建议,
+如果没有禁忌,常规或睡眠EEG 检查均进行HV、
+IPS、睁-闭眼试验。令患者瞬目、闭眼和睁眼几秒,
+可记录瞬目伪差、评估后颅部优势节律,也是眼状态
+敏感(如合眼敏感)的诱发方法[28]。根据患者具体
+情况,可进行如突然触碰、制造突然噪音或令其大声
+朗读有难度的文章等个体化刺激方法。
+应提前告知患者和陪护家属诱发试验的益处和
+潜在风险,特别是可能诱发癫痫发作及使患者丧失
+驾驶资格。患者有权知道并拒绝诱发试验。
+EEG 技术员需对患者的安全和EEG 记录的质
+量负责,在记录过程中,应该对患者进行连续视频录
+像。EEG 技术员应根据患者具体情况以寻求相应
+医疗帮助,在癫痫发作期间,建议用标准化的方法对
+患者进行测试。对于常规或睡眠EEG 检查期间可
+疑癫痫发作的患者测试方案如下[29]:当患者小于6
+岁,先令其说出自己的名字,接着询问其感觉是否良
+好;而后令其举起双臂或拍手,首先仅口述指令,如
+无反应则同时动作演示,事后询问其是否知道刚刚
+发生了什么。当患者大于6岁,先令其说出自己的
+名字,如果有回应则询问其有何感觉,如果无回应则
+触碰患者手臂确定患者反应;接着令患者举起手臂,
+首先仅口述指令,如无反应则动作演示;而后让其复
+述并记住一些词语(如马、桌子),事后询问其是否癫
+痫发作,能否描述一下发生了什么事,在发作开始前
+有什么感觉,能否回忆起之前对其说过的话或要求
+做的事。对于超过3s的全面性棘慢波放电的可疑
+失神发作者,建议采用ILAE 神经生理学工作组提
+出的方法进行测试[3]。当全面性放电开始时,EEG
+技术员给出简单的命令或语言,测试患者的反应,在
+癫痫性放电消失后,询问患者测试内容。
+2 结论
+ILAE以及IFCN 于2022 年发布了长程视频
+EEG 检查的最低标准指南[30],常规和睡眠EEG 检
+查在癫痫的诊治和脑功能障碍评估中具有重要意
+义。ILAE和IFCN 联合工作组再次进行文献复习
+发现,常规和睡眠EEG 记录标准的总体证据质量较
+低,该指南根据可用证据,结合专家共识制定了常规
+和睡眠EEG 记录的最低标准。据笔者了解,国内进
+行常规EEG 检查很少配置有心电和肌电导联,睡眠
+EEG 检查主要是针对不能配合的低龄儿童,成人很
+少进行睡眠EEG 检查。该指南对于我国新的EEG
+检查室建立提供了可行的国际标准,对于已经建立
+的EEG 检查室提供评估和改进标准。未来,需要高
+等级证据研究确定EEG 检查的准确性和成本效益
+等,并结合我国实际情况,以制定中国版常规EEG
+检查指南。
+作者声明:余敏、朱江、张文娟参与了研究设计;余敏、刘永红、王晓丽
+参与了论文的写作和修改。所有作者均阅读并同意发表该论文,且
+均声明不存在利益冲突。
+[参考文献]
+[1] ANDRADE-MACHADO R, BENJUMEA CUARTAS V,
+MUHAMMADIK.Recognitionofinterictalandictaldischar-
+gesonEEG.Focalvsgeneralizedepilepsy[J].EpilepsyBehav,
+2021,117:107830.
+[2] CHEN H,KOUBEISSIM Z.Electroencephalographyinepi-
+lepsyevaluation[J].Continuum,2019,25(2):431-453.
+[3] 陈蓓蓓,杨方,冷秀秀,等.空军飞行人员脑电图检查规范[J].
+空军军医大学学报,2022,43(8):927-930.
+[4] PELTOLA M E,LEITINGER M,HALFORD JJ,etal.
+RoutineandsleepEEG:Minimumrecordingstandardsofthe
+InternationalFederationofClinicalNeurophysiologyandthe
+InternationalLeagueAgainstEpilepsy[J].ClinNeurophysiol,
+2023,147:108-120.
+[5] DASH D,DASHC,PRIMROSES,etal.Updateonminimal
+standardsforelectroencephalographyinCanada:Areviewby
+theCanadianSocietyofClinicalNeurophysiologists[J].CanJ
+NeurolSci,2017,44(6):631-642.
+[6] BENBADISS R,BENICZKY S,BERTRAM E,etal.The
+roleofEEGinpatientswithsuspectedepilepsy[J].Epileptic
+Disord,2020,22(2):143-155.
+[7] SEECK M,KOESSLERL,BASTT,etal.Thestandardized
+EEGelectrodearray oftheIFCN [J].Clin Neurophysiol,
+·
+4
+7
+4
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+2017,128(10):2070-2077.
+[8] KRAUSSGL,LESSER RP.OptimaluseofEEG montages
+toidentifyinferiortemporalepileptiformactivity[J].ClinNeu-
+rophysiol,2018,129(1):280-281.
+[9] BACH JUSTESEN A, ESKELUND JOHANSEN A B,
+MARTINUSSEN NI,etal.Addedclinicalvalueoftheinfe-
+riortemporalEEG electrodechain[J].Clin Neurophysiol,
+2018,129(1):291-295.
+[10]BACHJUSTESEN A,FOGED M T,FABRICIUS M,etal.
+Diagnosticyieldofhigh-densityversuslow-densityEEG:The
+effectofspatialsampling,timinganddurationofrecording[J].
+ClinNeurophysiol,2019,130(11):2060-2064.
+[11]张文娟,陈蓓蓓,沈晨曦,等.国际临床神经电生理联盟脑电图
+电极安放标准指南(2017)解读[J].中华神经科杂志,2018,51
+(10):854-856.
+[12]KOESSLERL,CECCHINT,COLNAT-COULBOISS,etal.
+Erratumto:Catchingtheinvisible:Mesialtemporalsource
+contributiontosimultaneousEEGandSEEGrecordings[J].
+BrainTopogr,2015,28(4):646.
+[13]中国抗癫痫协会脑电图和神经电生理分会.临床脑电图基本
+技术标准[J].癫痫杂志,2022,8(1):3-11.
+[14]BENICZKYS,CONRADSENI,PRESSLERR,etal.Quan-
+titativeanalysisofsurfaceelectromyography:Biomarkersfor
+convulsiveseizures[J].Clin Neurophysiol,2016,127(8):
+2900-2907.
+[15]上海市医学会脑电图与临床神经生理专科分会.临床脑电图
+操作规范的上海专家共识[J].上海医学,2021,44(3):141-
+147.
+[16]KAPPENMAN ES,LUCKSJ.Theeffectsofelectrodeim-
+pedanceondataqualityandstatisticalsignificanceinERPre-
+cordings[J].Psychophysiology,2010,47(5):888-904.
+[17] HALFORDJJ,CLUNIE D A,BRINKMANN B H,etal.
+Standardizationofneurophysiologysignaldataintothe DI-
+COM􀆿standard[J].Clin Neurophysiol,2021,132(4):993-
+997.
+[18]SINHASR,SULLIVANL,SABAU D,etal.Americancli-
+nicalneurophysiologysocietyguideline1:Minimumtechnical
+requirementsfor performing clinicalelectroencephalography
+[J].JClinNeurophysiol,2016,33(4):303-307.
+[19]NOBILIL,WEERDAD,RUBBOLIG,etal.Standardpro-
+ceduresforthediagnosticpathwayofsleep-relatedepilepsies
+andcomorbidsleepdisorders:AnEAN,ESRSandILAE-Eu-
+ropeconsensusreview[J].EurJNeurol,2021,28(1):15-32.
+[20]ASADI-POOYA A A,SPERLING M R.Normalawake,
+drowsy,andsleepEEGpatternsthatmightbeoverinterpreted
+asabnormal[J].JClinNeurophysiol,2019,36(4):250-256.
+[21]BERNARD C,FRAUSCHER B,GELINASJ,etal.Sleep,
+oscillations,andepilepsy[J].Epilepsia,2023,64(Suppl3):
+S3-S12.
+[22]ALIXJJP,KANDLERR H,PANGC,etal.Sleepdepriva-
+tionand melatoninforinducingsleepinpaediatricelectroen-
+cephalography:A prospective multicentreserviceevaluation
+[J].DevMedChildNeurol,2019,61(2):181-185.
+[23]ACHARYAJN,ACHARYA VJ.Hyperventilation-induced
+EEGslowingwithalteredawareness:Non-epileptic,epileptic
+orboth? [J].ClinNeurophysiolPract,2021,6:189-190.
+[24]SAWCHUK T,BUCHHALTERJ,SENFT B.Psychogenic
+non-epilepticseizuresinchildren-psychophysiology&dissocia-
+tivecharacteristics[J].PsychiatryRes,2020,294:113544.
+[25]KASTELEIJN-NOLST TRENITÉ D,RUBBOLI G,HIR-
+SCH E,etal.Methodologyofphoticstimulationrevisited:
+UpdatedEuropeanalgorithmforvisualstimulationintheEEG
+laboratory[J].Epilepsia,2012,53(1):16-24.
+[26]DE MARCHILR,CORSOJT,ZETEHAKUAC,etal.Ef-
+ficacyandsafetyofavideo-EEGprotocolforgeneticgenera-
+lizedepilepsies[J].EpilepsyBehav,2017,70(PtA):187-192.
+[27]GELŽINIENÉ G,ENDZINIENÉ M,JURKEVIĈIENÉ G.
+EEGactivationbyneuropsychologicaltasksinidiopathicge-
+neralizedepilepsyofadolescence[J].BrainDev,2015,37(4):
+409-417.
+[28] WOLF P.Reflexepileptic mechanismsinhumans:Lessons
+aboutnaturalictogenesis[J].EpilepsyBehav,2017,71(PtB):
+118-123.
+[29]BENICZKYS,NEUFELD M,DIEHLB,etal.Testingpa-
+tientsduringseizures:A Europeanconsensusproceduredeve-
+lopedbyajointtaskforceoftheILAE-CommissiononEuro-
+peanAffairsandtheEuropeanEpilepsyMonitoringUnitAsso-
+ciation[J].Epilepsia,2016,57(9):1363-1368.
+[30]TATUM W O,MANIJ,JIN K,etal.Minimumstandards
+forinpatientlong-termvideo-EEG monitoring:Aclinicalprac-
+ticeguidelineoftheinternationalleagueagainstepilepsyand
+internationalfederationofclinicalneurophysiology[J].Clin
+Neurophysiol,2022,134:111-128.
+(本文编辑 范睿心 厉建强)
+医学学术论文文题的拟定
+文题又称题名、篇名,是论文的总标题。文题是论文的总纲,是以最恰当、最简明的词语反映论文中最重要的特定内容的逻辑组合,是医学
+论文精髓的集中体现。文题是论文的第一信息,有提示论文主题、反映学术价值、吸引读者阅读和提供检索信息等作用。文题的拟定原则要体
+现论文研究的性质、对象、方法和价值等重要信息。文题拟定的基本要求是具体确切、表达得当,简短精炼、高度概括,概念术语、书写规范,突
+出创新、力求醒目。文题一般不宜超过20个汉字,必要时可以使用副标题和分标题,数字宜用阿拉伯数字,尽可能不用标点符号和非特定词
+(如“的研究”、“的观察”等)。
+·
+5
+7
+4
+·

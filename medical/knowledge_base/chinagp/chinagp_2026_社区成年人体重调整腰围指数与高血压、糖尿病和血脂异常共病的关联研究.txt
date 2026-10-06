@@ -1,0 +1,988 @@
+标题: 社区成年人体重调整腰围指数与高血压、糖尿病和血脂异常共病的关联研究
+期刊: 中国全科医学 2026 第29卷 第16期
+DOI: 10.12114/j.issn.1007-9572.2025.0420
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2025.0420
+
+
+·2198·
+June 2026, Vol.29 No.16 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+·论著·
+社区成年人体重调整腰围指数与高血压、
+糖尿病和血脂异常共病的关联研究
+徐萍，马艳，黄莉，何梅亮，侯云凤，王德旺，孙盼盼，刘峥，郭艳芳，徐英
+*
+518100 广东省深圳市宝安区慢性病防治院慢性病综合防制科
+* 通信作者：徐英，主任医师；E-mail：xuying_qiang@126.com
+【摘要】　背景　高血压、糖尿病和血脂异常（以下统称为“三高”）在人群中患病率较高，且常以共病形式存在
+于同一个体中，体重调整腰围指数（WWI）是一种新型肥胖评价指标，其与“三高”共病的关联研究缺乏。目的　探
+讨社区成年人WWI 与“三高”共病的关联性，并分析其预测作用。方法　依托慢性病及危险因素监测，于2023 年
+10—12 月采用多阶段随机抽样方法对深圳市宝安区18 岁及以上常住居民开展调查。通过问卷调查、体格检查和实
+验室生化检测收集数据，并计算WWI，记录“三高”共病情况。应用Logistic 回归分析探讨社区人群WWI 与“三
+高”共病的关联，采用限制性立方样条（RCS）探讨WWI 与“三高”共病间的剂量反应关系。按性别、年龄和BMI
+进行分层分析，并探索交互作用。通过受试者工作特征（ROC）曲线评估WWI、BMI 和腰围（WC）对“三高”共
+病的预测能力，并采用Delong 检验比较ROC 曲线下面积（AUC）的差异。结果　本次监测共调查1 882 人，排除身
+高、体重、WC 等关键指标缺失者后，最终纳入1 846 名调查对象，社区成年人“三高”共病患病率为17.06%（315
+/1 846）。Logistic 回归分析结果显示，调整协变量后，WWI 每增加1 个单位，“三高”共病风险增加174%（OR=2.74，
+95%CI=2.08~3.59，P<0.05）；与WWI Q1 组（WWI<9.69 cm/ kg）相比，WWI Q2 组（9.69 cm/ kg≤WWI<10.19 cm/ kg）、
+Q3 组（10.19 cm/ kg≤WWI<10.66 cm/ kg）、Q4 组（WWI ≥10.66 cm/ kg）患“三高”共病风险依次升高，OR 值分
+别为2.62（95%CI=1.26~5.42，P<0.05）、4.68（95%CI=2.31~9.48，P<0.05）、8.09（95%CI=3.95~16.56，P<0.05）。
+RCS 分析表明，WWI 与“三高”共病风险呈线性剂量反应关系（Poverall<0.001，Pnonlinear=0.079）。亚组分析显示，除
+BMI<24.00 kg/m
+2 分层外，男性、女性、<45 岁、≥45 岁、BMI ≥24.00 kg/m
+2 分层的WWI Q4 组人群患“三高”共病
+风险均升高（P<0.05）；交互作用显示，WWI 与年龄存在交互作用，<45 岁人群WWI 与“三高”共病的关联性高于
+≥45 岁人群（P=0.003）。ROC 曲线结果显示，男性人群中，WWI、BMI、WC 预测“三高”共病风险的AUC（95%CI）
+分别为0.742（95%CI=0.705~0.778）、0.705（95%CI=0.667~0.742）、0.738（95%CI=0.702~0.774）；女性人群中，
+WWI、BMI、WC 预测“三高”共病风险的AUC（95%CI）分别为0.806（95%CI=0.768~0.844）、0.717（95%CI=0.669~0.765）、
+0.804（95%CI=0.766~0.842）；在女性人群中，WWI 的预测能力优于BMI（Z=-3.134，P=0.002）。结论　WWI 与社
+区成年人“三高”共病呈显著正相关，且呈线性剂量反应关系，对“三高”共病具有较好预测能力。作为一种新型肥
+胖评估指标，WWI 为“三高”共病的早期预防和干预提供了新思路。
+【关键词】　高血压；糖尿病；血脂异常；体重调整腰围指数；共病现象
+【中图分类号】　R 544.1　R 587.1　R 589　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2025.0420
+Association between Weight-adjusted Waist Index and Comorbidity of Hypertension, Diabetes 
+and Dyslipidemia in Community-dwelling Adults
+XU Ping, MA Yan, HUANG Li, HE Meiliang, HOU Yunfeng, WANG Dewang, SUN Panpan, LIU Zheng, GUO Yanfang, XU Ying
+*
+Department of Chronic Non-communicable Disease Comprehensive Control, Chronic Diseases Prevention and Treatment Institute in 
+Bao'an District, Shenzhen 518100, China
+基金项目：深圳市科技计划项目（JCYJ20250604185826035）；2024 年宝安区医疗卫生科研项目（2024JD222）；2022 年宝安区医疗卫
+生科研项目（2022JD124）；宝安区医学重点学科（慢性非传染性疾病防控）
+引用本文：徐萍, 马艳, 黄莉, 等. 社区成年人体重调整腰围指数与高血压、糖尿病和血脂异常共病的关联研究[J]. 中国全科医学, 2026, 
+29(16): 2198-2204. DOI: 10.12114/j.issn.1007-9572.2025.0420. [www.chinagp.net] 
+XU P, MA Y, HUANG L, et al. Association between weight-adjusted waist index and comorbidity of hypertension, diabetes, and dyslipidemia in 
+community-dwelling adults [J]. Chinese General Practice, 2026, 29(16): 2198-2204. 
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看附件
+
+·2199·
+2026年6月  第29卷  第16期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+高血压、糖尿病和血脂异常（以下统称为“三高”），
+三者在发病机制及危险因素等方面存在多种共同特点，
+是心血管疾病的重要危险因素
+［1］。依据2019 年全球疾
+病负担研究显示，“三高”相关疾病导致了全球约有
+680 万人死亡
+［2］。“三高”共病指同一个体同时罹患
+其中2 种或3 种疾病
+［3］。该共病模式在人群中的患病
+率较高，且三病之间及其各自与其他慢性病之间，均存
+在复杂的相互关联
+［4-5］。肥胖与高血压、2 型糖尿病和
+血脂异常等密切相关，这些因素协同作用可显著增加心
+血管疾病的总体风险
+［6］。因此，早期识别具有高危肥
+胖特征的个体对于预防“三高”共病的发生至关重要。
+目前，BMI 和腰围（waist circumference, WC）是评估肥
+胖程度的常用指标
+［7］，但BMI 无法准确反映体内脂肪
+的分布特征
+［8］，而WC 则难以区分皮下脂肪与内脏脂
+肪
+［9］。为克服这些局限性，PARK 等
+［10］于2018 年提
+出了体重调整腰围指数（weight-adjusted waist index，
+WWI），该指标通过计算WC 与体重平方根的比值，旨
+在更精准地量化中心性肥胖，有效规避“肥胖悖论”问
+题。尽管已有研究探讨了WWI 与单一代谢疾病（如高
+血压或糖尿病）的关联
+［11-12］，但其与“三高”共病关
+联性的研究缺乏，其在预测“三高”共病风险中的价值
+亦有待深入探索。因此，本研究基于社区成年人群的样
+本数据，探讨WWI 与“三高”共病之间的关联性，并
+评估其在预测“三高”共病发生风险中的作用，以期能
+为“三高”共病的早期预防和综合管理策略提供新的科
+学视角。
+*Corresponding author: XU Ying, Chief physician; E-mail: xuying_qiang@126.com
+【Abstract】　Background　Hypertension, diabetes and dyslipidemia exhibit high prevalence rates in the population 
+and frequently coexist as comorbidity within individuals. The weight-adjusted waist index (WWI) represents a novel obesity 
+assessment metric; however, its association with the comorbidity of the three diseases remains inadequately studied. Objective　To 
+investigate the association and predictive role of WWI for the comorbidity of hypertension, diabetes and dyslipidemia among 
+community-dwelling adults. Methods　Based on the Chronic Disease and Risk Factor Surveillance, a cross-sectional survey 
+was conducted using multi-stage random sampling method among permanent residents aged ≥18 years in Bao'an District from 
+October to December 2023. Data were collected through questionnaires, physical examinations, and laboratory biochemical 
+tests, based on which the WWI was calculated, and the comorbidity of hypertension, diabetes and dyslipidemia was documented. 
+Logistic regression was employed to analyze the association between WWI and the comorbidity of the three diseases. Restricted 
+cubic spline (RCS) analysis was applied to explore the dose-response relationship between WWI and the comorbidity. Stratified 
+analyses were conducted by sex, age and BMI, and interactions were explored. Receiver operating characteristic (ROC) curves 
+were used to evaluate and compare the predictive performance of WWI, BMI and waist circumference (WC) for these diseases 
+comorbidities, utilizing DeLong's test comparing differences in area under the curve (AUC). Results　A total of 1 882 individuals 
+were surveyed, after excluding participants with missing key indicators such as height, body mass and WC, a final total of 1 846 
+participants were included in the analysis. The comorbidity rates of hypertension, diabetes and dyslipidemia was 17.06% (315
+/1 846). The Logistic regression analysis results indicated that, after full adjusting for covariates, each 1-unit increase in WWI was 
+associated with a 174% increased risk of the comorbidity (OR=2.74, 95%CI=2.08-3.59, P<0.05). Compared with the Q1 group 
+(WWI<9.69 cm/ kg ), the risk of comorbidity increased progressively in the Q2 (9.69 cm/ kg ≤WWI<10.19 cm/ kg ), Q3 (10.19 
+cm/ kg ≤WWI<10.66 cm/ kg ), and Q4 (WWI ≥10.66 cm/ kg ) groups, with OR values of 2.62 (95%CI=1.26-5.42, P<0.05), 
+4.68 (95%CI=2.31-9.48, P<0.05), and 8.09 (95%CI=3.95-16.56, P<0.05), respectively. RCS analysis revealed a significant linear 
+dose-response relationship between WWI and the risk of comorbidity (Poverall<0.001, Pnonlinear=0.079). Subgroup analysis revealed 
+that, with the exception of the BMI<24.00 kg/m
+2 stratum, individuals in the highest WWI quartile (Q4) exhibited a significantly 
+increased risk of the comorbidity across the following strata: male, female, age<45 years, age ≥45 years and BMI ≥24.00 kg/m
+2 
+(all P<0.05). Interaction analysis showed a significant interaction between WWI and age, with a stronger association between WWI 
+and the comorbidity in the <45 years group compared to the ≥45 years group (P=0.003). The ROC analysis yielded that among 
+males, the AUC (95%CI) for WWI, BMI and WC in predicting the risk of the comorbidity were 0.742 (95%CI=0.705-0.778), 0.705 
+(95%CI=0.667-0.742), and 0.738 (95%CI=0.702-0.774), respectively. Among females, the corresponding AUC (95%CI) for WWI, 
+BMI and WC were 0.806 (95%CI=0.768-0.844), 0.717 (95%CI=0.669-0.765), and 0.804 (95%CI= 0.766-0.842). In the female 
+population, WWI demonstrated significantly higher predictive accuracy than BMI (Z=-3.134, P=0.002). Conclusion　WWI 
+exhibits a significant positive and linear dose-response association with comorbidity of the three diseases, demonstrating favorable 
+predictive efficacy. As a novel obesity metric, WWI offers valuable insights for the early prevention and intervention targeting this 
+comorbidity.
+【Key words】　Hypertension; Diabetes; Dyslipidemia; Weight-adjusted waist index; Comorbidity
+
+·2200·
+June 2026, Vol.29 No.16 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+1　对象与方法
+1.1　研究对象
+于2023 年10—12 月在深圳市宝安区开展慢性病及
+危险因素监测，采用多阶段随机抽样方法。首先，基于
+人口规模排序的系统抽样法，随机抽取宝安区10 个社
+区；其次，在抽中的社区采用简单随机抽样法抽取200
+个居民户；最后，使用Kish 表法从每户随机选取1 名
+≥18 岁的常住居民（调查前12 个月在本地居住≥6 个
+月），排除孕妇、存在认知障碍或患严重疾病/ 残障等
+可能影响调查结果的居民。根据2018 年中国慢性病及
+危险因素调查结果，以≥45 岁糖尿病和血脂异常的共
+病率11.6% 为样本量测算依据
+［3］，相对误差r=20%，
+d=20%×11.6%，置信水平取95%（双侧），μ=1.96，
+调查效率deff 设定为2.0，采用现况调查率的样本量计
+算公式进行测算，并考虑20% 的无应答率，计算得到
+样本量约为1 757。本次监测共调查1 882 人，排除身高、
+体重、WC 等关键指标缺失者，最终纳入1 846 人。本
+研究经深圳市宝安区慢性病防治院伦理委员会批准（审
+批号：2022-16），调查对象均签署知情同意书。
+1.2　研究方法
+本研究通过问卷调查、体格检查和实验室生化检测
+收集数据。问卷调查由经统一培训的调查员面对面实
+施，内容包括个人基本信息（性别、年龄、民族、文化
+程度、婚姻状况、是否参加医疗保险、年收入）、生活
+方式（吸烟、饮酒、中高强度活动）、疾病史（调查对
+象自报经专业医疗机构确诊的“三高”病史）。采用标
+准体格检查方法测量身高、体重和WC，体重和WC 的
+测量在空腹状态下进行，并计算BMI、WWI。BMI= 体
+重（kg）/ 身高
+2（m
+2），WWI=WC（cm）/
+体重（kg）。
+使用校准合格的欧姆龙HBP 1300/1320 型电子血压计测
+量血压，测量前调查对象至少休息5 min，测量3 次（每
+次间隔1 min），取平均值记录。采集研究对象非抗凝
+空腹静脉血5 mL，采血后静置30 min 以上（禁止摇晃），
+在离心机以3 000 r/min 离心10 min。使用经质控校准的
+全自动生化分析仪检测空腹血糖（FPG）、总胆固醇（TC）、
+三酰甘油（TG）、高密度脂蛋白胆固醇（HDL-C）、
+低密度脂蛋白胆固醇（LDL-C）、尿酸（UA）、肌酐（Cr）；
+采用EDTA 抗凝管采集静脉血2 mL，检测糖化血红蛋
+白（HbA1c）。
+1.3　分组方法
+根据WWI 四分位数，将研究对象分为Q1 组
+（WWI<9.69 cm/ kg，n=466）、Q2 组（9.69 cm/ kg
+≤WWI<10.19 cm/ kg，n=460）、Q3 组（10.19 cm/ kg
+≤WWI<10.66 cm/ kg，n=462）、Q4 组（WWI ≥10.66 
+cm/ kg，n=458）。
+1.4　诊断标准及相关定义
+（1）高血压：收缩压≥140 mmHg（1 mmHg=
+0.133 kPa）和/ 或舒张压≥90 mm Hg，或调查对象自述
+经专业医疗机构确诊高血压，或调查对象近2 周正在服
+用降压药物
+［13］。（2）糖尿病：FPG ≥7.0 mmol/L，或
+HbA1c ≥6.5% 或调查对象自述经专业医疗机构确诊糖尿
+病
+［14］。（3）血脂异常：TC ≥6.2 mmol/L 或LDL-C ≥
+4.1 mmol/L 或HDL-C<1.0 mmol/L 或TG ≥2.3 mmol/L；
+或调查对象自述经专业医疗机构确诊血脂异常
+［15］。
+（4）吸烟状况：吸烟为每天吸1 支以上并连续或累计
+6 个月以上；调查时不吸烟但以前吸烟定义为过去吸烟；
+调查时不吸烟、过去也不吸烟定义为从不吸烟。
+（5）饮酒：
+过去12 个月有饮酒行为。（6）中高强度活动：以主观
+感受为主，能够引起呼吸和心跳加快的活动，且活动时
+间持续10 min 以上。
+1.5　质量控制
+所有参与调查工作的人员须接受统一培训并通过考
+核。现场问卷调查完成后，由市、区两级质量控制人员
+对所有问卷进行逐一核查，确保数据的完整性和准确性。
+实验室及时关注检测项目在国家临床检验中心室间质量
+评价活动中的成绩，保证在成绩合格下开展本项目的样
+品检测；每天开展室内质控活动，实时监测检测项目的
+室内质控情况，保证在室内质控在控状态下开展本项目
+的样品检测。
+1.6　统计学分析
+采用SPSS 27.0 和Zstats（https://www.medsta.cn/software）
+进行统计分析。连续变量以（x-±s）表示，组间比较采
+用方差分析；计数资料以相对数表示，组间比较采用
+χ
+2 检验。采用二元Logistic 回归分析探究WWI 与“三
+高”共病的关联，并通过限制性立方样条（restricted 
+cubic spline, RCS）分析其剂量反应关系。按性别、年
+龄和BMI 进行分层分析并探讨交互作用。双侧检验水
+准为α=0.05。利用受试者工作特征（receiver operating 
+characteristic curve, ROC）曲线评估WWI、BMI 和WC
+对“三高”共病的预测能力，并用Delong 检验比较曲
+线下面积（area under the curve, AUC）差异（本研究中
+进行了3 次比较，调整检验水准为0.017）。
+2　结果
+2.1　WWI 四分位数组研究对象基本特征比较
+1 846 名研究对象中男923 名（50.00%），女923
+名（50.00%）；年龄19~84 岁，平均年龄（41.8±11.9）
+岁；以汉族为主（1 749 名，94.75%）；“三高”共病
+患病率为17.06%（315/1 846）；BMI（24.31±3.64）
+kg/m
+2；WC（81.54±11.06）cm；Cr（71.28±34.52）
+μmol/L；UA（384.31±104.97）μmol/L。
+
+·2201·
+2026年6月  第29卷  第16期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+Q1 组、Q2 组、Q3 组、Q4 组参加医疗保险、饮酒、
+中高强度活动比较，差异无统计学意义（P>0.05）；Q1
+组、Q2 组、Q3 组、Q4 组年龄、性别、民族、婚姻状况、
+文化程度、年收入、吸烟、BMI、WC、Cr、UA、高血压、
+糖尿病、血脂异常、“三高”共病患病率比较，差异均
+有统计学意义（P<0.05），见表1。
+2.2　WWI 与社区成年人“三高”共病的关系
+以是否发生“三高”共病为因变量（赋值：是
+=1，否=0），分别以WWI 连续变量和WWI 四分位数
+分组为自变量，模型1 未调整任何变量，模型2 调整性
+别（赋值：男=1，女=2）、年龄（赋值：<45 岁=1，
+≥45 岁=2），模型3 在模型2 的基础上调整民族（赋
+值：汉族=1，其他=2）、文化程度（赋值：小学及以
+下=1，初中=2，高中/ 中专/ 技校=3，大专=4，本科
+及以上=5）、婚姻状况（赋值：已婚/ 同居=1，未婚
+=2，丧偶/ 离异/ 分居=3）、参加医疗保险（赋值：是
+=1，否=0）、年收入（赋值：<12.0 万元=1，12.0 万
+~24.9 万元=2，≥25.0 万元=3）、吸烟（赋值：从不
+吸烟=0，是=1，过去吸烟=2）、饮酒（赋值：是=1，
+否=0）、中高强度活动（赋值：有=1，无=0）、Cr（赋
+值：连续变量）、UA（赋值：连续变量），结果均显示，
+WWI 每增加1 个单位，社区成年人“三高”共病风险
+增加（P<0.05）；与WWI Q1 组相比，WWI Q2 组、Q3 组、
+Q4 组发生“三高”共病风险均增加（P<0.05），见表2。
+表1　WWI 四分位数组研究对象基本特征比较
+Table 1　Comparison of baseline characteristics of study participants stratified by WWI
+组别
+例数
+年龄
+（x-±s，岁）
+年龄［例（%）］
+性别［例（%）］
+民族［例（%）］
+婚姻状况［例（%）］
+<45 岁
+≥45 岁
+男
+女
+汉族
+其他
+未婚
+已婚/ 同居
+丧偶/ 离异/
+分居
+Q1 组
+466
+33.4±8.0
+427（91.63）
+39（8.37）
+142（30.47）
+324（69.53）
+430（92.27）
+36（7.73）
+188（40.34）
+259（55.58）
+19（4.08）
+Q2 组
+460
+39.1±9.6
+346（75.22）
+114（24.78）
+224（48.70）
+236（51.30）
+437（95.00）
+23（5.00）
+97（21.09）
+345（75.00）
+18（3.91）
+Q3 组
+462
+43.4±10.7
+270（58.44）
+192（41.56）
+309（66.88）
+153（33.12）
+443（95.89）
+19（4.11）
+68（14.72）
+370（80.09）
+24（5.19）
+Q4 组
+458
+51.3±11.2
+140（30.57）
+318（69.43）
+248（54.15）
+210（45.85）
+439（94.75）
+19（5.25）
+19（4.15）
+411（89.74）
+28（6.11）
+χ
+2（F）值
+550.78
+a
+408.34
+127.22
+8.11
+200.77
+P 值
+<0.001
+<0.001
+<0.001
+0.044
+<0.001
+组别
+文化程度［例（%）］
+参加医疗保险［例（%）］
+年收入［例（%）］
+小学及以下
+初中
+高中/ 中专/ 技校
+大专
+本科及以上
+是
+否
+<12.0 万元
+12.0 万~24.9 万元
+≥25.0 万元
+Q1 组
+9（1.93）
+64（13.73）
+101（21.67）
+166（35.62）126（27.04）
+451（96.78）15（3.22）
+189（40.56）
+183（39.27）
+94（20.17）
+Q2 组
+21（4.57）
+100（21.74）
+108（23.48）
+129（28.04）102（22.17）
+439（95.43）21（4.57）
+160（34.78）
+180（39.13）
+120（26.09）
+Q3 组
+45（9.74）
+117（25.32）
+122（26.41）
+97（21.00）
+81（17.53）
+446（96.54）16（3.46）
+201（43.51）
+155（33.55）
+106（22.94）
+Q4 组
+96（20.96）
+152（33.19）
+103（22.49）
+65（14.19）
+42（9.17）
+436（95.20）22（4.80）
+206（44.98）
+149（32.53）
+103（22.49）
+χ
+2（F）值
+236.42
+2.24
+15.34
+P 值
+<0.001
+0.525
+0.018
+组别
+吸烟［例（%）］
+饮酒［例（%）］
+中高强度活动［例（%）］
+BMI
+（x-±s，kg/m
+2）
+WC
+（x-±s，cm）
+是
+过去吸烟
+从不吸烟
+是
+否
+有
+无
+Q1 组
+57（12.23）
+11（2.36）
+398（85.41）
+246（52.79）
+220（47.21）
+396（84.98）
+70（15.02）
+21.77±2.91
+70.48±6.79
+Q2 组
+89（19.35）
+19（4.13）
+352（76.52）
+268（58.26）
+192（41.74）
+381（82.83）
+79（17.17）
+23.78±3.27
+78.78±7.68
+Q3 组
+125（27.06）
+32（6.93）
+305（66.02）
+262（56.71）
+200（43.29）
+390（84.42）
+72（15.58）
+25.28±3.19
+85.90±8.23
+Q4 组
+129（28.17）
+28（6.11）
+301（65.72）
+230（50.22）
+228（49.78）
+387（84.50）
+71（15.50）
+26.46±3.37
+91.14±8.66
+χ
+2（F）值
+64.26
+7.47
+0.91
+488.14
+a
+950.75
+a
+P 值
+<0.001
+0.058
+0.823
+<0.001
+<0.001
+组别
+Cr
+（x-±s，μmol/L）
+UA
+（x-±s，μmol/L）
+高血压［例（%）］
+糖尿病［例（%）］
+血脂异常［例（%）］
+“三高”共病［例（%）］
+是
+否
+是
+否
+是
+否
+是
+否
+Q1 组
+66.67±14.22
+342.02±86.95
+23（4.94）
+443（95.06）
+4（0.86）
+462（99.14）
+71（15.24）
+395（84.76）
+10（2.15）
+456（97.85）
+Q2 组
+70.00±16.14
+378.43±106.27
+88（19.13）
+372（80.87）
+16（3.48）
+444（96.52）
+134（29.13）
+326（70.87）
+40（8.70）
+420（91.30）
+Q3 组
+77.34±63.21
+415.76±109.19
+138（29.87）
+324（70.13）
+38（8.23）
+424（91.77）
+220（47.62）
+242（52.38）
+96（20.78）
+366（79.22）
+Q4 组
+71.16±15.92
+401.53±101.31
+235（51.31）
+223（48.69）
+95（20.74）
+363（79.26）
+236（51.53）
+222（48.47）
+169（36.90）
+289（63.10）
+χ
+2（F）值
+65.83
+a
+141.78
+a
+273.31
+141.30
+172.00
+227.88
+P 值
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+注：WWI= 体重调整腰围指数，WC= 腰围，Cr= 肌酐，UA= 尿酸，“三高”表示高血压、糖尿病和血脂异常；
+a 为F 值。
+
+·2202·
+June 2026, Vol.29 No.16 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2.3　WWI 与社区成年人“三高”共病的剂量反应关系
+采用RCS 探讨WWI 与社区成年人“三高”共病的
+剂量反应关系，选取4 个节点，调整所有协变量后，
+WWI 与社区成年人“三高”共病存在线性剂量反应关
+系（Poverall<0.001，Pnonlinear=0.079），见图1。
+2.4　WWI 与社区成年人“三高”共病的亚组分析
+调整所有协变量（除亚组分析变量外），根据性别、
+年龄和BMI 进行亚组分析，结果显示，除BMI<24.00 
+kg/m
+2 分层外，其他亚组的Q4 组WWI 与“三高”共病
+风险均增高（P<0.05）。交互作用分析表明，WWI 与“三
+高” 共病关联未受性别、BMI 影响（P 交互>0.05）；
+WWI 与年龄存在交互作用（P 交互=0.003），<45 岁人群
+WWI 与“三高”共病的关联性高于≥45 岁者，见表3。
+2.5　WWI 对社区成年人“三高”共病的预测作用
+WWI 预测男性和女性“三高”共病的AUC 分别为
+0.742（95%CI=0.705~0.778）、0.806（95%CI=0.768~
+0.844）；最佳截断值分别为10.549 cm/ kg 和10.342 
+cm/ kg；男性特异度和灵敏度分别为0.733 和0.633，女
+性特异度和灵敏度分别为0.724 和0.790。男性中，BMI
+与WWI、WC 与WWI 的AUC 比较，差异无统计学意义
+（P>0.05）。女性中，WWI 的AUC 高于BMI 的AUC，
+差异有统计学意义（P=0.002）；WWI 与WC 的AUC 比较，
+差异无统计学意义（P=0.906），见表4 和图2。
+3　讨论
+本研究结果显示，社区成年人“三高”共病患病
+表2　WWI 与社区成年人“三高”共病关联的Logistic 回归分析
+Table 2　Logistic regression analysis of the association between WWI and comorbidity of hypertension, diabetes and dyslipidemia in community-dwelling 
+adults
+变量
+模型1
+模型2
+模型3
+OR（95%CI）
+P 值
+OR（95%CI）
+P 值
+OR（95%CI）
+P 值
+WWI（以实测值纳入）
+4.69（3.78~5.83）
+<0.001
+3.15（2.43~4.08）
+<0.001
+2.74（2.08~3.59）
+<0.001
+WWI 四分位组
+Q1 组
+1.00
+1.00
+1.00
+Q2 组
+4.34（2.14~8.79）
+<0.001
+2.81（1.37~5.75）
+0.005
+2.62（1.26~5.42）
+0.010
+Q3 组
+11.96（6.15~23.27）
+<0.001
+5.52（2.77~11.00）
+<0.001
+4.68（2.31~9.48）
+<0.001
+Q4 组
+26.67（13.86~51.32）
+<0.001
+10.11（5.05~20.23）
+<0.001
+8.09（3.95~16.56）
+<0.001
+注：模型1 未调整变量；模型2 调整性别、年龄；模型3 调整性别、年龄、民族、文化程度、婚姻状况、是否参加医保、年收入、吸烟、饮酒、
+中高强度活动、Cr、UA。
+表3　社区成年人WWI 与“三高”共病关联的亚组分析
+Table 3　Subgroup analysis of the association between WWI and comorbidity of hypertension, diabetes and dyslipidemia in community-dwelling adults
+变量
+Q1 组
+Q2 组
+Q3 组
+Q4 组
+P 交互值
+OR（95%CI）
+P 值
+OR（95%CI）
+P 值
+OR（95%CI）
+P 值
+性别
+0.359
+男
+1.00
+2.07（0.86~4.98）
+0.106
+3.81（1.65~8.81）
+0.002
+8.24（3.50~19.48）
+<0.001
+女
+1.00
+4.10（1.05~15.97）
+0.042
+7.93（1.98~31.72）
+0.003
+8.57（2.08~35.27）
+0.003
+年龄
+0.003
+<45 岁
+1.00
+4.14（1.49~11.57）
+0.007
+7.68（2.84~20.76）
+<0.001
+26.26（9.39~73.46）
+<0.001
+≥45 岁
+1.00
+1.10（0.37~3.27）
+0.864
+2.07（0.74~5.77）
+0.164
+3.16（1.16~8.62）
+0.024
+BMI
+0.506
+<24.00 kg/m
+2
+1.00
+1.77（0.59~5.33）
+0.311
+3.32（1.09~10.17）
+0.035
+2.67（0.79~8.99）
+0.112
+≥24.00 kg/m
+2
+1.00
+2.08（0.75~5.78）
+0.159
+2.71（1.01~7.25）
+0.048
+5.10（1.89~13.77）
+0.001
+8
+6
+4
+2
+08.5
+9.5
+10.5
+11.5
+9.0
+10.0
+11.0
+12.0
+OR（95%CI）
+WWI（cm/ kg）
+注：WWI= 体重调整腰围指数，“三高”表示高血压、糖尿病和
+血脂异常。
+图1　社区成年人WWI 与“三高”共病的剂量反应关系
+Figure 1　Dose-response relationship between WWI and comorbidity of 
+hypertension, diabetes and dyslipidemia in community-dwelling adults
+
+·2203·
+2026年6月  第29卷  第16期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+率为17.06%（低于2018 年我国≥45 岁人群的患病
+率
+［3］），WWI 与“三高”共病呈显著正相关。目前，
+针对WWI 与“三高”共病关联的研究较为缺乏，既往
+关于WWI 与单一代谢性疾病（如高血压、糖尿病）的
+研究表明其存在正向关联。SUN 等
+［16］发现WWI 与美
+国成年人高血压患病风险增加显著相关；HUANG 等
+［11］
+在中国中老年人群中也观察到WWI 与高血压发病呈
+线性关联。此外，对中国、美国、日本等成年人研究
+均表明，WWI 升高与2 型糖尿病患病风险呈显著正相
+关
+［12, 17-18］。PARK 等
+［10］研究进一步发现，WWI 与心
+血管代谢性疾病及死亡风险的增加独立相关，且呈线性
+正相关。原因可能与WWI 通过整合内脏脂肪堆积、全
+身炎症和胰岛素抵抗等多重机制增加高血压、糖尿病和
+血脂异常的患病风险
+［16, 19-20］。
+亚组分析结果显示，WWI 与“三高”共病的正相
+关在所有亚组中基本保持一致且具有统计学意义。值得
+注意的是，WWI 与年龄存在交互作用，在45 岁以下人
+群中，WWI 与“三高”共病之间关联更为显著，这一
+发现与LI 等
+［12］、SUN 等
+［18］研究结果类似，提示在年
+轻个体中，高水平的WWI 可能增加其罹患“三高”共
+病及未来心血管疾病的风险。因此，监测WWI 可能有
+助于早期识别“三高”共病高风险个体并实施针对性预
+防措施，从而降低共病发生风险。此外，亚组分析中未
+观察到BMI 和WWI 之间存在交互作用，表明WWI 与“三
+高”共病的关联独立于BMI，不受其影响。
+ROC 曲线分析发现，WWI 在不同性别人群中对“三
+高”共病均具有较好预测能力，且特异度和灵敏度表现
+良好。值得注意的是，在女性人群中，WWI 对“三高”
+共病的预测能力优于BMI，与既往研究结果类似：中国
+农村队列研究观察到WWI 在识别高血压方面优于BMI
+和WC
+［21］；一项纳入20 477 名美国20 岁及以上成年
+人横断面研究也发现，相较于BMI、WC 等传统肥胖指
+标，WWI 是2 型糖尿病患病的最佳预测指标
+［12］。然而，
+SUN 等
+［18］对日本人群的回顾性队列研究二次分析显示，
+WWI 的预测能力并未优于BMI 和WC。虽然不同研究
+结果存在一定差异，但总体而言，WWI 在评估个体代
+谢风险和慢性疾病风险方面展现出潜在的预测价值。
+本研究以新型肥胖评估指标WWI 为切入点，系统
+分析其与“三高”共病的关联强度及人群差异；亚组分
+析显示，其与年龄呈明显交互模式；进一步借助ROC
+曲线量化WWI 对“三高”共病的判别效能，为其在代
+谢综合征风险识别中的应用提供循证依据。然而，本研
+1.0
+1.0
+0.8
+0.8
+0.6
+0.6
+0.4
+0.4
+0.2
+0.2
+0
+0
+0.2
+0.2
+B
+A
+0.4
+0.4
+0.6
+0.6
+0.8
+0.8
+1.0
+1.0
+灵敏度
+灵敏度
+１- 特异度
+１- 特异度
+BMI
+WC
+WWI
+参考线
+BMI
+WC
+WWI
+参考线
+注：WC= 腰围，ROC 曲线= 受试者工作特征曲线；A 为男性，B 为女性。
+图2　不同性别人群中用于预测“三高”共病的WWI、BMI 和WC 的ROC 曲线
+Figure 2　Comparative ROC curves of WWI, BMI and WC for predicting comorbidity of hypertension, diabetes and dyslipidemia by sex in community-dwelling 
+adults
+表4　WWI、BMI 和WC 对社区成年人“三高”共病的预测作用
+Table 4　The predictive role of WWI, BMI and WC for comorbidity of 
+hypertension, diabetes and dyslipidemia in community-dwelling adults
+肥胖指标
+AUC（95%CI）
+最佳截断值
+（cm/
+kg ）
+特异度
+灵敏度
+Z 值
+P 值
+男
+WWI
+0.742（0.705~0.778）
+10.549
+0.733
+0.633
+BMI
+0.705（0.667~0.742）
+24.362
+0.476
+0.823
+-1.812
+0.070
+WC
+0.738（0.702~0.774）
+88.200
+0.640
+0.735
+-0.226
+0.821
+女
+WWI
+0.806（0.768~0.844）
+10.342
+0.724
+0.790
+BMI
+0.717（0.669~0.765）
+23.987
+0.657
+0.670
+-3.134
+0.002
+WC
+0.804（0.766~0.842）
+75.475
+0.578
+0.900
+-0.118
+0.906
+注：P 值表示BMI、WC 分别与WWI 比较AUC 值的差异；AUC=
+受试者工作特征曲线下面积。
+
+·2204·
+June 2026, Vol.29 No.16 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+究也存在一定局限性：首先，作为一项横断面研究，无
+法确定WWI 与“三高”共病之间的因果关系；其次，
+部分数据基于自我报告，可能存在回忆偏倚；再次，尽
+管研究中已调整了多个相关协变量，但仍可能存在未被
+识别的混杂因素影响两者之间的关联；最后，研究对象
+仅为宝安区社区成年人群，研究结果外推性可能受限。
+4　小结
+本研究发现社区成年人“三高”共病患病率较高，
+且WWI 与“三高”共病风险呈显著正线性关联，该关
+联在所有亚组中表现稳定，且在45 岁以下年轻人群中
+尤为突出。WWI 作为一种新型肥胖评估指标，其预测
+价值及其在年轻人群中的早期预警意义应受到重视。后
+续研究有必要进一步深入探索WWI 的应用价值，为“三
+高”共病的早期预防和干预策略提供新思路。
+致谢：感谢深圳市慢性病防治中心提供的调查问卷
+及在项目实施过程中的专业指导与关键支持；感谢各社
+区工作人员与志愿者、社康工作人员在研究对象招募、
+组织与现场协调、数据收集中的辛勤付出。
+作者贡献：徐萍负责数据收集、采集、清洗、统计
+学分析、绘制图表和论文起草；马艳、黄莉、何梅亮负
+责动员、组织、协调研究对象和调查实施；侯云凤、王
+德旺、孙盼盼、刘峥负责数据收集、采集、样品转运；
+郭艳芳负责项目点现场协调；徐英负责文章的质量控制
+与审查，对文章整体负责，监督管理。
+本文无利益冲突。
+参考文献
+［1］LU S, BAO M Y, MIAO S M, et al. Prevalence of hypertension, 
+diabetes, and dyslipidemia, and their additive effects on myocardial 
+infarction and stroke: a cross-sectional study in Nanjing, China[J]. 
+Ann Transl Med, 2019, 7(18): 436. DOI: 10.21037/atm.2019.09.04. 
+［2］CHEW N W S, NG C H, TAN D J H, et al. The global burden of 
+metabolic disease: Data from 2000 to 2019[J]. Cell Metab, 2023, 35(3): 
+414-428.e3. DOI: 10.1016/j.cmet.2023.02.003. 
+［3］于宁, 张梅, 张笑, 等. 中国中老年居民高血压、糖尿病和血
+脂异常共病现状及影响因素研究[J]. 中华流行病学杂志, 2023, 
+44(2): 196-204. DOI: 10.3760/cma.j.cn112338-20220523-00451.
+［4］SHIN A M, LEE I H, LEE G H, et al. Diagnostic analysis of patients 
+with essential hypertension using association rule mining[J]. Healthc 
+Inform Res, 2010, 16(2): 77-81. DOI: 10.4258/hir.2010.16.2.77. 
+［5］HERNÁNDEZ B, REILLY R B, KENNY R A. Investigation of 
+multimorbidity and prevalent disease combinations in older Irish 
+adults using network analysis and association rules[J]. Sci Rep, 2019, 9: 
+14567. DOI: 10.1038/s41598-019-51135-7. 
+［6］KOTSIS V, JORDAN J, MICIC D, et al. Obesity and cardiovascular 
+risk: a call for action from the European Society of Hypertension 
+Working Group of Obesity, Diabetes and the High-risk Patient and 
+European Association for the Study of Obesity: part A: mechanisms of 
+obesity induced hypertension, diabetes and dyslipidemia and practice 
+guidelines for treatment[J]. J Hypertens, 2018, 36(7): 1427-1440.
+［7］孙冬梅, 郑庆虎, 王雍蓉, 等. 浦兴社区老年人体质指数、腰围、
+颈围与高尿酸血症的关系研究[J]. 中国全科医学, 2019, 22(18): 
+2182-2188. DOI: 10.12114/j.issn.1007-9572.2018.00.415.
+［8］ELAGIZI A, KACHUR S, LAVIE C J, et al. An overview and update 
+on obesity and the obesity paradox in cardiovascular diseases[J]. Prog 
+Cardiovasc Dis, 2018, 61(2): 142-150.
+［9］GULATI S, MISRA A. Abdominal obesity and type 2 diabetes in Asian 
+Indians: dietary strategies including edible oils, cooking practices and 
+sugar intake[J]. Eur J Clin Nutr, 2017, 71(7): 850-857. 
+［10］PARK Y, KIM N H, KWON T Y, et al. A novel adiposity index as 
+an integrated predictor of cardiometabolic disease morbidity and 
+mortality[J]. Sci Rep, 2018, 8(1): 16753.
+［11］HUANG X J, HUANG Y Q, ZHOU H L, et al. Relationship between 
+weight-adjusted-waist index and blood pressure as well as incident 
+hypertension among middle-aged and elderly Chinese: a longitudinal 
+study[J]. Nutr Metab Cardiovasc Dis, 2024, 34(9): 2095-2106. 
+［12］LI X M, ZHAO D, WANG H K. Association between weight-adjusted 
+waist index and risk of diabetes mellitus type 2 in United States 
+adults and the predictive value of obesity indicators[J]. BMC Public 
+Health, 2024, 24(1): 2025. DOI: 10.1186/s12889-024-19576-6. 
+［13］中国高血压防治指南修订委员会, 高血压联盟( 中国), 中国医
+疗保健国际交流促进会高血压分会, 等. 中国高血压防治指南
+(2024 年修订版)[J]. 中华高血压杂志, 2024, 32(7): 603-700.
+［14］中华医学会糖尿病学分会. 中国2 型糖尿病防治指南(2020 年
+版)( 上)[J]. 中国实用内科杂志, 2021, 41(8): 668-695.
+［15］诸骏仁, 高润霖, 赵水平, 等. 中国成人血脂异常防治指南(2016
+年修订版)[J]. 中国循环杂志, 2016, 31(10): 937-953.
+［16］SUN Q, YANG Y, LIU J, et al. Association of the weight-adjusted 
+waist index with hypertension in the context of predictive, preventive, 
+and personalized medicine[J]. EPMA J, 2024, 15(3): 491-500.
+［17］WU Q Z, LI B, WANG Y P, et al. Association of weight-adjusted-
+waist index with type 2 diabetes mellitus in Chinese urban adults: a 
+cross-sectional study[J]. Front Endocrinol, 2025, 16: 1460230.
+［18］SUN H X, LI Y, SHI J, et al. Weight-adjusted waist index is not 
+superior to conventional anthropometric indices for predicting type 2 
+diabetes: a secondary analysis of a retrospective cohort study[J]. Fam 
+Pract, 2023, 40(5/6): 782-788. DOI: 10.1093/fampra/cmad047. 
+［19］GENG Y, GU S J, FAN Y L, et al. Weight-adjusted-waist index, 
+estimated glucose disposal rate, C-reactive protein, and mortality 
+risks among individuals with type 2 diabetes: 2 prospective cohort 
+studies in China and the United Kingdom[J]. Am J Clin Nutr, 2025, 
+122(5): 1442-1451. DOI: 10.1016/j.ajcnut.2025.09.018. 
+［20］WU Z J, LUO S Y, CAI D Q, et al. The causal relationship between 
+metabolic syndrome and its components and cardiovascular disease: 
+a Mendelian randomization study[J]. Diabetes Res Clin Pract, 2024, 
+211: 111679. DOI: 10.1016/j.diabres.2024.111679. 
+［21］LI Q M, QIE R R, QIN P, et al. Association of weight-adjusted-waist 
+index with incident hypertension: the Rural Chinese Cohort Study[J]. 
+Nutr Metab Cardiovasc Dis, 2020, 30(10): 1732-1741. 
+（收稿日期：2025-08-14；修回日期：2026-01-10）
+（本文编辑：贾萌萌）

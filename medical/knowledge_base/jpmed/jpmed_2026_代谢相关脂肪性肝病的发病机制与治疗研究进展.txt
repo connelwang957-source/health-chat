@@ -1,0 +1,751 @@
+标题: 代谢相关脂肪性肝病的发病机制与治疗研究进展
+作者: 梁关友, 张硕, 曹新岭, 沙地克&amp, middot, 阿帕尔, 李涛
+期刊: 精准医学杂志 2026 第41卷 第2期
+DOI: 10.13362/j.jpmed.202641024
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202641024
+
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+doi:10.
+13362/j.
+jpmed.
+202641024  文章编号:2096-529X(2026)02-0179-07
+·综述·
+[收稿日期]2025-04-21; [修订日期]2025-10-15
+[基金项目]省部共建中亚高发病成因与防治国家重点实验室
+开放课题项目(SKL-HIDCA-2023-26)
+[通信作者]李涛,Email:482913629@qq.
+com
+代谢相关脂肪性肝病的发病机制与治疗研究进展
+梁关友 张硕 曹新岭 沙地克·阿帕尔 李涛
+(新疆医科大学第一附属医院肝脏·腹腔镜外科,新疆乌鲁木齐 830000)
+[摘要] 代谢相关脂肪性肝病(metabolicassociatedfattyliverdisease,MAFLD)是由遗传易感性、代谢紊乱、
+肠道菌群失调及环境因素共同作用导致的慢性肝病。随着现代生活方式的改变,其全球患病率约38%,成为重大
+公共卫生问题。尽管近年来在其发病机制(包括胰岛素抵抗、脂代谢紊乱、炎症信号通路异常、肠道菌群失衡等)方
+面的研究取得显著突破,并发现胰高血糖素样肽-1(GLP-1)、法尼醇X 受体(FXR)等潜在治疗靶点,但当前临床仍
+缺乏特效治疗药物。MAFLD 的标准疗法以生活方式干预为主,手术治疗虽有显著优势,但也伴随手术风险和术后
+并发症等问题,亟待探究精准化的治疗策略。本文对MAFLD 的发病机制以及治疗方法的研究进展进行系统性综
+述,旨在为MAFLD 个体化治疗方案的制定提供理论依据。
+[关键词] 非酒精性脂肪性肝病;脂代谢障碍;氧化性应激;胰岛素抵抗;胃肠道微生物组;药物疗法;综述
+[中图分类号] R575.
+5    [文献标志码] A
+Researchadvancesinthepathogenesisandtreatmentofmetabolicassociatedfattyliverdisease LIA-
+NGGuanyou,ZHANGShuo,CAO Xinling,SHADIK·Apar,LITao (DepartmentofHepaticandLaparoscopicSurgery,
+TheFirstAffiliatedHospitalofXinjiangMedicalUniversity,Urumqi830000,China)
+[ABSTRACT] Metabolicassociatedfattyliverdisease(MAFLD)isachronicliverdiseasecausedbythecombinedeffectof
+geneticsusceptibility,metabolicdisorders,gutmicrobiotadysbiosis,andenvironmentalfactors.Withthechangesinmodernlifes-
+tyle,theglobalprevalencerateofMAFLDhasreachedapproximately38%,makingitamajorpublichealthissue.Althoughrecent
+studieshavemadesignificantbreakthroughsinthepathogenesisofMAFLDsuchasinsulinresistance,dyslipidemia,abnormalin-
+flammatorysignalingpathways,andgutmicrobiotaimbalanceandhaveidentifiedpotentialtherapeutictargetssuchasglucagon-like
+peptide-1andfarnesoidXreceptor,thereisstillalackofspecifictherapeuticdrugsinclinicalpractice.Lifestyleinterventionisthe
+mainstandardtherapyforMAFLD,andalthoughsurgicaltreatmenthasuniqueadvantages,itisalsoassociatedwiththeissues
+suchassurgicalrisksandpostoperativecomplications;therefore,thereisanurgentneedtoexploreprecisetreatmentstrategies.
+ThisarticlesystematicallyreviewstheresearchadvancesinthepathogenesisandtreatmentofMAFLD,inordertoprovideatheo-
+reticalbasisfordevelopingindividualizedtreatmentregimensforMAFLD.
+[KEYWORDS] Non-alcoholicfattyliverdisease;Lipidmetabolismdisorders;Oxidativestress;Insulinresistance;Gastroin-
+testinalmicrobiome;Drugtherapy;Review
+  非酒精性脂肪性肝病(non-alcoholicfattyliverdisease,
+NAFLD)是一类与代谢异常和胰岛素抵抗(IR)密切相关的
+慢性应激性肝脏疾病,以肝脂肪变性、炎症及不同程度纤维
+化为主要病理特征;随着疾病的进展,可进一步发展为肝硬
+化与肝细胞癌(HCC)[1]。2020年国际专家将其更名为代谢
+相关脂肪性肝病(metabolicassociatedfattyliverdisease,
+MAFLD)[2],以强调超重或肥胖、2型糖尿病以及代谢综合
+征等核心代谢障碍与该疾病的关系。随着人们生活物质水
+平的不断提高,MAFLD 已演变为一个严峻的全球健康问
+题,目前全球有约38%的成年人以及7%~14%的儿童和青
+少年患病[3],且病死率呈逐年上升的趋势。据预测,到2040
+年,发达国家人群MAFLD 的患病率约增加至55%
+[3],已逐
+渐成为全球肝脏相关疾病死亡的首要原因。相关研究证实,
+MAFLD 会进一步增加心血管-肾脏-代谢相关疾病风险及某
+些非肝脏癌症的风险,这些肝外疾病表现为病情更复杂、治
+疗难度更大以及患者生活质量下降、预后更差[4-5]。而心血
+管疾病(CVD)及非肝脏恶性肿瘤的发生与MAFLD 患者预
+后密切相关[4],其中CVD 在MAFLD 患者的死亡原因中占
+据首位[5],严重威胁患者生命健康。基于MAFLD 日益加重
+的全球流行趋势及其导致多种严重并发症风险显著升高的
+特点,该病已成为当前全球公共卫生领域的重大健康挑战,
+亟待深入探索针对MAFLD 的有效防治策略。近年来,随着
+研究的深入,学界在MAFLD 的分子机制解析、个体化治疗
+策略探索及多学科管理模式构建方面取得显著进展,但整体
+诊疗体系尚未完善。本文旨在通过综述MAFLD 的国内外
+最新研究进展,系统性分析其发病机制和治疗进展,为优化
+临床实践、推动相关药物研发以及促进多学科协作提供理论
+依据;同时探讨了MAFLD 相关基础研究向临床转化的关键
+瓶颈问题,以期为MAFLD 患者个体化治疗方案的制定提供
+决策依据。
+·
+9
+7
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+1 MAFLD的发病机制
+1.
+1 脂代谢紊乱与氧化应激
+肝脏作为调节脂代谢的核心器官,通过精密调控脂肪酸
+的从头合成、外源性摄取、极低密度脂蛋白(VLDL)分泌及
+线粒体β氧化4条关键代谢通路,维持机体脂代谢稳态。机
+体肥胖状态下脂代谢会发生紊乱,具体机制为白色脂肪组织
+受氧化应激与炎症等因素刺激,出现激素敏感性脂肪酶介导
+的脂解异常活化,释放大量游离脂肪酸(FFA)[6];FFA 通过
+清道夫受体CD36、脂肪酸转运蛋白5(FATP5)等转运蛋白
+进入肝脏[7],超出肝脏VLDL代谢负荷,引起三酰甘油异常
+蓄积,从而加重肝脂肪变性。该过程中,过氧化物酶体增殖
+物激活受体γ(PPARγ)信号通路异常激活,通过上调甾醇调
+节元件结合蛋白1c(SREBP-1c)等转录因子,促进肝脏从头
+脂肪合成,并干扰VLDL组装所需的磷脂酰胆碱合成,加剧
+脂质代谢紊乱[8]。此外,在肥胖状态下,能量感知分子腺苷
+酸活化蛋白激酶(AMPK)的活性被抑制,导致其既无法通过
+磷酸化激活肉碱棕榈酰转移酶-1(CPT-1)促进脂肪酸氧化,
+也难以通过磷酸化抑制SREBP-1c阻断脂质合成,最终形成
+代谢失衡的恶性循环。
+MAFLD 的“一次打击”以肝细胞脂肪异常蓄积为核心,
+受IR 和高糖高脂饮食等因素影响,肝细胞内FFA 摄取增
+多、三酰甘油合成增加而形成单纯肝脂肪变性。该状态虽无
+明显肝损伤,但脂肪过度堆积会改变肝细胞微环境,为“二次
+打击”启动创造必要条件。炎症与氧化应激在MAFLD 的
+“二次打击”机制中发挥桥梁作用。异常堆积的FFA 在线粒
+体β-氧化过程中,由于电子传递链解偶联产生大量活性氧
+(ROS),引发脂质过氧化和内质网应激[9]。ROS通过激活
+MAPK 及NF-κB信号通路[10],诱导肿瘤坏死因子-α(TNF-
+α)、白细胞介素-6(IL-6)等促炎因子释放,并招募免疫细胞形
+成“氧化-炎症”级联反应,加剧肝细胞损伤。此外,ROS还可
+直接损伤线粒体,抑制电子传递链复合体活性,进一步阻碍
+脂肪酸氧化过程,放大脂毒性效应。
+脂代谢紊乱是氧化应激与炎症反应的始动环节,通过氧
+化应激的桥梁作用转化为炎症损伤,继而经炎症反应的级联
+放大效应推动肝细胞坏死及肝星状细胞活化,最终促进肝纤
+维化形成。这一过程构成了从疾病起始到进展加重的完整
+病理链条,共同驱动脂肪变性及纤维化发展,促使MAFLD
+持续恶化[11]。
+1.
+2 IR
+IR是MAFLD 的核心致病机制[4],其特征为胰岛素靶
+组织对生理浓度胰岛素的反应性下降。IR 通过干扰胰岛素
+介导的信号通路激活过程,干预葡萄糖摄取、脂质代谢及相
+关信号转导通路,驱动MAFLD 的多重病理生理进程。在分
+子层面,胰岛素与肝细胞表面受体结合后,激活PI3K/AKT、
+TSC1/2-mTOR 及RAS-MAPK 信号通路,调控葡萄糖摄
+取、蛋白质合成和细胞增殖[12]。在细胞层面,IR 状态下,核
+因子κB抑制物激酶β(IKKβ)、c-Jun氨基末端激酶1(JNK-
+1)及蛋白激酶C(PKC)等可以通过促进胰岛素受体底物
+(IRS)
+-1/2的丝氨酸磷酸化,抑制其正常的酪氨酸磷酸化,
+导致肝细胞膜上葡萄糖转运体4(GLUT4)转位受阻、糖异生
+增强及脂解作用异常[13]。由此引发的代谢失衡进一步造成
+FFA 过载、氧化应激与脂肪因子失调,促进IR 的恶性循环。
+研究发现,过量的FFA 和高胰岛素血症在MAFLD 进
+展中构成关键恶性循环。FFA 的异常积聚不仅源于热量摄
+入过剩及肥胖相关的代谢紊乱,也与脂肪组织IR 所致脂解
+增强及高胰岛素血症直接相关。MAFLD 患者常伴随血清
+FFA、胆固醇水平升高及IR 加剧,导致肝脏脂肪酸从头合成
+及VLDL 代谢紊乱,造成FFA 在肝细胞内进一步蓄积[14]。
+这一过程继而引发线粒体功能障碍、氧化应激及内质网应
+激,最终通过脂毒性机制导致肝细胞损伤。
+脂毒性、氧化应激与炎症反应在MAFLD 中相互促进,
+共同驱动疾病进展。FFA 诱发的氧化应激可激活JNK-1、
+IKK-β、mTOR 等炎症相关信号通路,促进TNF-α、IL-1、IL-6
+等促炎因子释放,进而通过诱导IRS-1 丝氨酸磷酸化加剧
+IR。与之相对,脂联素、瘦素等保护性脂肪因子则通过抑制
+炎症反应、增强胰岛素敏感性以缓解IR,从而改善MAFLD
+的病理进程[15]。最终,IR、脂毒性与炎症三者的交互作用可
+引发肝细胞凋亡、坏死与焦亡,并激活肝星状细胞,推动肝纤
+维化甚至肝硬化的发生发展。
+1.
+3 肠道菌群失衡
+肠道菌群(主要由厚壁菌门、拟杆菌门、放线菌门和变形
+菌门组成)作为人体核心微生物群落之一,通过多种机制参
+与MAFLD 的病理进程[16]。一项荟萃分析结果显示,埃希
+氏菌、普雷沃氏菌和链球菌丰度上升,而粪球菌、粪杆菌和瘤
+胃球菌水平下降,是MAFLD 中常见的肠道菌群特征[17]。
+此类菌群失衡首先会通过破坏肠道屏障功能,促使脂多糖
+(LPS)等代谢产物易位至循环系统,并激活肝窦内皮细胞
+Toll样受体4(TLR4),诱发NF-κB 介导的促炎反应,促进
+TNF-α和IL-6分泌,从而加剧肝细胞脂肪变性以及炎症反
+应[18]。其次,肠道菌群失调可导致内源性乙醇生成增加,通
+过激活SREBP-1c和抑制PPARα通路,在促进肝脏脂肪酸
+合成的同时抑制β氧化,引起三酰甘油异常积聚[19-20]。此
+外,伴随次级胆汁酸生成减少所引起的胆汁酸代谢紊乱,还
+可以通过下调法尼醇X 受体(FXR)与TakedaG 蛋白偶联
+受体5(TGR5)表达,破坏胆汁酸肠肝循环,进一步加剧胆固
+醇代谢异常与肝星状细胞活化[21]。
+肠道菌群代谢产物失调是推动MAFLD 进展的关键因
+素之一。短链脂肪酸水平下降可通过抑制AMPK 信号通
+路,减弱肝细胞脂肪酸氧化能力[22]。此外,肠道菌群紊乱还
+会影响瘦素、胰岛素及生长素释放肽等食欲调节激素的分
+泌。动物实验结果显示,菌群失衡可阻碍正常饮食小鼠的瘦
+素信号转导,进一步抑制下丘脑神经肽Y(NPY)与刺豚鼠相
+关蛋白(AgRP)的表达,扰乱能量代谢平衡[23]。上述代谢异
+常共同构成肠-肝轴恶性循环,最终推动肝细胞脂肪变性、炎
+症坏死及肝纤维化的级联进程。
+·
+0
+8
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+2 MAFLD的治疗进展
+2.
+1 预防措施及一般治疗
+促进MAFLD 发生发展的危险因素主要包括超重和肥
+胖、2型糖尿病、高血压、血脂异常、代谢综合征以及环境毒
+物接触等。我国肥胖人群基数庞大,使肥胖成为MAFLD 发
+生的主要驱动因素。研究表明,对于肥胖合并MAFLD 的患
+者,体质量管理是核心干预策略,体质量减轻可促进肝纤维
+化的改善甚至逆转,并且缓解程度与减重幅度呈显著正相
+关[4]。有氧运动是减轻体质量的重要方式之一。有研究发
+现,少量有氧运动即可发挥预防和改善MAFLD 的作用,而
+中等强度有氧和无氧运动甚至可逆转肝损伤[24]。有氧运动
+不仅能够通过减轻体质量提高肝脏及外周组织的胰岛素敏
+感性,降低促炎与氧化应激标志物水平并改善肝酶指标,还
+可以调节肠道菌群,从而抑制肝脏炎症反应,延缓疾病进
+展[25]。饮食调节在MAFLD 的预防和治疗中同样关键。高
+碳水化合物与饱和脂肪饮食易引发能量代谢失衡及肝脏脂
+质沉积,而间歇性禁食结合运动干预可有效减轻肝脂肪变
+性,显著提升胰岛素敏感性,并促进肝酶水平恢复正常[26]。
+此外,类黄酮、生物碱、多酚、多糖、不饱和脂肪酸及生物活性
+肽等功能性食品成分,可能通过调控氧化应激、炎症及免疫
+反应等机制,在MAFLD 及相关肝纤维化的防治中发挥作
+用[27]。西方国家饮食习惯与体质量增加、IR 和MAFLD 发
+生风险呈显著正相关,而地中海饮食则能有效改善非纤维化
+MAFLD 患者的肝脏影像学表现、肝纤维化评分、炎症/氧化
+应激生物标志物及血糖指标[28]。该饮食模式倡导结合充足
+休息、规律有氧运动以及适度日照等健康的生活方式,对
+MAFLD 病情具有积极影响。上述研究提示,推广运动健身
+与优化饮食结构是当前MAFLD 基础防控的核心手段,对公
+共卫生及医疗保健具有重要现实意义。
+2.
+2 药物相关治疗
+2.
+2.
+1 胰高血糖素样肽-1(GLP-1)受体激动剂 GLP-1 是
+一种由肠道内分泌细胞产生的肽类激素,其主要通过与B类
+G 蛋白偶联受体结合,激活腺苷酸环化酶,促进细胞内环磷
+酸腺苷(cAMP)水平升高,从而在机体代谢调节中发挥关键
+作用[29]。目前,已获广泛认知的GLP-1受体激动剂有艾塞
+那肽、利拉鲁肽、司美格鲁肽等,它们在MAFLD 患者的治疗
+中展现出多方面的潜在作用。在代谢层面,GLP-1受体激动
+剂通过改善线粒体功能、抑制氧化应激、减轻炎症反应以及
+调节肠-肝轴等机制,促进脂肪生成减少与脂肪酸氧化增强,
+同时显著降低肝糖原含量并促进糖异生,从多维度调控机体
+能量代谢[30]。在氧化应激与炎症调节方面,GLP-1 可经转
+录激活因子3诱导M2型巨噬细胞极化,产生抗炎生物标志
+物,从而在炎症性肝脏微环境中重建平衡并且抑制炎症进
+展[31]。在纤维化调控方面,GLP-1 受体激动剂能够通过抑
+制肝星状细胞活化等途径减轻肝纤维化,有效延缓代谢相关
+脂肪性肝病向肝纤维化的发展[32]。此外,GLP-1 还可延缓
+肠道葡萄糖吸收,并通过中枢系统激活增强饱腹感,从而从
+整体代谢调控与炎症微环境改善等多个层面,对MAFLD 的
+病情进展发挥积极调节作用[30]。
+在相关的临床研究当中,GLP-1受体激动剂虽被证实对
+MAFLD 治疗有效,但由于肝细胞缺乏GLP-1受体,其疗效
+主要依赖于全身代谢的改善,对肝脏的直接作用有限。相比
+之下,肝脏组织中富含胰高血糖素受体(GCGR)。一项针对
+Survodutide(GCGR/GLP-1双重激动剂)的研究显示,各剂
+量组MAFLD 改善率达43% ~47%,显著高于安慰剂组的
+14%
+[33]。此外,一项Ⅱ期临床研究表明,GLP-1受体和葡萄
+糖依赖性促胰岛素释放多肽(GIP)受体双重激动剂Tir-
+zepatide能够显著促进MAFLD 消退并改善肝纤维化程度,
+且疗效呈剂量依赖性,安全性良好[34]。上述研究提示,双重
+激动剂展现出较单一激动剂更优的治疗潜力,其初步临床结
+果为MAFLD 的治疗开辟了新方向,相关Ⅲ期临床试验亟待
+开展以进一步验证其疗效与安全性。
+2.
+2.
+2 乙酰辅酶A 羧化酶(ACC)抑制剂 ACC 是脂肪酸
+合成的关键限速酶,其催化乙酰辅酶A 转化为丙二酰辅酶
+A。该反应产物丙二酰辅酶A 不仅是脂肪酸合成的核心底
+物,同时也是抑制脂肪酸β-氧化进入线粒体的关键调节分
+子,参与协同调控脂肪酸的合成与分解代谢[35]。ACC 存在
+2种亚型,分别为位于细胞质中的ACC1及位于线粒体膜上
+的ACC2。ACC1主要负责催化脂肪酸从头合成的起始步
+骤,而ACC2则通过催化乙酰辅酶A 生成丙二酰辅酶A,同
+时变构抑制脂肪酸进入线粒体进行β氧化的关键调控因子
+CPT-1,从而抑制脂肪酸的β氧化[35]。因此,ACC 抑制剂可
+对脂代谢进行双重调节:一方面减少脂肪酸从头合成,另一
+方面通过解除对CPT-1 的抑制促进脂肪酸β氧化,这为改
+善MAFLD 患者的脂代谢紊乱提供了重要的药物作用靶点。
+研究显示,每次口服20 mgFirsocostat(GS-0976)即可以降
+低MAFLD 患者肝脏脂肪含量,并且改善其肝脏硬度,证实
+ACC抑制剂在改善MAFLD 患者肝脏脂肪变性方面具有显
+著疗效[36]。然而,该类药物的临床应用面临安全性争议的
+制约,患者在治疗后可能出现无症状性高三酰甘油血症,并
+伴有恶心、腹泻、腹痛及头痛等不良反应。研究显示,血清三
+酰甘油水平异常升高与肝细胞SREBP-1c的适应性上调密
+切相关,该转录因子通过激活替代脂肪生成通路代偿ACC
+抑制效应[37],给未来MAFLD 的治疗提供了新研究靶点和
+探索方向。
+2.
+2.
+3 FXR 激动剂 FXR 是一种在肝脏和肠道中高度表达
+的胆汁酸激活的核受体,发挥控制肠道屏障完整性、防止细
+菌易位和维持肠道菌群复合变性功能,同时调节参与胆固醇
+和胆汁酸稳态、肝脏糖异生、脂肪生成、炎症和纤维化的基因
+表达[38]。在MAFLD 患者中,FXR 表达水平下降,可通过小
+异源二聚体伴侣(SHP)依赖性机制上调SREBP-1c,进一步
+激活硬脂酰辅酶A 去饱和酶1(SCD1)、脂肪酸合酶(FAS)
+和ACC的表达,最终导致肝脏脂质合成增加。此外,FXR
+的低表达一方面降低PPARα和CPT-1的表达以抑制脂肪
+酸氧化,进而减少脂肪消耗,导致肝脏脂质积累;另一方面促
+·
+1
+8
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+进CD36的表达以增加脂肪酸摄取,并直接调节载脂蛋白C-
+Ⅱ(ApoC-Ⅱ)以抑制三酰甘油水解,促进MALFD 进展[39]。
+FXR 已被确定为MALFD 的潜在成药治疗靶点,但目前仅
+一项针对MAFLD 的Ⅲ期临床试验结果显示,与安慰剂组相
+比,FXR 激动剂奥贝胆酸在抗纤维化、抗炎及改善肝脏硬度
+方面具有更显著的效果[40]。目前仍缺乏基于大样本、多中
+心随机对照试验,对FXR 激动剂多靶点效应及临床疗效的
+进一步验证。
+2.
+2.
+4 他汀类和贝特类药物 他汀类药物作为3-羟基-3-甲
+基戊二酰辅酶A(HMG-CoA)还原酶抑制剂,可通过双重机
+制改善肝纤维化。首先,其通过抑制异戊二烯化过程,阻断
+Rho/RacGTP酶的翻译后修饰,进而上调内皮型一氧化氮
+合酶表达,促进一氧化氮生成,恢复肝窦内皮细胞功能,并抑
+制肝星状细胞向肌成纤维细胞转化,从而减轻纤维化程度。
+此外,他汀类药物能够下调NF-κB活性,抑制TNF-α和IL-6
+的表达,同时上调对氧磷酶1活性,形成协同的抗氧化与抗
+炎保护效应[41]。贝特类药物作为PPARα激动剂,主要通过
+调节脂质代谢相关基因的表达,促进脂肪酸氧化并抑制三酰
+甘油合成,从而有效降低血循环血脂水平。该类药物同时兼
+具抑制炎症与改善IR 的作用,有助于减轻肝脏炎症反应及
+脂肪异常沉积,最终改善MAFLD 患者的整体代谢状态[42]。
+荟萃分析表明,他汀类与贝特类药物联合治疗对MAFLD 患
+者具有多维度协同作用:在疗效上,其调脂作用优于他汀单
+药,能更显著地改善患者总胆固醇、低密度脂蛋白胆固醇、三
+酰甘油及高密度脂蛋白胆固醇水平;在安全性上,可进一步
+降低心血管事件的发病与死亡风险;其中,中等强度他汀与
+贝特类药物联用对混合性血脂异常疗效良好[43]。然而相关
+研究仍需加强,从而进一步优化治疗方案,以改善MAFLD
+患者预后。
+2.
+2.
+5 改善IR 药物 IR 是MAFLD 进展为肝炎和肝纤维
+化的关键危险因素。目前临床常用的改善IR 药物有噻唑烷
+二酮类药物(TZDs)和二甲双胍等。作为经典的胰岛素增敏
+剂,TZDs通过激活PPARγ,促进脂肪组织中三酰甘油的储
+存,从而将脂质负荷由肝脏转移至外周脂肪组织。这一过程
+有助于降低循环FFA 水平,减轻肝脏脂质沉积,并有效缓解
+肝脂肪变性[44-45]。临床研究证实,TZDs可显著缓解代谢相
+关脂肪性肝炎患者的肝细胞气球样变性、小叶炎症及肝纤维
+化程度。二甲双胍的作用机制涉及多重代谢调节途径。作
+为AMPK 激动剂,其可抑制肝脏从头脂肪生成、促进FFA
+氧化,并通过改善免疫炎症微环境缓解IR
+[46]。值得注意的
+是,二甲双胍(靶向AMPK)与吡格列酮(属于TZDs,靶向
+PPARγ)在脂质代谢调控中表现出协同潜力———主要抑制
+脂肪酸合成并促进氧化分解,后者则通过激活PPARγ调控
+胰岛素敏感性及脂质代谢相关基因的转录过程[47]。两药联
+合使用可能更有效地降低FFA 和TG 水平,为MAFLD 的
+个体化治疗提供新的研究方向。
+2.
+3 手术治疗
+外科手术是治疗MAFLD 的重要手段,较无创治疗方案
+可能具有更显著的治疗潜力[48]。其核心机制在于有效减轻
+患者体质量,并且通过多重代谢调节途径逆转肝脏脂肪变性
+以及纤维化进程。目前临床常用的术式包括袖状胃切除术、
+Roux-en-Y 胃旁路术、单吻合口胃旁路术及胆胰转流十二指
+肠转位术等[49]。
+研究发现,外科手术可以通过调节胃肠道激素网络改善
+MAFLD 病理进程[50]。具体表现为术后葡萄糖依赖性促胰
+岛素多肽水平显著下降,有助于抑制肝脏脂质合成并增强能
+量消耗,从而直接减轻肝脏脂肪堆积。同时,术后GLP-1等
+激素水平的变化也在体质量控制与代谢改善中发挥协同作
+用[51]。体质量减轻与代谢改善是外科手术干预后的核心获
+益。相关研究表明,术后显著的体质量下降可有效缓解IR,
+减少肝脏脂肪合成和堆积,并改善肝脏的代谢功能[52]。值
+得关注的是,手术还能调节脂肪细胞因子的分泌,如促进脂
+联素释放、改善瘦素敏感性,从而多维度纠正代谢紊乱,促进
+肝纤维化逆转。
+手术治疗MAFLD 虽具有显著疗效,但其伴随的手术风
+险与术后并发症仍需高度重视[49]。因此,临床实践中应综
+合评估患者体质量指数(BMI)、肝纤维化程度、合并症及手
+术耐受性,遵循个体化原则制定治疗方案,以实现疗效与安
+全性的平衡。未来研究需进一步揭示手术治疗对MAFLD
+患者肝脏病理改善的深层机制,并通过多学科协作与精准医
+疗策略优化术式选择,提升治疗效果与安全性,从而为更多
+患者提供个体化的外科治疗选择。
+2.
+4 新兴治疗策略
+2.
+4.
+1 肠道菌群调节 肠道菌群在MAFLD 的发生发展中
+具有重要作用。随着对其作用机制认识的深入,已衍生出多
+种潜在疗法,包括益生菌、益生元、合生元及粪便菌群移植
+(FMT)等[53]。益生菌作为有益微生物,可抑制病原菌生长
+并参与胆固醇降解等生理过程。研究表明,益生菌产生的乙
+酸盐能够通过结合G 蛋白偶联受体43(GPR43),抑制IL-6/
+JAK1/STAT3信号通路活化,从而延缓MAFLD 的病理进
+展[54]。益生元则可通过缓解内毒素血症与炎症反应,为改
+善代谢紊乱提供替代途径。研究表明,益生元菊粉及其发酵
+产物丁酸盐能增强肠道黏膜屏障完整性并促进潘氏细胞抗
+菌功能,进而延缓体质量增加与肝脂肪变性[55];合生元(益
+生菌与益生元的组合)可上调PPARα表达,下调SREBP-
+1c,从而促进脂肪酸β氧化并抑制脂肪生成,减少肝脏脂肪
+积累。FMT 作为最新的菌群干预方式,在理论上显示出较
+现有其他微生物调控方法更具潜力的效果,但目前仍缺乏高
+质量随机对照试验的证据支持。
+2.
+4.
+2 基于PPARs的靶向治疗 PPARs是核受体超家族
+成员,包含PPARα、PPARγ和PPARβ/δ三种亚型,通过组
+织特异性表达和功能分化在MAFLD 中发挥多维度调控作
+用。PPARs可通过调节脂质、葡萄糖和胰岛素代谢,并抑制
+炎症反应和肝纤维化等机制改善MAFLD;具体而言,肝细
+胞中PPARα与PPARβ/δ通过调控载脂蛋白A1~A5、酰基
+辅酶A 氧化酶1 及肉碱棕榈酰转移酶2 等蛋白的表达水
+·
+2
+8
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+平,从而促进脂蛋白代谢和脂肪酸氧化[8]。此外,PPARα和
+PPARγ可诱导白色脂肪组织向棕色脂肪组织转化以增强脂
+肪消耗,并改善IR
+[56]。PPARβ/δ则通过抑制糖异生,并促
+进葡萄糖摄取、糖原合成、糖酵解及磷酸戊糖途径参与机体
+糖代谢调节。在炎症以及纤维化调控方面,PPARs不仅可
+通过改善脂质谱缓解氧化应激以抑制炎症,还能降低肝巨噬
+细胞分泌的TNF-α、IL-6等炎症因子水平,同时下调肝巨噬
+细胞中促纤维化因子表达,抑制肝星状细胞活化,从而减轻
+肝脏炎症与纤维化进程[8]。当前针对MAFLD 的PPARs靶
+向药物研发多处于Ⅱ期临床阶段。现有研究显示,PPARα
+激动剂中非诺贝特降脂作用有限,而培马贝特可改善肝脏组
+织学表现;PPARβ/δ激动剂塞拉德尔因肝毒性问题研发被
+暂停;PPARγ激动剂吡格列酮则存在体质量增加等不良反
+应[57]。尽管现有药物疗效尚不理想,但随着对PPARs机制
+的深入探索,未来有望为MAFLD 治疗提供更安全有效的药
+物选择。
+3 总结
+MAFLD 的发生发展是一个复杂的过程,涉及脂代谢紊
+乱与氧化应激、IR 和肠道菌群失衡等多个方面。这些因素
+并非孤立存在,而是相互促进、协同作用,形成恶性循环,共
+同推动MAFLD 的启动与进展。通过加强运动健身与优化
+饮食结构对MAFLD 进行预防和一般治疗,对公共卫生及医
+疗保健具有重要现实意义。此外,药物干预可针对不同代谢
+异常靶点实施个体化治疗,外科手术适用于特定的重度肥胖
+患者,而肠道菌群调节等新兴治疗策略也为MAFLD 的临床
+管理提供新的方向与希望。未来需进一步深化对MAFLD
+发病机制的研究,积极探索更高效、安全且成本可控的治疗
+策略,以改善患者预后,降低并发症风险,并减轻全球公共卫
+生负担。同时应大力推进基础研究向临床应用的转化,为制
+定个体化治疗方案提供坚实的理论支撑。此外,加强肥胖预
+防的公众健康教育,倡导健康生活方式,对减少MAFLD 的
+发病具有关键意义。
+作者声明:梁关友、张硕、曹新岭、沙地克·阿帕尔参与了研究设计;
+梁关友、李涛参与了论文的写作和修改。所有作者均阅读并同意发
+表该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] LOOMBA R,ADAMSLA.The20%ruleofNASHprogres-
+sion:Thenaturalhistoryofadvancedfibrosisandcirrhosis
+causedbyNASH[J].Hepatology,2019,70(6):1885-1888.
+[2] ESLAM M,SANYAL AJ,GEORGEJ,etal.MAFLD:A
+consensus-drivenproposed nomenclaturefor metabolicasso-
+ciatedfattyliverdisease[J].Gastroenterology,2020,158(7):
+1999-2014.
+e1.
+[3] YOUNOSSIZ M,KALLIGEROS M,HENRYL.Epidemio-
+logyofmetabolicdysfunction-associatedsteatoticliverdisease
+[J].ClinMolHepatol,2025,31(Suppl):S32-S50.
+[4] 范建高,徐小元,南月敏,等.代谢相关(非酒精性)脂肪性肝病
+防治指南(2024年版)[J].实用肝脏病杂志,2024,27(4):494-
+510.
+[5] GOBEILÉ,MALTAIS-PAYETTEI,TABA N,etal.Men-
+delianrandomizationanalysisidentifiesbloodtyrosinelevelsas
+abiomarkerofnon-alcoholicfattyliverdisease[J].Metabo-
+lites,2022,12(5):440.
+[6] HEERENJ,SCHEJA L.Metabolic-associatedfattyliverdi-
+seaseandlipoprotein metabolism[J].MolMetab,2021,50:
+101238.
+[7] ZHAOL,ZHANGC,LUOXX,etal.CD36palmitoylation
+disruptsfreefattyacidmetabolismandpromotestissueinflam-
+mationinnon-alcoholicsteatohepatitis[J].JHepatol,2018,69
+(3):705-717.
+[8] GROSSB,PAWLAK M,LEFEBVRE P,etal.PPARsin
+obesity-induced T2DM,dyslipidaemiaand NAFLD[J].Nat
+RevEndocrinol,2017,13(1):36-49.
+[9] DICIAULA A,PASSARELLAS,SHANMUGAM H,etal.
+Nonalcoholicfattyliverdisease (NAFLD).mitochondriaas
+playersandtargetsoftherapies? [J].IntJMolSci,2021,22
+(10):5375.
+[10]MUSSARDE,JOUSSELINS,CESAROA,etal.Androgra-
+phispaniculata anditsbioactivediterpenoidsprotectdermal
+fibroblastsagainstinflammationandoxidativestress[J].An-
+tioxidants(Basel),2020,9(5):432.
+[11]CHUNG Y C,HYUN CG.Inhibitoryeffectsofpinostilbene
+onadipogenesisin3T3-L1adipocytes:A studyofpossible
+mechanisms[J].IntJMolSci,2021,22(24):13446.
+[12]MARUŠIĈ M,PAIĈM,KNOBLOCH M,etal.NAFLD,in-
+sulinresistance,anddiabetesmellitustype2[J].CanJGas-
+troenterolHepatol,2021,2021:6613827.
+[13]ZHU Y L,CHEN T,XIONGJL,etal.miR-146binhibits
+glucoseconsumptionbytargetingIRS1geneinporcineprimary
+adipocytes[J].IntJMolSci,2018,19(3):783.
+[14]FABBRINIE,SELMA MOHAMMEDB,MAGKOSF,etal.
+Alterationsinadiposetissueandhepaticlipidkineticsinobese
+menandwomenwithnonalcoholicfattyliverdisease[J].Gas-
+troenterology,2008,134(2):424-431.
+[15]MASARONE M,FEDERICOA,ABENAVOLIL,etal.Non
+alcoholicfattyliver:Epidemiologyandnaturalhistory[J].Rev
+RecentClinTrials,2014,9(3):126-133.
+[16]RINNINELLA E,RAOULP,CINTONIM,etal.Whatis
+thehealthygutmicrobiotacomposition? Achangingecosys-
+temacrossage,environment,diet,anddiseases[J].Microor-
+ganisms,2019,7(1):14.
+[17]LIFX,YEJZ,SHAOCX,etal.Compositionalalterations
+ofgutmicrobiotainnonalcoholicfattyliverdiseasepatients:A
+systematicreviewand Meta-analysis[J].Lipids Health Dis,
+2021,20(1):22.
+[18]KHANMOHAMMADIS,KUCHAY MS.Toll-likereceptors
+andmetabolic(dysfunction)-associatedfattyliverdisease[J].
+PharmacolRes,2022,185:106507.
+·
+3
+8
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+[19]VAN KLEEFLA,DEKNEGTRJ,BROUWER WP.Meta-
+bolicdysfunction-associatedfattyliverdiseaseandexcessiveal-
+coholconsumptionarebothindependentriskfactorsformor-
+tality[J].Hepatology,2023,77(3):942-948.
+[20]LIUJZ,WANGX,PENGZ W,etal.Theeffectsofinsulin
+pre-administrationinmiceexposedtoethanol:Alleviatinghe-
+paticoxidativeinjurythroughanti-oxidative,anti-apoptoticac-
+tivitiesanddeterioratinghepaticsteatosisthroughSRBEP-1c
+activation[J].IntJBiolSci,2015,11(5):569-586.
+[21]XUSJ,JEONGSJ,LIG,etal.Repeatedethanolexposure
+influenceskeyenzymesincholesterolandlipidhomeostasisvia
+theAMPKpathwayintheratprefrontalcortex[J].Alcohol,
+2020,85:49-56.
+[22]LIY,XIA D Y,CHENJY,etal.Dietaryfiberswithdiffe-
+rentviscosityregulatelipid metabolism via ampkpathway:
+Rolesofgutmicrobiotaandshort-chainfattyacid[J].Poult
+Sci,2022,101(4):101742.
+[23]SCHÉLEE,GRAHNEMO L,ANESTEN F,etal.Thegut
+microbiotareducesleptinsensitivityandtheexpressionofthe
+obesity-suppressing neuropeptides proglucagon (Gcg)and
+brain-derivedneurotrophicfactor(Bdnf)inthecentralnervous
+system[J].Endocrinology,2013,154(10):3643-3651.
+[24]ECKARDC,COLE R,LOCKWOODJ,etal.Prospective
+histopathologicevaluationoflifestylemodificationinnonalco-
+holicfattyliverdisease:Arandomizedtrial[J].Therap Adv
+Gastroenterol,2013,6(4):249-259.
+[25]CIGROVSKIBERKOVIC M,BILIC-CURCICI,MRZLJAK
+A,etal.NAFLDandphysicalexercise:Ready,steady,go!
+[J].FrontNutr,2021,8:734859.
+[26]EZPELETA M,GABELK,CIENFUEGOSS,etal.Effectof
+alternatedayfastingcombinedwithaerobicexerciseonnon-al-
+coholicfattyliverdisease:Arandomizedcontrolledtrial[J].
+CellMetab,2023,35(1):56-70.
+e3.
+[27]YUC,GUOX H,CUIX H,etal.Functionalfoodchemical
+ingredient strategies for non-alcoholic fatty liver disease
+(NAFLD)andhepaticfibrosis:Chemicalproperties,health
+benefits,action,andapplication[J].CurrNutrRep,2024,13
+(1):1-14.
+[28] MONTEMAYORS,GARCÍA S,MONSERRAT-MESQUI-
+DA M,etal.Dietarypatterns,foods,andnutrientstoamelio-
+ratenon-alcoholicfattyliverdisease:A scopingreview[J].
+Nutrients,2023,15(18):3987.
+[29]MÜLLERTD,FINANB,BLOOMSR,etal.Glucagon-like
+peptide1(GLP-1)[J].MolMetab,2019,30:72-130.
+[30]ROCHOÑJ,KALINOWSKIP,SZYMANEK-MAJCHRZAK
+K,etal.Roleofgut-liveraxisandglucagon-likepeptide-1re-
+ceptoragonistsinthetreatmentofmetabolicdysfunction-asso-
+ciatedfattyliverdisease[J].WorldJGastroenterol,2024,30
+(23):2964-2980.
+[31]LAURINDOLF,BARBALHOSM,GUIGUEREL,etal.
+GLP-1a:Going beyondtraditionaluse[J].IntJ MolSci,
+2022,23(2):739.
+[32] NEWSOME P N,AMBERY P.Incretins (GLP-1receptor
+agonistsanddual/tripleagonists)andtheliver[J].JHepatol,
+2023,79(6):1557-1565.
+[33]SANYAL A J,BEDOSSA P,FRAESSDORF M,etal.A
+phase2randomizedtrialofsurvodutidein MASHandfibrosis
+[J].NEnglJMed,2024,391(4):311-319.
+[34]LOOMBA R,HARTMAN M L,LAWITZEJ,etal.Tir-
+zepatidefor metabolic dysfunction-associated steatohepatitis
+withliverfibrosis[J].NEnglJMed,2024,391(4):299-310.
+[35]ALKHOURIN,LAWITZ E,NOUREDDIN M,etal.GS-
+0976 (firsocostat):Aninvestigationalliver-directed acetyl-
+CoAcarboxylase(ACC)inhibitorforthetreatmentofnon-al-
+coholicsteatohepatitis (NASH)[J].Expert OpinInvestig
+Drugs,2020,29(2):135-141.
+[36]STIEDEK,MIAO W Y,BLANCHETTEHS,etal.Acetyl-
+coenzymeAcarboxylaseinhibitionreducesdenovolipogenesis
+inoverweight malesubjects:A randomized,double-blind,
+crossoverstudy[J].Hepatology,2017,66(2):324-334.
+[37]XULB,YANG H L,XU H L,etal.Efficacyandsafetyof
+acetyl-CoAcarboxylase(ACC)inhibitorsinthetreatmentof
+nonalcoholicsteatohepatitis (NASH):A protocolforsyste-
+maticreview [J].Medicine (Baltimore),2022,101(50):
+e32357.
+[38]ADORINIL,TRAUNER M.FXRagonistsin NASHtreat-
+ment[J].JHepatol,2023,79(5):1317-1331.
+[39]LIY,WANG LL,YIQ,etal.Regulationofbileacidsand
+theirreceptor FXRin metabolicdiseases[J].Front Nutr,
+2024,11:1447878.
+[40]SANYALAJ,RATZIU V,LOOMBAR,etal.Resultsfrom
+anewefficacyandsafetyanalysisoftheREGENERATEtrialof
+obeticholicacidfortreatmentofpre-cirrhoticfibrosisduetonon-al-
+coholicsteatohepatitis[J].JHepatol,2023,79(5):1110-1120.
+[41]ZHOU H Y,TOSHIYOSHIM,ZHAO W L,etal.Statins
+onnonalcoholicfattyliverdisease:A systematicreview and
+meta-analysisof14 RCTs[J].Medicine (Baltimore),2023,
+102(26):e33981.
+[42]DASILVAPEREIRAEN G,FRANCORLC,SANTOSR
+DCD,etal.Statinsandnon-alcoholicfattyliverdisease:A
+concisereview[J].BiomedPharmacother,2025,183:117805.
+[43]ZHANGSJ,SUNTT,SONGLN,etal.Efficacyandsafety
+ofstatins,ezetimibe,andfibrates monotherapyorcombina-
+tiontherapyforhyperlipidemia:Asystematicreviewandnet-
+workmeta-analysis[J].EurJMedRes,2025,30(1):509.
+[44]FERGUSON D,FINCK B N.Emergingtherapeuticapproa-
+chesforthetreatmentofNAFLDandtype2diabetesmellitus
+[J].NatRevEndocrinol,2021,17(8):484-495.
+[45]MAYERSON AB,HUNDALRS,DUFOURS,etal.The
+effectsofrosiglitazoneoninsulinsensitivity,lipolysis,andhe-
+paticandskeletalmuscletriglyceridecontentinpatientswith
+type2diabetes[J].Diabetes,2002,51(3):797-802.
+[46]RODEN M,SHULMAN GI.Theintegrativebiologyoftype
+2diabetes[J].Nature,2019,576(7785):51-60.
+(下转第186页)
+·
+4
+8
+1
+·
+
+精准医学杂志2026年04月第41卷第2期 JPrecisMed,April2026,Vol.
+41,No.
+2
+下。分析原因,一是因为OKC的多发性特点,二是其囊壁组织较薄
+较脆,术中很难彻底刮除具有强增殖能力的牙板上皮[8]。相对于其
+他颌骨囊肿,OKC的治疗临床上更倾向于对病变进行更广泛和彻底
+的切除,常规经口内唇龈入路可能由于视野限制,使残余的上皮被封
+闭埋藏,为复发埋下危险的种子。经鼻内镜下进行手术可获得更广
+泛视野,有助于彻底刮净囊壁及残余上皮,有效降低术后复发风险。
+综上所述,OKC虽为一种良性病变,但具有强侵袭性和高复发
+性,应该引起临床医生的重视。鼻内镜技术的兴起促进了OKC 手
+术治疗从经口到经鼻的发展,术中使用鼻内镜探查骨腔可以帮助口
+腔科医生在术中获得更好的视野,使患者颌骨骨板得以最大程度保
+留。NBCCS患者常因口腔颌面部囊肿就诊,鉴于其临床表现隐匿且
+异质性显著,目前国内临床认知存在明显不足。对于有家族遗传表
+现的OKC患者,就诊时需关注除口腔及鼻面部以外的其他系统症
+状及体征,以确认或排除是否合并NBCCS。接诊复杂OKC 患者过
+程中,口腔科与耳鼻喉科医生协同制定精准化、个体化的治疗方案,
+将有助于降低术后复发率,提高患者术后满意度和远期疗效。
+[关键词] 牙源性囊肿;含牙囊肿;内窥镜检查;基底细胞痣综
+合征;家族性;外科手术;病例报告
+[中图分类号] R730.
+269;R782    [文献标志码] B
+伦理批准和知情同意:本研究涉及的试验已通过济宁医学院附属医
+院科学伦理委员会的审核批准(文件号2026-01-C031)。试验过程均
+遵照《赫尔辛基宣言》的条例进行。受试对象或其亲属已经签署知情
+同意书。
+作者声明:刘译聪、马登殿参与了研究设计;刘译聪、马登殿参与了论
+文的写作和修改。所有作者均阅读并同意发表该论文,且均声明不
+存在利益冲突。
+[参考文献]
+[1] VALDIVIA A D C M,RAMOS-IBARRA M L,FRANCO-
+BARRERA MJ,etal.Whatiscurrentlyknownaboutodonto-
+genickeratocysts? [J].OralHealthPrevDent,2022,20:321-
+330.
+[2] 李铁军.牙源性角化囊肿的生长与行为[J].中华口腔医学杂
+志,2000,35(4):306-308.
+[3] JUNIAT V,VARIDEL A,BADLANIJ,etal.Recurrent
+odontogenickeratocystwithorbitalinvasion[J].Orbit,2022,
+41(3):368-373.
+[4] MONDALS,JAIN NK,DUTTA A,etal.Gorlin-goltzsyn-
+drome———Ararecaseentityinyoungchild[J].Prague Med
+Rep,2024,125(1):69-78.
+[5] HINOS,TANAKA H,HAMAKAWA H.Multiplejawcysts
+andectopiccalcification[J].BMJ Case Rep,2017,2017:
+bcr2017219344.
+[6] VERKOUTEREN BJA,COSGUN B,REINDERS M G H
+C,etal.Aguidelinefortheclinicalmanagementofbasalcell
+naevussyndrome(Gorlin-Goltzsyndrome)[J].BrJDermatol,
+2022,186(2):215-226.
+[7] 王鹏程,陈春晖,童熹,等.β-TCP植入与口腔修复膜覆盖治疗
+对颌骨囊肿术后骨缺损的修复效果分析[J].口腔医学研究,
+2021,37(3):260-263.
+[8] STOELINGAPJW.Theodontogenickeratocystrevisited[J].
+IntJOralMaxillofacSurg,2022,51(11):1420-1423.
+(本文编辑 耿波)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第184页)
+[47]ABBASIM,FAN Z Y,DAWSONJA,etal.Transdermal
+deliveryofmetforminusingdissolvingmicroneedlesandionto-
+phoresispatchesforbrowningsubcutaneousadiposetissue[J].
+Pharmaceutics,2022,14(4):879.
+[48]HAFEEZS,AHMED M H.Bariatricsurgeryaspotential
+treatmentfornonalcoholicfattyliverdisease:Afuturetreat-
+mentbychoiceorbychance? [J].J Obes,2013,2013:
+839275.
+[49]王勇,梁辉,张频,等.中国肥胖及代谢疾病外科治疗指南
+(2024版)[J].中国实用外科杂志,2024,44(8):841-849.
+[50]LATTERIS,SOFIA M,PULEO S,etal.Mechanismslin-
+kingbariatricsurgerytoadiposetissue,glucosemetabolism,
+fattyliverdiseaseandgutmicrobiota[J].LangenbecksArch
+Surg,2023,408(1):101.
+[51]DONGTS,KATZKA W,YANGJC,etal.Microbialchan-
+gesfrom bariatricsurgeryaltersglucose-dependentinsulino-
+tropicpolypeptideandpreventsfattyliverdisease[J].GutMi-
+crobes,2023,15(1):2167170.
+[52]HUTTASCH M, RODEN
+M, KAHL S. Obesity and
+MASLD:Isweightlossthe(only)keytotreatmetabolicliver
+disease? [J].Metabolism,2024,157:155937.
+[53]SHARPTONSR,MARAJB,HARDING-THEOBALD E,
+etal.Gutmicrobiome-targetedtherapiesinnonalcoholicfatty
+liverdisease:Asystematicreview,meta-analysis,and meta-
+regression[J].AmJClinNutr,2019,110(1):139-149.
+[54]SONG Q,ZHANG X,LIU W X,etal.Bifidobacterium
+pseudolongum-generatedacetatesuppressesnon-alcoholicfatty
+liverdisease-associatedhepatocellularcarcinoma[J].J Hepa-
+tol,2023,79(6):1352-1365.
+[55]BEISNERJ,FILIPE ROSA L,KADEN-VOLYNETSV,et
+al.Prebioticinulinandsodium butyrateattenuateobesity-in-
+ducedintestinalbarrierdysfunctionbyinductionofantimicro-
+bialpeptides[J].FrontImmunol,2021,12:678360.
+[56]PRAPAHARANB,LEA M,BEAUDRYJL.Weighinginon
+theroleofbrownadiposetissuefortreatmentofobesity[J].J
+PharmPharmSci,2024,27:13157.
+[57]YANGZH,DANZENG A W,LIU Q M,etal.Theroleof
+nuclearreceptorsinthepathogenesisandtreatmentofnon-al-
+coholicfattyliverdisease[J].IntJBiolSci,2024,20(1):113-
+126.
+(本文编辑 李京蔓)
+·
+6
+8
+1
+·

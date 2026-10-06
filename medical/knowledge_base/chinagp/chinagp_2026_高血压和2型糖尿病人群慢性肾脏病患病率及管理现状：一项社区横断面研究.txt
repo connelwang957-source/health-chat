@@ -1,0 +1,685 @@
+标题: 高血压和2型糖尿病人群慢性肾脏病患病率及管理现状：一项社区横断面研究
+期刊: 中国全科医学 2026 第29卷 第25期
+DOI: 10.12114/j.issn.1007-9572.2025.0262
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2025.0262
+
+
+·3650·
+September 2026, Vol.29 No.25 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+·论著·
+高血压和2 型糖尿病人群慢性肾脏病患病率
+及管理现状：一项社区横断面研究
+薛翠荣，魏巍
+*，吴任远，薛雅琴，徐辉江，吕惟江，蒋丹丹
+610041 四川省成都市武侯区玉林社区卫生服务中心
+* 通信作者：魏巍，副主任医师；E-mail：452613891@qq.com
+【摘要】　背景　我国慢性肾脏病（CKD）患病率虽总体呈下降趋势，但高血压和2 型糖尿病（以下简称“两病”）
+患者的CKD 患病风险较高，其在基层医疗卫生机构的规范化管理情况尚不明确。目的　了解社区卫生服务中心“两病”
+患者的CKD 患病率及管理现状，为基层CKD 管理优化提供数据支持。方法　于2024 年1—12 月，采用两阶段随机抽
+样法，从成都市武侯区12 家社区卫生服务中心随机抽取6 家，再从该6 家社区卫生服务中心随机抽取符合条件的“两
+病”患者600 例（单纯高血压205 例、单纯2 型糖尿病213 例、“两病”共患182 例）。统计“两病”患者的CKD 患
+病率及管理现状，管理现状包括门诊管理、代谢控制、药物治疗及综合干预情况。采用EpiData 3.1 软件录入数据，采
+用SPSS 21.0 软件进行统计学分析。结果　“两病”患者的CKD 检出率为28.8%（173/600）。其中，单纯高血压患者
+的CKD 检出率为26.8%（55/205），单纯2 型糖尿病患者的CKD 检出率为24.4%（52/213），“两病”共患者的CKD
+检出率为36.3%（66/182）。合并CKD 的“两病”患者中，CKD 3 期39 例（22.5%），CKD 4 期5 例（2.9%），CKD 
+5 期1 例（0.6%），而慢性肾病特殊门诊办理率仅为5.2%（9/173），血糖达标率为59.3%（70/118），血压达标率为
+92.6%（112/121），钠- 葡萄糖协同转运蛋白2 抑制剂/ 胰高糖素样肽-1 受体激动剂（SGLT-2i/GLP-1RA）使用率为
+37.0%（64/173），血管紧张素转换酶抑制剂/ 血管紧张素Ⅱ受体拮抗剂（ACEI/ARB）使用率为52.0%（90/173）。结
+论　成都市武侯区社区卫生服务中心“两病”患者的CKD 发生率较高，且CKD 患者规范化管理不足。提示基层医疗
+卫生机构应提高CKD 的早期筛查和干预能力，加强对CKD 患者的规范化管理，改善患者代谢指标控制情况，这对有
+效预防和延缓疾病进展有重要意义。
+【关键词】　高血压；糖尿病，2 型；慢性肾脏病；社区卫生服务中心；患病率；慢性病管理
+【中图分类号】　R 544.1　R 587.1　R 692.5　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2025.0262
+Prevalence and Management Status of Chronic Kidney Disease in Hypertensive and Type 2 
+Diabetic Populations: a Community-based Cross-sectional Study
+XUE Cuirong, WEI Wei
+*, WU Renyuan, XUE Yaqin, XU Huijiang, LYU Weijiang, JIANG Dandan
+Yulin Community Health Service Center of Wuhou District, Chengdu 610041, China
+*Corresponding author: WEI Wei, Associate chief physician; E-mail: 452613891@qq.com
+【Abstract】　Background　Although the overall prevalence of chronic kidney disease (CKD) in China has decreased, 
+patients with hypertension and type 2 diabetes mellitus (hereinafter referred to as "the two diseases") have a relatively high risk of 
+developing CKD, and the status of their standardized management in primary medical institutions remains unclear. Objective　To 
+conduct a cross-sectional survey of patients with "the two diseases" in community health service centers regarding the prevalence 
+and management status of CKD, so as to provide data support for optimizing the management of chronic kidney disease at the 
+primary level. Methods　From January to December 2024, a two-stage random sampling method was adopted. Taking 12 
+community health service centers in Wuhou District, Chengdu as the sampling frame, 6 institutions were randomly selected, 
+and then 600 eligible patients with "the two diseases" were randomly extracted from these selected institutions (including 205 
+cases of isolated hypertension, 213 cases of isolated type 2 diabetes mellitus, and 182 cases of comorbidity of the two diseases). 
+基金项目：成都市武侯区卫健局医管中心2024 年度重点科研项目（成武医管［2024］A01）
+引用本文：薛翠荣, 魏巍, 吴任远, 等. 高血压和2 型糖尿病人群慢性肾脏病患病率及管理现状：一项社区横断面研究[J]. 中国全科医学, 
+2026, 29(25): 3650-3654, 3663. DOI: 10.12114/j.issn.1007-9572.2025.0262. [www.chinagp.net]
+Xue R C, Wei W, Wu R Y, et al. Prevalence and management status of chronic kidney disease in hypertensive and type 2 diabetic populations: a 
+community-based cross-sectional study[J]. Chinese General Practice, 2026, 29(25): 3650-3654, 3663.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看附件
+
+·3651·
+2026年9月  第29卷  第25期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+The prevalence and management status of CKD in these patients were calculated, covering outpatient management, metabolic 
+intervention, pharmacotherapy, and comprehensive intervention. Data were entered using EpiData 3.1 software, and statistical 
+analysis was performed with SPSS 21.0 software. Results　Among the included population with "the two diseases", 173 cases 
+(28.8%) were diagnosed with CKD. Of these CKD patients, 55 cases (26.8%) were from the isolated hypertension group, 52 cases 
+(24.4%) were from the isolated type 2 diabetes mellitus group, and 66 cases (36.3%) were from the comorbidity group of the two 
+diseases. Among all the CKD patients, 39 cases (22.5%) were at CKD stage 3, 5 cases (2.9%) at CKD stage 4, and 1 case (0.6%) 
+at CKD stage 5. However, only 9 cases (5.2%) were registered for the special outpatient service for chronic kidney disease, 70 
+cases (59.3%) achieved the target of blood glucose control, 112 cases (92.6%) reached the standard of blood pressure control, 64 
+cases (37.0%) took SGLT-2i/GLP-1RA drugs, and 90 cases (52.0%) administered ACEI/ARB drugs. Conclusion　At present, 
+the prevalence of CKD in patients with the two diseases (diabetes/hypertension) in community health service centers of Wuhou 
+District of Chengdu City is relatively high, and the standardized management of CKD patients remains inadequate. These findings 
+indicate that primary medical institutions should improve the capacity for early screening and intervention of CKD, strengthen the 
+standardized management of CKD patients, and enhance the control of patients' metabolic indicators, which is of great significance 
+for effectively preventing and delaying disease progression.
+【Key words】　Hypertension; Diabetes mellitus, type 2; Chronic kidney disease; Community health centers; Prevalence; 
+Chronic disease management
+慢性肾脏病（chronic kidney disease, CKD）是一类
+由多种病因引起的进行性肾功能损害性疾病，其在无明
+显症状的疾病早期即可能出现肾功能下降，若未及时干
+预，最终可能进展为终末期肾病，严重影响患者生存质
+量，同时加重社会医疗资源负担。高血压与2 型糖尿病
+（以下简称“两病”）是引发CKD 的主要危险因素，
+在我国“两病”人群中，CKD 的患病风险显著高于一
+般人群
+［1-2］。随着人口老龄化的加剧和慢性病疾病谱的
+变化，社区“两病”患者数量持续增加，对肾脏健康管
+理提出了更高要求
+［3-4］。尽管基于全国性调查数据的分
+析显示，我国成人CKD 患病率已由2012 年的10.8% 下
+降至2023 年的8.2%
+［5-6］，但其在“两病”人群中的检
+出率明显更高，且多数患者处于早期未诊断状态
+［7-9］。
+社区卫生服务中心作为慢性病管理的“主阵地”，承担
+着“两病”患者随访、健康教育和转诊的重要职责。但
+社区层面对CKD 的早期识别、规范筛查及有效管理仍
+存在不足，CKD 相关检查落实率和转诊率较低，延误
+治疗风险较大
+［10-12］。本研究通过对成都市武侯区6 家
+社区卫生服务中心的“两病”在管人群开展横断面调查，
+旨在明确该人群的CKD 患病率及管理现状，为基层CKD
+干预提供依据，推动CKD 早期发现与标准化治疗。
+1　资料与方法
+1.1　研究对象
+本研究为横断面研究，采用两阶段随机抽样法，于
+2024 年1—12 月先从成都市武侯区12 家社区卫生服务
+中心随机抽取6 家，再从该6 家社区卫生服务中心随机
+抽取已建立健康档案且资料完整的“两病”在管患者作
+为研究对象。
+纳入标准：（1）在社区卫生服务中心已建立慢性
+病管理档案，接受管理时间≥1 年；（2）明确诊断为
+2 型糖尿病和/ 或高血压患者；（3）对本研究知情同意，
+并配合研究相关检查及资料收集工作；（4）具有间隔
+≥3 个月的2 次肾功能或者尿白蛋白/ 肌酐比值（urinary 
+albumin-to-creatinine ratio, UACR）检测数据。
+排除标准：（1）合并急性肾损伤，依据肾脏病
+改善全球预后组织（Kidney Disease: Improving Global 
+Outcomes, KDIGO）急性肾损伤诊断标准，即48 h 内血
+清肌酐（serum creatinine, Scr）升高≥0.3 mg/dL 或较基
+线升高≥50%，或尿量<0.5 mL·kg
+-1·h
+-1 持续6 h，或
+其他严重肾脏疾病（如狼疮性肾炎、遗传性肾病等明确
+肾脏器质性病变）的患者；（2）合并恶性肿瘤、感染
+性疾病或严重心、肺功能不全者；（3）妊娠或哺乳期
+女性；（4）既往有肾移植或正在接受肾替代治疗者；（5）
+资料不完整或拒绝参加调查者。
+样本量计算采用横断面研究患病率估计公式：
+n=Z
+2×P×（1-P）/d
+2。参考既往研究，将目标人群中
+高血压和/ 或2 型糖尿病合并CKD 的预期患病率（P）
+设定为25%
+［5，13］，设定95% 置信水平（Z=1.96）及容
+许误差（d）为4%。计算所得最小样本量为451；考虑
+到抽样设计特点及约10% 的数据缺失可能性
+［14-15］，上
+调10% 后计划至少纳入497 例样本，故设定目标样本
+量为500，最终实际纳入600 例有效患者。
+本研究经武侯区人民医院伦理委员会审核（审批号：
+WHLL2024［K］002），纳入患者均签署知情同意书。
+1.2　研究方法
+1.2.1　资料收集方法
+通过武侯家医系统采集患者的性别、年龄、吸烟和
+饮酒情况、既往史、病程、合并症、家族史、既往治疗
+情况等。其中，吸烟情况以当前吸烟为“是”，当前不
+吸烟为“否”；饮酒情况以每周饮酒≥1 次且乙醇摄入
+量≥15 g 为“是”，否则为“否”。临床检查包括血压、
+
+·3652·
+September 2026, Vol.29 No.25 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+身高、体质量等常规指标的测量，均由社区卫生服务中
+心的医护人员按照标准化操作流程执行。实验室检查数
+据则通过社区卫生服务中心的检验科获取，主要包括血
+糖、血脂、Scr、UACR 等指标。
+1.2.2　CKD 的诊断与分期
+根据KDIGO《CKD 早期识别和干预指南》，本
+研究将满足下列任意一种高危因素的患者定义为成年
+CKD 高危人群，包括糖尿病、高血压、心血管疾病、肥胖、
+高龄（>60 岁）、既往急性肾损伤病史、肾脏病家族史、
+肾结石病史
+［16］。其中，心血管疾病包括冠心病、心肌
+梗死、心力衰竭。
+CKD 诊断标准：（1）肾脏损害持续≥3 个月；
+（2）连续2 次估算肾小球滤过率（estimated glomerular 
+filtration rate, eGFR）<60 mL·min
+-1·（1.73 m
+2）
+-1，且
+持续时间≥3 个月；或连续2 次尿微量白蛋白≥30 mg/
+g，且持续时间≥3 个月
+［16］。其中，eGFR 采用CKD-
+EPI 肌酐修正方程计算（适用于Scr 检测的成人，单位
+mg/dL）：eGFR=141×min（Scr/κ，1）^α×max（Scr/
+κ，1）^（-0.601）×0.993^ 年龄。其中，女κ=0.7，
+男κ=0.9；女α=-0.329，男α=-0.411；min 为取最小
+值，max 为取最大值。单位转换说明：若Scr 检测单位
+为μmol/L，需先转换为mg/dL（1 mg/dL=88.4 μmol/L）。
+转换公式为：Scr（mg/dL）=Scr（μmol/L）/88.4。
+CKD 分期标准：依据KDIGO 标准，结合eGFR
+（CKD-EPI 公式计算）、UACR 或尿微量白蛋白结果判
+定CKD 状态及分期（1~5 期）。具体分期标准如下：
+eGFR ≥90 mL·min
+-1·（1.73 m
+2）
+-1 为 CKD 1 期，
+60~89 mL·min
+-1·（1.73 m
+2）
+-1 为CKD 2 期，30~
+59 mL·min
+-1·（1.73 m
+2）
+-1 为CKD 3 期，15~29 mL·
+min
+-1·（1.73 m
+2）
+-1 为CKD 4 期，<15 mL·min
+-1·
+（1.73 m
+2）
+-1 为CKD 5 期
+［16］。
+1.2.3　CKD 管理状况评估
+参考既往文献
+［2，17］，设置的评估指标包括：（1）
+门诊管理情况，如慢性肾病特殊门诊办理率；（2）代
+谢控制情况，如血糖达标率［以糖化血红蛋白（glycated 
+hemoglobin A1c, HbA1c）<7.0% 为达标］、血压达标率
+［以收缩压<130 mmHg（1 mmHg=0.133 kPa）且舒
+张压<80 mmHg 为达标］、血脂达标率（以总胆固醇
+<4.5 mmol/L、低密度脂蛋白胆固醇<2.6 mmol/L 为达标）、
+尿酸达标率（以男血尿酸<420 μmol/L、女血尿酸
+<360 μmol/L 为达标）；（3）药物治疗情况，如
+钠- 葡萄糖协同转运蛋白2 抑制剂（sodium-glucose 
+cotransporter 2 inhibitors, SGLT-2i）/ 胰高糖素样肽-1
+受体激动剂（glucagon-like peptide-1 receptor agonists, 
+GLP-1RA）使用率、血管紧张素转换酶抑制剂
+（angiotensin-converting enzyme inhibitors, ACEI）/ 血管
+紧张素Ⅱ受体拮抗剂（angiotensin Ⅱ receptor blockers, 
+ARB）使用率、调脂药物使用率、降尿酸药物使用率；（4）
+综合干预情况，生活方式干预指导率（评估患者近1 年
+是否接受过饮食、运动、戒烟限酒等生活方式干预指导
+情况）、肾功能相关检查完善率（评估年度至少接受1
+次Scr、eGFR、UACR 检测情况）。
+1.2.4　质量控制方法
+为确保样本的代表性和数据的可靠性，实施调查的
+医护人员在研究开始前接受了统一培训，内容包括研究
+方案、数据采集方法、CKD 诊断标准及相关检查流程
+等。培训过程中，医护人员还深入学习了CKD 的定义，
+明确CKD 是指eGFR<60 mL·min
+-1·（1.73 m
+2）
+-1 持
+续至少3 个月，或者UACR>30 mg/g 持续超过3 个月。
+在抽样过程中，医护人员从社区卫生服务中心的患者健
+康档案中随机抽取符合条件的患者，抽样方法为通过计
+算机随机数生成器，确保每例符合条件的患者被抽中的
+概率相同。这一过程旨在避免人为因素导致的偏差，提
+高研究结果的科学性和可信度。所有采集的数据通过
+EpiData 3.1 软件录入，录入过程中严格遵循数据录入规
+范，确保数据的准确性和完整性。
+1.3　统计学方法
+采用EpiData 3.1 软件录入数据后，导入SPSS 21.0
+软件进行统计分析。呈正态分布的计量资料以（x-±s）
+表示，计数资料以相对数表示。计数资料组间比较采用
+χ
+2 检验，检验水准α=0.05，3 组间两两比较调整检验
+水准为0.017。
+2　结果
+2.1　“两病”患者临床特征
+600 例“两病”患者中，男308 例（51.3%），女
+292 例（48.7%）；年龄为40~96 岁，平均年龄（68.3±10.5）
+岁；BMI ≥24.0 kg/m
+2 380 例（63.3%）；吸烟120 例
+（20.0%），饮酒183 例（30.5%）；单纯高血压205 例
+（34.2%），单纯2 型糖尿病213 例（35.5%），“两病”
+共患182 例（30.3%）。合并CKD 患者中，合并高脂血
+症109 例（63.0%），合并高尿酸血症29 例（16.8%）；
+使用SGLT-2i/GLP-1RA 64 例（37.0%），使用ACEI/
+ARB 90 例（52.0%）。
+2.2　“两病”患者CKD 检出率及分期
+“两病”患者的CKD 检出率为28.8%（173/600），
+CKD 分期以1~3 期为主［96.5%（167/173）］，见表1。
+单纯高血压患者的CKD 检出率为26.8%（55/205），单
+纯2 型糖尿病患者的CKD 检出率为24.4%（52/213），
+“两病”共患者的CKD 检出率为36.3%（66/182），三
+者比较，差异有统计学意义（χ
+2=7.326，P=0.026）。
+两两比较结果显示，单纯2 型糖尿病患者的CKD 检出
+
+·3653·
+2026年9月  第29卷  第25期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+率低于“两病”共患者，差异有统计学意义（χ
+2=6.579，
+P=0.010）；单纯高血压患者与单纯2 型糖尿病患者
+的CKD 检出率比较，差异无统计学意义（χ
+2=0.320，
+P=0.572）；单纯高血压患者与“ 两病” 共患者的
+CKD 检出率比较，差异无统计学意义（χ
+2=3.993，
+P=0.046）。
+2.3　是否合并CKD“两病”患者临床特征比较
+是否合并CKD“两病”患者的年龄、“两病”患
+病情况、合并高脂血症、合并高尿酸血症、使用SGLT-
+2i/GLP-1RA、使用ACEI/ARB 情况比较，差异有统计学
+意义（P<0.05），见表2。
+2.4　“两病”患者CKD 管理现状
+门诊管理方面，“两病”患者的慢性肾病特殊门
+诊办理率仅为5.2%（9/173）。代谢控制方面，除血
+压达标率为92.6%（112/121），其余指标达标率均
+<60.0%。药物治疗方面，SGLT-2i/GLP-1RA 使用率、
+ACEI/ARB 使用率、调脂药物使用率、降尿酸药物使用
+率均<60.0%。综合干预方面，生活方式干预指导率仅
+为30.1%（52/173），肾功能相关检查完善率<30.0%，
+见表3。
+3　讨论
+本研究聚焦成都市武侯区社区“两病”人群，发现
+其CKD 患病率高达28.8%，显著高于近期研究报道的
+普通人群CKD 患病率8.2%
+［6］。此外，本研究发现，
+同时合并高血压和2 型糖尿病的患者，其CKD 患病率
+高于仅患2 型糖尿病者。单纯高血压患者的CKD 检出
+率为26.8%（55/205），单纯2 型糖尿病患者的CKD 检
+出率为24.4%（52/213），而“两病”共患人群的CKD
+检出率高达36.3%（66/182）。国际上，Satoa 等
+［18］也
+发现，同时合并高血压和糖尿病的患者发展为CKD 的
+风险显著高于单纯糖尿病患者。值得注意的是，本研究
+中“两病”合并CKD 患者SGLT-2i/GLP-1RA 使用率为
+37.0%，提示基层对新型肾脏保护药物已有一定应用，
+但仍有63.0% 患者未使用此类药物。
+与既往研究相比，本研究的CKD 检出率略高于其
+他社区研究
+［6］，可能与研究人群的特征有关。本研究
+表1　“两病”患者CKD 分期情况（n=173）
+Table 1　CKD staging in patients with hypertension/type 2 diabetes
+CKD 分期
+患者数
+百分比（%）
+CKD 1 期
+42
+24.3
+CKD 2 期
+86
+49.7
+CKD 3 期
+39
+22.5
+CKD 4 期
+5
+2.9
+CKD 5 期
+1
+0.6
+注：CKD= 慢性肾脏病。
+表2　是否合并CKD“两病”患者临床特征比较［例（%）］
+Table 2　Comparison of clinical characteristics between patients with 
+hypertension/type 2 diabetes complicated with CKD and those without CKD
+基本信息
+未合并CKD
+（n=427）
+合并CKD
+（n=173）
+χ
+2 值
+P 值
+性别
+2.748
+0.097
+男
+210（49.2）
+98（56.6）
+女
+217（50.8）
+75（43.4）
+年龄
+4.620
+0.032
+40~59 岁
+89（20.8）
+23（13.3）
+≥60 岁
+338（79.2）
+150（86.7）
+BMI
+0.007
+0.935
+<24.0 kg/m
+2
+157（36.8）
+63（36.4）
+≥24.0 kg/m
+2
+270（63.2）
+110（63.6）
+吸烟
+2.780
+0.095
+否
+349（81.7）
+131（75.7）
+是
+78（18.3）
+42（24.3）
+饮酒
+0.022
+0.881
+否
+296（69.3）
+121（69.9）
+是
+131（30.7）
+52（30.1）
+“两病”患病情况
+7.326
+0.026
+单纯高血压
+150（35.1）
+55（31.8）
+单纯2 型糖尿病
+161（37.7）
+52（30.1）
+“两病”共患
+116（27.2）
+66（38.2）
+合并高脂血症
+269（57.0）
+109（63.0）
+4.320
+0.038
+合并高尿酸血症
+60（15.0）
+29（16.8）
+8.910
+0.003
+使用SGLT-2i/GLP-1RA
+264（61.8）
+64（37.0）
+10.230
+0.001
+使用ACEI/ARB
+349（81.7）
+90（52.0）
+12.340
+<0.001
+注：SGLT-2i/GLP-1RA= 钠- 葡萄糖协同转运蛋白2 抑制剂/ 胰
+高糖素样肽-1 受体激动剂，ACEI/ARB= 血管紧张素转换酶抑制剂/
+血管紧张素Ⅱ受体拮抗剂。
+表3　“两病”患者CKD 管理现状
+Table 3　The current management status of CKD in patients with 
+hypertension/type 2 diabetes
+管理指标
+百分比［%（n/N）］
+门诊管理
+慢性肾病特殊门诊办理率
+5.2（9/173）
+代谢控制
+a
+血糖达标率
+59.3（70/118）
+血压达标率
+92.6（112/121）
+血脂达标率
+48.6（53/109）
+尿酸达标率
+37.9（11/29）
+药物治疗
+SGLT-2i/GLP-1RA 使用率
+37.0（64/173）
+ACEI/ARB 使用率
+52.0（90/173）
+调脂药物使用率
+30.6（53/173）
+降尿酸药物使用率
+8.7（15/173）
+综合干预
+生活方式干预指导率
+30.1（52/173）
+肾功能相关检查完善率
+26.0（45/173）
+注：
+a 表示针对实际完成检测人群计算相应指标达标率。
+
+·3654·
+September 2026, Vol.29 No.25 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+纳入的患者均为30 岁及以上的“两病”患者，平均年
+龄为（68.3±10.5）岁，老年人群中CKD 的发病率本身
+就较高。此外，本研究中患者的BMI ≥24.0 kg/m
+2 的比
+例为63.6%，提示肥胖也可能是CKD 的重要危险因素。
+这些因素共同导致了较高的CKD 检出率。
+本研究结果表明，社区卫生服务中心在CKD 管
+理方面存在明显不足。慢性肾病特殊门诊办理率仅为
+5.2%，这一比例远低于预期，提示基层医疗卫生机构
+在CKD 的规范化管理方面仍有较大的提升空间。根据
+Alidrisi 等
+［19］的研究，在新诊断的2 型糖尿病患者中，
+CKD 的偶然检出率较高，且与多种因素相关。这表明
+基层医疗卫生机构需要加强对CKD的筛查和识别能力，
+以便更早地发现和管理CKD 患者。此外，Cunillera-
+Puértolas 等
+［20］也提出，在有2 型糖尿病和/ 或高血压
+病史的患者中，CKD 的进展较为常见，这进一步强调
+了基层医疗卫生机构在CKD 管理中的重要性。Cao 等
+［21］
+的研究进一步表明，饮食模式与老年2 型糖尿病患者的
+CKD 患病率存在关联，这提示社区卫生服务中心在管
+理CKD 时，应重视生活方式干预，尤其是饮食指导。
+在代谢控制方面，本研究发现血糖达标率为
+59.3%，血压达标率为92.6%，而血脂和尿酸达标率较低，
+分别为48.6% 和37.9%。这表明在代谢控制方面，基层
+医疗卫生机构对血压的管理相对较好，但在血糖、血脂
+和尿酸的综合管理上仍需加强。Wake 等
+［22］研究发现，
+在埃塞俄比亚的2 型糖尿病患者中，CKD 的预防态度
+和实践存在不足，这可能与代谢控制不佳有关。此外，
+Shi 等
+［23］的研究也发现，在中国2 型糖尿病患者中，
+CKD 的患病率较高，且与多种危险因素相关，这进一
+步强调了综合代谢控制的重要性。
+在药物治疗方面，本研究发现SGLT-2i/GLP-1RA
+的使用率为37.0%，ACEI/ARB 的使用率为52.0%，这
+表明部分患者已接受较为先进的治疗方案，但仍有一
+部分患者未得到充分的药物干预。2024 年发表的一项
+汇集国内45 家医院数据的前瞻性、多中心研究发现，
+2 型糖尿病合并CKD 患者SGLT-2i/GLP-1RA 使用率为
+44.66%~62.63%
+［23］。此外，一项2025 年发表的丹麦全
+国性队列研究，分析102 216 例2 型糖尿病合并CKD 患
+者后发现其SGLT-2i/GLP-1RA使用率为18.8%~36.6%
+［24］。
+可见，本研究中的SGLT-2i/GLP-1RA 使用率虽与国际
+水平较为接近，但与国内主流水准仍存在差距。这可能
+与基层医疗卫生机构对患者适应证评估不足（如是否存
+在糖尿病、尿蛋白水平）、医保报销政策或用药教育缺
+乏有关。以上提示未来基层医疗工作需加强上述不足，
+并进一步分析未用药人群的临床特征（如eGFR 水平、
+是否合并蛋白尿）以优化药物干预策略。另一方面，
+Ostrominski 等
+［25］的研究发现，非奈利酮在2 型糖尿病
+患者中具有良好的疗效和安全性，这为CKD 的治疗提
+供了新的选择。然而，朱珊
+［26］研究认为，在社区老年
+高血压和2 型糖尿病患者中，药物干预的效果仍有待提
+高。这表明基层医疗卫生机构需要进一步优化药物治疗
+方案，以提高CKD 患者的治疗效果。
+本研究存在一定的局限性。（1）仅采用横断面设计，
+无法推断因果关系；（2）CKD 诊断依赖两次间隔≥3 个
+月的检测数据，但部分患者可能因随访不足导致漏诊；
+（3）未纳入肾脏病理检查，可能低估早期CKD；（4）
+样本局限于成都市武侯区，区域代表性存在一定偏差；
+（5）排除了合并急性肾损伤或其他严重肾脏疾病的患者，
+此类人群可能本身属于CKD 高危群体，排除后可能导
+致研究人群中CKD 患病率低估，无法完全代表“两病”
+人群中所有CKD 患病情况；（6）未详细评估SGLT-2i/
+GLP-1RA 类药物未使用的具体原因（如患者意愿、医
+生处方习惯、药物可及性等）。
+4　小结
+本研究揭示了成都市武侯区社区高血压及2 型糖尿
+病患者中CKD 的高患病率及管理现状的不足。这一结
+果强调了加强基层医疗卫生机构对CKD 早期筛查、规
+范管理和转诊的重要性。通过提高慢性肾病特殊门诊办
+理率、优化药物治疗方案及加强生活方式干预，有望改
+善患者的预后，减少终末期肾病的发生。
+作者贡献：薛翠荣负责研究构思、设计及论文撰
+写，参与数据收集与整理；吴任远、薛雅琴、徐辉江、
+吕惟江、蒋丹丹参与研究数据收集、文章修改；魏
+巍指导文章撰写、修改和质量控制，对文章整体负责、
+监督管理。
+本文无利益冲突。
+参考文献
+［1］汤曦, 石运莹, 王俭勤, 等. 中国成人慢性肾脏病及其并发症早
+期筛查临床路径专家建议(2023 版)[J]. 中国实用内科杂志, 2023, 
+43(3): 198-205. DOI:10.19538/j.nk2023030105.
+［2］高翔, 梅长林. 《慢性肾脏病早期筛查、诊断及防治指南(2022
+年版)》解读[J]. 中国实用内科杂志, 2022, 42(9): 735-739. 
+DOI:10.19538/j.nk2022090108.
+［3］徐菱忆, 惠淼, 朱树宏, 等. 社区慢性肾脏病的筛查与管理现状[J]. 
+北京大学学报( 医学版), 2022, 54(5): 1056-1063. 
+［4］魏李芳, 张玲, 谭娅, 等. 2 型糖尿病合并高血压患者的社区卫
+生服务选择偏好研究[J]. 成都医学院学报, 2023, 18(5): 646-649, 
+657. DOI:10.3969/j.issn.1674-2257.2023.05.022.
+［5］Zhang L X, Wang F, Wang L, et al. Prevalence of chronic kidney 
+disease in China: a cross-sectional survey[J]. Lancet, 2012, 379(9818): 
+815-822. DOI:10.1016/S0140-6736(12)60033-6. 
+［6］Wang L M, Xu X, Zhang M, et al. Prevalence of chronic kidney 
+disease in China: results from the sixth China chronic disease and 
+risk factor surveillance[J]. JAMA Intern Med, 2023, 183(4): 298-310. 
+（下转第3663 页）
+
+·3663·
+2026年9月  第29卷  第25期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+personalized goal orientation[J]. J Eur Acad Dermatol Venereol, 
+2020, 34(1): 142-152. DOI: 10.1111/jdv.15919.
+［31］Ständer S, Stumpf A, Osada N, et al. Gender differences in chronic 
+pruritus: women present different morbidity, more scratch lesions and 
+higher burden[J]. Br J Dermatol, 2013, 168(6): 1273-1280.
+［32］Steinke S, Zeidler C, Riepe C, et al. Humanistic burden of chronic 
+pruritus in patients with inflammatory dermatoses: results of the 
+European Academy of Dermatology and Venereology Network on 
+Assessment of Severity and Burden of Pruritus (PruNet) cross-
+sectional trial[J]. J Am Acad Dermatol, 2018, 79(3): 457-463.e5. 
+［33］Hawro T, Przybyłowicz K, Spindler M, et al. The characteristics and 
+impact of pruritus in adult dermatology patients: a prospective, cross-
+sectional study[J]. J Am Acad Dermatol, 2021, 84(3): 691-700.
+［34］Lipman Z M, Yap Q V, Rosen J, et al. The association of chronic 
+pruritus with patients' quality of life: a cross-sectional study[J]. J Am 
+Acad Dermatol, 2022, 86(2): 448-450.
+［35］Günther M, Kobus C, Perner C, et al. Chronic pruritus in geriatric 
+patients: prevalence, associated factors, and itch-related quality of 
+life[J]. Acta Derm Venereol, 2025, 105: adv42003.
+［36］Huang J H, Choo Y J, Smith H E, et al. Quality of life in atopic 
+dermatitis in Asian countries: a systematic review[J]. Arch Dermatol 
+Res, 2022, 314(5): 445-462. DOI: 10.1007/s00403-021-02246-7.
+［37］张茵, 谷丰, 徐蕾. 思维场疗法对老年慢性病病人焦虑、抑郁
+水平的影响[J]. 护理研究, 2020, 34(16): 2993-2996. 
+［38］张玉. 特应性皮炎药物治疗与药学监护中国专家共识[J]. 中国
+医院药学杂志, 2024, 44(20): 2315-2333.
+［39］杨斯曼, 张曦, 周梦萍, 等. 全科医疗核心特征功能对糖尿病患
+者治疗依从性的影响研究[J]. 中国全科医学, 2022, 25(1): 62-69. 
+（收稿日期：2025-09-17；修回日期：2025-12-28）
+（本文编辑：王凤微）
+DOI:10.1001/jamainternmed.2022.6817.
+［7］滕斌, 诸瑞月, 孟德清, 等. 社区2 型糖尿病合并隐匿性高血压
+患者临床特征及影响因素分析[J]. 中国医药导刊, 2023, 25(2): 
+199-204. DOI: 10.3969/j.issn.1009-0959.2023.02.015.
+［8］黄昱铖, 胡彩红, 许慧清, 等. 基于LASSO-logistic 回归分析南
+京市60 岁及以上高血压合并糖尿病患者慢性肾脏病患病风险[J]. 
+公共卫生与预防医学, 2026, 37(1): 98-102.
+［9］邓兰兰, 李春玲, 张燕. 北京市西城区某社区2 型糖尿病和/ 或高
+血压患者焦虑抑郁状况调查及原因分析[J]. 慢性病学杂志, 2022, 
+23(9): 1300-1303. DOI: 10.16440/J.CNKI.1674-8166.2022.09.06.
+［10］王丽楠, 王通, 聂莲莲, 等. 上海市金山区朱泾社区高血压患者
+患病、血压值及2 型糖尿病并发影响因素分析[J]. 职业与健康, 
+2022, 38(15): 2116-2121. DOI: 10.13329/j.cnki.zyyjk.2022.0450.
+［11］潘多思, 欧永强, 朱鋆, 等. 全科医学管理模式在2 型糖尿病患
+者中的应用进展[J]. 中国医药科学, 2022, 12(12): 33-36. 
+［12］薛鹏, 黄文华, 茅国芳, 等. 苏州通安社区2 型糖尿病合并高
+血压患者血压不达标原因分析[J]. 中国现代医生, 2022, 60(16): 
+36-39.
+［13］上海慢性肾脏病早发现及规范化诊治与示范项目专家组, 高翔, 
+梅长林. 慢性肾脏病筛查 诊断及防治指南[J]. 中国实用内科杂
+志, 2017, 37(1): 28-34. DOI: 10.19538/j.nk2017010108.
+［14］何思颐, 邹锟, 杨楠, 等. 中国公立医院2 型糖尿病防治指南的
+实施效果: 一项使用A-GIST 工具的横断面研究[J]. 医学新知, 
+2025, 35(6): 611-621.
+［15］刘晓华, 周倩, 成守珍. 横断面研究护理论文评价要点解
+读( 二)[J]. 现代临床护理, 2019, 18(7): 78-83. DOI: 10.3969/
+j.issn.1671-8283.2019.07.016.
+［16］Shlipak M G, Tummalapalli S L, Boulware L E, et al. The case for 
+early identification and intervention of chronic kidney disease: 
+conclusions from a Kidney Disease: Improving Global Outcomes 
+(KDIGO) Controversies Conference[J]. Kidney Int, 2021, 99(1): 34-47. 
+［17］Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work 
+Group. KDIGO 2024 clinical practice quideline for the evaluation and 
+management of chronic kidney disease[J]. Kidney int, 2024,105(s4): 
+s117-s314.
+［18］Sato A, Nishimoto M. Real-world use of finerenone in patients with 
+chronic kidney disease and type 2 diabetes based on large-scale 
+clinical studies: FIDELIO-DKD and FIGARO-DKD[J]. Hypertens 
+Res, 2025, 48(6): 1929-1938. DOI: 10.1038/s41440-025-02175-2.
+［19］Alidrisi D A, Alidrisi H A, Reman K A, et al. Prevalence of and 
+factors associated with incidental chronic kidney disease in patients 
+newly diagnosed with type 2 diabetes mellitus[J]. Cureus, 2025, 
+17(2): e79235. DOI: 10.7759/cureus.79235.
+［20］Cunillera-Puértolas O, Vizcaya D, Cobo-Guerrero S, et al. Chronic 
+kidney disease progression in patients with previous type 2 diabetes 
+and/or hypertension: a population-based cohort study from primary 
+care in Spain[J]. BMJ Open, 2025, 15(1): e086919. DOI: 10.1136/
+bmjopen-2024-086919.
+［21］Cao L, Yu P, Zhang L, et al. Association between dietary patterns 
+and chronic kidney disease in elderly patients with type 2 diabetes: a 
+community-based cross-sectional study[J]. Nutr J, 2025, 24(1): 1. 
+［22］Wake A D, Dinsa S B. Chronic kidney disease preventive attitude, 
+practice, and associated factors among type 2 DM patients in 
+Ethiopia: a cross-sectional study[J]. SAGE Open Nurs, 2025, 11: 
+23779608241266070. DOI: 10.1177/23779608241266070.
+［23］Shi L X, Xue Y M, Yu X F, et al. Prevalence and risk factors of 
+chronic kidney disease in patients with type 2 diabetes in China: 
+cross-sectional study[J]. JMIR Public Health Surveill, 2024, 10: 
+e54429. DOI: 10.2196/54429.
+［24］Rørth R, Gerds T A, Kosjerina V, et al. Trends in use of cardiorenal 
+protective medication among people with type 2 diabetes and chronic 
+kidney disease in Denmark[J]. Diabetes Epidemiol Manag, 2025, 19: 
+100286. DOI: 10.1016/j.deman.2025.100286.
+［25］Ostrominski J W, Claggett B L, Miao Z M, et al. Efficacy and safety 
+of finerenone in type 2 diabetes: a pooled analysis of trials of heart 
+failure and chronic kidney disease[J]. Diabetes Care, 2025, 48(5): 
+745-755. DOI: 10.2337/dc24-1873. 
+［26］朱珊. 社区老年性高血压、2 型糖尿病的干预效果[D]. 福州: 
+福建医科大学, 2022.
+（收稿日期：2025-08-29；修回日期：2025-12-31）
+（本文编辑：王凤微）
+（上接第3654 页）

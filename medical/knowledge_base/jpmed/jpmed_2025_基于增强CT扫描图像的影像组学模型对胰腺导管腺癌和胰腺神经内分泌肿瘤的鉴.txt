@@ -1,0 +1,545 @@
+标题: 基于增强CT扫描图像的影像组学模型对胰腺导管腺癌和胰腺神经内分泌肿瘤的鉴别诊断价值
+作者: 庄园, 崔景景, 杨光杰, 李奔, 王宁, 孙虎魁, 王振光
+期刊: 精准医学杂志 2025 第40卷 第3期
+DOI: 10.13362/j.jpmed.202540071
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202540071
+
+
+精准医学杂志2025年6月第40卷第3期 JPrecisMed,June2025,Vol.
+40,No.
+3
+doi:10.
+13362/j.
+jpmed.
+202540071  文章编号:2096-529X(2025)03-0265-05
+[收稿日期]2025-01-08; [修订日期]2025-04-22
+[基金项目]国家自然科学基金项目(81601535)
+[通信作者]王振光,Email:wangzhenguang@qdu.
+edu.
+cn
+基于增强CT 扫描图像的影像组学模型对胰腺导管
+腺癌和胰腺神经内分泌肿瘤的鉴别诊断价值
+庄园1 崔景景2 杨光杰1 李奔1 王宁3 孙虎魁4 王振光1
+(1 青岛大学附属医院核医学科,山东青岛 266075; 2 联影智能(北京)有限公司;
+3 山东第一医科大学附属省立医院放射科; 4 淄博市中心医院核医学和放射治疗科)
+[摘要] 目的 探讨基于增强CT 扫描图像的影像组学模型鉴别诊断胰腺导管腺癌(pancreaticductaladeno-
+carcinoma,PDAC)与胰腺神经内分泌肿瘤(pancreaticneuroendocrineneoplasm,pNEN)的价值。方法 选择2016
+年11月—2022年9月就诊于青岛大学附属医院的291例胰腺肿瘤患者(PDAC 患者218例,pNEN 患者73例)作
+为训练集,选择同期就诊于山东第一医科大学附属省立医院的124例胰腺肿瘤患者(PDAC患者93例,pNEN 患者
+31例)作为测试集。收集所有患者的上腹部增强CT 扫描图像,勾画动脉期及静脉期肿瘤感兴趣区域(ROI),提取
+并筛选图像影像组学特征。采用L1范数正则化、L2范数正则化、绝对值最大归一化、最大最小归一化、Quantile变
+换、Yeo-Johnson变换6种预处理方法对影像组学特征进行预处理,随后分别基于6种预处理方法构建随机森林模
+型。绘制受试者工作特征(ROC)曲线并计算曲线下面积(AUC)验证6种预处理随机森林模型对PDAC 与pNEN
+的鉴别效能,采用布里尔分数(BS)比较不同模型拟合度,并通过决策曲线分析(DCA)评估模型的临床净获益。结
+果 6种预处理随机森林模型在训练集和测试集中的AUC 分别为0.
+981~0.
+998和0.
+685~0.
+840,准确度分别为
+92.
+8%~98.
+2%和51.
+8%~86.
+7%。其中Quantile变换随机森林模型表现最优,其测试集AUC 为0.
+840,灵敏度为
+90.
+2%,特异度为77.
+0%,准确度为86.
+7%,显著优于其他模型,且模型拟合度最佳(BS=0.
+119)。DCA 结果显示
+Quantile变换随机森林模型在训练集和测试集中均具有较高的临床净获益。结论 基于增强CT 扫描图像特征的
+影像组学模型可较为准确地鉴别PDAC与pNEN,其中Quantile变换随机森林模型的鉴别诊断效能最高,具有一
+定临床应用的潜质。
+[关键词] 影像基因组学;体层摄影术,X 线计算机;胰腺肿瘤;癌,胰腺管;神经内分泌瘤;诊断,鉴别;模型构
+建;大数据
+[中图分类号] R445.
+3    [文献标志码] A
+Thevalueofradiomicmodelsbasedoncontrast-enhancedcomputedtomographyimagesindistinguis-
+hingbetweenpancreaticductaladenocarcinomaandpancreaticneuroendocrineneoplasms ZHUANG
+Yuan,CUIJingjing,YANG Guangjie,LIBen,WANG Ning,SUN Hukui,WANG Zhenguang (DepartmentofNuclear
+Medicine,TheAffiliatedHospitalofQingdaoUniversity,Qingdao266075,China)
+[ABSTRACT] Objective Toevaluatethevalueofradiomicmodelsbasedoncontrast-enhancedcomputedtomography(CT)
+imagesindifferentiatingpancreaticductaladenocarcinoma(PDAC)frompancreaticneuroendocrineneoplasms(pNEN). Methods
+Atotalof291casesofpancreatictumors(218PDACcasesand73pNENcases)fromTheAffiliatedHospitalofQingdaoUniversi-
+tyfrom November2016toSeptember2022wereassignedtothetrainingset,while124cases(93PDACcasesand31pNENcases)
+fromShandongProvincialHospitalwereassignedtothetestset.Tumorregionsofinterest(ROI)weredelineatedonarterial-phase
+andvenous-phasecontrast-enhancedCTimagesoftheupperabdomen,andsubsequently,radiomicfeatureswereextractedandse-
+lected.Radomforestmodelswereconstructedusingtheradiomicfeaturespreprocessedwithsixmethodsseparately:L1-normregu-
+larization,L2-normregularization,maximumabsolutenormalization,min-maxnormalization,quantiletransformation,andYeo-
+Johnsontransformation.TheefficacyofthesixrandomforestmodelsfordistinguishingbetweenPDACandpNEN wasassessed
+usingtheareaunderthereceiveroperatingcharacteristiccurve(AUC).TheBrierscore(BS)wascalculatedtoevaluatemodelcali-
+bration.Adecisioncurveanalysis(DCA)wasperformedtoquantifythenetclinicalbenefit. Results Forthesixrandomforest
+models,theAUCswere0.
+981-0.
+998inthetrainingsetand0.
+685-0.
+840inthetestset,withtheaccuraciesbeing92.
+8% -
+98.
+2% and51.
+8%-86.
+7%,respectively.Thequantiletransformation-basedrandomforestmodeldemonstratedthebestperfor-
+mance,showinganAUCof0.
+840,asensitivityof90.
+2%,aspecificityof77.
+0%,andanaccuracyof86.
+7%,significantlysurpassing
+thoseoftheothermodels,alsowiththebestcalibration(BS=0.
+119).TheDCAresultsindicatedthatthequantiletransformation-
+basedrandomforestmodeldemonstratedsuperiornetclinicalbenefitsinboththetrainingsetandtestset. Conclusion Radiomic
+modelsbasedoncontrast-enhancedCTfeaturescaneffectivelydiffe-
+rentiatePDACfrom pNEN,in whichthequantiletransformation-
+basedrandomforestmodelexhibitssuperiordiagnosticperformance,
+·
+5
+6
+2
+·
+
+精准医学杂志2025年6月第40卷第3期 JPrecisMed,June2025,Vol.
+40,No.
+3
+demonstratingpotentialforclinicalapplication.
+[KEY WORDS] Imaginggenomics;Tomography,X-raycomputed;Pancreaticneoplasms;Carcinoma,pancreaticductal;
+Neuroendocrinetumors;Diagnosis,differential;Modelbuilding;Bigdata
+  胰腺导管腺癌(pancreaticductaladenocarcino-
+ma,PDAC)是最常见的胰腺癌病理类型,其主要来
+源于胰管上皮细胞,具有较高的恶性程度及死亡率,
+且近年来发病率显著上升[1-4]。胰腺神经内分泌肿
+瘤(pancreaticneuroendocrineneoplasm,pNEN)是
+一种源于胰腺多能神经内分泌干细胞的异质性肿
+瘤,在胰腺肿瘤中占比约2%
+[5-6]。部分pNEN 的影
+像学表现缺乏特异性,常规影像学检查难以进行精
+准诊断。典型pNEN 的CT 影像可表现为富血供占
+位,在动脉期或门脉期表现为明显强化,可与其他胰
+腺肿瘤相鉴别;但部分pNEN 由于内部纤维间质含
+量较高,强化不典型,而常被误诊为PDAC 或实性
+假乳头状肿瘤等[7]。PDAC 和pNEN 具有不同的
+生物学特性和临床治疗策略[8-9],目前如何准确鉴别
+两者是影像学诊断面临的问题之一。
+影像组学是指从CT、MRI、超声、PET/CT 等
+影像图像中高通量提取的定量特征,包括病灶大小、
+形状、纹理、边缘和功能等信息,将其转化为计算机
+可处理的信息并运用数学算法处理,从而获得更深
+层次和多元化的用于疾病诊断及评估的数据。影像
+组学中提取的特征信息目前在多种疾病的诊疗和预
+后预测方面均有较好效果[10-13],最新研究证实应用
+影像组学可有效鉴别诊断胰腺疾病[14-15]。因此,本
+研究基于增强CT 扫描图像构建影像组学模型,以
+探究该模型对PDAC 与pNEN 的鉴别效能。现将
+结果报告如下。
+1 资料与方法
+1.
+1 一般资料
+选择2016年11月—2022年9月青岛大学附
+属医院及山东第一医科大学附属省立医院收治的
+311例PDAC患者与104例pNEN 患者,将青岛大
+学附属医院的291例患者设为训练集(包括PDAC
+218例及pNEN73例),将山东第一医科大学附属
+省立医院124例患者设为测试集(包括PDAC93例
+及pNEN31例)。患者的纳入标准:①经超声引导
+穿刺活检或术后病理确诊为PDAC 或pNEN 者;
+②穿刺活检或术前2周内行上腹增强CT 检查者;
+③CT 检查前4周内未行抗肿瘤治疗(包括化疗、放
+疗、靶向治疗或免疫治疗)者;④年龄18~80岁,且
+临床资料完整者。排除标准:①合并其他器官恶性
+肿瘤,或存在胰腺转移性肿瘤者;②增强CT 检查图
+像质量不佳者;③合并急性胰腺炎、慢性胰腺炎急性
+发作或自身免疫性胰腺炎等可能干扰肿瘤特征判读
+的胰腺炎性病变者。
+1.
+2 增强CT 扫描图像分割与特征提取
+本研究中患者的增强CT 检查所用仪器包括飞
+利浦BrillianceiCT256、西门子Somatom Defini-
+tionFlash128、西门子SomatomSensation64或飞
+利浦Brilliance16CT 扫描仪。从图像存档和通信
+系统中以DICOM 格式导出所有患者上腹部增强
+CT 检查动脉期及静脉期图像,经图像重采样和灰
+度离散化标准化处理后[16],使用中国上海联影智能
+医疗科技有限公司开发的联影人工智能研究门户
+(uAI)平台(https://urp.
+united-imaging.
+com/),采
+用半自动分割技术在动、静脉期图像上沿病灶边缘
+逐层勾画感兴趣区域(ROI),并生成肿瘤的三维容
+积感兴趣区域(VOI)。由具有5年及8年腹部影像
+诊断经验的两名医师对自动分割结果进行判定,对
+分割不佳的病例在联影uAI平台上逐层手动修正
+ROI并且生成修正后VOI,而后计算组内以及组间
+相关系数(ICCs),将ICCs>0.
+75的特征纳入后续处
+理。最后使用对数滤波、指数滤波、平方滤波、平方
+根滤波、小波变换等方法,提取动脉期+静脉期CT
+扫描图像中共3852个影像组学特征。
+1.
+3 影像组学模型的构建与效能评估
+通过uAI平台将所有特征均值方差归一化,将
+数据集中的每个样本映射到同一尺度[17],随后依次
+采用相关系数、最小冗余最大相关、最小绝对收缩与
+选择算子进行降维,排除冗余或不相关特征,并筛选
+能够鉴别PDAC 与pNEN 的影像组学特征。采用
+L1范数正则化、L2 范数正则化、绝对值最大归一
+化、最大最小归一化、Quantile 变换、Yeo-Johnson
+变换6种预处理方法分别处理上述特征,预处理后
+的特征均输入随机森林分类器,从而构建6种预处
+理随机森林模型。
+1.
+4 统计学处理
+采用ROC曲线及AUC 分析6种预处理随机
+森林模型对PDAC和pNEN 的鉴别诊断效能,绘制
+校正曲线计算布里尔分数(BS)对6种模型的拟合
+度进行整体评价,采用决策曲线分析(DCA)分析6
+种预处理随机森林模型的临床净获益。
+·
+6
+6
+2
+·
+
+精准医学杂志2025年6月第40卷第3期 JPrecisMed,June2025,Vol.
+40,No.
+3
+2 结  果
+2.
+1 患者一般资料
+青岛大学附属医院的291 例患者当中,包括
+218例PDAC患者(低分化81例,中分化119例,高
+分化18例)及73例pNEN 患者(无功能性pNEN
+39例,胰岛素瘤11例,胃泌素瘤8例,胰高血糖素
+瘤2例,生长抑素瘤2例,血管活性肠肽瘤1例,其
+他类型或未分类pNEN10例)。山东第一医科大学
+附属省立医院的124 例患者中,包括93 例PDAC
+患者(低分化41 例,中分化49 例,高分化3 例)及
+31例pNEN 患者(无功能性pNEN15例,胰岛素瘤
+4例,胃泌素瘤4例,生长抑素瘤1例,其他类型或
+未分类pNEN7例)。
+2.
+2 6种预处理随机森林模型的构建及效能评估
+6种预处理随机森林模型均包含了61个影像
+组学特征,包括24 个小波变换特征,17 个纹理特
+征,12个统计特征等。在训练集和验证集中通过
+ROC曲线、校正曲线及DCA 对6种预处理随机森
+林模型性能进行分析。其中Quantile变换随机森
+林模型在训练集和测试集中对PDAC 与pNEN 鉴
+别诊断效能均较高(AUC=0.
+998、0.
+840,准确度=
+92.
+8%、86.
+7%),而Yeo-Johnson 变换随机森林模
+型在训练集以及测试集当中也均具有较好的鉴别诊
+断的效能(AUC=0.
+998、0.
+835,准确度=92.
+8%、
+85.
+5%),见图1、表1。校正曲线结果显示,训练集
+当中Quantile变换随机森林模型与Yeo-Johnson
+变换随机森林模型的BS 均较低,并且在测试集当
+中Quantile变换随机森林模型的BS 最低,这提示
+Quantile变换随机森林模型的鉴别效能最好(图
+2)。DCA 结果显示,所有模型在训练集中都有较高
+的临床净获益,而在测试集中除绝对值最大归一化
+随机森林模型和最大最小归一化随机森林模型外,
+其余模型均有较高的临床净获益(图3)。
+3 讨  论
+传统影像学检查在胰腺病变初诊、分期及制定
+治疗方案和评估治疗效果中起着重要作用,但是在
+鉴别PDAC与pNEN 时仍然面临特异性不足的问
+题[18]。部分pNEN 在CT、MRI动态增强扫描时与
+PDAC的强化方式相似,往往造成两者间的鉴别诊
+断困难[19]。经腹超声检查操作方便、无创、重复性
+好,可实时观察肿瘤形态学特征及血供情况,但由于
+检查时易受肠气干扰,存在假阳性或假阴性概率,对
+胰腺肿瘤诊断作用有限[20]。PET/CT 作为目前最
+先进的影像学检查技术,在诊断PDAC和pNEN 时
+可能因显像剂敏感性差异、肿瘤代谢异质性及小病
+灶分辨率不足而导致结果假阴性或鉴别困难[20-21]。
+尽管细针穿刺细胞学检查被视作是鉴别PDAC 与
+pNEN 的金标准,但其操作可能引发感染、出血及胰
+A:训练集ROC曲线,B:测试集ROC曲线
+图1 6种预处理随机森林模型的ROC曲线
+表1 6种预处理随机森林模型的性能评估
+预处理方法
+训练集
+AUC
+灵敏度(χ/%)特异度(χ/%)准确度(χ/%)
+测试集
+AUC
+灵敏度(χ/%) 特异度(χ/%)
+准确度(χ/%)
+L1范数正则化
+0.
+995
+98.
+0
+96.
+3
+98.
+2
+0.
+821
+86.
+5
+74.
+3
+83.
+1
+L2范数正则化
+0.
+995
+97.
+5
+96.
+5
+98.
+2
+0.
+825
+86.
+5
+65.
+3
+81.
+9
+绝对值最大归一化
+0.
+998
+93.
+4
+90.
+0
+92.
+8
+0.
+793
+55.
+3
+43.
+0
+51.
+8
+最大最小归一化
+0.
+981
+95.
+0
+85.
+7
+94.
+0
+0.
+685
+40.
+0
+57.
+0
+83.
+6
+Quantile变换
+0.
+998
+94.
+3
+90.
+5
+92.
+8
+0.
+840
+90.
+2
+77.
+0
+86.
+7
+Yeo-Johnson变换
+0.
+998
+94.
+3
+90.
+5
+92.
+8
+0.
+835
+90.
+0
+72.
+0
+85.
+5
+·
+7
+6
+2
+·
+
+精准医学杂志2025年6月第40卷第3期 JPrecisMed,June2025,Vol.
+40,No.
+3
+A:训练集校正曲线,B:测试集校正曲线
+图2 6种预处理随机森林模型的校正曲线
+A:训练集DCA,B:测试集DCA
+图3 6种预处理随机森林模型的DCA
+瘘等并发症,且存在腹膜种植风险[22]。为了解决
+PDAC与pNEN 间无创鉴别困难问题,本研究基于
+增强CT 影像组学构建了鉴别诊断模型,旨在降低
+PDAC以及pNEN 的误诊率,为精准诊断提供新的
+方法。
+影像组学能够从传统影像学检查图像中提取大
+量信息,可定量、无创识别肿瘤异质性。本研究构建
+的6种预处理随机森林模型纳入了61个影像组学
+特征,其中包含小波变换特征、纹理特征、统计特征
+等,这些特征对鉴别pNEN 与PDAC 具有重要价
+值。其中小波变换特征可以捕捉肿瘤在不同尺度下
+的异质性特征,纹理特征能反映肿瘤内部细微结构
+的差异,而统计特征则可以量化肿瘤强化模式的灰
+度变化[14-15]。pNEN 与PDAC 在微血管分布、组织
+密度等方面存在显著差异,这些差异可通过上述特
+征得到客观表征,使本模型能够通过识别肿瘤的生
+物学行为鉴别pNEN 与PDAC。
+近年来,多项研究证实基于影像组学特征的随
+机森林模型在疾病鉴别诊断中具有优良性能。有研
+究采用多个CT 影像组学模型区分直肠神经内分泌
+肿瘤和直肠导管腺癌,其中随机森林模型在训练集
+和测试集展现出较好的鉴别效能[23]。为预测肺癌
+患者生存率,PARMAR 等[24]基于增强CT 扫描图
+像比较了12种影像组学模型的性能与稳定性,结果
+表明随机森林模型较其他模型表现出较高的预测效
+能。本研究在随机森林模型的基础上进一步使用6
+种预处理方法,以提升模型性能。结果显示,Quan-
+tile变换随机森林模型在训练集和测试集均表现优
+异,且泛化能力突出,其AUC差值仅为0.
+158,远低
+于其他模型。在测试集中,该模型的灵敏度、特异度
+和准确度均显著优于其他预处理方法。除此之外,
+Quantile变换随机森林模型的校正曲线亦展现出最
+佳校准性能,表明其预测概率与实际风险高度匹配,
+适合临床决策。DCA 结果进一步证实,该模型在训
+练集和测试集中均有较高的临床净获益。
+本研究严格遵循世界卫生组织标准,纳入了全
+亚型pNEN 病例,通过区分神经内分泌与导管上皮
+起源肿瘤的本质差异,提升模型的临床普适性。研
+究整合了双中心6年收治的104例pNEN 患者资
+料,覆盖了pNEN 主要亚型,有效规避亚型细分导
+致的样本量不足问题。此设计与国际主流研究方案
+一致,通过全谱系病例纳入确保模型在真实临床场
+景中的泛化能力与稳健性。但本研究仍存在一定局
+限性,首先,本研究聚焦于增强CT 影像组学模型在
+·
+8
+6
+2
+·
+
+精准医学杂志2025年6月第40卷第3期 JPrecisMed,June2025,Vol.
+40,No.
+3
+鉴别PDAC与pNEN 中的价值,模型缺乏对患者临
+床特征的纳入;其次,本研究的ROI分割仍需要人
+工介入,可能引入操作者依赖性偏差。后续随着计
+算机算法的进步,全自动分割工具的引入有望显著
+提高精确度和工作效率[25]。
+综上所述,基于增强CT 扫描图像特征的影像
+组学模型在PDAC 与pNEN 的鉴别诊断方面具有
+一定价值,其中Quantile变换随机森林模型的鉴别
+诊断效能最高。CT 影像组学在胰腺肿瘤的鉴别中
+具有一定临床应用潜力,其与人工智能算法的深度
+融合有望推动胰腺肿瘤的精准诊断技术革新。
+伦理批准和知情同意:本研究涉及的所有试验均已通过青岛大学附
+属医院医学伦理委员会的审核批准(文件号QYFYWZLL27217)。
+所有试验过程均遵照《赫尔辛基宣言》的条例进行。
+作者声明:庄园、王振光、杨光杰、崔景景、李奔参与了研究设计;庄
+园、杨光杰、王宁、孙虎魁参与了论文的写作和修改。所有作者均阅
+读并同意发表该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] GENERAL OFFICE OF NATIONAL HEALTH COMMIS-
+SION.胰腺癌诊疗指南(2022 年版)[J].临床肝胆病杂志,
+2022,38(5):1006-1030.
+[2] SIEGELRL,MILLERKD,WAGLENS,etal.Cancersta-
+tistics,2023[J].CA ACancerJClin,2023,73(1):17-48.
+[3] KLEIN A P.Pancreaticcancerepidemiology:Understanding
+theroleoflifestyleandinheritedriskfactors[J].NatRevGas-
+troenterolHepatol,2021,18(7):493-502.
+[4] XU Y Y,LIU W,LONGZ,etal.Mortalityandyearsoflife
+lostduetopancreaticcancerinChina,itsprovinces,urbanand
+ruralareasfrom2005to2020:Resultsfromthenationalmor-
+talitysurveillancesystem[J].BMCCancer,2023,23(1):893.
+[5] 吴文铭,陈洁,白春梅,等.中国胰腺神经内分泌肿瘤诊疗指南
+(2020)[J].中国实用外科杂志,2021,41(6):601-617,632.
+[6] ELKELANY O O,KARAISZ F G,DAVIES B,etal.An
+overviewofpancreaticneuroendocrinetumorsandanupdateon
+endoscopictechniquesfortheirmanagement[J].CurrOncol,
+2023,30(8):7566-7580.
+[7] 李颖,边云,邵成伟.胰腺神经内分泌肿瘤基于人工智能的影
+像组学进展[J].放射学实践,2024,39(10):1399-1403.
+[8] 马露,何为,刘剑羽.扩散加权成像单指数模型及体素内不相
+干运动模型鉴别乏血供胰腺神经内分泌肿瘤和胰腺癌的价值
+[J].中国医学影像学杂志,2019,27(7):487-490.
+[9] GUO C G,CHEN X,WANG Z Q,etal.Differentiationof
+pancreaticneuroendocrinecarcinomafrom pancreatic ductal
+adenocarcinomausingmagneticresonanceimaging:Thevalue
+ofcontrast-enhancedanddiffusionweightedimaging[J].Onco-
+target,2017,8(26):42962-42973.
+[10]杨采薇,蒋涵羽,刘曦娇,等.影像组学在胰腺肿瘤病变影像学
+评估中的研究进展[J].放射学实践,2019,34(9):963-968.
+[11]MAINO C,VERNUCCIO F,CANNELLA R,etal.Ra-
+diomicsandliver:Whereweareand whereweareheaded?
+[J].EurJRadiol,2024,171:111297.
+[12]WARKENTIN M T,AL-SAWAIHEY H,LAMS,etal.Ra-
+diomicsanalysistopredictpulmonarynodulemalignancyusing
+machinelearningapproaches[J].Thorax,2024,79(4):307-
+315.
+[13]MAYERHOEFER MARIUSE,ANDRZEJM,GEORGL,et
+al.Introductiontoradiomics[J].JNuclMedOffPublSocNucl
+Med,2020,61(4):488-495.
+[14]HE M,LIU ZY,LIN YS,etal.Differentiationofatypical
+non-functionalpancreaticneuroendocrinetumorandpancreatic
+ductaladenocarcinomausingCTbasedradiomics[J].EurJRa-
+diol,2019,117:102-111.
+[15]ZHANGT,XIANGY,WANGH,etal.Radiomicscombined
+with multiple machinelearningalgorithmsin differentiating
+pancreaticductaladenocarcinomafrom pancreaticneuroendo-
+crinetumor:Morehandsproduceastrongerflame[J].JClin
+Med,2022,11(22):6789.
+[16]NIEP,YANG GJ,WANG Y M,etal.A CT-baseddeep
+learningradiomicsnomogram outperformstheexistingprog-
+nosticmodelsforoutcomepredictioninclearcellrenalcellcar-
+cinoma:A multicenterstudy[J].EurRadiol,2023,33(12):
+8858-8868.
+[17]赵晓萌,邵硕,郑宁,等.IVIM、DKI联合DCE-MRI的影像组
+学在预测乳腺癌HER-2表达状态中的应用价值[J].磁共振成
+像,2024,15(7):105-111.
+[18]佟陈昀颢,张水生,张韶凯,等.影像学检查对胰腺癌的鉴别诊
+断价值:全国多中心回顾性研究[J].中国肿瘤,2024,33(6):
+508-514.
+[19]汪薇,饶圣祥,曾蒙苏,等.增强磁共振成像对乏血供胰腺神经
+内分泌肿瘤及胰腺导管腺癌的鉴别诊断价值[J].中国临床医
+学,2021,28(5):782-788.
+[20]段丽红,郭丽苹,尹丽,等.经腹超声联合超声造影评估胰腺癌
+临床分期的价值研究[J].中国现代药物应用,2023,17(1):
+63-66.
+[21]KRISHNARAJU VS,KUMARR,MITTALBR,etal.Dif-
+ferentiatingbenignand malignantpancreatic masses:Ga-68
+PSMAPET/CTasanewdiagnosticavenue[J].EurRadiol,
+2021,31(4):2199-2208.
+[22]ZOFIA R A.Ultrasound-guided percutaneous core-needle
+biopsyoffocalpancreaticlesions-practicalaspectss[J].JUltra-
+son,2022,22(89):117-120.
+[23]赵金莉.基于CT 图像的放射组学对直肠神经内分泌肿瘤和直
+肠腺癌的鉴别诊断价值[D].沈阳:中国医科大学,2021.
+[24]PARMARC,GROSSMANNP,BUSSINKJ,etal.Machine
+learningmethodsforquantitativeradiomicbiomarkers[J].Sci
+Rep,2015,5:13087.
+[25]LAMBIN P,LEIJENAAR R T H,DEIST T M,etal.Ra-
+diomics:Thebridgebetweenmedicalimagingandpersonalized
+medicine[J].NatRevClinOncol,2017,14(12):749-762.
+(本文编辑 范睿心 厉建强)
+·
+9
+6
+2
+·

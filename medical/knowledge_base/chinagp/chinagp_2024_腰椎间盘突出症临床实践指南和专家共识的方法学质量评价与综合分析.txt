@@ -1,0 +1,1106 @@
+标题: 腰椎间盘突出症临床实践指南和专家共识的方法学质量评价与综合分析
+期刊: 中国全科医学 2024 第27卷 第31期
+DOI: 10.12114/j.issn.1007-9572.2024.0051
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0051
+
+
+·3857·
+2024年11月  第27卷  第31期
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+中国全科医学
+·指南·共识·
+腰椎间盘突出症临床实践指南和专家共识的
+方法学质量评价与综合分析
+秦晓宽
+1，孙凯
+1，2，冯天笑
+1，3，肖想玉
+1，4，王国辰
+5，苏祥飞
+5，魏戌
+1，2*，
+朱立国
+1，2*
+1.100102 北京市，中国中医科学院望京医院
+2.100012 北京市，中医正骨技术北京市重点实验室
+3.100029 北京市，北京中医药大学
+4.250355 山东省济南市，山东中医药大学
+5.100029 北京市，中华中医药学会
+* 通信作者：魏戌，研究员；E-mail：weixu.007@163.com
+朱立国，主任医师；E-mail：zhlg95@aliyun.com
+【摘要】　背景　腰椎间盘突出症是腰痛最常见的原因之一，近年来发病人数逐年攀升。高质量的指南可规范临
+床诊疗行为，提高医疗质量，筛选和制订高质量的指南对于规范腰椎间盘突出症的临床实践具有十分重要的意义。目
+的　系统分析腰椎间盘突出症诊疗指南和专家共识方法学质量，并对高质量指南和共识推荐意见进行分析，以期为腰
+椎间盘突出症的防治提供借鉴。方法　计算机检索数据库、指南网和相关专业网中腰椎间盘突出症指南和专家共识，
+检索时间为各数据库建库至2023-10-31。同时手工检索当当网等获取以专著形式出版的腰椎间盘突出症指南。由2 名
+研究人员通过一致性评价后，采用临床指南研究与评价系统Ⅱ（AGREE Ⅱ）对纳入的指南及共识进行方法学质量评价，
+并对高质量指南和共识推荐意见进行分析。结果　共纳入15 部指南及共识，最终9 部评级为B 级（修改后可推荐），
+6 部为C 级（暂不推荐）。推荐疗法主要包括卧床休息、药物治疗、手术治疗等。结论　腰椎间盘突出症诊疗指南和
+专家共识的方法学质量有待进一步提高，部分治疗方法存在争议，指南推荐意见尚需进一步完善、统一，以优化临床
+实践。
+【关键词】　腰椎间盘突出症；腰痛；指南；专家共识；指南研究与评价工具Ⅱ；方法学质量评价
+【中图分类号】　R 681.53　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2024.0051
+Methodological Quality Evaluation and Comprehensive Analysis of Clinical Practice Guidelines 
+and Expert Consensus for Lumbar Disc Herniation
+QIN Xiaokuan
+1，SUN Kai
+1，2，FENG Tianxiao
+1，3，XIAO Xiangyu
+1，4，WANG Guochen
+5，SU Xiangfei
+5，
+WEI Xu
+1，2*，ZHU Liguo
+1，2*
+1.Wangjing Hospital of China Academy of Chinese Medical Sciences，Beijing 100102，China
+2.Beijing Key Laboratory of Chinese Medicine Zhenggu Technology，Beijing 100102，China
+3.Beijing University of Chinese Medicine，Beijing 100029，China
+4.Shandong University of Traditional Chinese Medicine，Ji'nan 250355，China
+5.China Association of Chinese Medicine，Beijing 100029，China
+*Corresponding authors：WEI Xu，Researcher；E-mail：weixu.007@163.com
+基金项目：国家重点研发计划项目（2021YFC1712800，2021YFC1712803）；2022 年度北京中医药“十四五”重点专科项目（BJZKLC0004）；
+中华中医药学会研究与评价课题（CACMRE2020-A-01）
+引用本文：秦晓宽，孙凯，冯天笑，等. 腰椎间盘突出症临床实践指南和专家共识的方法学质量评价与综合分析［J］. 中国全科医学，
+2024，27（31）：3857-3864. DOI：10.12114/j.issn.1007-9572.2024.0051.［www.chinagp.net］
+QIN X K，SUN K，FENG T X，et al. Methodological quality evaluation and comprehensive analysis of clinical practice guidelines and expert 
+consensus for lumbar disc herniation［J］. Chinese General Practice，2024，27（31）：3857-3864.
+©Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·3858·
+November 2024，Vol.27 No.31 
+Chinese General Practice
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+ZHU Liguo，Chief physician；E-mail：zhlg95@aliyun.com
+【Abstract】　Background　Lumbar disc herniation is one of the most common causes of low back pain，and the 
+number of cases has been increasing year by year in recent years. High-quality guidelines can standardize clinical diagnosis and 
+treatment behaviors and improve medical quality，and screening and formulating high-quality guidelines are of great significance 
+for standardizing the clinical practice of lumbar intervertebral disc herniation. Objective　To systematically evaluate the 
+methodological quality of clinical practice guidelines and expert consensus for lumbar intervertebral disc herniation，and to analyze 
+the high-quality guidelines and consensus recommendations，in order to provide reference for the prevention and treatment of 
+lumbar intervertebral disc herniation. Methods　Clinical practice guidelines and expert consensus on lumbar intervertebral 
+disc herniation were searched from the establishment of each database to October 31，2023. At the same time，Dangdang.com 
+and others were manually searched to obtain the guidelines for lumbar intervertebral disc herniation published in the form of 
+monographs. After the consistency evaluation was passed by two researchers，the methodological quality of the included guidelines 
+and consensus was evaluated using the AGREE Ⅱ tool，and the high-quality guidelines and consensus recommendations were 
+analyzed. Results　A total of 15 guidelines and consensus were included，and the final recommendation level of 9 guidelines was 
+B（can be recommended after modification），and 6 guidelines and consensus were C（not recommended for the time being）. 
+Recommendations mainly include bed rest，medication，surgical treatment，etc. Conclusion　The methodological quality of 
+the clinical practice guidelines and expert consensus for lumbar intervertebral disc herniation needs to be further improved，and 
+some treatment methods are controversial，and the recommendations of the guidelines need to be further improved and unified to 
+optimize clinical practice.
+【Key words】　Lumbar disc herniation；Lumbago；Guidelines；Expert consensus；AGREE Ⅱ；Methodological 
+quality assessment
+国际权威医学期刊《柳叶刀》刊登的一篇综述显示
+腰痛是全球生产力损失的首要原因，全球致残首因
+［1］，
+而腰椎间盘突出症（以下简称腰突症）是腰痛常见的原
+因之一。腰突症患病率为7.62%
+［2］，近年来发病人数
+逐年攀升，导致缺勤、医疗资源负担和其他社会成本显
+著增加，给人们带来了巨大的经济负担和精神压力。
+临床实践指南（以下简称指南）是指导医务工作者
+开展诊疗活动的重要工具，2011 年美国医学科学院更
+新了指南的定义：针对临床问题，基于系统评价的证据，
+在比较不同干预措施利弊的基础上，形成为患者提供最
+佳医疗保健的推荐意见
+［3］。高质量的指南可提高医疗
+质量，减少资源浪费，低质量的指南可能误导临床
+［3-4］。
+所以对现有指南及共识进行方法学质量评价显得越发重
+要。然而目前尚缺乏针对腰突症指南及共识的方法学质
+量评价，本研究采用国际公认的指南方法学质量评价工
+具Ⅱ（AGREE Ⅱ）
+［5］对已公开发表的中医、西医、中
+西医腰突症指南和共识进行评价，并总结推荐意见，
+以期为临床诊疗提供参考，同时为指南的制/ 修订提供
+借鉴。
+1　资料与方法
+1.1　纳入与排除标准
+1.1.1　纳入标准：（1）诊疗疾病符合腰突症疾病定义；
+（2）研究符合临床指南
+［3］、专家共识
+［6］规范格式；（3）
+内容涉及诊疗、康复等推荐意见；（4）语言限定为英
+文或中文；（5）如两部指南为更新关系则纳入最新版本。
+1.1.2　排除标准：（1）仅发表指南摘要；（2）无法获
+取全文；（3）指南或共识的解读、改编或翻译版本。
+1.2　检索策略
+检索Medline、EmBase、Web of Science、中国知网、
+维普网、万方数据知识服务平台、中国生物医学文献数
+据库、英国国家卫生与临床技术优化研究所（NICE）、
+指南国际网络（GIN）、世界卫生组织（WHO）、中国
+临床指南文库网、中华医学知识库指南文库和苏格兰
+校际指南协作网（SIGN）等相关资源。检索时间截至
+2023-10-31。此外，筛查纳入指南的参考文献，同时
+手工检索当当网等。英文检索词包括intervertebral disc 
+displacement、intervertebral disk degeneration、lumbar 
+disc herniation、guideline、consensus 等；中文检索词
+包括腰椎间盘突出症、腰椎间盘、指南、共识等。以
+Medline 为例，具体检索策略见表1。
+1.3　文献筛选及资料提取
+文献筛选、资料提取由两名研究者独立进行，如遇
+分歧则请第三方解决。筛选文献时首先去重，其次通过
+标题、摘要排除不相关的研究，进一步审阅全文后，判
+断是否纳入。最后追溯纳入研究的参考文献，同时手工
+检索当当网等以避免遗漏。资料提取包括：指南名称、
+类型、所属国家、制订年份及机构、关注临床问题类型。
+1.4　纳入指南的质量评价
+两名评价员使用AGREE Ⅱ工具
+［5］对纳入的研究
+进行评价。根据6 个领域各条目符合程度进行打分，每
+条目分值为1~7 分，分数越高代表符合程度越高
+［7］。
+
+·3859·
+2024年11月  第27卷  第31期
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+中国全科医学
+评价结束后，根据指南各领域标准化得分分为三个推荐
+等级：A 级，领域得分均≥60%，可直接推荐；B 级，
+3 个或3 个以上领域≥30%，有领域得分<60%，修改
+后可推荐；C 级，3 个以上领域得分<30%，暂不推荐。
+1.5　质量控制
+组织两名评价员共同学习AGREE Ⅱ相关条目，并
+进行两次预试验，运用SPSS 22.0 软件计算组内相关系
+数验证一致性
+［8-9］。当组内相关系数≥0.8 时开始正式
+评价，保证评价员对条目的理解基本一致。
+1.6　统计分析
+采用Excel 2019 描述性分析指南及共识的基本内
+容。采用SPSS 22.0 进行数据分析，正态分布的计量资
+料以（x-±s）表示，组间比较用t 检验，非正态分布计
+量资料以M（P25，P75）表示，组间比较采用非参数检验。
+检验水平为α=0.05。
+1.7　主要推荐意见汇总
+对评级在B 级及以上的腰突症指南性文件中的主要
+推荐意见进行汇总，分析国内外指南在治疗方面的异同。
+2　结果
+2.1　文献检索结果及纳入基本特征
+通过各途径检索共获得811 篇文献，经剔重及各级
+复筛后，最终纳入15 篇研究
+［10-24］。文献筛选流程见图1。
+纳入研究基本特征见表2。研究均由学会或协会发表；
+注：NICE= 英国国家卫生与临床技术优化研究所，GIN= 指南国
+际网络，WHO= 世界卫生组织，SIGN= 苏格兰校际指南协作网。
+图1　文献筛选流程及结果
+Figure 1　Literature screening process and result 
+表1　在 Medline 中检索腰椎间盘突出症指南的策略
+Table 1　Strategy for searching guidelines on Lumbar disc herniation in 
+Medline
+步骤
+检索式
+#1
+（（（"Intervertebral Disc Degeneration"［Mesh］）O R 
+"Intervertebral Disc Displacement"［Mesh］）O R（spondylochondrosis
+［Title/Abstract］））O R（chondrosis［Title/Abstract］）
+#2
+（"Lumbar Vertebrae"［Mesh］）O R "Lumbosacral Region"［Mesh］
+#3
+（（（"Intervertebral Disc"［Mesh］）O R（intervertebral［Title/
+Abstract］））O R（intradiscal［Title/Abstract］））O R（Intervertebral 
+Disks［Title/Abstract］）
+#4
+#2 AND #3
+#5
+#1 AND #4
+#6
+（Lumbar disc herniation［Title/Abstract］）O R（lumbar disk 
+hernia［Title/Abstract］）
+#7
+#5 OR#6
+#8
+guideline ［Publication Type］ O R guidelines ［MeSH］ O R 
+practice guideline ［Publication Type］ O R practice guidelines 
+［MeSH］ O R consensus ［MeSH］
+#9
+guideline* ［Title/Abstract］ O R consensus ［Title/Abstract］
+#10 #8 O R #9
+#11 #7 AND #10
+#12 （"1000/01/01"［Date - Publication］ ："2023/10/31"［Date - 
+Publication］）
+#13 #11 AND #12
+通过数据库检索获得相关文献
+（n=811）：中国知网（n=139）、
+万方数据知识服务平台（n=221）、
+维普网（n=159）、中国生物医学文
+献数据库（n=95）、Medline（n=171）、
+Web of Science（n=19）、EmBase（n=7）
+通过其他资源补充获得文献
+（n=20）：NICE（n=1）、
+GIN（n=1）、WHO（n=0）、
+SIGN（n=0）、中国临床指
+南文库网（n=16）、中华医
+学知识库精选指南库（n=2）
+最终纳入的指南（n=15）
+纳入的指南（n=14）
+剔重后获得文献（n=549）
+阅读标题和摘要初筛后获得文献（n=34）
+补充检索当当网等获
+得指南（n=1）
+阅读标题和摘要排除（n=515）
+阅读全文复筛排除（n=21）：
+与主题无关（n=4）
+指南或共识的解读版本或翻译（n=12）
+指南研究过程的文件（n=5）
+追溯参考文献补充
+纳入（n=1）
+临床问题主要关注疾病的诊断、治疗、预防及康复。
+2.2　方法学质量评价结果
+两名评价员评分结果组内相关系数为0.965
+（>0.80），可进行正式评价分析。
+2.2.1　总体评价结果：根据纳入研究评价结果，最终9
+项研究推荐级别为B 级，其余研究为C 级。纳入研究
+各领域标准化得分结果见表3。
+2.2.2　各条目评价结果：（1）范围和目的（领域一）：
+该领域平均标准化得分为58.21%，整体得分较高，大
+部分研究较为清晰地阐明总目的，主要缺陷在于所要
+应用人群类别较为粗略，未提供细致的疾病分期以及患
+者排除标准。（2）参与人员（领域二）：该领域整体
+得分偏低，平均标准化得分为32.96%。6 部指南或共
+识
+［15，19，21-24］对指南制订组所有相关专业人员研究领域、
+单位及在制订小组中职责报告不充分，纳入的研究均未
+报告公众的观点和偏好，9 部指南或共识
+［11，14，16，17，19-23］
+未明确规定计划应用人群（医院等级、医师专业方向等）。
+（3）制订的严谨性（领域三）：该领域平均标准化得
+分为33.54%，7 部指南或共识
+［12-14，16，17，19，23］较为细
+致地进行了证据检索，仅4 部指南
+［12-13，19，23］提供证据
+的纳入、排除标准，2 部指南
+［13，19］描述了证据的优、
+
+·3860·
+November 2024，Vol.27 No.31 
+Chinese General Practice
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+表2　纳入指南和共识的基本特征
+Table 2　Basic features of inclusion guidelines and consensus
+序号
+指南或共识名称
+类型
+国家
+制订年份
+（年）
+制订机构
+关注临床
+问题类型
+1
+腰椎间盘突出症中西医结合诊疗专家共识
+［10］
+共识
+中国
+2023
+世界中医药学会联合会骨质疏松专业委员会
+诊疗、康复
+2
+腰椎间盘突出症诊治与康复管理指南
+［11］
+指南
+中国
+2022
+中国康复医学会脊柱脊髓专业委员会基础研究
+与转化学组
+诊疗、康复
+3
+Japanese Orthopaedic Association（JOA）clinical practice guidelines on the management 
+oflumbar disc herniation，third edition – secondary publication
+［12］
+指南
+日本
+2022
+日本骨科协会
+诊疗
+4
+Korean medicine clinical practice guidelines for lumbar herniated intervertebral disc in 
+adults：based on grading of recommendations assessment，development and evaluation
+（GRADE）
+［13］
+指南
+韩国
+2022
+韩国针灸医学会、韩国康复医学会、韩国脊柱
+与关节医学协会
+治疗
+5
+老年腰椎间盘突出症诊疗指南
+［14］
+指南
+中国
+2021
+中华医学会骨科学分会骨科康复学组、中国康复
+医学会脊柱脊髓专业委员会腰椎研究学组
+诊疗
+6
+中医康复临床实践指南·腰痛（腰椎间盘突出症）
+［15］
+指南
+中国
+2021
+中医康复标准研究基地
+诊疗、康复
+7
+腰椎间盘突出症诊疗指南
+［16］
+指南
+中国
+2020
+中华医学会骨科学分会脊柱外科学组、
+中华医学会骨科学分会骨科康复学组
+诊疗
+8
+腰椎间盘突出症诊疗中国疼痛专家共识
+［17］
+共识
+中国
+2020
+中华医学会疼痛学分会脊柱源性疼痛学组
+诊疗、预防
+9
+中医整脊科临床诊疗指南 腰椎间盘突出症
+［18］
+指南
+中国
+2019
+中华中医药学会
+诊疗、预防
+10
+Nonsurgical treatments for patients with radicular pain from lumbosacral disc herniation
+［19］指南
+韩国
+2019
+韩国康复医学学会
+治疗
+11
+“腰椎间盘突出症的康复治疗”中国专家共识
+［20］
+共识
+中国
+2017
+中国医师协会康复医师分会骨骼肌肉专业委员会
+治疗、康复
+12
+安徽省腰椎间盘突出症分级诊疗指南（2015 年版）
+［21］
+指南
+中国
+2015
+安徽省医学会
+诊疗
+13
+Treatment of lumbar disc herniation with radiculopathy. Clinical practice guidelines 
+endorsed by The Polish Society of Spinal Surgery
+［22］
+指南
+波兰
+2015
+波兰脊柱外科学会
+治疗
+14
+Insertion of an annular disc implantat lumbar discectomy
+［23］
+指南
+英国
+2014
+NICE
+治疗
+15
+An evidence-based clinical guideline for the diagnosis and treatment of lumbar disc 
+herniation with radiculopathy
+［24］
+指南
+美国
+2013
+北美脊柱外科学会（NASS）
+诊疗
+表3　纳入指南和共识的AGREE Ⅱ评价结果
+Table 3　AGREE Ⅱ evaluation results included in guidelines and consensus
+指南或共识
+范围和
+目的
+参与
+人员
+制订的
+严谨性
+表达
+清晰性
+应用性
+编辑
+独立性
+指南推
+荐等级
+腰椎间盘突出症中西医结合诊疗专家共识
+［10］
+61.11%
+52.78%
+3.13%
+27.78%
+2.08%
+29.17%
+C 级
+腰椎间盘突出症诊治与康复管理指南
+［11］
+58.33%
+19.44%
+37.50%
+88.89%
+8.33%
+41.67%
+B 级
+Japanese Orthopaedic Association（JOA）clinical practice guidelines on 
+the management oflumbar disc herniation，third edition – secondary publication
+［12］
+66.67%
+72.22%
+62.50%
+91.67%
+18.75% 87.50%
+B 级
+Korean medicine clinical practice guidelines for lumbar herniated intervertebral disc
+ in adults：based on grading of recommendations assessment，development 
+and evaluation（GRADE）
+［13］
+69.44%
+44.44%
+57.29%
+69.44%
+14.58% 79.17%
+B 级
+老年腰椎间盘突出症诊疗指南
+［14］
+69.44%
+25.00%
+36.46%
+66.67%
+10.42% 29.17%
+B 级
+中医康复临床实践指南·腰痛（腰椎间盘突出症）
+［15］
+58.33%
+44.44%
+8.33%
+27.78%
+4.17%
+12.50%
+C 级
+腰椎间盘突出症诊疗指南
+［16］
+63.89%
+25.00%
+36.46%
+66.67%
+6.25%
+8.33%
+B 级
+腰椎间盘突出症诊疗中国疼痛专家共识
+［17］
+25.00%
+30.56%
+26.04%
+41.67%
+2.08%
+8.33%
+C 级
+中医整脊科临床诊疗指南 腰椎间盘突出症
+［18］
+36.11%
+44.44%
+8.33%
+19.44%
+0%
+12.50%
+C 级
+Nonsurgical treatments for patients with radicular pain from lumbosacral disc herniation
+［19］80.56%
+33.33%
+57.29%
+69.44%
+12.50% 66.67%
+B 级
+“腰椎间盘突出症的康复治疗”中国专家共识
+［20］
+33.33%
+25.00%
+28.13%
+33.33%
+0%
+8.33%
+C 级
+安徽省腰椎间盘突出症分级诊疗指南（2015 版）
+［21］
+25.00%
+8.33%
+0%
+41.67%
+6.25%
+0%
+C 级
+Treatment of lumbar disc herniation with radiculopathy. Clinical practice 
+guidelines endorsed by the Polish Society of Spinal Surgery
+［22］
+58.33%
+13.88%
+14.58%
+63.89%
+6.25%
+70.83%
+B 级
+Insertion of an annular disc implantat lumbar discectomy
+［23］
+86.11%
+16.67%
+71.88%
+86.11%
+14.58% 41.67%
+B 级
+An evidence-based clinical guideline for the diagnosis and treatment of lumbar 
+disc herniation with radiculopathy
+［24］
+80.56%
+38.89%
+55.21%
+69.44%
+6.25%
+62.50%
+B 级
+平均
+58.21%
+32.96%
+33.54%
+57.59%
+7.50%
+37.22%
+—
+注：AGREE Ⅱ= 临床指南研究与评价系统Ⅱ；—表示无相关内容。
+
+·3861·
+2024年11月  第27卷  第31期
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+中国全科医学
+劣势，3 部指南
+［12-13，24］阐述了推荐意见的考虑要素及
+做出最终决定的过程，11 部指南或共识
+［10，13-18，20-22，24］
+在形成推荐意见时对健康获益、不良反应以及风险报
+告不够充分，比如未给出支持数据，仅2 部指南
+［19，23］
+明确阐述推荐意见和支持证据之间的联系，并标注参考
+文献，各仅有1 部指南在发表前接受专家的外部评审，
+提供详尽的更新流程。（4）表达的明晰性（领域四）：
+该领域平均标准化得分为57.59%，整体方法学质量较
+好，主要缺陷为少数指南或共识推荐意见缺乏明确的辨
+识度。（5）应用性（领域五）：该领域得分最低，平
+均标准化得分为7.50%，主要不足为应用过程的推动和
+制约因素报告匮乏，未提供相关资料促进指南的使用和
+推广，未考虑推荐意见应用时额外资源投入情况，指南
+的核心推荐意见中缺乏明确的监控与审计标准的阐述。
+（6）编辑独立性（领域六）：该领域平均标准化得分
+为37.22%，指南或共识在该领域得分差距较大。3 部指
+南
+［12-13，22］明确指出资助机构的观点或利益不会影响制
+订过程，7 部指南
+［10-13，19，22，24］较为清楚地描述工作组
+成员利益冲突情况。
+2.2.3　亚组分析：纳入研究不同亚组的AGREE Ⅱ各领
+域评分及比较见表4。相较于国内的指南共识，国外的
+指南在范围和目的、制订严谨性、表达清晰性、应用性
+及编辑独立性方面评分更为出色，指南在应用性方面评
+分高于共识，与西医指南共识相比，中医或中西医指南
+共识在表达清晰性方面评分较低（P<0.05）。
+2.3　推荐意见汇总
+2.3.1　卧床休息：国内指南有3 部
+［11，14，16］提及，均
+认为在急性期时应卧床休息，但应尽量缩短卧床时间，
+在症状得到缓解后，建议尽早适度恢复正常的活动。国
+外指南有1 部
+［19］提及，不推荐有神经痛的腰突症患者
+卧床休息，因为与继续活动相比没有表现出更好地临床
+疗效。
+2.3.2　药物治疗：（1）非甾体抗炎药，国内指南有3
+部
+［11，14，16］提及，均认为可缓解腰痛并改善功能状态，
+然而，在坐骨神经痛的改善方面，效果并不显著，用
+药时应警惕胃肠道、心血管等相关风险。国外指南有2
+部
+［12，19］提及并推荐使用，但其治疗效果仍需进一步研究。
+（2）阿片类止痛药，国内指南有3 部
+［11，14，16］提及，
+不建议长期使用，注意长期使用药物可能产生的不良反
+应以及对药物的依赖性。国外1 部指南
+［19］提及，因具
+有良好的止痛效果而推荐使用，但应注意其成瘾性。
+（3）糖皮质激素，国内指南有2 部
+［11，16］提及，若
+无明显禁忌可短期使用缓解炎性疼痛，不推荐长期使用，
+警惕可能造成的不良反应。国外指南有3 部
+［12，19，24］
+提及，1 部指南
+［19］认为全身应用糖皮质激素可获得临
+床收益，1 部指南
+［24］指出没有明确的证据支持或反对
+使用，另1 部指南
+［12］不推荐使用。
+（4）肌肉松弛剂，国内指南有3 部
+［11，14，16］提及，
+2 部指南
+［11，14］推荐用于腰椎间盘突出引起的腰背肌痉
+挛性疼痛，另1 部指南认为该药物适用于急性期和亚急
+性期腰痛患者的治疗，然而，关于其在坐骨神经痛治疗
+方面的应用，尚缺乏充分的研究支持。国外1 部指南
+［12］
+提及，因缺乏相关研究未给出具体推荐意见。
+（5）抗抑郁药：国内指南有3 部
+［11，14，16］提及，1
+部指南
+［11］不推荐常规使用，1 部指南认为该药物对慢
+性腰背痛和坐骨神经痛均展现出一定的治疗效果，但高
+级别研究证据较少，另1 部指南推荐用于慢性腰背痛合
+并焦虑、抑郁状态的患者。国外指南有3 部
+［12，19，24］提
+及，1 部指南
+［19］推荐使用，1 部指南
+［24］指出没有明确
+的证据支持或反对使用，另1 部指南
+［12］不推荐使用。
+表4　纳入指南和共识的AGREE Ⅱ评价亚组分析结果（%）
+Table 4　Results of AGREE Ⅱ evaluation subgroup analysis included in guidelines and consensus
+亚组
+文献数
+范围和目的
+参与人员
+制订严谨性
+表达清晰性
+应用性
+编辑独立性
+国内
+9
+58.33（25.00，69.44）
+30.55±14.10
+26.04（0，37.50）
+45.99±23.08
+4.40±3.68
+16.67±13.50
+国外
+6
+75.00（58.33，86.11）
+36.57±21.26
+57.29（14.58，71.88）
+75.00±11.11
+12.15±5.00
+68.06±15.74
+t（Z）值
+-2.550
+a
+-0.663
+-2.600
+a
+-2.841
+-3.474
+-6.769
+P 值
+0.008
+0.519
+0.008
+0.014
+0.004
+<0.001
+指南
+12
+62.73±17.79
+32.17±17.86
+37.15±24.38
+63.43±22.90
+7.29（0，18.75）
+41.67（0，87.50）
+共识
+3
+39.81±18.91
+36.11±14.70
+19.10±13.87
+34.26±6.99
+2.08（0，2.08）
+8.33（8.33，29.17）
+t（Z）值
+1.977
+-0.351
+1.212
+2.127
+-2.264
+a
+-1.525
+a
+P 值
+0.070
+0.732
+0.247
+0.053
+0.018
+0.136
+西医
+11
+58.84±21.97
+25.00（8.33，72.22）
+36.46（0，71.88）
+65.40±19.66
+8.33±5.43
+41.67（0，87.50）
+中医或中西医
+4
+56.25±14.23
+48.61（44.44，52.78）
+8.33（3.13，57.29）
+36.11±22.57
+5.21±6.48
+20.84（12.50，79.17）
+t（Z）值
+0.217
+-2.367
+a
+-1.375
+a
+2.464
+0.941
+-0.066
+a
+P 值
+0.832
+0.018
+0.177
+0.028
+0.364
+0.949
+      注：
+a 表示Z 值。
+
+·3862·
+November 2024，Vol.27 No.31 
+Chinese General Practice
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+（6）脱水剂：国内指南仅1 部
+［11］提及，推荐急
+性腰突症患者使用脱水剂，以缓解神经根水肿。国外指
+南均未提及。
+（7）神经营养类药物：国内指南仅1 部
+［11］提及，
+推荐使用神经营养类药物治疗腰突症引起的腰痛。国外
+指南均未提及。
+（8）对乙酰氨基酚：国内指南仅1 部
+［14］提及，
+该药物对于肌肉骨骼疼痛，如骨关节炎和腰背痛，具有
+显著的缓解作用，但需注意，对于严重肝肾功能不全的
+患者，应避免使用。国外有1 部指南
+［12］提及并推荐使用，
+因为其安全性已得到证实，但疗效方面的证据仍需进一
+步研究。
+（9）其他药物：国内有2 部指南
+［14，16］指出，当
+前对于麻醉镇静药、抗癫痫药等在治疗腰突症患者方面
+的疗效，尚缺乏充分的证据支持。日本骨科学会2022
+年版指南
+［19］指出关于使用抗惊厥药，目前尚缺乏明确
+的临床证据来支持或否定其疗效。北美脊柱外科学会制
+订的指南
+［24］指出对于腰椎间盘突出神经根病的患者，
+不建议使用肿瘤坏死因子-α 抑制剂。至于胍基丁胺、
+加巴喷丁等药物在腰突症患者中的应用，目前尚缺乏确
+凿的临床证据来支持或否定其效果。
+2.3.3　运动疗法：国内有3 部指南
+［11，14，16］提及，建议
+腰突症患者在专业康复师指导下进行针对性、个体化的
+运动治疗。国外有3 部指南
+［12，19，24］提及，1 部指南
+［24］
+认为结构化康复锻炼作为单一治疗手段治疗腰椎间盘突
+出神经根病的效果，目前尚无明确证据支持或反对。然
+而，工作组建议，针对轻至中度症状的腰椎间盘突出神
+经根病患者，可以考虑采用有限的结构化康复锻炼策略
+作为治疗选择之一，1 部指南
+［19］认为运动疗法对腰突
+症患者利大于弊，推荐使用，另1 部指南
+［12］不推荐运
+动疗法。
+2.3.4　硬膜外注射：国内有2 部指南
+［14，16］提及，对根
+性症状明显的腰突症患者，硬膜外注射可短期缓解症状。
+国外有3 部指南
+［12，19，24］提及，均推荐使用。
+2.3.5　腰椎牵引：国内有3 部指南
+［11，14，16］提及，均
+推荐在专业医生的指导下进行牵引治疗是一种可行的方
+法，但目前仍缺乏高质量的临床证据来支持其对于缓解
+腰背痛和坐骨神经痛的有效性。国外有3 部指南
+［12，19，
+24］提及，其中1 部
+［19］推荐使用，1 部
+［24］认为牵引在
+腰突症患者中的应用，尚缺乏明确的临床证据来支持，
+另外1 部
+［12］不推荐使用。
+2.3.6　手法治疗：国内有3 部指南
+［11，14，16］提及，对于
+轻至中度腰骶神经痛且没有手术指征的患者，推荐进行
+手法治疗，有助于缓解由腰椎间盘突出引起的根性症状。
+国外3 部指南
+［13，19，24］提及，认为手法可以作为治疗腰
+突症患者的一个方法。
+2.3.7　中医其他疗法：国内有2 部指南
+［14，16］提及，针
+刺和中药等方法在缓解腰突症患者症状方面展现了一定
+的效果。然而，需要注意的是，相关研究的随访时间
+相对较短，且试验设计存在一定局限性。国外有2 部指
+南
+［13，24］提及，1 部指南
+［13］推荐中药、针刺、艾灸、
+拔罐等中医疗法，另1 部指南
+［24］认为没有明确的临床
+证据支持或反对针刺的使用。
+2.3.8　手术治疗：病史长且经保守治疗无效的患者应选
+择手术治疗，对于出现神经压迫症状的患者，应尽早采
+取手术手段以解除神经压迫。国内有3 部指南
+［11，14，16］
+提及手术治疗，医师应基于自身技术的熟练度及患者的
+具体病情，选择合适的术式，提及的术式包括微创手术、
+开放性手术、腰椎融合术、腰椎人工椎间盘置换术。国
+外有4 部指南
+［12，22-24］提及手术治疗，没有证据表明一
+种术式优于另一种，每种术式都有其具体适应证，需根
+据患者病情及医师技术掌握情况决定。
+3　讨论
+3.1　我国指南及共识质量相对较低
+国外指南整体方法学质量高于国内，6 部指南均为
+B 级。纳入的国内指南及共识在范围和目的、制订严谨
+性、表达清晰性、应用性、编辑独立性方面平均标准化
+评分较国外指南低。范围和目的评分低的原因为，指南
+所要应用的人群描述较为宽泛，临床应用时缺乏针对性；
+制订严谨性评分低的原因为，多部指南未使用系统的检
+索策略，未提供证据的纳入、排除标准，推荐意见的考
+虑要素及做出最终决定的过程报告不充分，制定推荐意
+见时未考虑利弊平衡，未提供指南外审信息及未来的更
+新过程；表达清晰性评分低的原因为，部分指南主要推
+荐意见不易辨别，推荐意见在何种情况下适用，以及更
+适用于哪类患者，也未得到明确阐述；应用性评分低的
+原因为，大多指南未充分分析应用过程中的推动和制约
+因素，未提供指南应用于实践的配套工具，推荐意见应
+用时资源投入问题考虑不足；编辑独立性评分低的原因
+为，多数指南未指出资助机构是否影响指南制订过程，
+未规范报告指南制订工作组成员的利益冲突。国外指南
+在多方面优于国内指南及共识，西医指南优于中医指南，
+可能因指南方法学多发源于国外，国内西医最先引入和
+传播，而中医药指南起步相对较晚，这也提示今后更应
+注重指南方法学研究和推广，注重国际交流
+［25］。
+3.2　亟待制订我国的中医循证指南
+纳入的国内指南及共识中，有3 部
+［11，14，16］为B 级，
+整体方法学质量较高，但均为西医指南，而3 部中医标
+准
+［10，15，18］均为C 级，共识
+［10］虽组建了多学科专家组，
+但未经过系统文献检索及证据分级，推荐意见主要基于
+中西医相关领域专家意见；指南
+［15，18］虽给出推荐级别，
+
+·3863·
+2024年11月  第27卷  第31期
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+中国全科医学
+但未评价证据质量，由证据到推荐过程不透明。可见，
+国内目前缺少基于循证证据的高质量腰突症中医指南，
+建议骨伤科优势单位联合起来，组建包括方法学家在内
+的多学科工作组，系统检索评价中医特色疗法研究证据，
+综合考虑利弊平衡、患者价值观等，制订严谨的腰突症
+中医循证指南。
+3.3　临床实践建议
+多数腰突症患者经保守治疗6~12周症状即可改善，
+因此对无明显神经损伤的病例，推荐首先进行保守治
+疗
+［26］。急性期可卧床休息，待症状缓解后尽快恢复正
+常活动，根据具体情况可使用非甾体抗炎药、肌肉松弛
+剂等多数指南推荐且安全性较高的药物，运动疗法、手
+法治疗、腰椎牵引、硬膜外注射也可考虑使用，但需重
+视硬膜外注射可能导致的灾难性中枢神经系统损害风
+险
+［27］。对于保守治疗无效的患者，建议考虑进一步采
+取手术治疗，综合考虑患者病情、价值观及医者经验选
+择合适的术式。医疗机构应规范管理各大指南均不推荐
+或无明确推荐使用的药物，如麻醉镇静药、抗癫痫药、
+抗惊厥药、肿瘤坏死因子-α 抑制剂等。
+3.4　值得进一步研究的药物/ 治疗方案
+通过对比国内外指南的推荐意见，发现涉及中医内
+容较少，中医骨伤科是最具中医特色的学科之一，国务
+院办公厅印发的《“十四五”中医药发展规划》强调做
+优做强骨伤等中医优势专科专病，近年来中医药治疗腰
+突症已有一些高质量研究发表，如一项多中心随机对照
+试验表明白脉软膏治疗腰突症在缓解症状方面有一定优
+势
+［28］，经典名方、针刺等中医特色疗法长期应用于临床，
+但缺乏设计严谨的随机对照试验。运动疗法、腰椎牵引
+虽得到多数指南推荐，但其疗效仍需明确的临床证据支
+持。硬膜外注射可短期缓解根性疼痛，对椎管狭窄所致
+腰腿痛可能无显著疗效，筛选恰当的获益人群、减少中
+枢神经系统灾难性不良事件需要进一步研究
+［27］。此外，
+有研究指出保炎治疗（即不适用非甾体抗炎药和类固醇）
+对于急性腰突症患者来说是安全且有效的，此理念直接
+挑战了目前管理腰突症患者的传统观念，未来还需要进
+行随机对照试验以控制各种偏倚，并更好地了解急性腰
+突症的自然史
+［29］。
+3.5　本研究存在的局限性
+仅纳入了中文或英文发表的研究，因无法获取其他
+语言发表的指南，可能有发表偏倚存在；纳入的指南仅
+一部以纸质版形式发布，其余均发表在期刊上，由于篇
+幅及版面的限制，方法学细节信息可能无法全部获得。
+综上，腰突症指南和共识数量逐渐增多，但整体方
+法学质量仍需进一步加强，国内指南及共识应在多领域
+参考国外指南制订方法，中医指南既要保持自身特色，
+也要积极借鉴国外指南制订标准，相互学习，共同提高，
+同时应注意到不管西医还是中医均应重视临床研究质量
+和水平的提升，不断夯实腰突症指南推荐意见的证据基
+础，旨在更优质地服务于临床实践工作。此外，建议指
+南制订者在公认的平台完成注册，并参照国际实践指南
+报告规范RIGHT
+［30］或其扩展版进行撰写与报告，促进
+指南制订工作的透明化和标准化。
+作者贡献：秦晓宽负责资料收集、数据整理分析及
+论文初稿撰写；孙凯、冯天笑负责文献筛选、信息提取；
+肖想玉负责数据整理；王国辰、苏祥飞负责论文稿件修
+订；魏戌、朱立国负责论文选题、构思设计、团队组建、
+全程质量控制及论文审校。
+本文无利益冲突。 
+参考文献
+［1］KNEZEVIC N N，CANDIDO K D，VLAEYEN J W S，et al. Low 
+back pain［J］. Lancet，2021，398（10294）：78-92. 
+［2］王国基，王国军，彭健民，等. 腰椎间盘突出症致病因素的流
+行病学研究［J］. 现代预防医学，2009，36（13）：2401-2403.
+［3］Institute of Medicine. Clinical practice guidelines we can trust［M］.
+Washington：National Academies Press，2011.
+［4］DJULBEGOVIC B，GUYATT G H. Progress in evidence-based 
+medicine：a quarter century on［J］. Lancet，2017，390（10092）：
+415-423. 
+［5］BROUWERS M C，KHO M E，BROWMAN G P，et al. AGREE Ⅱ：
+advancing guideline development，reporting and evaluation in health 
+care［J］. J Clin Epidemiol，2010，63（12）：1308-1311. 
+［6］陈耀龙，罗旭飞，王吉耀，等. 如何区分临床实践指南与专家
+共识［J］. 协和医学杂志，2019，10（4）：403-408. 
+［7］韦当，王聪尧，肖晓娟，等. 指南研究与评价（AGREE Ⅱ）工
+具实例解读［J］. 中国循证儿科杂志，2013，8（4）：316-319. 
+［8］潘晓平，倪宗瓒. 组内相关系数在信度评价中的应用［J］. 华西
+医科大学学报，1999，（1）：62-63，67.
+［9］余红梅，罗艳虹，萨建，等. 组内相关系数及其软件实现
+［J］. 中国卫生统计，2011，28（5）：497-500. DOI：10.3969/
+j.issn.1002-3674.2011.05.006.
+［10］崔学军，梁倩倩. 腰椎间盘突出症中西医结合诊疗专家共识［J］. 
+世界中医药，2023，18（7）：945-952.
+［11］中国康复医学会脊柱脊髓专业委员会基础研究与转化学组. 
+腰椎间盘突出症诊治与康复管理指南［J］. 中华外科杂志，
+2022，60（5）：401-408. 
+［12］HARO H，EBATA S，INOUE G，et al. Japanese Orthopaedic 
+Association（JOA）clinical practice guidelines on the management 
+of lumbar disc herniation，third edition - secondary publication［J］. 
+J Orthop Sci，2022，27（1）：31-78. 
+［13］GOO B，JO M G，KIM E J，et al. Korean medicine clinical 
+practice guidelines for lumbar herniated intervertebral disc in 
+adults：based on grading of recommendations assessment，
+development and evaluation（GRADE）［J］. Healthcare，
+2022，10（2）：246. 
+［14］王岩，相宏飞，海涌，等. 老年腰椎间盘突出症诊疗指南［J］. 
+中华老年骨科与康复电子杂志，2021，7（3）：132-139.
+
+·3864·
+November 2024，Vol.27 No.31 
+Chinese General Practice
+https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+［15］章薇，娄必丹，李金香，等. 中医康复临床实践指南·腰痛（腰
+椎间盘突出症）［J］. 康复学报，2021，31（4）：265-270. 
+［16］中华医学会骨科学分会脊柱外科学组，中华医学会骨科学分会
+骨科康复学组. 腰椎间盘突出症诊疗指南［J］. 中华骨科杂志，
+2020，40（8）：477-487. 
+［17］中华医学会疼痛学分会脊柱源性疼痛学组. 腰椎间盘突出症诊
+疗中国疼痛专家共识［J］. 中国疼痛医学杂志，2020，26（1）：
+2-6. 
+［18］中华中医药学会整脊分会. 中医整脊科临床诊疗指南 腰椎间盘
+突出症［S］. 北京：中国标准出版社，2019：1-7.
+［19］LEE J H，CHOI K H，KANG S，et al. Nonsurgical treatments for 
+patients with radicular pain from lumbosacral disc herniation［J］. 
+Spine J，2019，19（9）：1478-1489. 
+［20］周谋望，岳寿伟，何成奇，等. “腰椎间盘突出症的康复治
+疗” 中国专家共识［J］. 中国康复医学杂志，2017，32（2）：
+129-135. 
+［21］安徽省医学会. 安徽省腰椎间盘突出症分级诊疗指南（2015 年
+版）［J］. 安徽医学，2016，37（1）：14-20.
+［22］LATKA D，MIEKISIAK G，JARMUZEK P，et al. Treatment 
+of lumbar disc herniation with radiculopathy. Clinical practice 
+guidelines endorsed by The Polish Society of Spinal Surgery［J］. 
+Neurol Neurochir Pol，2016，50（2）：101-108.
+［23］NICE. Insertion of an annular disc implantat lumbar discectomy.The 
+National Institute for Health and Care Excellence.2014［EB/OL］. 
+［2023-11-25］. https://www.nice.org.uk/guidance/ipg506.
+［24］KREINER D S，HWANG S W，EASA J E，et al. An evidence-
+based clinical guideline for the diagnosis and treatment of lumbar 
+disc herniation with radiculopathy［J］. Spine J，2014，14（1）：
+180-191. 
+［25］陈耀龙，刘萧，王燕平，等. 西医指南与中医药指南：在相互
+学习中共同提高［J］. 协和医学杂志，2020，11（5）：615-
+620.
+［26］DEYO R A，MIRZA S K. Clinical practice herniated lumbar 
+intervertebral disk［J］. N Engl J Med，2016，374（18）：
+1763-1772.
+［27］阮祥才，安建雄. 硬膜外腔激素注射的争议与应对［J］. 中国
+疼痛医学杂志，2016，22（12）：889-891. 
+［28］SUN C R，SUN K，WANG S Q，et al. Effect of Baimai ointment on 
+lumbar disc herniation：a multicentre，prospective，randomised，
+double-blind，placebo-controlled trial［J］. Phytomedicine，
+2024，122：155138. 
+［29］ALBERT H B，SAYARI A J，BARAJAS J N，et al. The impact 
+of novel inflammation-preserving treatment towards lumbar disc 
+herniation resorption in symptomatic patients：a prospective，
+multi-imaging and clinical outcomes study［J］. Eur Spine J，
+2024，33（3）：964-973. 
+［30］CHEN Y L，YANG K H，MARUŠIC A，et al. A reporting tool for 
+practice guidelines in health care：the RIGHT statement［J］. Ann 
+Intern Med，2017，166（2）：128-132. 
+（收稿日期：2024-01-26；修回日期：2024-07-08）
+（本文编辑：崔莎）
+［29］STORRE J H，SEUTHE B，FIECHTER R，et al. Average volume-
+assured pressure support in obesity hypoventilation：a randomized 
+crossover trial［J］. Chest，2006，130（3）：815-821. DOI：
+10.1378/chest.130.3.815. 
+［30］ISSA F G，SULLIVAN C E. The immediate effects of nasal 
+continuous positive airway pressure treatment on sleep pattern 
+in patients with obstructive sleep apnea syndrome［J］. 
+Electroencephalogr Clin Neurophysiol，1986，63（1）：10-17. 
+DOI：10.1016/0013-4694(86)90056-8. 
+［31］VEASEY S C，GUILLEMINAULT C，STROHL K P，et al. 
+Medical therapy for obstructive sleep apnea：a review by the Medical 
+Therapy for Obstructive Sleep Apnea Task Force of the Standards 
+of Practice Committee of the American Academy of Sleep Medicine
+［J］. Sleep，2006，29（8）：1036-1044. DOI：10.1093/
+sleep/29.8.1036. 
+［32］何权瀛，陈宝元. 睡眠呼吸病学［M］. 北京：人民卫生出版社，
+2009. 
+［33］LUO Y M，QIU Z H，WU H D，et al. Neural drive during 
+continuous positive airway pressure（CPAP）and pressure relief 
+CPAP［J］. Sleep Med，2009，10（7）：731-738.  
+［34］李庆云，万欢英，李敏，等. CPAP 治疗OSAHS 压力滴定方式
+选择：A、B 还是C?［J］. 临床肺科杂志，2007，12（6）：
+597-599. DOI：10.3969/j.issn.1009-6663.2007.06.035.
+［35］HAN F，SONG W C，LI J，et al. Influence of UPPP surgery 
+on tolerance to subsequent continuous positive airway pressure in 
+patients with OSAHS［J］. Schlaf Atmung，2006，10（1）：37-
+42. DOI：10.1007/s11325-005-0041-y. 
+［36］AVELLAN-HIETANEN H，AALTO T，MAASILTA P，et al. 
+Adherence to CPAP therapy for sleep apnea in patients aged over 
+70years old［J］. Schlaf Atmung，2022，26（1）：325-331.  
+［37］LINDBERG E，BERNE C，ELMASRY A，et al. CPAP treatment 
+of a population-based sample—what are the benefits and the 
+treatment compliance?［J］. Sleep Med，2006，7（7）：553-
+560. DOI：10.1016/j.sleep.2005.12.010. 
+［38］医学名词审定委员会行为医学名词审定分委员会编. 行为医学
+名词-2022［M］. 北京：科学出版社，2022. 
+（收稿日期：2024-04-25；修回日期：2024-05-20）
+（本文编辑：王世越）
+（上接第3849 页）

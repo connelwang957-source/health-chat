@@ -1,0 +1,628 @@
+标题: 经立体定向引导前额锁孔入路神经内镜下血肿清除术治疗高血压基底节区脑出血的短期效果
+作者: 关毅, 任振强, 龙江
+期刊: 精准医学杂志 2024 第39卷 第6期
+DOI: 10.13362/j.jpmed.202406013
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202406013
+
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+doi:10.
+13362/j.
+jpmed.
+202406013  文章编号:2096-529X(2024)06-0527-05
+[收稿日期]2024-01-29; [修订日期]2024-04-08
+[通讯作者]任振强,Email:renzqiang82@126.
+com
+经立体定向引导前额锁孔入路神经内镜下血肿清除术
+治疗高血压基底节区脑出血的短期效果
+关毅1 任振强1 龙江2
+(1 河南漯河医学高等专科学校第二附属医院神经外科,河南漯河 462300; 2 郑州大学第一附属医院神经外科)
+[摘要] 目的 分析经立体定向引导前额锁孔入路神经内镜下血肿清除术治疗高血压基底节区脑出血(hy-
+pertensivebasalgangliahemorrhage,HBGH)的短期效果。方法 选取2016年12月—2021年8月我院神经外科
+HBGH 患者148例,依据不同手术方案分为研究组和对照组。行常规立体定向血肿穿刺引流术的74例为对照组,
+行立体定向引导下前额锁孔入路神经内镜血肿清除术的74例为研究组。比较两组患者手术用时、住院期间再出
+血发生比例、术后6h血肿清除比例、术前和术后3个月欧洲脑卒中量表(ESS)评分及日常生活能力(Barthel)指
+数、术后3个月死亡发生比例、术后3个月并发症发生比例、术后6个月预后良好比例。结果 研究组手术用时长
+于对照组(
+t=19.
+084,P<0.
+05),住院期间再出血发生比例低于对照组(χ2=9.
+378,P<0.
+05)。研究组患者术后6h
+血肿清除比例高于对照组(u=2.
+935,P<0.
+05);术后3个月,研究组患者ESS评分、Barthel指数手术前后差值显著
+高于对照组(
+t=8.
+349、9.
+474,P<0.
+05),而死亡发生比例、并发症发生比例两组比较无明显差异(P>0.
+05);术后6
+个月,研究组预后良好比例高于对照组(χ2=9.
+483,P<0.
+05)。结论 经立体定向引导前额锁孔入路神经内镜下
+血肿清除术治疗HBGH 手术时间虽较长,但能提高血肿清除率、降低术后再出血率,预后效果良好,并可改善患者
+神经功能及生活能力,且安全性高。
+[关键词] 颅内出血,高血压性;立体定位技术;神经内窥镜检查;血肿;额;治疗结果;预后
+[中图分类号] R743.
+34    [文献标志码] A
+Short-termefficacyofstereotactic-guidedneuroendoscopichematomaclearanceviatheforeheadkey-
+holeapproachintreatmentofhypertensivebasalgangliahemorrhage GUAN Yi,REN Zhenqiang,LONG
+Jiang (DepartmentofNeurosurgery,TheSecondAffiliatedHospitalofHenanLuoheMedicalCollege,Luohe462300,China)
+[ABSTRACT] Objective Toinvestigatetheshort-termefficacyofstereotactic-guidedneuroendoscopichematomaclearance
+viatheforeheadkeyholeapproachinthetreatmentofhypertensivebasalgangliahemorrhage(HBGH). Methods Atotalof148
+patientswithHBGH whoweretreatedinDepartmentofNeurosurgeryinourhospitalfrom December2016toAugust2021were
+enrolledanddividedintostudygroupandcontrolgroupaccordingtotheirsurgicalplans.The74patientswhounderwentconven-
+tionalstereotactichematomapunctureanddrainagewereenrolledascontrolgroup,andthe74patientswhounderwentstereotactic-
+guidedneuroendoscopichematomaclearanceviatheforeheadkeyholeapproachwereenrolledasstudygroup.Thetwogroupswere
+comparedintermsoftimeofoperation,theproportionofpatientswithrebleedingduringhospitalization,theproportionofpatients
+withhematomaclearanceat6hoursaftersurgery,EuropeanStrokeScale(ESS)scoreandBarthelindexbeforesurgeryandat3
+monthsaftersurgery,theproportionofdeathsat3monthsaftersurgery,theproportionofpatientswithcomplicationsat3months
+aftersurgery,andtheproportionofpatientswithgoodprognosisat6monthsaftersurgery. Results Comparedwiththecontrol
+group,thestudygrouphadasignificantlylongertimeofoperation(
+t=19.
+084,P<0.
+05)andasignificantlylowerproportionofpa-
+tientswithrebleedingduringhospitalization(χ2=9.
+378,P<0.
+05).Thestudygrouphadasignificantlyhigherhematomaclearance
+ratethanthecontrolgroupat6hoursaftersurgery(u=2.
+935,P<0.
+05);at3monthsaftersurgery,thestudygrouphadsignifi-
+cantlyhigherdifferencebeforeandaftersurgeryESSscoreandBarthelindexthanthecontrolgroup(
+t=8.
+349,9.
+474,P<0.
+05),
+whiletherewerenosignificantdifferencesinmortalityrateandtheincidencerateofcomplicationsbetweenthetwogroups(P>
+0.
+05);at6monthsaftersurgery,comparedwiththecontrolgroup,thestudygrouphadasignificantlyhigherproportionofpa-
+tientswithgoodprognosis(χ2=9.
+483,P<0.
+05). Conclusion Althoughstereotactic-guidedneuroendoscopichematomaclea-
+ranceviatheforeheadkeyholeapproachhasarelativelylongtimeofoperationinthetreatmentofHBGH,itcanimprovehemato-
+maclearancerate,reducepostoperativerebleedingrate,andhelptoachieveagoodprognosis;meanwhile,itcanalsoimprovethe
+neurologicalfunctionandlivingabilityofpatients,withafavorablesafetyprofile.
+[KEY WORDS] Intracranialhemorrhage,hypertensive;Stereotaxictechniques;Neuroendoscopy;Hematoma;Forehead;
+Treatmentoutcome;Prognosis
+  高血压脑出血(HICH)属于高血压最严重并发
+症之一,近年来随着高血压发病率增高,HICH 发病
+·
+7
+2
+5
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+率亦随之增高[1]。据统计,HICH 约占我国脑卒中
+人群的30%~38%,且多发于中老年人群,以男性
+患者居多[2-3]。由于基底节血管与主干血管呈直角,
+血流冲击大,加之血管壁缺乏弹力纤维层,长期高血
+压致血管壁脆性增高,易诱发出血。高血压基底节
+区脑出血(hypertensivebasalgangliahemorrhage,
+HBGH)约占HICH 患病率的70%~80%,但目前
+HBGH 的临床治疗方式仍存在一定争议[4-6],传统
+药物保守治疗能有效降低颅内压,预防继发性出血,
+但脑内血肿造成的占位无法有效解除,而开颅血肿
+清除术则创伤严重。随着神经内镜技术、立体定向
+技术及新手术器械的研发与进步,微创手术逐渐应
+用于HBGH 的治疗。本研究通过对148例HBGH
+患者血肿清除率、神经功能改善情况及预后效果方
+面的分析,旨在探讨经立体定向引导前额锁孔入路
+神经内镜下血肿清除术治疗HBGH 患者的短期效
+果。现将结果报告如下。
+1 对象与方法
+1.
+1 研究对象
+选择2016年12月—2021年8月148 例HB-
+GH 患者作为研究对象。患者纳入标准:①有高血
+压史,符合HICH 诊断标准[7],且头颅CT 检查显示
+基底节区出血者;②发病至手术时间在6~24h间
+者;③凝血功能正常者。排除标准:①合并脑部其他
+区域出血;②存在脑血管畸形、颅内动脉瘤、神经系
+统肿瘤、脑外伤等导致的出血者;③存在血肿清除手
+术禁忌证者;④术前存在神经功能异常者;⑤术前心
+肝肾等重要脏器功能障碍者;⑥格拉斯哥昏迷量表
+(GCS)术前评分<6分者[8]。
+按照上述标准最终纳入研究的患者共148例,
+依据手术方案不同分为研究组和对照组,每组74
+例。研究组男49 例,女25 例;平均年龄(63.
+92±
+5.
+64)岁;发病至手术时间(14.
+62±3.
+77)h;术前出血
+量(47.
+65±10.
+11)mL;GCS术前评分(9.
+85±1.
+42)
+分。对照组男47 例,女27 例;平均年龄(64.
+31±
+5.
+21)岁;发病至手术时间(14.
+12±3.
+68)h;术前出血
+量(48.
+85±9.
+65)mL;GCS术前评分(9.
+35±1.
+29)
+分。两组患者的一般资料比较无显著性差异(P>
+0.
+05)。
+1.
+2 手术方法
+所有患者常规完善术前准备。研究组采用经立
+体定向引导下前额锁孔入路神经内镜下血肿清除
+术。首先CT 扫描确认手术靶点为血肿中心。然后
+气管插管麻醉后制作骨窗并于其边缘涂抹骨蜡。常
+规探查血肿情况,反复冲洗血肿腔,抽吸至冲洗液清
+亮,确认无出血后,退出神经内镜。若发现活动性出
+血,则反复冲洗至术野清晰,电凝止血。调整管状脑
+牵开器方向及深度,边退神经内镜,边抽吸血肿,抽
+吸干净后术腔止血,缝合硬脑膜,骨瓣复位,无需放
+置引流管,逐层缝合。对照组行常规立体定向血肿
+穿刺引流术。术后两组患者均监测生命体征,持续
+低流量吸氧,控制血压;给予营养神经药物、抗生素;
+昏迷患者痰液黏稠不宜吸出时支气管镜下吸痰,进
+食呛咳者给予肠内营养支持。术后随访6个月。
+1.
+3 观察指标
+①记录两组患者手术时长、住院期间再出血发
+生比例;②计算两组患者术后6h 血肿清除比例。
+③记录两组患者术前、术后3个月欧洲脑卒中量表
+(ESS)
+[9]神经功能评分和日常生活能力(Barthel)指
+数[10];④记录两组患者术后3个月死亡发生比例;
+⑤记录两组患者术后3个月并发症发生比例,包括
+术后颅内感染、肺部感染、泌尿系统感染、下肢静脉
+血栓等;⑥记录两组患者术后6个月格拉斯哥预后
+量表(GOS)
+[11]评分,并计算预后良好比例,术后6
+个月预后良好比例=GOS评分4~5分患者例数/
+每组患者例数×100%。
+1.
+4 统计学分析
+采用SPSS21.
+0软件进行统计分析,符合正态
+分布计量资料以􀭺
+x±s 表示,组间比较采用t 检验;
+计数资料以率表示,两组比较采用χ2检验;两组等
+级资料比较采用秩和检验。以P<0.
+05 为差异有
+统计学意义。
+2 结  果
+2.
+1 两组患者手术用时、住院期间再出血发生比例
+比较
+两组患者均顺利完成手术,对照组以及研究组
+患者的手术用时分别为(57.
+62±7.
+03)、(89.
+94±
+12.
+76)min,住院期间再出血发生的比例则分别为
+22.
+97%(17/74)、5.
+41%(4/74),两组患者上述两个
+指标比较均有显著差异(
+t=19.
+084,χ2=9.
+378,P<
+0.
+05)。
+2.
+2 两组患者术后6h血肿清除比例比较
+研究组患者术后6h 血肿清除比例<70%、
+70%~90%及>90%分别为2.
+70%(2/74)、16.
+22%
+(12/74)、81.
+08%(60/74),对照组分别为8.
+22%(6/
+73)、38.
+36%(28/73)、53.
+42%(39/73),两组比较差
+·
+8
+2
+5
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+异有显著性(u=2.
+935,P<0.
+05)。
+2.
+3 两组患者术前、术后3个月ESS评分及Bar-
+thel指数比较
+两组患者术后3 个月ESS 评分、Barthel指数
+均明显高于术前(
+t=18.
+857~29.
+897,P<0.
+05),且
+研究组患者ESS 评分、Barthel指数手术前后差值
+均显著高于对照组(
+t=8.
+349、9.
+474,P<0.
+05)。见
+表1。
+表1 两组患者术前、术后3个月ESS评分及Barthel指数比较(分,􀭵
+x±s)
+组别
+n
+ESS评分
+术前
+术后3个月
+差值
+Barthel指数
+术前
+术后3个月
+差值
+对照组
+71
+33.
+07±7.
+97
+70.
+52±12.
+41
+37.
+45±10.
+56
+42.
+01±7.
+63
+63.
+54±5.
+86
+21.
+53±7.
+08
+研究组
+72
+32.
+91±8.
+46
+85.
+62±13.
+52
+52.
+71±11.
+28
+40.
+97±8.
+14
+76.
+13±5.
+79
+35.
+16±9.
+87
+  注:已剔除死亡病例
+2.
+4 两组患者术后3个月死亡发生比例比较
+研究组患者术后3个月死亡发生比例为2.
+70%
+(2/74),对照组为4.
+05%(3/74),两组比较无明显差
+异(P>0.
+05)。
+2.
+5 两组患者术后3个月并发症发生比例比较
+术后3个月对照组发生2例颅内感染,4例肺
+部感染,2例泌尿系统感染,2例下肢静脉血栓,术后
+3个月并发症发生比例为14.
+09%(10/71);研究组
+发生1例颅内感染,3例肺部感染,2例泌尿系统感
+染,1 例下肢静脉血栓,并发症发生比例为9.
+72%
+(7/72),两组术后3个月并发症发生比例比较无明
+显差异(P>0.
+05)。
+2.
+6 两组患者术后6个月预后效果比较
+术后所有患者随访6个月,研究组患者GOS评
+分为1、2、3、4、5 分的比例分别为4.
+17% (3/72)、
+4.
+17% (3/72)、6.94% (5/72)、30.56% (22/72)、
+54.
+17%(39/72),对照组患者分别为7.
+04%(5/71)、
+8.
+45% (6/71)、22.
+54% (16/71)、29.
+58% (21/71)、
+32.
+39%(23/71),两组比较差异具有显著性(u=
+2.
+901,P<0.
+05)。研究组患者术后6个月预后良好
+比例为84.
+72%(61/72),对照组为61.
+97%(44/71),
+两组比较差异有显著性(χ2=9.
+483,P<0.
+05)。
+3 讨  论
+HBGH 主要因血压控制欠佳、血管硬化所致,
+患者发病后脑内血肿产生占位效应,引发颅内压升
+高、脑水肿,增加其致残、致死风险[12-14]。因此,应及
+时进行干预以控制病情进展。因基底节解剖区深在
+且功能区密集,若幕上血肿量>30mL,则需手术干
+预以清除血肿,以预防脑疝的发生[15-17]。
+目前立体定向血肿穿刺引流术为临床上治疗
+HBGH 常用术式,该术式通过立体定向技术计算靶
+点坐标,精准放置引流管行血肿抽吸,此后在血肿腔
+内注入溶栓药物稀释血凝块,并进行术后引流,但抽
+吸血肿过程中可能误吸脑组织,且术后留置引流管
+亦增加颅内感染风险[18-19]。近年来,神经内镜因其
+视野清晰、安全、微创、操作直观等特点逐渐应用于
+临床。经立体定向引导前额锁孔入路神经内镜下血
+肿清除术具有诸多优势:①前额锁孔入路可避免触
+及Broca语言中枢、外侧裂血管等结构,减少损伤大
+脑皮质血管、神经,从而避免继发性神经功能损害;
+②神经内镜具有放大照明作用,直视下操作,能清楚
+探查细微神经、血管解剖关系,辨别血肿并提升血肿
+清除率,且可多视角检查出血点并电凝止血,降低再
+出血风险;③术后无需放置引流管,可减少术后颅内
+感染风险[20-22]。本研究将经立体定向引导前额锁孔
+入路神经内镜下血肿清除术应用于HBGH 的治
+疗,结果显示,研究组患者术后6h血肿清除比例高
+于对照组,与郑一科等[23]研究结果一致。但研究组
+患者手术用时长于对照组,推测因神经内镜下手术
+出现活动性出血需电凝止血,边退神经内镜边抽吸
+血肿可能增加手术时长,而穿刺引流术抽吸部分血
+肿以后即放置引流管冲洗,故用时较少。临床报道
+指出,HICH 微创手术后再出血发生比例为15%~
+36%
+[24-26],而术后再出血患者中死亡比例高达40%
+以上[27]。本研究中研究组患者术后住院期间再出
+血发生比例低于对照组,术后3个月死亡发生比例
+及并发症发生比例则与对照组无明显差异。围手术
+期血压波动幅度大、术前血肿形态不规则、术前出血
+量大、术中止血不彻底及过早吸除出血处致密凝血
+块等,皆为术后继发出血的主要原因,因此术后及时
+控制血压对避免术后再出血具有重要作用[28-29]。
+HBGH 发病后血肿压迫脑神经,致患者神经功
+能出现不同程度缺损,严重影响日常生活能力[30-31]。
+本研究结果显示,术后3个月,研究组患者ESS评
+分、Barthel指数均高于对照组,同时这两个指标的
+治疗前后差值比较,研究组也显著高于对照组,术后
+6个月预后良好比例研究组高于对照组。分析其原
+·
+9
+2
+5
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+因主要在于,神经内镜血肿清除术清除血肿更彻底,
+可尽早降低颅内压,消除血肿占位效应,减轻其压迫
+正常组织、神经,且对脑组织缺血症状缓解具有重要
+作用,有利于减少血肿分解产生的毒性成分,降低脑
+组织损害程度,促进受压(未破坏)神经元恢复,进而
+改善患者神经功能,提升日常生活能力,利于预后。
+但内镜通道仅可通过一种手术器械,患者出血量较
+大时难以控制,此外患者若存在血管畸形或心肝肾
+功能障碍时亦不宜采取此术式。因此,术前主治医
+师应根据患者血肿量、意识状态、病情恶化程度等因
+素综合评估,以选取最佳治疗方案。
+综上所述,采用立体定向引导下前额锁孔入路
+神经内镜血肿清除术治疗HBGH 患者能有效提高
+血肿清除率,降低术后再出血风险,改善患者神经功
+能,促进其日常生活能力提升,预后效果良好,且安
+全性较高。
+伦理批准和知情同意:本研究涉及的所有试验均已通过漯河医学高
+等专科学校第二附属医院科学伦理委员会审批,试验过程均遵照《人
+体生物医学研究国际道德指南》条例进行。受试对象或亲属已签订
+知情同意书。
+作者声明:关毅、任振强参与了研究设计;关毅、任振强、龙江参与了
+论文写作、修改。所有作者均阅读并同意发表该论文,且均声明不存
+在利益冲突。
+[参考文献]
+[1] DASAS,REGENHARDT R W,GOKCAL E,etal.Idio-
+pathicprimaryintraventricularhemorrhageandcerebralsmall
+vesseldisease[J].IntJStroke,2022,17(6):645-653.
+[2] 王紫薇,祁竞,刘晓.显微手术治疗高血压基底节脑出血的护
+理风险管理:评《微创主动脉瓣手术学》[J].电子显微学报,
+2020,39(1):105.
+[3] TSAIH H,LEEBC,CHENYF,etal.Cerebralvenousre-
+fluxanddilatedbasalGangliaperivascularspaceinhyperten-
+siveintracerebralhemorrhage[J].JStroke,2022,24(3):363-
+371.
+[4] ROBLESLA,VOLOVICIV.Hypertensiveprimaryintraven-
+tricularhemorrhage:Asystematicreview[J].NeurosurgRev,
+2022,45(3):2013-2026.
+[5] 贾振锋,张晓娟,高云霞,等.小骨窗显微手术治疗基底节区高
+血压脑出血的效果分析及对血清CCCK-18、CTRP-3水平的影
+响[J].现代生物医学进展,2020,20(10):1956-1960.
+[6] 解锋,杨朋.基于螺旋CT 引导的钻孔抽吸术对基底节区高血
+压脑出血患者血肿清除及血清炎性因子水平的影响[J].中国
+医师进修杂志,2022,8(12):1084-1087.
+[7] 张谦,冀瑞俊,赵萌,等.中国脑血管病临床管理指南(第2版)
+(节选):第5章脑出血临床管理[J].中国卒中杂志,2023,18
+(9):1014-1023.
+[8] AL-MISTAREHIA H,ELSAYED M A,IBRAHIM R M,et
+al.Clinicaloutcomesofprimarysubarachnoidhemorrhage:An
+exploratorycohortstudyfrom Sudan[J].Neurohospitalist,
+2022,12(2):249-263.
+[9] 黄东振.基底核区高血压脑出血患者的CT 表现及治疗措施
+[J].实用心脑肺血管病杂志,2013,21(5):80-81.
+[10]SAWYER R P,YIM E,COLEMAN E,etal.Impactof
+preexistingcognitiveimpairmentandrace/ethnicityonfunc-
+tional outcomes following intracerebral hemorrhage [J].
+Stroke,2021,52(2):603-610.
+[11]TREVISIG,CACCAVELLA V M,SCERRATI A,etal.
+Machinelearningmodelpredictionof6-monthfunctionalout-
+comeinelderlypatients withintracerebralhemorrhage[J].
+NeurosurgRev,2022,45(4):2857-2867.
+[12]袁晖,郭中凯,朱明亮,等.锁孔清除术对基底节高血压脑出血
+的疗效及术后神经功能恢复的影响[J].中国医刊,2020,55
+(11):1229-1232.
+[13]YUAN H T,FENGJ,LIN X,etal.Theeffectofearlyvs.
+lateCT-guidedstereotactichematomaaspirationonneurologi-
+calfunctionrecoveryin patients with hypertensivecerebral
+hemorrhageinthebasalGanglia:Aretrospectivecomparative
+cohortstudy[J].AnnPalliatMed,2022,11(9):2923-2929.
+[14]LINJH,LIY H,YEJ,etal.Akeyholeapproachcentered
+byanteriorsquamoussutureto hypertensive basal Ganglia
+hemorrhage[J].JCraniofacSurg,2021,32(3):1132-1135.
+[15]MEENADS,NAWALC,MEENAP,etal.Studyof100ca-
+sesofcerebrovascularstrokecorrelatingclinicalpresentation
+withradiologicalstudy[J].JAssocPhysiciansIndia,2022,70
+(4):11-12.
+[16]贾云飞.双通道与单通道穿刺引流术治疗基底节区高血压脑
+出血临床研究[J].现代中西医结合杂志,2020,29(13):1434-
+1437.
+[17]殷骏,吴高远,钱洪波.内镜下不同手术入路治疗基底节区高
+血压脑出血对术中出血量及预后的影响[J].立体定向和功能
+性神经外科杂志,2021,34(1):38-40,55.
+[18]惠培泉,宋磊,王增武,等.新型立体定向仪辅助下经额穿刺引
+流术治疗高血压性基底节区脑出血的临床应用[J].中华神经
+医学杂志,2020,19(12):1240-1246.
+[19]HUANGX,JIANGL,CHENSJ,etal.Comparisonofthe
+curativeeffectandprognosisofstereotacticdrainageandcon-
+servativetreatmentfor moderate and small basal Ganglia
+haemorrhage[J].BMCNeurol,2021,21(1):268.
+[20]DING Y Y,QIM,ZHANG X,etal.Stereotactichematoma
+punctureanddrainageforprimarypontinehemorrhage:Clini-
+caloutcomesandpredictivemodel[J].Heliyon,2024,10(5):
+e27487.
+[21]谭适,覃重桥,余松祚.经额入路和经颞入路神经内镜下血肿
+清除术用于高血压基底节区脑出血效果对比分析[J].中国临
+床医生杂志,2024,52(4):424-427.
+[22]杜战锋,高亚东,张冰.神经内镜下经额锁孔入路与显微镜下
+经颞锁孔入路手术治疗基底节区脑出血的疗效观察[J].贵州
+医药,2023,47(6):866-867.
+(下转第534页)
+·
+0
+3
+5
+·
+
+精准医学杂志2024年12月第39卷第6期 JPrecisMed,December2024,Vol.
+39,No.
+6
+[10]VANSMEDEN M,MOONSK G,DE GROOTJA,etal.
+Samplesizefor binarylogistic prediction models:Beyond
+eventspervariablecriteria[J].StatMethodsMedRes,2019,
+28(8):2455-2474.
+[11]DENGX Y,QINPJ,LIN Y N,etal.Therelationshipbe-
+tweenbodymassindexandpostoperativedelirium[J].Brain
+Behav,2022,12(4):e2534.
+[12]REIDBC,ALBERGAJ,KLASSENAC,etal.TheAmeri-
+canSocietyofAnesthesiologists'classasacomorbidityindexin
+acohortofheadandneckcancersurgicalpatients[J].Head
+Neck,2001,23(11):985-994.
+[13]INOUYESK,VANDYCKCH,ALESSICA,etal.Clarif-
+yingconfusion:Theconfusion assessment method.A new
+methodfordetectionofdelirium[J].AnnIntern Med,1990,
+113(12):941-948.
+[14]ROBINSONCL,PHUNG A,DOMINGUEZ M,etal.Pain
+scales:Whataretheyandwhatdothey mean[J].CurrPain
+HeadacheRep,2024,28(1):11-25.
+[15]LINCJ,SUIC,HUANGS W,etal.Deliriumassessment
+toolsamonghospitalizedolderadults:Asystematicreviewand
+metaanalysisofdiagnosticaccuracy[J].Ageing Res Rev,
+2023,90:102025.
+[16]SADEGHIRAD B,DODSWORTH B T,SCHMUTZ GEL-
+SOMINO N,etal.Perioperativefactorsassociatedwithpos-
+toperativedeliriuminpatientsundergoingnoncardiacsurgery:
+Anindividualpatientdata meta-analysis[J].JAMA Netw
+Open,2023,6(10):e2337239.
+[17]PALERMO NE,GIANCHANDANIRY,MCDONNELL M
+E,etal.Stresshyperglycemiaduringsurgeryandanesthesia:
+Pathogenesisandclinicalimplications[J].Curr Diab Rep,
+2016,16(3):33.
+[18]RAHIMPOURF,NEJATIM,MOGHADDASA,etal.Hy-
+poglycemicagents and anesthetictechniquesto ameliorate
+stresshyperglycemiaincriticallyillpatients:Asystematicre-
+view[J].JResPharmPract,2023,12(3):69-87.
+[19]SOKOLOFF L.Energeticsoffunctionalactivationinneural
+tissues[J].Neurochem Res,1999,24(2):321-329.
+[20]RAECD,BAURJA,BORGESK,etal.Brainenergyme-
+tabolism:Aroadmapforfutureresearch[J].JNeurochem,
+2024,168(5):910-954.
+[21]CHAMARTHYS,MEKALAJR.Functionalimportanceof
+glucosetransportersandchromatinepigeneticfactorsinGlio-
+blastomaMultiforme(GBM):Possibletherapeutics[J].Metab
+BrainDis,2023,38(5):1441-1469.
+[22]CAMANDOLA S, MATTSON M P.Brain metabolism in
+health,aging,andneurodegeneration[J].EMBOJ,2017,36
+(11):1474-1492.
+[23]LIN Y N,YU N N,LINX,etal.Preoperativecerebrospinal
+fluidbiomarkersmaybeassociatedwithpostoperativedelirium
+inpatientsundergoingknee/hiparthroplasty:ThePNDABLE
+study[J].BMCGeriatr,2023,23(1):282.
+[24]BAHNASSAWYL,NICOLAISEN N,UNTUCHTC,etal.
+Establishmentofahigh-contentimagingassayfortauaggrega-
+tioninhiPSC-derivedneuronsdifferentiatedfromtwoproto-
+colstoroutinelyevaluatecompoundsandgeneticperturbations
+[J].SLASDiscov,2024,29(2):100137.
+[25]AYYUBOVA G.Dysfunctionalmicrogliaandtaupathologyin
+Alzheimer’sdisease[J].RevNeurosci,2023,34(4):443-458.
+[26]SERAFINIS,FERRETTI G, MONTEROSSO P,et al.
+TNF-αlevelsareincreasedinpatientswithsubjectivecognitive
+impairmentandarenegativelycorrelated withβamyloid-42
+[J].Antioxidants,2024,13(2):216.
+[27]MÜNCH G,WESTCOTT B,MENINIT,etal.Advanced
+glycationendproductsandtheirpathogenicrolesinneurological
+disorders[J].AminoAcids,2012,42(4):1221-1236.
+[28]SIMS-ROBINSON C,KIM B,ROSKO A,etal.Howdoes
+diabetesaccelerateAlzheimerdiseasepathology? [J].NatRev
+Neurol,2010,6(10):551-559.
+[29]WOODIEL,BLYTHES.Thedifferentialeffectsofhigh-fat
+andhigh-fructosedietsonphysiologyandbehaviorinmalerats
+[J].NutrNeurosci,2018,21(5):328-336.
+(本文编辑 范睿心 厉建强)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第530页)
+[23]郑一科,赖勇,苏瑞林.立体定向引导下的前额锁孔入路神经
+内镜血肿清除术治疗高血压基底节区脑出血的临床价值研究
+[J].中国医学创新,2018,15(15):64-67.
+[24]刘胜华,周政,唐协林,等.术前纤维蛋白原水平对高血压脑出
+血微创穿刺引流术后再出血的预测价值[J].局解手术学杂
+志,2020,29(7):578-581.
+[25]MURTHYSB,ZHANG C N,GUPTA A,etal.Diffusion-
+weightedimaginglesionsafterintracerebralhemorrhageand
+riskofstroke:A MISTIE Ⅲand ATACH-2analysis[J].
+Stroke,2021,52(2):595-602.
+[26]韩春阳,刘宇,冯亮,等.高血压脑出血患者微创穿刺血肿引流
+术后再出血危险因素分析及预测模型建立[J].临床神经病学
+杂志,2023,36(3):196-201.
+[27]王策,蔡廷江,鹿海龙,等.三种不同手术方式治疗高血压性脑
+出血的疗效及术后再出血危险因素探讨[J].临床外科杂志,
+2020,28(10):930-933.
+[28]李酉德,张伟.ICP监测在HICH 患者微创术中及术后治疗中
+的指导价值分析[J].贵州医药,2021,7(3):425-427.
+[29]王岩,沈俊岩,张福征.神经内镜微创手术与微创血肿穿刺引
+流术对脑出血患者血肿清除疗效及对术后神经功能的影响对
+比[J].中国临床医生杂志,2023,51(8):955-958.
+[30]WANGG H,LIU W,LICF,etal.Effectofminimallyinva-
+sivesurgerycombinedwithintracranialpressuremonitoringon
+neurologicalfunctionrecoveryandqualityoflifeinpatients
+withhypertensivecerebralhemorrhage[J].AmJTranslRes,
+2021,13(7):8076-8084.
+[31]宋超强,赵保钢,孙智宏.不同微创颅内血肿清除术对老年高
+血压性脑出血患者神经功能恢复的影响[J].中华老年心脑血
+管病杂志,2023,25(7):725-728.
+(本文编辑 耿波)
+·
+4
+3
+5
+·

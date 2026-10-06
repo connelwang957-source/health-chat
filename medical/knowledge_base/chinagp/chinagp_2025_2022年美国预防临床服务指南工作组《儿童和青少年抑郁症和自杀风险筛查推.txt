@@ -1,0 +1,899 @@
+标题: 2022年美国预防临床服务指南工作组《儿童和青少年抑郁症和自杀风险筛查推荐声明》解读
+期刊: 中国全科医学 2025 第28卷 第15期
+DOI: 10.12114/j.issn.1007-9572.2024.0569
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0569
+
+
+·1823·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年5月  第28卷  第15期
+中国全科医学
+·指南·共识·解读·
+2022 年美国预防临床服务指南工作组《儿童和青少年
+抑郁症和自杀风险筛查推荐声明》解读
+章琪
+1 ，和申
+1，李华
+1，2*
+1.200030 上海市，上海交通大学医学院附属精神卫生中心心境障碍科
+2.200025 上海市，上海交通大学护理学院
+* 通信作者：李华，副主任护师；E-mail：lihua9262008@163.com
+【摘要】　美国预防临床服务指南工作组（USPSTF）于2022 年在JAMA 发布了《儿童和青少年抑郁症和自杀风
+险筛查推荐声明》（以下简称USPSTF 声明），并发布了最新证据报告和系统评价结果，建议对12~18 岁的青少年进
+行抑郁症筛查。但由于缺乏足够的证据，USPSTF 声明目前无法确定儿童和青少年自杀风险筛查的利弊。本文结合国
+内外文献对USPSTF 声明的内容进行解读，从抑郁症和自杀行为的概念、危险因素、筛查工具、早期筛查的利弊、治
+疗和干预及USPSTF 声明对初级保健医护人员的指导价值等方面进行概述，旨在为医护人员对儿童和青少年抑郁症和
+自杀风险筛查的临床实践提供参考。
+【关键词】　抑郁症；自杀；儿童和青少年；筛查；美国预防临床服务指南工作组；声明
+【中图分类号】　R 749　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2024.0569
+Interpretation of Screening for Depression and Suicide Risk in Children and Adolescents：US 
+Preventive Services Task Force Recommendation Statement 2022
+ZHANG Qi
+1，HE Shen
+1，LI Hua
+1，2*
+1.Division of Mood Disorders，Shanghai Mental Health Center，Shanghai Jiao Tong University School of Medicine，Shanghai 
+200030，China
+2.School of Nursing，Shanghai Jiao Tong University，Shanghai 200025，China
+*Corresponding author：LI Hua，Associate chief nurse；E-mail：lihua9262008@163.com
+【Abstract】　In 2022，the United States Preventive Services Task Force（USPSTF）published a recommendation 
+statement on Screening for Depression and Suicide Risk in Children and Adolescents：US Preventive Services Task Force 
+Recommendation Statement in JAMA with an updated evidence report and results of a systematic evaluation（USPSTF 
+statement）. The statement suggested screening for major depressive disorder in adolescents aged 12 to 18 years. However，the 
+evidence regarding the risks and benefits of suicide screening for children and adolescents is insufficient，making it challenging 
+to determine its overall impact. This article interprets the content of the USPSTF statement in the context of the national and 
+international literature，including the concepts of major depressive disorder and suicidal behaviours，risk factors，early 
+screening tools，pros and cons of early screening，treatment and interventions，and the value of the USPSTF statement in guiding 
+primary care providers. Intending to serve as a reference for clinical healthcare professionals involved in the screening of children 
+and adolescents for depression and suicide risk.
+【Key words】　Major depressive disorder；Suicide；Children and adolescents；Screening；United States Preventive 
+Services Task Force；Statement
+基金项目：上海市精神卫生中心院级重点课题（2022ZD02）
+引用本文：章琪，和申，李华. 2022 年美国预防临床服务指南工作组《儿童和青少年抑郁症和自杀风险筛查推荐声明》解读［J］. 中国
+全科医学，2025，28（15）：1823-1830. DOI：10.12114/j.issn.1007-9572.2024.0569.［www.chinagp.net］
+ZHANG Q，HE S，LI H. Interpretation of Screening for Depression and Suicide Risk in Children and Adolescents：US Preventive Services Task 
+Force Recommendation Statement 2022［J］. Chinese General Practice，2025，28（15）：1823-1830.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·1824· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+May 2025，Vol.28 No.15
+Chinese General Practice
+抑郁症（major depressive disorder，MDD）是儿童和
+青少年中较常见的精神疾病之一。儿童和青少年因生理
+发育迅速且心理敏感脆弱，因而更易患MDD
+［1］。《中
+国国民心理健康发展报告（2021~2022）》
+［2］显示，
+2022 年中国青少年抑郁风险检出率为14.8%，其中重度
+抑郁风险检出率为4.0%。这一数据表明，我国青少年
+群体正面临着一个相对较高的心理健康风险水平。MDD
+发病群体呈年轻化趋势，社会亟需重视儿童和青少年的
+心理健康
+［3］。总体而言，儿童和青少年MDD 的表现与
+成年患者相似，但各年龄段的特点有所不同。例如，在
+学龄前儿童中，照护者观察到孩子对游戏的兴趣减退，
+这可能是一个重要的警示信号
+［4］；对于学龄儿童，易怒、
+脾气暴躁、低挫折容忍度和躯体症状可能更为突出；而
+在青少年中，悲伤情绪、生理功能紊乱和自杀行为可能
+更常见
+［5］。这些不同年龄段的发展性差异增加了MDD
+诊断的复杂性。
+儿童MDD 通常未能及时得到必要的筛查、诊断
+和治疗，至少50% 的MDD 青少年直到成年后才被诊
+断
+［6］。儿童和青少年MDD 是一种常见的、慢性的、复
+发性的和使人衰弱的疾病状态，导致学业和社会功能的
+损害
+［7-8］。MDD 的复发率很高，1~2 年内青少年的复
+发率为20%~60%，5 年后为70%
+［9］。MDD 还会使自杀
+意念、自杀企图和自杀完成的风险增加
+［10］，而自杀已
+成为10~19 岁青少年的第二大死因
+［11］，因此对儿童和
+青少年开展早期的系统性筛查变得尤为关键。
+2022-10-11，美国预防临床服务指南工作组（United 
+States Preventive Services Task Force，USPSTF）在JAMA
+发布了《儿童和青少年抑郁症和自杀风险筛查推荐声
+明》
+［8］（以下简称USPSTF 声明），该声明是对2014
+年发布的《青少年自杀风险筛查推荐声明》
+［12］和2016
+年《儿童和青少年抑郁症筛查推荐声明》
+［13］的更新，
+总结了最新证据并提供了系统评价的结果。本文结合国
+内外临床研究，对USPSTF 声明的重点内容进行解读，
+旨在为医护人员对儿童和青少年MDD 和自杀风险筛查
+的临床实践提供参考。
+1　概念
+1.1　MDD 的概念
+MDD 是一种常见且严重的精神疾病。根据精神障
+碍诊断与统计手册（Diagnostic and Statistical Manual of 
+Mental Disorders，DSM）-5 标准，MDD 的定义为：个
+体在至少2 周的时间内，经历轻度到重度的持续悲伤，
+对日常生活失去兴趣。此外，还可表现为易怒、注意力
+不集中和躯体问题（如睡眠障碍、精力减退和食欲改
+变）
+［14］。MDD 是常见的复发性疾病，给家庭和社会带
+来了沉重的负担
+［15］。USPSTF 声明中仅聚焦于对MDD
+进行筛查，并不涉及对其他抑郁障碍的筛查。
+1.2　自杀行为的概念
+USPSTF 声明定义了“ 自杀行为（suicidal 
+behavior）” 这一术语，涵盖了自杀意念（suicidal 
+ideation）、自杀企图（suicide attempts）和自杀完成（suicide 
+completion）三种情形
+［8］。自杀意念是指思考、考虑或
+计划自杀；自杀企图是指意图导致死亡的非致命性、自
+我导向性的潜在伤害行为；自杀完成是指由自我伤害行
+为导致的死亡，且该行为的意图是为了致死。
+USPSTF 声明的适用人群：未被确诊患有精神疾病，
+或未表现出公认的抑郁症状或自杀风险迹象的儿童和青
+少年
+［8］。
+2　USPSTF 声明总结
+2.1　儿童和青少年MDD 筛查
+USPSTF 声明更新了2016 年USPSTF 关于儿童和青
+少年MDD 筛查的推荐，更新后的USPSTF 声明扩展了
+适用人群的范围，不仅涵盖了未被诊断为MDD 的18 岁
+及以下个体，也包括了那些没有表现出明显抑郁症状或
+自杀风险迹象的儿童和青少年。总体来看，2022 年更
+新后的USPSTF 声明与之前的推荐声明一致，即推荐对
+12~18 岁的青少年进行MDD 筛查（推荐证据：B 级）；
+但对于11 岁及以下儿童，现有证据不足以评估该人群
+进行MDD筛查的利弊，故无法给出推荐意见（推荐证据：
+Ⅰ级）（表1、2）。
+2.2　儿童和青少年自杀风险筛查
+USPSTF 声明更新了2014 年发布的《青少年自杀风
+险筛查推荐声明》
+［12］，2014 年USPSTF 声明指出，证
+据不足以评估青少年自杀风险筛查的利弊（推荐等级：
+Ⅰ级）
+［12］。而2022 年USPSTF 声明再次得出结论，儿
+童和青少年自杀风险筛查的获益和危害的现有证据仍然
+不足，无法确定筛查的利弊（推荐证据：Ⅰ级）（表1、3）。
+USPSTF 声明指出了目前存在的关键证据缺口，并强调
+了开展更多随机对照试验（randomized controlled trial，
+RCT）的迫切需求。这些研究应该评估在初级保健机构
+中对儿童和青少年进行自杀风险筛查的益处和危害，并
+与不进行筛查或常规护理进行比较。此外，建议未来研
+究提供更多关于自杀风险筛查测试的性能特征（准确性、
+灵敏度、特异度等）的详细信息，以增强筛查工具的选
+择和应用。
+3　危险因素评估
+3.1　MDD 的危险因素
+MDD 的病因尚不完全清楚，可能涉及遗传、生物
+和环境因素的综合作用
+［13］，如MDD 家族史、既往
+有MDD 或其他精神病病史或行为问题。儿童和青少年
+
+·1825·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年5月  第28卷  第15期
+中国全科医学
+MDD 的危险因素包括女性、年龄较大的儿童和青少年、
+家庭成员（尤其是母亲）有MDD 病史、既往抑郁发作、
+其他心理健康或行为问题、慢性疾病、超重和肥胖等
+［3，
+13］。MDD 的其他心理社会风险因素还包括童年期遭受
+虐待或忽视、经历创伤性事件、欺凌行为（无论是作
+为施暴者还是受害者）、不利生活事件、早期暴露于压
+力、不安全的亲子关系、性取向模糊、学习表现不佳
+［8，
+13］。针对上述危险因素，USPSTF 声明建议研究者对由
+性别、种族和民族、性取向及性别认同所定义的特定群
+体，开展更多关于MDD 筛查的研究。这一呼吁基于对
+MDD 不同风险因素的认识，旨在促进更精准的预防和
+干预措施，以减少儿童和青少年群体中MDD 的发生率。
+3.2　自杀行为的危险因素
+自杀风险因性别或性取向而异
+［8］。一项关于5~17
+岁黑种人儿童和青少年自杀特点和趋势的研究，使用
+了来自疾病控制和预防中心（Centers for Disease Control 
+and Prevention，CDC）基于网络的伤害统计查询和报
+告系统（Web-based Injury Statistics Query and Reporting 
+System，WISQARS）。数据显示，2003—2017 年，黑
+种人男性青少年的自杀死亡占比（71.77%）高于女性青
+少年（28.23%），而黑种人女性青少年自杀率的年度百
+分比增幅是男性青少年的两倍多
+［16］。LGBT 青少年，
+即女同性恋（lesbian）、男同性恋（gay）、双性恋（bisexual）、
+变性者（transgender）青少年，相较于非LGBT 青少年，
+表现出更高的自杀意念率和自杀企图率
+［8，17］。自杀行
+为的其他重要风险因素还包括精神疾病史和不良的童年
+经历（自杀或精神疾病家族史、自杀企图、生活压力、
+心理创伤史、亲子冲突、法律问题）
+［8］。
+4　早期筛查
+4.1　筛查工具
+4.1.1　MDD 筛查工具：多种筛查工具可用于识别儿
+童和青少年MDD，部分已在初级保健中得到应用。
+临床实践中常用的MDD 筛查工具包括青少年患者健
+康问卷（Patient Health Questionnaire for Adolescents，
+PHQ-A）、流调中心抑郁症量表（Center for 
+Epidemiologic Studies Depression Scale，CES-D）、初级
+保健版本的贝克抑郁量表（Beck Depression Inventory，
+BDI）
+［8，13］。
+PHQ-A 是基于9 项患者健康问卷（Patient Health 
+Questionnaire-9，PHQ-9）修订而来的，是PHQ-9 的青
+少年版本，针对青少年的语言表达方式和生活经历进行
+了调整，以更好地评估青少年的MDD
+［18］。PHQ-A 是
+一种自我管理的工具，可用于帮助初级保健医生在青少
+年患者中识别MDD 等精神疾病
+［19］。PHQ-A 包含9 个
+表3　USPSTF 的基本原理总结（自杀风险筛查）
+Table 3　Summary of USPSTF rationale（screening for suicide risk）
+基本原理
+儿童和青少年
+检测
+由于缺乏研究，关于儿童和青少年自杀风险筛查的
+准确性的证据不足
+早发现和早干
+预的益处
+关于自杀风险筛查对接受筛查者与未接受筛查者的
+健康结局获益，尚没有研究报告；
+关于自杀风险干预（即心理治疗、药物治疗或协作
+护理）对改善儿童和青少年健康结局有效性的证据
+不足。证据有限，研究结果也不一致
+早发现和早干
+预的危害
+由于缺乏研究，没有充足的证据评估儿童和青少年
+自杀风险筛查的潜在危害；
+由于缺乏研究，没有充足的证据评估心理治疗、药
+物治疗或协作护理治疗对儿童和青少年自杀风险干
+预的潜在危害
+USPSTF 评估
+对儿童和青少年进行自杀风险筛查的获益和危害无
+法确定，无法评估利弊
+表1　USPSTF 声明总结
+Table 1　Summary of USPSTF recommendation statements
+人群
+推荐
+等级（级）
+青少年（12~18 岁）USPSTF 推荐对12~18 岁的青少年
+进行MDD 筛查
+B
+儿童（≤11 岁）
+USPSTF 认为现有证据不足以评估
+11 岁及以下儿童MDD 筛查的利弊
+Ⅰ
+儿童和青少年
+USPSTF 认为现有证据不足以评估
+儿童和青少年自杀风险筛查的利弊
+Ⅰ
+注：USPSTF= 美国预防临床服务指南工作组，MDD= 抑郁症；等
+级B 为USPSTF 推荐该服务，中等净收益，把握度中等；等级Ⅰ为现
+有证据不足、质量较差或存在冲突，故无法确定利弊平衡，若提供该
+服务，患者应了解利弊平衡的不确定性。
+表2　USPSTF 的基本原理总结（MDD 筛查）
+Table 2　Summary of USPSTF rationale（screening for MDD）
+基本原理
+儿童（≤11 岁）
+青少年（12~18 岁）
+检测
+在初级保健中，关于
+11 岁及以下儿童MDD
+筛查工具的证据不足
+充分证据表明，MDD 筛查工具
+可以准确识别初级保健中12~18
+岁青少年的MDD
+早发现和
+早干预的
+益处
+关于在初级保健中对
+11 岁及以下儿童进行
+MDD 筛查健康结果获
+益的直接证据不足；
+关于对筛查出患有
+MDD 的儿童进行治疗
+的益处的证据不足
+关于在初级保健中对青少年进行
+MDD 筛查健康结果获益的直接
+证据不足；
+充分证据表明，通过青少年筛查
+检测到的MDD 治疗与中等净收
+益相关（例如，抑郁症状或反应
+得到改善）；
+充分证据表明，筛查和早期治疗
+青少年MDD 与改善疗效之间存
+在联系
+早发现和
+早干预的
+危害
+关于对11 岁及以下儿
+童进行MDD 筛查或治
+疗的危害的证据不足
+没有直接证据表明筛查对青少年
+MDD 的危害；
+充分的证据表明筛查和心理治疗
+的危害程度很小，基于使用筛查
+工具的危害性小，证据的有限性
+以及心理治疗干预措施的非侵入
+性（当直接证据有限、缺乏或仅
+限于特定人群或临床情况时，
+USPSTF 可能会对获益或危害的
+程度设定概念性的上限或下限）
+U S P S T F
+评估
+对11 岁及以下儿童进
+行MDD 筛查的益处和
+危害尚不确定，无法
+推断筛查的利弊平衡
+在12~18 岁的青少年中进行
+MDD 筛查具有中等净收益，把
+握度中等
+
+·1826· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+May 2025，Vol.28 No.15
+Chinese General Practice
+条目，评估受试者过去2 周的感受，总分为0~27 分，
+得分越高表示MDD 越严重
+［20］。PHQ-A 在中国儿童和
+青少年MDD 患者中具有良好的信度（Macdonald Ω 系
+数为0.87，重测信度为0.70）和效度［比较拟合指数
+（comparative fit index，CFI）、拟合度指数（goodness 
+of fit index，GFI）为0.94，近似均方根误差（root mean 
+square error of approximation，RMSEA）为0.08］
+［21］。
+与心理健康专业人员进行的半结构化临床访谈相比，
+PHQ-A 具有令人满意的灵敏度（73%）、特异度（94%）、
+总体诊断准确性（92%）和诊断一致性（Kappa 值为
+0.59）
+［19］。PHQ-A 可以帮助初级保健医生在青少年患
+者中早期识别MDD，但鉴于对青少年常规使用筛查工
+具可能会带来标签化、污名化以及不适当或过度治疗的
+风险，因此，对于通过PHQ-A 量表被诊断为MDD 的
+患者，建议医生进行后续询问，以确定精神症状及相关
+的功能损害或痛苦
+［19］。
+CES-D 是一种用于评估个体过去1 周抑郁状态的自
+评问卷，由美国国立精神卫生研究院的RADLOFF
+［22］
+在1977 年开发。该量表共计20 个条目，涵盖抑郁情绪、
+积极情绪、躯体症状与活动迟滞、人际4 个维度
+［22］。
+每个条目按0~3 级评分，其中0 分表示偶尔或无（<1 d），
+1分表示有时（1~2 d），2分表示时常或一半时间（3~4 d），
+3 分表示多数时间或持续（5~7 d），总分范围为12~48 分，
+分数越高表示受试者发生MDD 的风险越高，一般认为
+总分≥20 分为抑郁症状的临界值，≥28 分为MDD 筛
+查的临界值
+［23-24］。CES-D 在全球多个国家经过翻译和
+使用，显示出良好的信效度（Cronbach's α 系数为0.90，
+CFI 为0.98、GFI 为0.95，RMSEA 为0.06），且已在中
+国城市人群中建立了不同性别与年龄组的常模
+［25］。
+BDI- Ⅱ是由贝克等于1996 年根据美国DSM 第四
+版（DSM- Ⅳ）的标准，对BDI 进行修订而成的自评量
+表
+［26］。BDI- Ⅱ是当前应用较广泛的MDD 自评工具之
+一，适用于评估精神疾病患者和正常人群在过去2 周内
+的抑郁症状及其严重程度
+［27］。该量表包含21 个条目，
+采用0~3 级评分，总分范围为0~63 分。根据量表评分
+将MDD 分为4 级：0~13 分为无抑郁，14~19 分为轻度
+抑郁，20~28 分为中度抑郁，29~63 分为重度抑郁
+［28］。
+BDI- Ⅱ中文版（BDI- Ⅱ-C）已在中国青少年群体中
+展现出良好的信度（Cronbach's α 系数为0.93）和效度
+（CFI 为0.97，RMSEA 为0.03），能作为我国青少年
+MDD 筛查和严重程度评估的自评工具
+［29］。
+目前，USPSTF 声明中尚无证据表明何种工具为最
+优选，每个MDD 筛查工具的适用年龄、条目数量、完
+成这些条目所需的时间各不相同。使用MDD 筛查工具
+进行初步筛查之后应由医生通过额外的询问或面谈以全
+面诊断。
+4.1.2　自杀行为风险筛查工具：自杀风险筛查工具通
+常包括对当前自杀意念、自伤行为以及对既往自杀企
+图和自杀行为的评估
+［8］。2014 年发布的USPSTF 声明
+中，提及了一种关于儿童和青少年人群的自杀风险筛查
+工具（Suicide Risk Screen，SRS）。该工具共计20 个条
+目，被嵌入到高中调查问卷中，旨在识别这一年龄段
+学生的自杀风险
+［12］。THOMPSON 等
+［30］对潜在高中辍
+学青少年使用SRS，以检验其识别自杀风险青少年的有
+效性，研究发现自杀风险严重程度与SRS 标准定义的
+分类显著相关，SRS 的灵敏度为87%~100%，特异度为
+54%~60%。结果提示SRS 是一种有效和实用的方法，
+可用于在学校环境中识别潜在辍学的自杀风险青年。然
+而，由于其特异度处于中等水平，因此需要临床医生
+对筛查结果进行后续的详细评估和确认诊断，以确保准
+确性和适当的干预措施。其他适用于该人群的自杀风险
+筛查工具还包括：自杀筛查问题（Ask Suicide-Screening 
+Questions，ASQ）、青少年版自杀意念问卷（Suicidal 
+Ideation Questionnaire-Junior，SIQ-Jr）和贝克自杀意念量
+表（Beck Scale for Suicidal Ideation，BSSI）等
+［31-33］。许
+多MDD 筛查工具包含至少一个与自杀意念相关的条目，
+但依赖这些工具来筛查自杀意念可能并不充分
+［8］。此
+外，尽管已有多种自杀风险筛查工具被开发出来，但其
+心理测量特性常不足以用于儿童和青少年人群，且与临
+床访谈相比，这些工具的准确性仍然不能确定
+［8］。此外，
+USPSTF 声明指出缺乏有关初级保健临床医生筛查儿童
+和青少年自杀风险频率的数据
+［8］。基于以上这些原因，
+USPSTF 声明并未对自杀风险筛查给出具体推荐。
+4.2　早期筛查的利弊
+4.2.1　MDD 早期筛查利弊分析：USPSTF 声明推荐对
+12~18 岁的青少年进行MDD 筛查
+［8］。研究表明，大约
+一半的青少年MDD 患者直到成年后才被确诊
+［34］。由
+于寻求MDD 治疗存在相关的污名化问题，儿童和青少
+年有病耻感，故开展MDD 筛查可能有利于该人群的精
+神卫生健康状况
+［35］。USPSTF 声明强调，筛查应通过适
+当的系统实施，以确保准确的诊断、有效的治疗和适当
+的随访
+［8］。对于11 岁及以下的儿童，由于现有证据不
+足，故USPSTF 无法确切地评估该人群进行MDD 筛查
+的利弊。此外，USPSTF 声明还警示了对任何年龄段的
+儿童和青少年进行MDD 筛查的潜在危害，包括因早期
+筛查结果假阳性带来的不必要的转诊（时间成本和经济
+负担）、治疗、焦虑、标签化和污名化。目前，尚缺乏
+直接评估初级保健中MDD 筛查利弊的试验
+［36］。因此，
+迫切需要开展大规模、高质量的RCT 研究，以便更全面
+地了解在初级保健中进行MDD 筛查对儿童和青少年长
+期健康结果的影响，为临床决策提供更切实的科学依据。
+4.2.2　自杀行为早期风险筛查利弊分析：一项对2000—
+
+·1827·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年5月  第28卷  第15期
+中国全科医学
+2010 年8 个心理健康研究网络（Mental Health Research 
+Network，MHRN）卫生系统自杀死亡的纵向研究发现，
+仅有16.3% 的0~19 岁的儿童和青少年在死亡前4 周内
+进行过心理健康诊断
+［37］。这一发现突显了在儿童和青
+少年中早期识别自杀风险的紧迫性，尤其是考虑到父母
+与子女在自杀倾向报告上的不一致，父母往往不知道子
+女有自杀意念
+［38-39］。尽管2 项RCT（n=2 675）显示，
+自杀风险筛查并未增加短期痛苦，但当前缺乏足够的证
+据来评估这一年龄段儿童和青少年自杀风险筛查的潜在
+危害
+［40-41］。因此，USPSTF 声明认为，基于现有证据，
+无法确切评估对儿童和青少年进行自杀风险筛查的利
+弊，强调了进一步研究的必要性以支持临床决策
+［8］。
+5　治疗与干预
+5.1　MDD 的治疗
+儿童和青少年MDD 的治疗方案包括药物治疗、心
+理治疗和联合治疗
+［35］。USPSTF 声明指出，不充分的
+支持和后续跟踪可能导致治疗失败或带来伤害
+［8］。需
+要有完善的系统和足够数量且训练有素的医疗专业人员
+来确保对患者进行筛查。若筛查结果呈阳性，则进行适
+当的转诊和循证护理治疗。
+5.1.1　药物治疗：尽管有多种抗抑郁药物被批准用
+于成人MDD 的治疗，包括三环类抗抑郁药（tricyclic 
+antidepressant，TCA）、选择性5- 羟色胺再摄取抑
+制
+剂（selective serotonin reuptake inhibitor，SSRI）、
+5- 羟色胺和去甲肾上腺素再摄取抑制剂（serotonin-
+norepinephrine reuptake inhibitor，SNRI）和单胺氧化酶
+抑制剂（monoamine oxidase inhibitor，MAOI）
+［42］，
+但针对儿童和青少年MDD 治疗的研究相对较少。
+SSRI 是儿童和青少年MDD 治疗的一线药物，其中氟
+西汀是目前美国食品药品监督管理局（Food and Drug 
+Administration，FDA）批准用于治疗8 岁及以上儿童
+MDD 的唯一药物
+［35］。此外，FDA 也批准了艾司西酞
+普兰用于治疗12~17 岁青少年的MDD
+［35］。一项Meta
+分析显示，氟西汀在儿童和青少年MDD 患者的短期
+（6~10 周）症状强度控制方面取得了显著效果，且具
+有较好的耐受性。值得注意的是，该分析显示，氟西汀
+治疗并未导致自杀想法的显著变化，且与头痛和皮疹不
+良反应的风险较高相关
+［42］，这是一个关键的安全考量
+点。尽管如此，FDA 在对儿童和青少年MDD 患者的短
+期治疗研究中发现，与安慰剂相比，使用抗抑郁药增加
+了儿童和青少年自杀倾向的风险
+［43］。这一发现强调了
+在考虑为儿童和青少年开具抗抑郁药物处方时，医疗专
+业人员必须仔细权衡潜在的自杀风险与临床需求。此外，
+一旦开始抗抑郁治疗，医护人员应对患者进行密切监测，
+以评估其临床症状、自杀或异常行为的变化。
+5.1.2　心理治疗：心理治疗对8~19 岁青少年MDD 患
+者的治疗效果显著
+［44］。对于MDD 患者，可选择多种
+心理治疗方法，常见的包括认知行为治疗（cognitive 
+behavioral therapy，CBT）、人际关系治疗（interpersonal 
+therapy，IPT）、心理动力治疗和家庭治疗等
+［45］。在儿
+童和青少年MDD 的心理治疗领域，CBT 和IPT 因其坚
+实的证据基础而被认为是最有效的治疗方法
+［35，46-47］。
+应用CBT 和IPT 治疗儿童和青少年时，需根据其认知
+和心理发展特点，灵活调整治疗策略
+［3］。这意味着要
+重视儿童的自主性和独立性水平，根据儿童的抽象思维
+能力调整治疗中的认知要素，以适应儿童和青少年的发
+展需求。
+5.1.3　协作护理模式：协作护理模式是一种多学科团队
+协作的、卫生保健系统级别的干预措施，通过护理管理
+者将初级保健临床医生、患者和心理健康专家联系起
+来
+［8］。协作护理模式的核心特征包括结构化的管理方
+案、规律性的患者随访机制以及强化的跨专业交流体系
+（书面反馈、团体会议、个体化的咨询）
+［48］。这种模
+式旨在通过多学科团队的合作，优化患者的治疗与护理
+流程，提升医疗服务质量和效率。有证据显示，协作护
+理干预能显著改善抑郁结局
+［49-50］。然而，目前关于协
+作护理模式的研究多聚焦于MDD 的围产期管理
+［51-54］、
+成人MDD 共病（癌症
+［55-56］、肥胖症
+［57-58］）患者的护
+理，关注儿童和青少年人群协作护理模式的研究较少。
+因此，USPSTF 在其声明中强调，未来亟需加强儿童和
+青少年MDD 患者协作护理的研究，以填补现有知识空
+白，并进一步优化治疗方案。
+5.2　自杀行为的干预
+对儿童和青少年的自杀行为干预措施包括心理治疗
+（IPT、CBT、辩证行为治疗）、药物治疗（抗抑郁药、
+抗精神病药和情绪稳定剂）和物理治疗（高频重复经颅
+磁刺激、无抽搐电休克治疗）
+［35，59-60］。除了这些治疗
+之外，有护理人员参与的安全规划干预措施同样重要，
+旨在减少自杀手段的获取机会或降低其致命性。具体而
+言，初级保健提供者可以开展教育项目，指导处于危机
+中的儿童和青少年家属如何安全存放药物、移除可能用
+于自杀行为的物品等
+［35，61］。
+6　小结
+USPSTF 声明描述了儿童和青少年MDD 和自杀行为
+筛查及治疗中存在的问题和采取的措施，推荐对12~18
+岁的青少年进行MDD 筛查。然而，由于现有证据不足，
+USPSTF 指出尚缺乏对儿童和青少年MDD 和自杀风险
+筛查及治疗利弊的深入研究，故无法明确早期识别和干
+预的最佳方法。因此，初级保健医护人员应结合我国儿
+童和青少年MDD 患者的特点、家庭功能、我国卫生保
+
+·1828· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+May 2025，Vol.28 No.15
+Chinese General Practice
+健系统服务能力等，探索科学有效的筛查和干预措施，
+开展针对性的研究，从而优化治疗方案并提高治疗效果。
+作者贡献：章琪负责文章的构思与设计、文献收集
+与整理、撰写文章、文章修改；和申负责写作指导、内
+容审阅；李华负责文章的质量控制、监督管理。
+本文无利益冲突。
+章琪
+https://orcid.org/0009-0008-8385-1615
+李华
+https://orcid.org/0000-0002-9604-9241
+参考文献
+［1］SIMON YEUNG K，HERNANDEZ M，MAO J J，et al. Herbal 
+medicine for depression and anxiety：a systematic review with 
+assessment of potential psycho-oncologic relevance［J］. Phytother 
+Res，2018，32（5）：865-891. DOI：10.1002/ptr.6033.
+［2］傅小兰，张侃，陈雪峰，等. 中国国民心理健康发展报告
+（2021~2022）［M］. 北京：社会科学文献出版社，2023.
+［3］WALTER H J，REESE ABRIGHT A，BUKSTEIN O G，et al. 
+Clinical practice guideline for the assessment and treatment of children 
+and adolescents with major and persistent depressive disorders［J］. 
+J Am Acad Child Adolesc Psychiatry，2023，62（5）：479-502. 
+DOI：10.1016/j.jaac.2022.10.001.
+［4］WHALEN D J，SYLVESTER C M，LUBY J L. Depression and 
+anxiety in preschoolers：a review of the past 7 years［J］. Child 
+Adolesc Psychiatr Clin N Am，2017，26（3）：503-522. DOI：
+10.1016/j.chc.2017.02.006.
+［5］GOLDMAN S. Developmental epidemiology of depressive 
+disorders［J］. Child Adolesc Psychiatr Clin N Am，2012，21（2）：
+217-235，vii. DOI：10.1016/j.chc.2011.12.002.
+［6］ZUCKERBROT R A，CHEUNG A，JENSEN P S，et al. Guidelines 
+for Adolescent Depression in Primary Care（GLAD-PC）：part 
+Ⅰ. Practice preparation，identification，assessment，and initial 
+management［J］. Pediatrics，2018，141（3）：e20174081. 
+DOI：10.1542/peds.2017-4081.
+［7］MULLEN S. Major depressive disorder in children and 
+adolescents［J］. Ment Health Clin，2018，8（6）：275-283. 
+DOI：10.9740/mhc.2018.11.275.
+［8］US Preventive Services Task Force，MANGIONE C M，BARRY 
+M J，et al. Screening for depression and suicide risk in children and 
+adolescents：US Preventive Services Task Force recommendation 
+statement［J］. JAMA，2022，328（15）：1534-1542. DOI：
+10.1001/jama.2022.16946.
+［9］BIRMAHER B，BRENT D，AACAP Work Group on Quality 
+Issues，et al. Practice parameter for the assessment and treatment of 
+children and adolescents with depressive disorders［J］. J Am Acad 
+Child Adolesc Psychiatry，2007，46（11）：1503-1526. DOI：
+10.1097/chi.0b013e318145ae1c.
+［10］CHESNEY E，GOODWIN G M，FAZEL S. Risks of all-cause and 
+suicide mortality in mental disorders：a meta-review［J］. World 
+Psychiatry，2014，13（2）：153-160. DOI：10.1002/wps.20128.
+［11］HERON M P. Deaths：Leading Causes for 2019［J］. National 
+vital statistics reports：from the Centers for Disease Control and 
+Prevention，National Center for Health Statistics，National Vital 
+Statistics System，2021，70（9）：1-114.
+［12］LEFEVRE M L，U.S. Preventive Services Task Force. Screening 
+for suicide risk in adolescents，adults，and older adults in primary 
+care：U.S. Preventive Services Task Force recommendation 
+statement［J］. Ann Intern Med，2014，160（10）：719-726. 
+DOI：10.7326/M14-0589.
+［13］SIU A L，US Preventive Services Task Force. Screening for 
+depression in children and adolescents：US Preventive Services 
+Task Force recommendation statement［J］. Pediatrics，2016，
+137（3）：e20154467. DOI：10.1542/peds.2015-4467.
+［14］American Psychiatric Association. Diagnostic and Statistical Manual 
+of Mental Disorders［M/OL］. Fifth Edition. American Psychiatric 
+Association，2013. ［2024-11-01］. https://doi/book/10.1176/
+appi.books.9780890425596.
+［15］MALHI G S，MANN J J. Depression［J］. Lancet，2018，392
+（10161）：2299-2312. DOI：10.1016/s0140-6736(18)31948-2.
+［16］SHEFTALL A H，VAKIL F，RUCH D A，et al. Black youth 
+suicide：investigation of current trends and precipitating 
+circumstances［J］. J Am Acad Child Adolesc Psychiatry，2022，
+61（5）：662-675. DOI：10.1016/j.jaac.2021.08.021.
+［17］REAM G L. What's unique about lesbian，gay，bisexual，and 
+transgender（LGBT）youth and young adult suicides? Findings from 
+the national violent death reporting system［J］. J Adolesc Health，
+2019，64（5）：602-607. DOI：10.1016/j.jadohealth.2018.10.303.
+［18］NANDAKUMAR A L，VANDE VOORT J L，NAKONEZNY P A，
+et al. Psychometric properties of the patient health questionnaire-9 
+modified for major depressive disorder in adolescents［J］. J Child 
+Adolesc Psychopharmacol，2019，29（1）：34-40. DOI：
+10.1089/cap.2018.0112.
+［19］JOHNSON J G，HARRIS E S，SPITZER R L，et al. The patient 
+health questionnaire for adolescents：validation of an instrument 
+for the assessment of mental disorders among adolescent primary 
+care patients［J］. J Adolesc Health，2002，30（3）：196-204. 
+DOI：10.1016/s1054-139x(01)00333-0.
+［20］罗学荣，汤信海，申艳梅. 青少年抑郁症的评估与管理［J］. 
+中国儿童保健杂志，2024，32（7）：700-703.
+［21］CHEN Y Q，HUANG X J，YANG F，et al. A Chinese adaptation of 
+the patient health questionnaire for adolescents（PHQ-a）：factor 
+structure and psychometric properties［J］. BMC Psychiatry，
+2024，24（1）：331. DOI：10.1186/s12888-024-05783-3.
+［22］RADLOFF L S. The CES-D scale［J］. Appl Psychol Meas，
+1977，1（3）：385-401. DOI：10.1177/014662167700100306.
+［23］韩梅，贾存显. 农村不同人群CES-D 抑郁量表信度及效度评
+价［J］. 中国公共卫生，2012，28（10）：1265-1267.
+［24］廖娟娟，郑亚楠，黄亮明，等. PHQ-2-C、CES-D 和BDI-
+Ⅱ-C 在筛查青少年抑郁障碍中的应用研究［J］. 国际精神病
+学杂志，2017，44（1）：23-25，36. DOI：10.13479/j.cnki.
+jip.2017.01.003.
+［25］章婕，吴振云，方格，等. 流调中心抑郁量表全国城市常模
+的建立［J］. 中国心理卫生杂志，2010，24（2）：139-143. 
+DOI：10.3969/j.issn.1000-6729.2010.02.015.
+［26］SMARR K L，KEEFER A L. Measures of depression and depressive 
+symptoms：Beck Depression Inventory- Ⅱ（BDI- Ⅱ），Center 
+
+·1829·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年5月  第28卷  第15期
+中国全科医学
+for Epidemiologic Studies Depression Scale（CES-D），Geriatric 
+Depression Scale（GDS），Hospital Anxiety and Depression Scale
+（HADS），and Patient Health Questionnaire-9（PHQ-9）［J］. 
+Arthritis Care Res，2011，63（Suppl 11）：S454-466. DOI：
+10.1002/acr.20556.
+［27］MCPHERSON A，MARTIN C R. A narrative review of the Beck 
+Depression Inventory（BDI）and implications for its use in an 
+alcohol-dependent population［J］. J Psychiatr Ment Health Nurs，
+2010，17（1）：19-30. DOI：10.1111/j.1365-2850.2009.01469.x.
+［28］袁刚，赵晋，郑冬，等. 抑郁自评量表和贝克抑郁量表区分抑
+郁症严重程度的准确度［J］. 神经疾病与精神卫生，2021，21
+（12）：868-873. DOI：10.3969/j.issn.1009-6574.2021.12.006.
+［29］杨文辉，刘绍亮，周烃，等. 贝克抑郁量表第2 版中文版在青
+少年中的信效度［J］. 中国临床心理学杂志，2014，22（2）：
+240-245. DOI：10.16128/j.cnki.1005-3611.2014.02.018.
+［30］THOMPSON E A，EGGERT L L. Using the suicide risk screen 
+to identify suicidal adolescents among potential high school 
+dropouts［J］. J Am Acad Child Adolesc Psychiatry，1999，38（12）：
+1506-1514. DOI：10.1097/00004583-199912000-00011.
+［31］HOROWITZ L M，BRIDGE J A，TEACH S J，et al. Ask suicide-
+screening questions（ASQ）：a brief instrument for the pediatric 
+emergency department［J］. Arch Pediatr Adolesc Med，2012，
+166（12）：1170-1176. DOI：10.1001/archpediatrics.2012.1276.
+［32］COURTNEY D B，ISEYAS N，MONGA S，et al. Systematic 
+review：the measurement properties of the suicidal ideation 
+questionnaire and suicidal ideation questionnaire-jr［J］. J Am 
+Acad Child Adolesc Psychiatry，2024，63（9）：870-887. 
+DOI：10.1016/j.jaac.2023.10.013.
+［33］PATTERSON S. Suicide risk screening tools and the youth 
+population［J］. Child Adoles Psych Nursing，2016，29（3）：
+118-126. DOI：10.1111/jcap.12148.
+［34］KESSLER R C，AVENEVOLI S，RIES MERIKANGAS K. 
+Mood disorders in children and adolescents：an epidemiologic 
+perspective［J］. Biol Psychiatry，2001，49（12）：1002-1014. 
+DOI：10.1016/s0006-3223(01)01129-5.
+［35］VISWANATHAN M，WALLACE I，MIDDLETON J C，et al. 
+Screening for depression，anxiety，and suicide risk in children and 
+adolescents：an evidence review for the U.S. Preventive Services 
+Task Force［DB/OL］. ［2024-11-01］. http://www.ncbi.nlm.nih.
+gov/books/NBK585407/.
+［36］VISWANATHAN M，WALLACE I F，COOK MIDDLETON J，
+et al. Screening for depression and suicide risk in children and 
+adolescents：updated evidence report and systematic review for the 
+US preventive services task force［J］. JAMA，2022，328（15）：
+1543-1556. DOI：10.1001/jama.2022.16310.
+［37］AHMEDANI B K，SIMON G E，STEWART C，et al. Health care 
+contacts in the year before suicide death［J］. J Gen Intern Med，
+2014，29（6）：870-877. DOI：10.1007/s11606-014-2767-3.
+［38］DEVILLE D C，WHALEN D，BRESLIN F J，et al. Prevalence 
+and family-related factors associated with suicidal ideation，suicide 
+attempts，and self-injury in children aged 9 to 10 years［J］. 
+JAMA Netw Open，2020，3（2）：e1920956. DOI：10.1001/
+jamanetworkopen.2019.20956.
+［39］JONES J D，BOYD R C，CALKINS M E，et al. Parent-adolescent 
+agreement about adolescents' suicidal thoughts［J］. Pediatrics，
+2019，143（2）：e20181771. DOI：10.1542/peds.2018-1771.
+［40］GOULD M S，MARROCCO F A，KLEINMAN M，et al. Evaluating 
+iatrogenic risk of youth suicide screening programs：a randomized 
+controlled trial［J］. JAMA，2005，293（13）：1635-1643. 
+DOI：10.1001/jama.293.13.1635.
+［41］ROBINSON J，PAN YUEN H，MARTIN C，et al. Does screening 
+high school students for psychological distress，deliberate self-
+harm，or suicidal ideation cause distress—and is it acceptable? An 
+Australian-based study［J］. Crisis，2011，32（5）：254-263. 
+DOI：10.1027/0227-5910/a000087.
+［42］REYAD A A，PLAHA K，GIRGIS E，et al. Fluoxetine 
+in the management of major depressive disorder in children 
+and adolescents：a meta-analysis of randomized controlled 
+trials［J］. Hosp Pharm，2021，56（5）：525-531. DOI：
+10.1177/0018578720925384.
+［43］LEON A C. The revised black box warning for antidepressants sets a 
+public health experiment in motion［J］. J Clin Psychiatry，2007，
+68（7）：1139-1141. DOI：10.4088/jcp.v68n0723.
+［44］WEISZ J R，MCCARTY C A，VALERI S M. Effects of 
+psychotherapy for depression in children and adolescents：a meta-
+analysis［J］. Psychol Bull，2006，132（1）：132-149. DOI：
+10.1037/0033-2909.132.1.132.
+［45］中华医学会，中华医学会杂志社，中华医学会全科医学分会，等. 
+抑郁症基层诊疗指南（实践版·2021）［J］. 中华全科医师杂志，
+2021，20（12）：1261-1268. DOI：10.3760/cma.j.cn114798-
+20211020-00779.
+［46］DAVID-FERDON C，KASLOW N J. Evidence-based psychosocial 
+treatments for child and adolescent depression［J］. J Clin 
+Child Adolesc Psychol，2008，37（1）：62-104. DOI：
+10.1080/15374410701817865.
+［47］MUFSON L，SILLS R. Interpersonal Psychotherapy for Depressed 
+Adolescents（IPT-a）：an overview［J］. Nord J Psychiatry，
+2006，60（6）：431-437. DOI：10.1080/08039480601022397.
+［48］GUNN J，DIGGENS J，HEGARTY K，et al. A systematic review 
+of complex system interventions designed to increase recovery from 
+depression in primary care［J］. BMC Health Serv Res，2006，6：
+88. DOI：10.1186/1472-6963-6-88.
+［49］SIGHINOLFI C，NESPECA C，MENCHETTI M，et al. 
+Collaborative care for depression in European countries：a 
+systematic review and meta-analysis［J］. J Psychosom Res，
+2014，77（4）：247-263. DOI：10.1016/j.jpsychores.2014.08.006.
+［50］RICHARDSON L P，LUDMAN E，MCCAULEY E，et al. 
+Collaborative care for adolescents with depression in primary care：
+a randomized clinical trial［J］. JAMA，2014，312（8）：809-
+816. DOI：10.1001/jama.2014.9259.
+［51］WELLS T. Postpartum depression：screening and collaborative 
+management［J］. Prim Care，2023，50（1）：127-142. DOI：
+10.1016/j.pop.2022.10.011.
+［52］MILLER E S，GROBMAN W A，CIOLINO J D，et al. Increased 
+depression screening and treatment recommendations after 
+implementation of a perinatal collaborative care program［J］. 
+Psychiatr Serv，2021，72（11）：1268-1275. DOI：10.1176/
+appi.ps.202000563.
+［53］SNOWBER K，CIOLINO J D，CLARK C T，et al. Associations 
+between implementation of the collaborative care model 
+
+·1830· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+May 2025，Vol.28 No.15
+Chinese General Practice
+and disparities in perinatal depression care［J］. Obstet 
+Gynecol，2022，140（2）：204-211. DOI：10.1097/
+AOG.0000000000004859.
+［54］KLATTER C K，VAN RAVESTEYN L M，STEKELENBURG J. Is 
+collaborative care a key component for treating pregnant women with 
+psychiatric symptoms（and additional psychosocial problems）? A 
+systematic review［J］. Arch Womens Ment Health，2022，25（6）：
+1029-1039. DOI：10.1007/s00737-022-01251-7.
+［55］LI M，KENNEDY E B，BYRNE N，et al. Systematic review and 
+meta-analysis of collaborative care interventions for depression in 
+patients with cancer［J］. Psychooncology，2017，26（5）：
+573-587. DOI：10.1002/pon.4286.
+［56］WALKER J，HOBBS H，WANAT M，et al. Implementing 
+collaborative care for major depression in a cancer center：
+an observational study using mixed-methods［J］. Gen 
+Hosp Psychiatry，2022，76：3-15. DOI：10.1016/
+j.genhosppsych.2022.03.003.
+［57］MOULTON C D，THARMARAJA T，HOPKINS C W P. 
+Collaborative care for adults with obesity and depression［J］. 
+JAMA，2019，322（4）：367-368. DOI：10.1001/
+jama.2019.6774.
+［58］MA J，VENDITTI E M，SNOWDEN M B. Collaborative care for 
+adults with obesity and depression-reply［J］. JAMA，2019，
+322（4）：368. DOI：10.1001/jama.2019.6778.
+［59］CROARKIN P E，NAKONEZNY P A，DENG Z D，et al. High-
+frequency repetitive TMS for suicidal ideation in adolescents with 
+depression［J］. J Affect Disord，2018，239：282-290. DOI：
+10.1016/j.jad.2018.06.048.
+［60］贾玉萍，苏亮，徐一峰. 无抽搐电休克治疗在儿童青少年精神
+障碍患者中的应用［J］. 临床精神医学杂志，2022，32（6）：
+502-504. DOI：10.3969/j.issn.1005-3220.2022.06.022.
+［61］MORKEN I S，DAHLGREN A，LUNDE I，et al. The effects 
+of interventions preventing self-harm and suicide in children and 
+adolescents：an overview of systematic reviews［J］. F1000Res，
+2019，8：890. DOI：10.12688/f1000research.19506.2.
+（收稿日期：2024-12-04；修回日期：2025-01-22）
+（本文编辑：康艳辉）
+［71］VASILIU O. Efficacy，tolerability，and safety of toludesvenlafaxine 
+for the treatment of major depressive disorder-a narrative 
+review［J］. Pharmaceuticals，2023，16（3）：411. DOI：
+10.3390/ph16030411. 
+［72］O'REGAN A，LEE J R，MCDERMOTT C L，et al. Opioids and 
+benzodiazepines in oncology：perspectives on coprescribing and 
+mitigating risks［J］. J Geriatr Oncol，2024，16（2）：102172. 
+DOI：10.1016/j.jgo.2024.102172. 
+［73］BYUN J Y，HAN S，QDAISAT A，et al. Long QT syndrome after 
+using EGFR-TKIs in older patients with advanced non-small cell 
+lung cancer［J］. Expert Opin Drug Saf，2024，23（8）：1007-
+1015. DOI：10.1080/14740338.2023.2294924. 
+［74］HASNAIN M，VICTOR R VIEWEG W. QTc interval prolongation 
+and torsade de pointes associated with second-generation 
+antipsychotics and antidepressants：a comprehensive review［J］. 
+CNS Drugs，2014，28（10）：887-920. DOI：10.1007/s40263-
+014-0196-9. 
+［75］NORTHOUSE L，WILLIAMS A L，GIVEN B，et al. Psychosocial 
+care for family caregivers of patients with cancer［J］. J Clin 
+Oncol，2012，30（11）：1227-1234. DOI：10.1200/
+JCO.2011.39.5798. 
+［76］TEIXEIRA R J，APPLEBAUM A J，BHATIA S，et al. The impact 
+of coping strategies of cancer caregivers on psychophysiological 
+outcomes：an integrative review［J］. Psychol Res Behav Manag，
+2018，11：207-215. DOI：10.2147/PRBM.S164946. 
+［77］LI Y H，LI J J，ZHANG Y L，et al. The effectiveness of e-health 
+interventions on caregiver burden，depression，and quality of life 
+in informal caregivers of patients with cancer：a systematic review 
+and meta-analysis of randomized controlled trials［J］. Int J Nurs 
+Stud，2022，127：104179. DOI：10.1016/j.ijnurstu.2022.104179. 
+［78］BENSON J J，OLIVER D P，WASHINGTON K T，et al. Online 
+social support groups for informal caregivers of hospice patients 
+with cancer［J］. Eur J Oncol Nurs，2020，44：101698. DOI：
+10.1016/j.ejon.2019.101698. 
+［79］LONGO C J，GORDON L G，NUND R L，et al. Clinical 
+management of financial toxicity-identifying opportunities through 
+experiential insights of cancer survivors，caregivers，and social 
+workers［J］. Curr Oncol，2022，29（10）：7705-7717. DOI：
+10.3390/curroncol29100609. 
+［80］VALENTINI V，BOLDRINI L，MARIANI S，et al. Role 
+of radiation oncology in modern multidisciplinary cancer 
+treatment［J］. Mol Oncol，2020，14（7）：1431-1441. DOI：
+10.1002/1878-0261.12712. 
+［81］SHARPE M，WALKER J，HOLM HANSEN C，et al. Integrated 
+collaborative care for comorbid major depression in patients 
+with cancer（SMaRT oncology-2）：a multicentre randomised 
+controlled effectiveness trial［J］. Lancet，2014，384（9948）：
+1099-1108. DOI：10.1016/S0140-6736(14)61231-9. 
+［82］ARVING C，HOLMSTRÖM I. Creating a new profession in cancer 
+nursing? Experiences of working as a psychosocial nurse in cancer 
+care［J］. J Clin Nurs，2011，20（19/20）：2939-2947. DOI：
+10.1111/j.1365-2702.2011.03709.x. 
+［83］SHOVAL G，BALICER R D，FELDMAN B，et al. Adherence to 
+antidepressant medications is associated with reduced premature 
+mortality in patients with cancer：a nationwide cohort study［J］. 
+Depress Anxiety，2019，36（10）：921-929. DOI：10.1002/
+da.22938. 
+［84］LYU X C，JIANG H J，LEE L H，et al. Oncology nurses' 
+experiences of providing emotional support for cancer patients：a 
+qualitative study［J］. BMC Nurs，2024，23（1）：58. DOI：
+10.1186/s12912-024-01718-1. 
+（收稿日期：2024-09-10；修回日期：2025-01-10）
+（本文编辑：赵跃翠）
+（上接第1822 页）

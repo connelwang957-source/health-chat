@@ -1,0 +1,1231 @@
+标题: 基于&quot;医院-体育馆-社区&quot;康复模式的五体平衡操运动对肥胖相关性高血压的疗效研究：一项随机对照试验
+期刊: 中国全科医学 2025 第28卷 第32期
+DOI: 10.12114/j.issn.1007-9572.2024.0421
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0421
+
+
+·4038· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+November 2025，Vol.28 No.32
+Chinese General Practice
+·论著·
+基于“医院- 体育馆- 社区”康复模式的
+五体平衡操运动对肥胖相关性高血压的
+疗效研究：一项随机对照试验
+杨盈天
+1，2，吕乾瑜
+1，吴茜
+1，侯信铮
+1，宋建钧
+3，叶雪姣
+1，杨晨艳
+1，王师菡
+1*
+1.100053 北京市，中国中医科学院广安门医院心内科
+2.100029 北京市，北京中医药大学临床医学院
+3.100053 北京市，中国中医科学院广安门医院呼吸科
+* 通信作者：王师菡，教授/ 主任医师/ 博士生导师；E-mail：wangshihan91@126.com
+【摘要】　背景　肥胖相关性高血压（ORH）作为一种长期持续的慢性病，在我国的发病率日益增长。运动是
+ORH 重要的防治手段，但由于运动康复中场地、距离和费用的限制，运动的完成度和依从性多难以保证，运动所带来
+的健康效益被大幅降低。因此，探索合适的运动处方和管理模式至关重要。目的　评估基于“医院- 体育馆- 社区”
+模式的五体平衡操运动对ORH 患者的临床有效性和安全性。方法　本研究为前瞻性随机对照研究。选取2022 年6 月—
+2023 年12 月在中国中医科学院广安门医院招募的ORH 患者84 例为研究对象，利用SPSS 26.0 在线随机数生成器随机
+分为试验组（n=42）和对照组（n=42）。两组受试者均接受相同的生活方式干预，对照组配合中等强度的有氧运动，
+试验组配合基于“医院- 体育馆- 社区”康复模式的五体平衡操训练，干预周期为6 个月。观察两组受试者干预前
+后的收缩压（SBP）、舒张压（DBP）、平均动脉压（MAP）、腰围（WC）、体质量（BW）、BMI、臀围（HC）、
+腰臀比（WHR）、腰高比（WHtR）、空腹血糖（GLU）、血清总胆固醇（TC）、低密度脂蛋白胆固醇（LDL-C）、
+极低密度脂蛋白胆固醇（VLDL-C）、三酰甘油（TG）、血清神经酰胺（Cer）以及焦虑自评量表（SAS）、抑郁自评
+量表（SDS）、生活质量量表（SF-36）和匹兹堡睡眠质量指数量表（PSQI）得分，并记录干预过程中出现的主要心
+血管不良事件（MACE）和运动损伤情况。结果　最终，试验组37 例、对照组36 例受试者完成了试验。6 个月康复
+锻炼后，试验组SBP、DBP、MAP、WC、BW、BMI、HC、WHR、WHtR、LDL-C、Cer 及SAS、SDS、PSQI 得分低
+于对照组（P<0.05），SF-36 得分高于对照组（P<0.05）；GLU、TC、VLDL-C、TG 与对照组比较，差异无统计学意
+义（P>0.05）。试验组干预后的SBP、DBP、MAP、WC、BW、BMI、HC、WHR、WHtR、GLU、LDL-C、VLDL-C、
+TG、Cer 及SAS、SDS、PSQI 得分低于干预前（P<0.05），SF-36 得分高于干预前（P<0.05）；TC 与干预前比较，差
+异无统计学意义（P>0.05）。两组均未出现MACE 和运动损伤。结论　基于“医院- 体育馆- 社区”康复模式的五体
+平衡操运动能较好地改善ORH 患者的血压和形态学指标，提高患者的生活质量，疗效优于常规有氧运动，安全性较好，
+同时还可以降低血清Cer 水平，一定程度上反映了该运动方案在降低心血管风险中的潜在有益效应。
+【关键词】　肥胖相关性高血压；五体平衡操；中医传统运动；康复模式；疗效研究
+【中图分类号】　R 544.1　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2024.0421
+Efficacy of Five-body Balance Exercise on Obesity-related Hypertension Based on the 
+Rehabilitation Model of “Hospital-Gym-Community”：a Randomized Controlled Trial
+YANG Yingtian
+1，2，LYU Qianyu
+1，WU Qian
+1，HOU Xinzheng
+1，SONG Jianjun
+3，YE Xuejiao
+1，YANG Chenyan
+1，WANG 
+Shihan
+1*
+1.Department of Cardiology，Guang'anmen Hospital，China Academy of Traditional Chinese Medicine，Beijing 100053，China
+基金项目：国家自然科学基金资助项目（82374421）；北京市自然科学基金资助项目（7232311）；中国中医科学院科技创新工程重大
+攻关项目（CI2021A00921）
+引用本文：杨盈天，吕乾瑜，吴茜，等. 基于“医院- 体育馆- 社区”康复模式的五体平衡操运动对肥胖相关性高血压的疗效研究：一
+项随机对照试验［J］. 中国全科医学，2025，28（32）：4038-4046. DOI：10.12114/j.issn.1007-9572.2024.0421. ［www.chinagp.net］
+YANG Y T，LYU Q Y，WU Q，et al. Efficacy of five-body balance exercise on obesity-related hypertension based on the rehabilitation model of 
+“hospital-gym-community”：a randomized controlled trial［J］. Chinese General Practice，2025，28（32）：4038-4046.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·4039·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年11月  第28卷  第32期
+中国全科医学
+2.School of Clinical Medicine，Beijing University of Traditional Chinese Medicine，Beijing 100029，China
+3.Department of Respiratory Medicine，Guang'anmen Hospital，China Academy of Traditional Chinese Medicine，Beijing 
+100053，China
+*Corresponding author：WANG Shihan，Professor/Chief physician/Doctoral supervisor；E-mail：wangshihan91@126.com
+【Abstract】　Background　Obesity-related hypertension（ORH），as a long-term persistent chronic disease，is 
+growing in prevalence in China. Exercise is an important means of prevention and treatment for ORH，but due to the limitations 
+of space，distance and cost in exercise rehabilitation，exercise completion and compliance are mostly difficult to ensure，
+and the health benefits of exercise are greatly reduced. Therefore，it is important to explore appropriate exercise prescription 
+and management models. Objective　To evaluate the clinical efficacy and safety of five-body balance exercise based on the 
+“hospital-gym-community” model for patients with ORH. Methods　This was a prospective randomised controlled study. 84 
+ORH patients recruited at Guang'anmen Hospital，China Academy of Traditional Chinese Medicine from June 2022 to December 
+2023 were selected and randomly divided into the experimental group（n=42） and the control group（n=42） by using the SPSS 
+26.0 online random number generator. Subjects in both groups received the same lifestyle intervention. The control group was 
+provided with moderate-intensity aerobic exercise，and the experimental group was provided with the five-body balance exercise 
+training based on the “hospital-gym-community” rehabilitation model for a period of 6 months. Systolic blood pressure（SBP），
+diastolic blood pressure（DBP），mean arterial pressure（MAP），waist circumference（WC），body weight（BW），
+BMI，hip circumference（HC），waist-to-hip ratio（WHR），waist-to-height ratio（WHtR），fasting blood glucose
+（GLU），total cholesterol（TC），low-density lipoprotein cholesterol（LDL-C），very low-density lipoprotein cholesterol
+（VLDL-C），triglycerides（TG），serum ceramides（Cer），Self-rating Anxiety Scale（SAS），Self-rating Depression 
+Scale（SDS），Short-form Health Survey-36（SF-36），and Pittsburgh Sleep Quality Index（PSQI） were observed before 
+and after the intervention in the two groups of subjects. The major adverse cardiovascular events（MACE） and exercise injuries 
+that occurred during the intervention were also recorded. Results　Eventually 37 subjects in the experimental group and 36 
+subjects in the control group completed the trial. After 6 months of rehabilitation，SBP，DBP，MAP，WC，BW，BMI，HC，
+WHR，WHtR，LDL-C，Cer，SAS，SDS，and PSQI in the experimental group were lower than those in the control group（P<0.05），
+SF-36 was higher than that in the control group（P<0.05），and there was no statistically significant difference between GLU，
+TC，VLDL-C，TG in the experimental group and the control group（P>0.05）. After intervention，SBP，DBP，MAP，WC，
+BW，BMI，HC，WHR，WHtR，GLU，LDL-C，VLDL-C，TG，Cer，SAS，SDS，and PSQI were lower than before the 
+intervention in the experimental group（P<0.05），SF-36 was higher compared to the pre-intervention in the experimental group
+（P<0.05），and the difference in TC before and after the intervention was not statistically significant（P>0.05）. There were no 
+MACE or exercise injuries in both groups. Conclusion　The five-body balance exercise based on the “hospital-gym-community” 
+rehabilitation model can promote the blood pressure and morphological indexes of patients with ORH，improve the quality of life，
+and its efficacy is better than the conventional aerobic exercise，with good safety. It also reduces serum Cer levels，reflecting to 
+some extent the potentially beneficial effects of the exercise programme in reducing cardiovascular risk.
+【Key words】　Obesity-related hypertension；Five-body balance exercise；Traditional Chinese medicine exercise；
+Rehabilitation mode；Efficacy research
+肥胖是高血压患病率快速增长的主要驱动力，二者
+具有高度关联性，合并肥胖且排除继发性原因的高血压
+称为肥胖相关性高血压（ORH）。近些年，全球肥胖和
+高血压的发病率逐年上升，在肥胖的众多并发症中，高
+血压是最常见和主要的并发症
+［1-2］。ZHANG 等
+［3］从中
+国健康与养老纵向研究中监测28 个省份的10 108 名参
+与者，发现中国≥45 岁人群的高血压和ORH 发病率分
+别为39.1% 和22.7%，近3/5 的高血压患者患有ORH。
+在ORH 的治疗中，降低血压与控制肥胖需同时兼顾
+［4］，
+且降压效果与减重水平相关
+［5］。临床除医学营养治疗
+和药物治疗外，运动也是重要的防治手段。《素问·至
+真要大论》云：“逸者行之”。防逸早动可起到行气血、
+助消化的作用。正如《伤寒直格》中提到的“久逸宜导
+引宣其积滞之气”。目前，指南推荐有氧运动作为常规
+运动形式
+［4］，但由于该人群体质量（BW）较大和活动
+耐受力较差的体质特点以及运动场地的限制，运动的完
+成度和依从性多难以保证，使身体锻炼所带来的健康效
+益被大幅降低
+［6］。ORH 作为一种慢性病，治疗是一个
+相对长期的过程，患者的主观能动性也影响着疾病的治
+疗效果。因此，规律的运动监督、合适的运动处方及高
+效的康复模式对于充分提高干预效果至关重要。
+中国中医科学院广安门医院王师菡教授联合多名中
+医、运动医学及康复专家在总结前期成果及经验基础上，
+借鉴太极拳、八段锦等传统功法，与现代体育训练相结
+
+·4040· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+November 2025，Vol.28 No.32
+Chinese General Practice
+合，创立了具有中医特色的五体平衡操，其通过外练五
+体之筋、脉、肉、皮、骨，内练精、气、神调和五脏功能，
+平衡阴阳，在课题组前期慢性病康复中应用广泛
+［7］。“医
+院- 体育馆- 社区”康复模式是课题组针对心血管慢性
+病构建的三级康复管理模式，在既往医院介导康复基础
+上，合理深化运动规范度、强度及频率，打破医疗场所
+限制，将康复场所扩展至体育馆和社区。研究显示，从
+医院过渡到社区甚至家庭的管理模式已在部分疾病的康
+复中显示出优势
+［8-9］。基于此，本研究采取随机对照试
+验设计，将运动处方与运动模式相结合，深入探究“医院-
+体育馆- 社区”康复模式下的五体平衡操训练对ORH 患
+者血压、形态学、心血管风险因素和生活质量的影响，
+探索一种安全、有效且有利于临床推广的康复技术。
+1　对象与方法
+1.1　研究对象
+1.1.1　病例来源。选取2022 年6 月—2023 年12 月在
+中国中医科学院广安门医院就诊的ORH 患者84 例作为
+研究对象。
+1.1.2　诊断标准。参照《肥胖相关性高血压管理的中国
+专家共识》
+［4］拟定如下：（1）肥胖，BMI ≥28.0 kg/m
+2 
+和/ 或腰围（WC）≥90 cm（男）/85 cm（女）；
+（2）高血压，收缩压（SBP）≥140 mmHg（1 mmHg= 
+0.133 kPa）和/ 或舒张压（DBP）≥90 mmHg，或已患
+高血压正在服用降压药。
+1.1.3　纳入标准：（1）年龄18~75 岁，自愿参与本研究，
+并签署知情同意书；（2）符合ORH 诊断标准
+［4］且
+病情稳定；（3）高血压分级属1 级（SBP 为140~159 
+mmHg，DBP 为90~100 mmHg）；（4）入组前未服用
+降压药及减重药物者，或曾服用药物但入组前已停药2
+周及以上者，或规律服用降压药物2 周及以上但血压仍
+未达标者；（5）能够配合进行血压监测、常规检查、
+治疗计划的执行；（6）无规律运动习惯者，近3 个月
+未进行系统性锻炼。
+1.1.4　排除标准：（1）精神异常及运动障碍者；（2）
+继发性高血压或继发性腹型肥胖者；（3）合并严重心
+脑肾血管病变尚未稳定者；（4）妊娠或哺乳期妇女；（5）
+既往或目前患有肿瘤疾病或其他可能影响短期存活的致
+死疾病史；（6）患有较严重的骨关节疾病，无法配合
+试验要求者。
+1.1.5　剔除标准：（1）未按规定试验方案进行运动者；（2）
+因各种原因拒绝评估或自动脱落导致无法判断临床疗效
+者；（3）干预过程中，患者因病情变化新增药物治疗者；
+（4）中途自动退出者。
+1.2　研究方法
+1.2.1　试验设计。本研究设计为前瞻性随机对照试验。
+研究对象分为对照组与试验组，采用组内前后比较以及
+组间平行比较的对照方法。
+1.2.2　样本量计算。采用第3 版《医学统计学》
+［10］
+中完全随机设计两样本均数比较的样本量公式进行估
+算：n=2×［（µα+µβ）×σ/δ］
+2+1/4µα
+2。按照试
+验组和对照组1 ∶1 的比例安排病例数。取α=0.05，
+1-β=0.9，双侧检验，µα=1.96，µβ=1.28。本研究样
+本量估算以SBP 为效应指标，根据既往文献，取δ= 
+10 mmHg
+［11］，σ=12.5 mmHg
+［12］。将以上数值代入样
+本量公式，考虑20% 的脱落，预计每组需要样本42 例，
+共84 例。
+1.2.3　随机隐藏。随机隐藏由负责受试者医师之外的研
+究者完成。依据患者的就诊时间对符合纳入标准的84
+例患者依次编码，使用SPSS 26.0 在线随机数生成器，
+设定最小值为1，最大值为84，随机生成84 个不重复
+整数。将生成的前42 个随机数设为试验组，后42 个设
+为对照组。将随机序列放在不透光密封的信封中，除随
+机序列生成者外，在受试者入组前其他研究者均不知道
+随机序列。当符合标准的受试者入组时，按顺序依次打
+开准备好的信封，根据分组情况进行对应的干预。
+1.2.4　盲法。由于运动干预的性质，本研究属于开放性
+研究，故无法设计受试者和治疗者盲法。为最大限度避
+免试验结果受人为因素影响，对数据统计和分析者进行
+单盲。此外，避免不同组别的受试者之间交流。
+1.2.5　伦理监管。本研究已在中国临床试验注册中心完
+成注册（注册号：ChiCTR2200060360），并通过中国
+中医科学院广安门医院伦理委员会批准（批件编号：
+2022-030-KY），所有患者纳入研究前已签署知情同 
+意书。
+1.3　干预方案
+两组受试者均接受相同的生活方式干预。对照组配
+合中等强度的有氧运动，试验组配合基于“医院- 体育
+馆-社区”康复模式的五体平衡操训练，干预持续6个月。
+1.3.1　指南指导下的生活方式干预。参考《肥胖相关性
+高血压管理的中国专家共识》
+［4］和《中国高血压防治
+指南（2018 年修订版）》
+［13］制定，主要包括：采用低
+钠富钾饮食，每日食盐摄入量<2 000 mg（氯化钠5 g），
+钾摄入>3.5 g；控能量平衡膳食，每日能量摄入，男控
+制在1 500~1 800 kcal，女控制在1 200~1 500 kcal；戒
+烟限酒，乙醇摄入量，男≤25 g/d，女≤15 g/d；减轻
+心理压力，保持情绪愉快。
+1.3.2　基于“医院- 体育馆- 社区”康复模式的五体平
+衡操训练。（1）五体平衡操运动处方：五体平衡操包
+括热身（10 min）、主体运动处方练习（40 min）和放
+松（10 min）3 部分。热身准备包括交替提膝摸脚、对
+侧踢腿和左右转腰等动作，防止运动过程中出现运动损
+
+·4041·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年11月  第28卷  第32期
+中国全科医学
+伤；第二阶段以益肺、健脾、养心、强肾、疏肝的调节
+五脏基本动作练习和五体平衡操整体练习为主，其涵盖
+了意识、呼吸和躯体的综合训练，使患者在运动过程中
+实现对机体的力量、平衡性、柔韧性、注意力和情志的
+全面改善，结合患者的主观劳累感受，建议Borg Scale
+控制在11~15 级；第三阶段的放松调息练习包括手臂、
+肩膀、腿部等部位的拉伸和站桩调息，以防止运动后的
+肌肉损伤。
+（2）“医院- 体育馆- 社区”的康复管理模式。
+①医院干预阶段：以医院为干预主体，由专业医师、运
+动康复师组成康复团队，预先进行运动能力和风险的评
+估，给予2 次/ 周的运动干预，持续1 个月，实现诊疗-
+评估- 康复全程覆盖，为康复模式的起始期。②体育馆
+干预阶段：医院干预结束的受试者进入体育馆干预模式，
+与周边体育馆合作，在专业医师指导下，由运动康复师
+监督完成3 次/ 周的五体平衡操强化锻炼，持续2 个月。
+实现频率更快、强度更高且安全科学的康复训练，为康
+复模式的强化期。运动康复师通过细致地讲解、示范和
+现场纠正，确保患者能够准确掌握每个动作的要领和技
+巧，达到最佳的训练效果。与此同时，由医师组成科研
+协调员对每月血氧监测仪数据进行评估跟进，及时了解
+患者的身体负荷情况和运动疲劳程度，判断训练强度是
+否适宜。并与运动康复师进行沟通，依据患者的具体情
+况对康复方案进行调整，保证患者在安全条件下获得更
+高质量的康复训练。③社区干预阶段：体育馆康复结束
+后进入社区干预模式，在专业医师和运动康复师监督指
+导下，由社区医师对患者进行4 次/ 周的五体平衡操固
+化锻炼干预，持续3 个月，实现步行15 min 可达，以
+社区为单位，社区医师为主导的由点及面的康复管理，
+为康复模式的巩固期。社区医师不仅对患者进行康复指
+导和健康教育，还积极促进社区患者之间的交流和互动，
+营造积极向上、互帮互助的康复氛围，进一步提高患者
+依从性，巩固其康复效果，为其回归正常生活打下坚实
+基础。
+1.3.3　常规有氧康复训练。由专业运动康复师指导进行
+常规有氧康复训练。每次训练60 min，包括10 min 热
+身训练、40 min 有氧运动、10 min 拉伸放松，形式以快走、
+慢跑、骑车等中等强度有氧训练为主。干预第1 个月，
+受试者需完成≥2 次/ 周的有氧运动；干预第2~3 个月，
+受试者需完成≥3 次/ 周的有氧运动；干预第4~6 个月，
+受试者需完成≥4 次/ 周的有氧运动。
+1.3.4　质量控制。全程训练课程由具有国家行业资质认
+证的康复医师指导。研究者将运动处方录制成视频，提
+前发送给试验组成员作为日常学习训练资料。医院干预
+阶段为五体平衡操学习阶段，医院康复活动室提供集中
+学习和训练场地，以技术动作讲解和分解训练为主，康
+复医师对受试者动作进行指导和监督，医院干预阶段结
+束后进行动作规范考核。考核通过后，患者可顺利进入
+体育馆和社区干预阶段，每次集体训练进行签到，在家
+自行训练者需提交视频打卡。两组患者训练过程中均提
+供超思腕式心率血氧监测仪（型号：MD300W628）监
+测心率和血氧饱和度，运动时以靶心率衡量运动强度，
+中等强度靶心率=（最大心率- 静息心率）×（50%~80%）
++ 静息心率，最大心率=220- 年龄。如运动过程出现眩
+晕恶心、头部疼痛、呼吸短促等情况，应立即停止训练，
+并报告医师处理。
+1.4　观察指标
+1.4.1　血压。患者均于8：00~9：00在医院诊室进行测量，
+平静休息至少5 min 后用上臂式医用电子血压计（型号：
+欧姆龙hbp-1300）测量SBP和DBP，相隔2 min重复测量，
+取平均值。每次测量后计算平均动脉压（MAP），计算
+方法为（SBP+2×DBP）/3，取整数。分别在干预前、
+干预1 个月（医院阶段结束）、干预3 个月（体育馆阶
+段结束）、干预6 个月（社区阶段结束）后测量。
+1.4.2　形态学指标。干预前和干预后，采用身高体重秤
+（型号：SUHONG RGZ-200）测量身高和BW，要求受
+试者空腹，排空膀胱，脱去外衣，仅穿贴身衣物，平静
+呼吸，直立测量，并计算BMI，BMI=BW/ 身高
+2。以第
+12 肋骨下缘与髂前上棘连线中点的水平位置测量WC；
+以经耻骨联合，股骨粗隆水平径线、臀部最突出部位为
+周径测量臀围（HC）；计算腰臀比（WHR）和腰高比
+（WHtR），WHR =WC/HC，WHtR=WC/ 身高，数值均
+精确到0.1。
+1.4.3　心血管风险因素检测。干预前和干预后，于 
+8：00~9：00 采集受试者禁食一晚后的空腹静脉血，以
+全自动生化分析仪（型号：Roche Cobas 8000 c701，瑞士）
+检测空腹血糖（GLU）、总胆固醇（TC）、三酰甘油（TG）、
+低密度脂蛋白胆固醇（LDL-C）、极低密度脂蛋白胆固
+醇（VLDL-C）水平。静脉血样本离心后分离血清，采
+用酶联免疫吸附试验（ELISA）试剂盒检测血清中神经
+酰胺（Cer）水平。
+1.4.4　生活质量评价。干预前和干预后，采用焦虑自评
+量表（SAS）
+［14］和抑郁自评量表（SDS）
+［15］评估受试
+者的焦虑和抑郁状态，SAS 和SDS 各包含20 个条目，
+各条目均采用4 级评分，各条目得分相加后乘以1.25
+取整数值，即标准分。采用生活质量调查简表（SF-36）
+评价患者的生活质量，SF-36 由美国波士顿健康研究所
+研制，从生理功能、生理职能、一般健康状况、精力、
+躯体疼痛、社会功能、情感职能和精神健康8 个方面全
+面评价与健康相关的生活质量，得分越高表明受试者健
+康状况越好
+［16］。采用匹兹堡睡眠质量指数量表（PSQI）
+评估受试者的近期睡眠情况，PSQI 总分由7 个部分组成，
+
+·4042· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+November 2025，Vol.28 No.32
+Chinese General Practice
+每个部分按0~3 分计分，总分范围0~21 分，分数越高
+表明受试者睡眠质量越差
+［17］。
+1.4.5　安全性评价。记录干预期间包括心源性死亡、非
+致死性脑卒中和非致死性心肌梗死在内的主要心血管不
+良事件（MACE）的发生情况，以及骨骼肌肉等运动损
+伤情况。
+1.5　统计学方法
+采用SPSS 26.0 软件进行统计分析，符合正态分布
+的计量资料以（x-±s）表示，两组间比较采用独立样
+本t 检验，组内比较采用配对样本t 检验；不符合正态
+分布的计量资料以M（P25，P75）表示，组间比较采用
+Mann-Whitney U 检验，组内比较采用Wilcoxon 符号秩
+检验。计数资料以相对数表示，组间比较采用χ
+2 检验。
+对两组干预阶段4 个时间点的血压采用重复测量资料的
+方差分析进行比较。以P<0.05 为差异有统计学意义。
+安全性分析采用描述性统计。
+2　结果
+2.1　试验完成情况及患者一般资料
+纳入的84 例患者中，11 例由于个人原因退出研究
+（试验组5 例、对照组6 例），最终完成试验的有效
+病例共73 例（试验组37 例、对照组36 例），总脱落
+率为13%。两组完成试验患者的性别、年龄、身高、
+BW、吸烟史、饮酒史、高血压家族史、合并症情况和
+服药情况比较，差异无统计学意义（P>0.05），见表1。
+2.2　两组患者干预前后不同时间点血压比较
+组别与时间对SBP、DBP、MAP 存在交互作
+用（P 交互<0.05）；组别对SBP、MAP 主效应显著 
+（P 组别<0.05），对DBP 主效应不显著（P 组别>0.05）；
+时间对SBP、DBP、MAP 主效应显著（P 时间<0.05）。
+干预前，试验组和对照组SBP、DBP、MAP 比较，
+差异无统计学意义（P>0.05）；干预1 个月后，试验
+组SBP、DBP、MAP 与对照组比较，差异无统计学意
+义（P>0.05）；干预3 个月、6 个月后试验组SBP、
+DBP、MAP 低于对照组，差异有统计学意义（P<0.05），
+见表2。
+2.3　两组患者干预前后形态学指标比较
+组间比较显示，两组患者干预前BW、BMI、WC、
+HC、WHR、WHtR 比较，差异无统计学意义（P>0.05）；
+经过6 个月的康复训练，试验组BW、BMI、WC、
+HC、WHR、WHtR 低于对照组，差异有统计学意义
+（P<0.05）。组内比较显示，两组患者干预后BW、
+BMI、WC、HC、WHR、WHtR 均比干预前降低，差异
+有统计学意义（P<0.05），见表3。
+2.4　两组患者干预前后心血管风险因素比较
+组间比较显示，两组患者干预前GLU、TC、TG、
+表1　干预前两组患者人口学特征比较
+Table 1　Comparison of demographic characteristics between the two groups before the intervention
+组别
+例数
+性别
+（男/ 女）
+年龄
+（x-±s，岁）
+身高
+（x-±s，cm）
+BW
+（x-±s，kg）
+吸烟史
+［例（%）］
+饮酒史
+［例（%）］
+对照组
+36
+21/15
+59.0±8.0
+166.7±4.5
+74.6±4.3
+7（19.4）
+4（11.1）
+试验组
+37
+22/15
+60.5±7.0
+165.7±4.6
+74.4±4.1
+5（13.5）
+5（13.5）
+χ
+2（t）值
+2.311
+0.862
+a
+-0.959
+a
+-0.179
+a
+0.467
+0.097
+P 值
+0.128
+0.392
+0.341
+0.858
+0.494
+0.755
+组别
+高血压家族史
+［例（%）］
+合并症［例（%）］
+服药情况［例（%）］
+2 型糖尿病
+高脂血症
+冠心病
+动脉粥样硬化
+降压药
+降糖药
+调脂药
+对照组
+16（44.4）
+23（63.9）
+21（58.3）
+13（36.1）
+19（52.8）
+15（41.7）
+10（27.8）
+16（44.4）
+试验组
+16（43.2）
+23（62.2）
+24（64.9）
+10（27.0）
+17（45.9）
+15（40.5）
+8（21.6）
+12（32.4）
+χ
+2（t）值
+0.011
+0.023
+0.329
+0.698
+0.559
+0.010
+0.372
+1.113
+P 值
+0.918
+0.879
+0.566
+0.404
+0.642
+0.922
+0.542
+0.291
+注：BW= 体质量；
+a 表示t 值。
+表2　两组患者干预前后不同时间点SBP、DBP、MAP 比较（x-±s，mmHg）
+Table 2　Comparison of SBP，DBP and MAP at different time points before and after intervention in the two groups
+组别
+例数
+SBP
+DBP
+MAP
+干预前
+干预1 个月
+干预3 个月
+干预6 个月
+干预前
+干预1 个月干预3 个月干预6 个月
+干预前
+干预1 个月干预3 个月干预6 个月
+对照组
+36
+149±6
+148±5
+147±5
+a
+144±5
+a
+90±4
+90±4
+89±4
+a
+87±4
+a
+110±4
+109±3
+108±3
+a
+106±3
+a
+试验组
+37
+150±5
+148±4
+a
+143±4
+ab
+138±4
+ab
+90±5
+89±5
+86±4
+ab
+83±5
+ab
+110±4
+109±4
+a
+105±4
+ab
+101±4
+ab
+F 值
+F 交互=105.278，F 组间=5.535，F 时间=547.992
+F 交互=30.239，F 组间=3.618，F 时间=162.544
+F 交互=65.058，F 组间=6.607，F 时间=375.230
+P 值
+P 交互<0.001，P 组间=0.021，P 时间<0.001
+P 交互<0.001，P 组间=0.061，P 时间<0.001
+P 交互<0.001，P 组间=0.012，P 时间<0.001
+注：SBP= 收缩压，DBP= 舒张压，MAP= 平均动脉压；1 mmHg=0.133 kPa；
+a 表示与干预前比较P<0.05，
+b 表示与对照组同期比较P<0.05。
+
+·4043·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年11月  第28卷  第32期
+中国全科医学
+表3　两组患者干预前后形态学指标比较（x-±s）
+Table 3　Comparison of morphological indicators in both groups before and after intervention
+组别
+例数
+BW（kg）
+BMI（kg/m
+2）
+WC（cm）
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+对照组
+36
+74.6±4.2 72.5±4.4
+13.056
+<0.001
+26.9±1.0 26.0±1.1
+12.955
+<0.001
+94.0±4.0 91.0±4.4
+14.596
+<0.001
+试验组
+37
+74.5±4.3 69.4±4.1
+19.976
+<0.001
+27.1±1.2 25.3±1.3
+20.484
+<0.001
+94.6±3.6 86.9±3.7
+19.759
+<0.001
+t 值
+-0.134
+-3.123
+1.069
+-2.883
+0.696
+-4.251
+P 值
+0.894
+0.003
+0.289
+0.005
+0.489
+<0.001
+组别
+HC（cm）
+WH R
+WHtR
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+对照组
+97.7±3.9
+96.1±4.1
+6.565
+<0.001
+1.0±0.1
+1.0±0.1
+9.213
+<0.001
+0.6±0.1
+0.6±0.1
+14.628
+<0.001
+试验组
+98.2±3.4
+94.1±3.1
+18.469
+<0.001
+1.0±0.1
+0.9±0.1
+11.279
+<0.001
+0.6±0.1
+0.5±0.1
+20.345
+<0.001
+t 值
+0.655
+-2.337
+0.364
+-6.152
+1.248
+-3.345
+P 值
+0.514
+0.022
+0.717
+<0.001
+0.216
+0.001
+注：WC= 腰围，HC= 臀围，WHR= 腰臀比，WHtR= 腰高比。
+表4　两组患者干预前后心血管风险因素比较
+Table 4　Comparison of cardiovascular risk factors between the two groups before and after intervention
+组别
+例数
+GLU（x-±s，mmol/L）
+TC（x-±s，mmol/L）
+TG［M（P25，P75），mmol/L］
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+Z 值
+P 值
+对照组
+36
+6.1±0.8
+5.8±0.8
+3.003
+0.005
+4.45±1.22
+4.33±0.92
+0.602
+0.551
+2.58（1.86，3.70）1.98（1.37，8.95）
+-2.915
+0.004
+试验组
+37
+5.9±0.6
+5.5±0.8
+3.388
+0.002
+4.54±0.92
+4.23±0.85
+1.889
+0.067
+3.08（2.66，3.49）1.98（1.51，2.94）
+-3.146
+0.002
+t（Z）值
+-1.211
+-1.608
+0.359
+-0.508
+-1.241
+a
+-0.409
+a
+P 值
+0.230
+0.112
+0.721
+0.613
+0.214
+0.683
+组别
+LDL-C［M（P25，P75），mmol/L］
+VLDL-C［M（P25，P75），mmol/L］
+Cer（x-±s，ng/L）
+干预前
+干预后
+Z 值
+P 值
+干预前
+干预后
+Z 值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+对照组
+3.40（2.96，4.22）2.93（2.55，3.64）
+-3.449
+0.001
+0.96（0.73，1.21）0.77（0.70，0.98）
+-2.146
+0.032
+242±15
+233±14
+3.504
+0.001
+试验组
+3.34（2.90，3.69）2.56（2.20，2.96）
+-4.949
+<0.001
+0.91（0.73，1.36）0.88（0.75，0.98）
+-2.218
+0.027
+240±15
+226±16
+6.372
+<0.001
+t（Z）值
+-0.486
+a
+-2.389
+a
+-0.221
+a
+-0.878
+a
+-0.359
+-2.053
+P 值
+0.627
+0.017
+0.825
+0.380
+0.721
+0.044
+注：GLU=空腹血糖，TC=总胆固醇，TG=三酰甘油，LDL-C=低密度脂蛋白胆固醇，VLDL-C=极低密度脂蛋白胆固醇，Cer=神经酰胺；
+a表示Z值。
+LDL-C、VLDL-C、Cer比较，差异无统计学意义（P>0.05）。
+经过6 个月的康复训练，试验组LDL-C、Cer 低于对
+照组，差异有统计学意义（P<0.05）；试验组GLU、
+TC、TG、VLDL-C 与对照组比较，差异无统计学意义
+（P>0.05）。组内比较显示，两组患者干预后GLU、
+TG、LDL-C、VLDL-C、Cer 均比干预前降低，差异有
+统计学意义（P<0.05）；两组患者干预后TC 与干预前
+比较，差异无统计学意义（P>0.05），见表4。
+2.5　两组患者干预前后生活质量评价比较
+组间比较显示，两组患者干预前SAS、SDS、SF-
+36、PSQI 得分比较，差异无统计学意义（P>0.05）；
+经过6 个月的康复训练，试验组SF-36 得分高于对照组，
+SAS、SDS、PSQI 得分低于对照组，差异有统计学意义
+（P<0.05）。组内比较显示，对照组SAS、SDS、PSQI
+得分干预前后比较，差异无统计学意义（P>0.05）；对
+照组和试验组干预后SF-36 得分高于干预前，差异有统
+计学意义（P<0.05）；试验组干预后SAS、SDS、PSQI
+得分低于干预前，差异有统计学意义（P<0.05），见表5。
+2.6　安全性评价
+研究过程中，试验组及对照组均未发生MACE，且
+无运动损伤情况出现。
+3　讨论
+ORH 作为一种长期持续的慢性病，在我国的发病
+率正在日益增长
+［18］，不仅严重影响人们的生活质量，
+还带来了巨大的经济负担
+［19］。研究显示，即使在代谢
+健康的人群，肥胖表型依然与高血压发病风险增加显著
+相关
+［20］，BMI 升高可进一步加重高血压患者的心脏重
+塑、动脉硬化、肾损害等靶器官损伤
+［21］，WC 增加也
+意味着更高的死亡风险
+［22］。在ORH 的治疗中，降低
+血压与控制肥胖需兼顾，既要考虑近期效果，又要着重
+考虑远期效益，常规的降压和减脂药物在治疗中存在不
+良反应多、经济负担重、返诊频繁等缺点。运动疗法作
+为ORH 治疗环节中重要的非药物治疗方案，具有减轻
+
+·4044· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+November 2025，Vol.28 No.32
+Chinese General Practice
+肥胖、降低血压、减少并发症的治疗潜力，对于预防心
+血管事件的发生具有积极意义
+［23］。BAYKAL 等
+［24］的
+研究证明，基于运动的心脏康复降低肥胖高血压患者
+SBP 的效果优于非肥胖高血压患者。目前ORH 的运动
+方式多样，西医运动处方主要基于现代医学理论和患者
+的个体指标而制定，多采用有氧运动和抗阻运动等形式，
+注重运动的量化和规范化，强调“以动为主”的训练核 
+心
+［25］。本研究所利用的五体平衡操立足于中医理论中
+的整体观思想，强调形神兼备、内外合一的练功方法，
+以求达到“动静结合，心与意合，气与力合”。相较于
+西医运动处方更注重平衡阴阳，培植正气，调整人体的
+气血状态、强调预防和促进机体的自愈能力。
+本研究结果显示，五体平衡操和有氧运动均能降低
+患者的血压水平，并且血压均随时间增加而逐渐下降，
+试验组较对照组降压幅度更大，降压速度更快，尤其在
+干预3 个月和6 个月后试验组降压效果较对照组表现出
+明显优势（P<0.05）。于海兰
+［26］在八段锦干预104 例
+肥胖高血压患者的研究中也发现，坚持锻炼12 个月的
+八段锦对SBP、DBP、BW 和WC 均具有明显改善作用。
+有研究指出，传统运动对血压的改善作用可能与降低血
+清血管紧张素Ⅱ（Ang Ⅱ）和内皮素1（ET-1）水平，
+增加一氧化氮（NO）水平有关
+［27-28］。本研究在既往研
+究基础上加入了MAP 这一结局指标，MAP 代表1 个心
+动周期中外周血管的总平均压力，相较SBP 和DBP 这
+种单一的血压指标，MAP 能更稳定和全面地评价高血
+压病患者的血压控制状况和血管功能。相关研究也表明，
+MAP 不仅能够影响动脉硬化的进展
+［29］，还是全因死亡
+率增加的独立危险因素
+［30］。本研究中试验组在干预3
+个月和6 个月后MAP 均低于对照组（P<0.05），说明
+五体平衡操是管理高血压、预防动脉硬化的有效工具。
+对于形态学指标而言，试验组康复后BMI、WC、BW、
+WHR 和WHtR 均较康复前降低（P<0.05），同时低于
+对照组（P<0.05），表明规律性且整体性的五体平衡操
+较常规有氧运动更能起到减重和改善人体形态的作用。
+ORH 患者由于胰岛素抵抗、脂肪稳态失衡等发病
+机制，最易合并糖脂代谢的紊乱，发展为代谢综合征，
+显著增加心脑血管疾病的发生风险
+［31-32］。通过对比
+干预前后的数据，试验组和对照组干预后GLU、TG、
+LDL-C、VLDL-C 均比干预前降低（P<0.05），说明运
+动是改善机体糖脂代谢的有效方式。但干预后试验组和
+对照组比较，GLU、TC、TG、VLDL-C 未见明显差异
+（P>0.05），这与前期CHAN 等
+［33］研究结果一致，但
+在这项试验9 个月随访时，太极拳组较快走组对GLU
+的降低幅度更大，这可能与其随访周期较长有关，也提
+示了太极运动在降低GLU 中的长期有益效应。Cer 是一
+类具有生物活性的鞘脂，参与了细胞凋亡、炎症、应激
+等多种生物学过程，与动脉粥样硬化的进程有关
+［34］。
+近年来，不断有研究发现Cer 能够预测心血管高风险患
+者的死亡风险
+［35-36］，甚至其预测价值超过了目前常用
+的LDL-C
+［37］。本研究中试验组康复后LDL-C、Cer 均
+低于对照组（P<0.05），由此推测基于“医院- 体育馆-
+社区”模式的五体平衡操运动有助于减少MACE 的发生。
+《中国心血管健康与疾病报告2022》指出，在美
+国等发达国家心血管病发生风险逐年下降的同时，我国
+心血管病患病率及致死率仍在上升，其关键因素在于我
+国心血管病预防和康复中患者的参与性和依从性不容乐
+观
+［38］。目前我国的心脏康复工作多集中于发达地区的
+三级甲等医院，但由于场地容量小、路程时间长、经济
+负担大等问题，给康复管理带来了一定的局限性，导致
+临床的康复效果并不理想
+［39］。探索医院外的康复管理
+模式可以在一定程度上缓解医院康复资源的紧张，减少
+场地、距离和费用的影响。本研究在医院干预的基础
+表5　两组患者干预前后生活质量评价比较（分）
+Table 5　Comparison of quality of life evaluation in both groups before and after intervention
+组别
+例数
+SAS［M（P25，P75）］
+SDS（x-±s）
+干预前
+干预后
+Z 值
+P 值
+干预前
+干预后
+t 配对值
+P 值
+对照组
+36
+36.0（32.0，44.5）
+36.0（32.0，42.8）
+-1.942
+0.052
+38.4±6.7
+37.9±5.7
+0.902
+0.373
+试验组
+37
+37.0（35.0，41.5）
+33.0（30.0，35.5）
+-5.143
+<0.001
+39.0±6.3
+32.9±5.4
+6.882
+<0.001
+t（Z）值
+-0.670
+a
+-2.406
+a
+0.225
+-3.855
+P 值
+0.503
+0.016
+0.823
+<0.001
+组别
+SF-36（x-±s）
+PSQI［M（P25，P75）］
+干预前
+干预后
+t 配对值
+P 值
+干预前
+干预后
+Z 值
+P 值
+对照组
+68.1±9.1
+69.1±8.5
+-2.523
+0.016
+11.5（9.0，14.0）11.0（9.0，13.0）
+-1.473
+0.141
+试验组
+67.4±9.4
+74.0±9.0
+-11.778
+<0.001
+11.0（9.0，13.5）
+7.0（5.5，10.0）
+-5.226
+<0.001
+t（Z）值
+-0.350
+2.386
+-0.266
+a
+-3.639
+a
+P 值
+0.727
+0.020
+0.790
+<0.001
+注：SAS= 焦虑自评量表，SDS= 抑郁自评量表，SF-36= 生活质量调查简表，PSQI= 匹兹堡睡眠质量指数量表；
+a 表示Z 值。
+
+·4045·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2025年11月  第28卷  第32期
+中国全科医学
+上，创新性地将体育馆、社区纳入康复地点，提出基于
+“医院- 体育馆- 社区”的三级康复管理模式。在医院
+康复保证安全的基础上，合理深化运动的规范度、频率
+及强度，打破医疗场所的界限，通过医师、运动康复师
+等多方面合作，使康复向基层下沉。本研究中，试验组
+SBP、DBP、MAP 在医院阶段结束后与对照组比较无统
+计学差异（P>0.05），而在体育馆阶段和社区阶段结束
+后较对照组同时期降低（P<0.05）。且经过6 个月的训练，
+试验组SAS、SDS和PSQI评分均较康复前降低（P<0.05），
+并低于对照组（P<0.05），而对照组SAS、SDS 和PSQI
+评分干预前后比较无统计学意义（P>0.05）。康复后试
+验组和对照组的SF-36 评分均提升（P<0.05），试验组
+高于对照组（P<0.05），提示基于“医院- 体育馆- 社
+区”模式的五体平衡操运动有助于改善ORH 患者的焦
+虑抑郁状态、生活质量和睡眠质量。究其原因，这种基
+于从医院过渡到社区的群体干预模式有助于形成群体化
+的鼓励监督机制，增强患者的自我管理意识，提高患者
+的配合度，有助于固化康复习惯，从而产生良好的长期
+降压效应
+［40］。肥胖和高血压的躯体疾病与焦虑抑郁和
+睡眠障碍的发生密切相关，之间相互影响，甚至形成恶
+性循环
+［41-42］。该康复模式所形成的群组支持、同伴鼓
+励和陪伴效应也能提高患者的社会功能、社交满意度、
+增强自信心，减少孤独感，具有极大的精神、心理及身
+体效果
+［43-44］，配合基于中医理念的五体平衡操，能进
+一步使患者放下压力，调节身心，稳定情绪。
+4　小结
+基于“医院- 体育馆- 社区”康复模式的五体平衡
+操运动可改善ORH 患者的血压和形态学指标，提高患
+者的生活质量，其疗效优于常规有氧运动，同时降低血
+清Cer 水平，一定程度反映了该运动方案降低心血管风
+险的潜在有益效应。但由于本研究为单中心临床研究，
+共纳入84 例患者，样本量仍存在不足，未来应考虑开
+展多中心、大样本的随机对照试验以提高研究的精准度。
+另外，本研究重点评估了五体平衡操在ORH 人群的临
+床有效性和安全性，未探索相关生物标志物和分子机制，
+是否可能与血管内皮功能改善、减轻炎症反应、调节神
+经内分泌系统、调控细胞自噬等有关，未来还需完善基
+础研究予以进一步论证。
+作者贡献：王师菡提出主要研究思路，制定具体运
+动方案，负责论文终版修订，对文章整体负责；杨盈天
+负责统计学处理、表格绘制及文章撰写；杨盈天、吕乾
+瑜、侯信铮负责研究方案设计和受试者招募；吴茜、宋
+建钧、叶雪姣、杨晨艳负责运动康复实施、临床数据收
+集和整理。
+本文无利益冲突。
+参考文献
+［1］刘明波，何新叶，杨晓红，等. 《中国心血管健康与疾病报告
+2023》要点解读［J］. 中国全科医学，2025，28（1）：20-38. 
+DOI：10.12114/j.issn.1007-9572.2024.0293.
+［2］SERAVALLE G，GRASSI G. Obesity and hypertension［J］. 
+Pharmacol Res，2017，122：1-7. DOI：10.1016/j.phrs.2017.05.013.
+［3］ZHANG Y，ZHANG W Q，TANG W W，et al. The prevalence of 
+obesity-related hypertension among middle-aged and older adults 
+in China［J］. Front Public Health，2022，10：865870. DOI：
+10.3389/fpubh.2022.865870.
+［4］中华医学会心血管病学分会高血压学组. 肥胖相关性高血压管
+理的中国专家共识［J］. 中华心血管病杂志，2016，44（3）：
+212-219. DOI：10.3760/cma.j.issn.0253-3758.2016.03.006.
+［5］杨朔，刘芙蓉. 腹型肥胖并高血压患者体重管理效果研究［J］. 
+预防医学论坛，2020，26（1）：9-11. DOI：10.16406/j.pmt.
+issn.1672-9153.2020.01.004.
+［6］HALL M E，COHEN J B，ARD J D，et al. Weight-loss strategies 
+for prevention and treatment of hypertension：a scientific statement 
+from the American heart association［J］. Hypertension，2021， 
+78（5）：e38-50. DOI：10.1161/HYP.0000000000000202.
+［7］高扬. 老年代谢综合征证候分布及五体平衡操对心肺功能干预
+的研究［D］. 北京：中国中医科学院，2022. 
+［8］肖科金，蔡超群，蒋葵，等. “医院- 社区- 家庭” 三位一
+体慢病管理模式在帕金森病患者中的应用效果［J］. 临床医
+学研究与实践，2023，8（35）：141-144. DOI：10.19347/
+j.cnki.2096-1413.202335035.
+［9］杨森，赵华新，葛许华，等. 医院- 社区- 患者慢病管理
+一体化路径对结直肠癌术后患者的影响研究［J］. 中国
+全
+科
+医
+学，2024，27（22）：2724-2730. DOI：10.12114/
+j.issn.1007-9572.2023.0661.
+［10］李晓松. 医学统计学［M］. 3 版. 北京：高等教育出版社，
+2014.
+［11］WANG Z W，CHEN Z，ZHANG L F，et al. Status of hypertension 
+in China：results from the China hypertension survey，2012- 
+2015［J］. Circulation，2018，137（22）：2344-2356. DOI：
+10.1161/CIRCULATIONAHA.117.032380. 
+［12］成云芳，彭海燕，王文，等. 中国部分城市医院25 336 例门
+诊高血压患者基础情况和危险分层及降压达标率的调查［J］. 
+临床心血管病杂志，2008，24（8）：603-605. DOI：10.3969/
+j.issn.1001-1439.2008.08.017.
+［13］中国高血压防治指南编写组. 中国高血压防治指南（2018 年修
+订版）［J］. 中国心血管杂志，2019，24（1）：24-56.
+［14］王征宇，迟玉芬. 焦虑自评量表（SAS）［J］. 上海精神医学，
+1984（2）：73-74.
+［15］王征宇，迟玉芬. 抑郁自评量表（SDS）［J］. 上海精神医学，
+1984（2）：71-72.
+［16］UNALAN D，SOYUER F，OZTURK A. Comparison of SF-36 
+and WHOQOL-100 life quality scales in early period tuberculosis 
+subjects［J］. J Pak Med Assoc，2012，62（11）：1161-1167.
+［17］路桃影，李艳，夏萍，等. 匹兹堡睡眠质量指数的信度及效
+度分析［J］. 重庆医学，2014，43（3）：260-263. DOI：
+10.3969/j.issn.1671-8348.2014.03.002.
+
+·4046· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+November 2025，Vol.28 No.32
+Chinese General Practice
+［18］LI X，NIU H Q，BAI X G，et al. Association of obesity and 
+hypertension：a cohort study in China［J］. Int J Hypertens，
+2021，2021：1607475. DOI：10.1155/2021/1607475.
+［19］ATHANASAKIS K，BALA C，KOKKINOS A，et al. The economic 
+burden of obesity in 4 south-eastern European countries associated 
+with obesity-related co-morbidities［J］. BMC Health Serv Res，
+2024，24（1）：354. DOI：10.1186/s12913-024-10840-4.
+［20］ZHAO Y，QIN P，SUN H H，et al. Metabolically healthy 
+general and abdominal obesity are associated with increased risk of 
+hypertension［J］. Br J Nutr，2020，123（5）：583-591. DOI：
+10.1017/S0007114519003143.
+［21］徐嘉纯，宫海滨，李春梅，等. 肥胖相关性高血压患
+者中心动脉压与靶器官损害相关性分析［J］. 中国心
+血
+管
+病
+研
+究，2020，18（5）：401-406. DOI：10.3969/
+j.issn.1672-5301.2020.05.004.
+［22］SHI X Y，CHAI L R，ZHANG D F，et al. Association between 
+complementary anthropometric measures and all-cause mortality risk 
+in adults：NHANES 2011-2016［J］. Eur J Clin Nutr，2025，79
+（1）：71-78. DOI：10.1038/s41430-024-01496-8.
+［23］EON K S，CHUL C Y，YOUNG L J. Hypertension is more affected 
+by fitness and waist circumference than exercise frequency and BMI 
+in middle age［J］. J Mens Health，2019，15（4）：e58-66.
+［24］BAYKAL H，SAHIN M. Effects of cardiac rehabilitation on obese 
+hypertensive patients：a controlled trial［J］. Hipertens Riesgo 
+Vasc，2023，40（4）：197-204. DOI：10.1016/j.hipert.2023.05.007.
+［25］邓淑坤，袁鹏，周群燕，等. 基于心肺运动试验的精准有氧运
+动处方对中心型肥胖患者体成分及代谢指标的影响［J］. 中
+国康复医学杂志，2023，38（2）：199-206. DOI：10.3969/
+j.issn.1001-1242.2023.02.010.
+［26］于海兰. 八段锦运动疗法干预高血压肥胖患者104 例临床观察
+［J］. 中国临床医生，2013，41（8）：47-48. DOI：10.3969/
+j.issn.1008-1089.2013.08.025.
+［27］LIU D C，YI L，SHENG M X，et al. The efficacy of Tai Chi 
+and Qigong exercises on blood pressure and blood levels of nitric 
+oxide and endothelin-1 in patients with essential hypertension：a 
+systematic review and meta-analysis of randomized controlled trials
+［J］. Evid Based Complement Alternat Med，2020，2020：
+3267971. DOI：10.1155/2020/3267971. 
+［28］LIN B，JIN Q，LIU C H，et al. Effect and mechanism of Tai Chi on 
+blood pressure of patients with essential hypertension：a randomized 
+controlled study［J］. J Sports Med Phys Fitness，2022，62（9）：
+1272-1277. DOI：10.23736/S0022-4707.21.13394-8.
+［29］刘倩，韩旭，马一涵，等. 非高血压人群平均动脉压对动脉硬
+化进展的影响［J］. 中华高血压杂志，2021，29（8）：733-
+739. DOI：10.16439/j.issn.1673-7245.2021.08.008.
+［30］PROTOGEROU A D，VLACHOPOULOS C，THOMAS F，等. 平
+均动脉压、脉压与全因死亡率的纵向变化：来自71629 名未
+经治疗的正常高值血压参与者的数据［J］. 中华高血压杂志，
+2018，26（8）：798. DOI：10.16439/j.cnki.1673-7245.2018.08.030.
+［31］TIAN X，CHEN S H，WANG P L，et al. Insulin resistance 
+mediates obesity-related risk of cardiovascular disease：a 
+prospective cohort study［J］. Cardiovasc Diabetol，2022，21（1）：
+289. DOI：10.1186/s12933-022-01729-9. 
+［32］LU S C，AKANJI A O. Leptin，obesity，and hypertension：
+a review of pathogenetic mechanisms［J］. Metab Syndr 
+Relat Disord，2020，18（9）：399-405. DOI：10.1089/
+met.2020.0065.
+［33］CHAN A W K，CHAIR S Y，LEE D T F，et al. Tai Chi exercise 
+is more effective than brisk walking in reducing cardiovascular 
+disease risk factors among adults with hypertension：a randomised 
+controlled trial［J］. Int J Nurs Stud，2018，88：44-52. DOI：
+10.1016/j.ijnurstu.2018.08.009.
+［34］TU C C，XIE L，WANG Z J，et al. Association between ceramides 
+and coronary artery stenosis in patients with coronary artery disease
+［J］. Lipids Health Dis，2020，19（1）：151. DOI：10.1186/
+s12944-020-01329-0. 
+［35］LEIHERER A，MÜNDLEIN A，LAAKSONEN R，et al. 
+Comparison of recent ceramide-based coronary risk prediction scores 
+in cardiovascular disease patients［J］. Eur J Prev Cardiol，2022，
+29（6）：947-956. DOI：10.1093/eurjpc/zwab112. 
+［36］YIN W，LI F，TAN X，等. 高心血管病风险高血压患者的血浆
+神经酰胺水平与心血管事件［J］. 中华高血压杂志，2022，30
+（6）：600.
+［37］LAAKSONEN R，EKROOS K，SYSI-AHO M，et al. Plasma 
+ceramides predict cardiovascular death in patients with stable 
+coronary artery disease and acute coronary syndromes beyond LDL-
+cholesterol［J］. Eur Heart J，2016，37（25）：1967-1976. 
+DOI：10.1093/eurheartj/ehw148.
+［38］马丽媛，王增武，樊静，等. 《中国心血管健康与疾病报
+告2022》要点解读［J］. 中国全科医学，2023，26（32）：
+3975-3994. DOI：10.12114/j.issn.1007-9572.2023.0408.
+［39］潘锋. 新形势下我国慢病管理体系仍需加强和完善：访全国政
+协委员、北京大学第一医院霍勇教授［J］. 中国医药导报，
+2021，18（9）：1-3. 
+［40］何勤利. 医院- 社区- 家庭跟进式一体化健康管理模式对冠
+心病患者心脏康复的效果［J］. 甘肃医药，2024，43（3）：
+265-267.
+［41］刘惟蜻，王承敏，曾环思，等. 成年人群肥胖与失眠的关联研
+究［J］. 预防医学，2022，34（4）：366-370. DOI：10.19485/
+j.cnki.issn2096-5087.2022.04.009.
+［42］LIU Y Y，JU Y，CUI L L，et al. Association between dietary 
+fiber intake and incidence of depression and anxiety in patients with 
+essential hypertension［J］. Nutrients，2021，13（11）：4159. 
+DOI：10.3390/nu13114159. 
+［43］MA C H，ZHOU W，TANG Q B，et al. The impact of group-based 
+Tai Chi on health-status outcomes among community-dwelling older 
+adults with hypertension［J］. Heart Lung，2018，47（4）：
+337-344. DOI：10.1016/j.hrtlng.2018.04.007.
+［44］PAPATHANASIOU J V，PETROV I，TOKMAKOVA M P，et al. 
+Group-based cardiac rehabilitation interventions. A challenge for 
+physical and rehabilitation medicine physicians：a randomized 
+controlled trial［J］. Eur J Phys Rehabil Med，2020，56（4）：
+479-488. DOI：10.23736/S1973-9087.20.06013-X.
+（收稿日期：2024-09-23；修回日期：2025-01-04）
+（本文编辑：王凤微）

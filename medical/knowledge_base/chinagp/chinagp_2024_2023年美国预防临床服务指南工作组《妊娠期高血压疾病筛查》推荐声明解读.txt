@@ -1,0 +1,739 @@
+标题: 2023年美国预防临床服务指南工作组《妊娠期高血压疾病筛查》推荐声明解读
+期刊: 中国全科医学 2024 第27卷 第29期
+DOI: 10.12114/j.issn.1007-9572.2024.0149
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0149
+
+
+·3581·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2024年10月  第27卷  第29期
+中国全科医学
+·美国预防临床服务指南解读系列（六）·
+【编者按】  美国预防临床服务指南工作组（USPSTF）致力于通过对预防疾病和延长寿命的有效方法提出循证建
+议来改善人群健康。《中国全科医学》开辟“美国预防临床服务指南解读系列”栏目，特邀请USPSTF 核心成员LiLi
+教授作为该栏目的执行主编，把握翻译和解读的准确性。
+《中国全科医学》2024 年11 期刊登了USPSTF 关于阿司匹林用于成年人心血管疾病的一级预防、
+肺癌筛查推荐的解读，12 期刊登了他汀类药物用于成年人心血管疾病的一级预防、成年人阻塞性睡眠
+呼吸暂停低通气综合征筛查推荐的解读，14 期刊登了慢性阻塞性肺疾病筛查、成年人焦虑障碍推荐的
+解读，15 期刊登了成年人抑郁症和自杀风险筛查、儿童和青少年血脂异常筛查推荐的解读，17 期刊
+登了成年人进行行为咨询干预促进合理膳食和身体活动预防心血管疾病推荐的解读，本期刊登妊娠期
+高血压疾病筛查推荐的解读。扫描右侧二维码查看美国预防临床服务指南解读系列合辑。
+2023 年美国预防临床服务指南工作组 
+《妊娠期高血压疾病筛查》推荐声明解读
+张鹏
+1 ，刘力滴
+2，杨梓钰
+2，杨荣
+2，吕垚
+2，周伊恒
+2，方湘
+3， 
+雷弋
+2，4，代华
+1，2，廖晓阳
+1，2，4*
+1.610041 四川省成都市，四川大学华西医院全科医学中心全科医学教研室
+2.610041 四川省成都市，四川大学华西医院全科医学中心全科特需病房
+3.610041 四川省成都市，四川大学华西第二医院综合内科 出生缺陷与相关妇儿疾病教育部重点实验室
+4.610041 四川省成都市，四川大学华西医院全科医学中心全科医学研究室
+* 通信作者：廖晓阳，教授/ 博士生导师；E-mail：625880796@qq.com
+【摘要】  妊娠期高血压疾病（HDP）是导致全球孕产妇及围生儿死亡的主要原因之一，其发病率和死亡率呈逐
+年增加趋势。2023 年美国预防临床服务指南工作组通过评估最新研究证据并分析HDP 筛查的获益和危害，更新发布
+了《妊娠期高血压疾病筛查》推荐声明（以下简称“推荐”）。该推荐与2017 版推荐相比，进一步肯定了血压测量
+筛查HDP 的重要性，肯定其具有实质性的净获益，建议在整个妊娠期测量血压以筛查HDP。本文基于《指南解读类
+文献报告规范的制订指南（RIGHT for INT）》，探讨分析该推荐的核心要点及其对我国全科医生的指导意义。
+【关键词】  妊娠期高血压疾病；筛查；指南解读；美国预防临床服务指南工作组
+【中图分类号】  R 714.246  【文献标识码】  A  DOI：10.12114/j.issn.1007-9572.2024.0149
+Interpretation of the 2023 Recommendation Statement by the U.S. Preventive Services Task Force 
+on the Screening for Hypertensive Disorders of Pregnancy
+ZHANG Peng
+1，LIU Lidi
+2，YANG Ziyu
+2，YANG Rong
+2，LYU Yao
+2，ZHOU Yiheng
+2，FANG Xiang
+3，LEI Yi
+2，4，DAI Hua
+1，2，
+LIAO Xiaoyang
+1，2，4*
+1.Teaching&Research Section，General Practice Medical Center，West China Hospital，Sichuan University，Chengdu 610041，China
+2.General Practice Ward/International Medical Center Ward，General Practice Medical Center，West China Hospital，Sichuan 
+University，Chengdu 610041，China
+3.Department of General Internal Medicine，Key Laboratory of Birth Defects and Related Diseases of Women and Children（Sichuan 
+University），Ministry of Education，West China Second University Hospital，Sichuan University，Chengdu 610041，China
+4.General Practice Medical Center and General Practice Research Institute，West China Hospital，Sichuan University，Chengdu 
+基金项目：四川省科技厅软科学项目（2022JDR0325）
+引用本文：张鹏，刘力滴，杨梓钰，等. 2023 年美国预防临床服务指南工作组《妊娠期高血压疾病筛查》推荐声明解读［J］. 中国全科医学，
+2024，27（29）：3581-3586. DOI：10.12114/j.issn.1007-9572.2024.0149. ［www.chinagp.net］
+ZHANG P，LIU L D，YANG Z Y，et al. Interpretation of the 2023 recommendation statement by the U.S. Preventive Services Task Force on the 
+screening for hypertensive disorders of pregnancy［J］. Chinese General Practice，2024，27（29）：3581-3586.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+美国预防临床服务
+指南解读系列合辑
+扫描二维码
+查看原文
+
+·3582· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+October 2024，Vol.27 No.29
+Chinese General Practice
+妊娠期高血压疾病（hypertensive disorders of 
+pregnancy，HDP）是导致孕产妇及围生儿死亡的主要原
+因之一
+［1］，全球因HDP 死亡的人数占孕产妇总死亡的
+10%~16%
+［2］。2017—2019 年美国孕产妇因HDP 死亡
+的人数占6.3%
+［1］，最新数据显示2021 年中国孕产妇
+因HDP 死亡的人数占8.0%
+［3］。最新证据表明，与血
+压正常的孕妇相比，患任何HDP（尤其是子痫前期）
+均与将来患高血压和心血管事件风险增加有关，产后1
+年高血压风险高4 倍，产后10 年和20 年高血压风险高
+2 倍，心血管疾病事件高2~4 倍
+［4］。HDP 发病和死亡
+是可以预防的
+［5］，美国预防临床服务指南工作组（U.S. 
+Preventive Services Task Force，USPSTF）致力于为美国
+初级保健医生提供临床预防服务的循证建议，2017 年
+USPSTF 已肯定了通过血压测量筛查子痫前期具有净
+获益
+［6］。USPSTF 在2023 年对最新研究证据进行了系
+统评价以评估HDP 筛查的利弊，并于2023 年9 月在
+JAMA 杂志上发表了《妊娠期高血压疾病筛查》推荐声
+明
+［2］（以下简称“推荐”）。该推荐与2017 版推荐相比，
+进一步肯定了血压测量筛查HDP 的重要性，肯定其具
+有实质性的净获益，建议在整个妊娠期测量血压以筛查
+HDP。但我国目前暂无相应指南或共识系统地探讨HDP
+筛查的利弊及其推荐建议，因此，本研究基于我国《指
+南解读类文献报告规范的制订指南（RIGHT for INT）》
+［7］
+对该推荐的核心要点进行解读并探讨其对我国全科医生
+的指导意义，同时采用国际公认的指南研究与评价工具
+RIGHT
+［8］评价该推荐的报告质量。解读团队由心血管
+专业、全科专业心血管亚专业的临床医生、妊娠期高血
+压疾病专家、循证医学方法学专家及指南制订方法学专
+家组成，解读团队与原指南团队无任何利益冲突。
+1 推荐制订背景和方法
+该推荐适用于所有未诊断为HDP 的孕妇。该推
+荐未报告其主要使用者和应用的具体环境，报告了
+USPSTF 成员信息、其可能存在的利益冲突及其采取的
+管理方式，声明了资助情况（USPSTF 的运作由美国医
+疗保健研究与质量局支持）。USPSTF 委托进行了HDP
+筛查有效性最新证据的系统评价
+［5，9］，数据来源于
+Medline、PubMed、Embase 和Cochrane Library 对照试验
+注册中心在2014-01-01—2022-01-04（并持续监测到
+2023-02-01）的研究。审查重点在于评估因妊娠时间、
+频率和方式而异的不同筛查方法的相对有效性。最终纳
+入了6项中等质量的研究［5项随机对照试验（randomized 
+controlled trial，RCT）和1 项历史对照研究］。USPSTF
+根据证据强度和预防服务的利弊平衡，为其建议赋予A、
+B、C、D 级或Ⅰ级声明
+［10］。
+2 推荐意见及其相关内容
+该推荐共形成1 条推荐意见，就该推荐意见及相关
+内容（表1）解读如下。
+2.1 HDP 相关定义
+国内外对HDP 分类并没有统一的标准，比较经典
+的分类为妊娠期高血压、子痫前期、子痫、妊娠合并
+慢性高血压、慢性高血压伴发子痫前期
+［2，11］。妊娠期
+高血压是指妊娠20 周后新发的高血压［收缩压≥140 
+mmHg（1 mmHg=0.133 kPa）和/或舒张压≥90 mmHg］
+［11］，
+尿蛋白检测阴性。当收缩压≥160 mmHg 和/ 或舒张压
+≥110 mmHg 时为重度妊娠期高血压
+［11］。子痫前期是
+妊娠20 周后出现高血压，伴有蛋白尿或无蛋白尿但伴
+有以下任意1 项：血小板减少、肝功能受损、肾功能不
+全、肺水肿、对药物无反应的新发头痛或视力障碍。重
+度妊娠期高血压的任何全身症状或体征均提示重度子痫
+前期
+［2］。子痫是在没有癫痫等其他潜在病因的情况下
+新发作的抽搐。妊娠合并慢性高血压是指孕妇既往存在
+高血压或在妊娠20 周内被诊断为高血压
+［2］。此外，我
+国最新妊娠期高血压疾病诊治指南（以下简称“我国诊
+治指南”）将“妊娠20 周后首次发现高血压但持续到
+产后12 周以后”也归入妊娠合并慢性高血压范畴
+［11］。
+慢性高血压伴发子痫前期是指慢性高血压孕妇妊娠20
+610041，China
+*Corresponding author：LIAO Xiaoyang，Professor/Doctoral supervisor；E-mail：625880796@qq.com
+【Abstract】  Hypertensive disorders of pregnancy（HDP） is one of the leading causes of maternal and perinatal 
+mortality worldwide，with increasing incidence and mortality year by year. In 2023，the U.S. Preventive Services Task Force
+（USPSTF） updated the recommendation statement on screening for hypertensive disorders of pregnancy by evaluating the latest 
+research evidence and analyzing the benefits and harms of screening for HDP. The recommendation，compared with the 2017 
+version，further affirms the importance of blood pressure measurement in screening for HDP，affirms substantial net benefit，
+and recommends blood pressure measurement throughout pregnancy to screen for HDP. This article explores and analyzes the key 
+points of this recommendation based on the RIGHT statement for introductions and interpretations of guidelines in Chinese（RIGHT 
+for INT） and its implications for guiding general practitioners in China.
+【Key words】  Hypertensive disorders of pregnancy；Screening；Guideline interpretation；U.S. Preventive Services 
+Task Force
+
+·3583·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2024年10月  第27卷  第29期
+中国全科医学
+周前无蛋白尿，妊娠20 周后出现蛋白尿
+［11］；或妊娠
+20 周前有蛋白尿，在妊娠20 周后尿蛋白量明显增加；
+或出现重度子痫前期的任意表现
+［11］。应注意各类HDP
+的诊断之间存在转换性和进展性。
+2.2 HDP 风险评估
+USPSTF 提到与子痫前期最密切相关的危险因素为
+孕产妇合并症［妊娠前的1 型或2 型糖尿病、妊娠期糖
+尿病、慢性高血压、肾脏疾病、自身免疫性疾病（特别
+是抗磷脂综合征或系统性红斑狼疮）］和使用辅助生殖
+技术受孕的妊娠
+［9］；与子痫前期风险增加相关的因素
+包括既往妊娠并发子痫前期或其他高血压疾病、既往不
+良妊娠结局（胎盘早剥或死产）
+［9］；与子痫前期和妊
+娠期高血压风险增加独立相关的因素为一些个人史和妊
+娠特征
+［9］（表2）。我国子痫前期风险因素与上述内
+容基本一致，细节略有不同并分为高度、中度、低度风
+险（表2）。我国诊治指南建议将孕妇合并基础内科疾
+病或病理因素、既往子痫前期病史、多胎妊娠、肥胖列
+为高度风险因素
+［11］；将孕妇本次妊娠存在的风险因素
+列为中度风险
+［11］，包括一般情况、家族遗传史、本次
+妊娠情况、本次妊娠的产前检查情况；低度风险是指经
+历过成功妊娠且无并发症者
+［11］。应特别注意多数子痫
+前期发生于没有明显危险因素的健康未经产女性中。
+为了识别发生子痫前期风险的孕妇，我国《妊娠
+期血压管理中国专家共识（2021）》
+［12］（以下简称
+“我国共识”）建议对所有孕妇在首次产前检查、妊
+娠11~13 周、妊娠19~24 周及妊娠30~34 周进行子痫前
+期风险动态评估。在医疗资源条件有限的地区基于危险
+因素和平均动脉压进行评估，条件允许时可结合胎盘生
+长因子和子宫动脉搏动指数进行评估
+［12］。目前已经开
+发了几种评估子痫前期风险的模型，许多模型包括了病
+史、孕妇特征、平均动脉压、血清生物标志物（如胎盘
+生长因子）和超声读数（如子宫动脉搏动指数）变量。
+其中应用最广泛的是英国胎儿医学基金会模型
+［13］，也
+是我国共识所推荐的子痫前期风险计算器，当风险值
+≥1/100 时评为高风险，建议预防性使用小剂量阿司匹
+林
+［12］。然而，目前尚不清楚根据风险预测模型进行的
+评估是否一定优于基于临床病史采集的风险评估
+［9］。
+2.3 筛查方法
+血压测量通常被用作整个妊娠和产后高血压疾病的
+筛查工具。准确的血压测量需遵循监管机构关于正确测
+量血压技术的建议，经认证的可在妊娠期间使用的设备
+以及适合患者尺寸的袖带
+［14-15］。我国共识也建议在具
+备条件的机构使用通过妊娠期及子痫前期特殊认证的上
+臂式电子血压计
+［12］。这是因为普通电子血压计的血压
+算法通常没有考虑正常妊娠和子痫前期患者出现的血管
+顺应性变化和血管外间隙水肿等问题，会导致计算值低
+表1  推荐总结
+Table 1  Summary of  recommendation
+条目
+内容
+推荐意见
+在整个妊娠期间测量血压来筛查HDP（B 级推荐
+a）
+适用人群
+适用于所有未确诊为HDP 的孕妇
+更新要点
+与2017 年USPSTF 关于子痫前期筛查的建议一致，2023
+年USPSTF 将更新审查范围扩大到HDP 筛查
+实施建议
+筛查间隔：妊娠期间，每次产前检查应测量血压，如果
+患者的血压升高，应反复测量以确认
+为了筛查获益，很重要的是筛查阳性的人接受HDP 的
+循证管理
+推荐相关
+其他信息
+虽然HDP 风险会持续到产后，但在产后进行筛查的证
+据很少。较好的办法是在出院时告知患者子痫前期的症
+状和体征，并对高血压疾病患者进行后续的血压随访
+其他相关
+建议
+USPSTF 建议子痫前期高危人群在妊娠12 周后预
+防性使用低剂量阿司匹林（81 mg/d）（https://www.
+uspreventiveservicestaskforce.org/uspstf/）
+该推荐的
+重要性
+HDP 是孕产妇死亡以及胎儿、新生儿不良围生期结局的
+主要原因之一。黑种人孕产妇发病率及母婴围生期死亡
+率高于其他种族和族裔群体，而且与其他孕妇相比，黑
+种人患HDP 的风险更大
+如何阅读
+完整版推
+荐
+访
+问
+U S P S T F
+网
+站（h t t p s : / / w w w .
+uspreventiveservicestaskforce.org/uspstf/）或JAMA 网站
+（https://jamanetwork.com/collections/44068/united-states-
+preventive-services-task-force）阅读完整版推荐，包括了
+该推荐的更多细节，如筛查的益处和危害，支持证据和
+其他推荐
+注：HDP= 妊娠期高血压疾病，USPSTF= 美国预防临床服务指南
+工作组；
+a 为本推荐采用的证据水平和推荐意见强度分级见USPSTF
+官网
+［10］或原文在线补充内容（https://cdn.jamanetwork.com/ama/
+content_public/journal/jama/）。
+表2  USPSTF 推荐和我国诊治指南子痫前期风险因素比较
+Table 2  Comparison of risk factors for preeclampsia between USPSTF and 
+guidelines for diagnosis and treatment in China
+指南/ 类别
+风险因素
+USPSTF 推荐
+最密切相关
+孕产妇合并症：妊娠前1 型或2 型糖尿病、妊娠
+期糖尿病、慢性高血压、肾脏疾病、自身免疫性
+疾病使用辅助生殖技术受孕的妊娠
+风险增加相关
+既往妊娠并发子痫前期或其他高血压疾病、既往
+不良妊娠结局（胎盘早剥或死产）
+独立相关
+个人史和妊娠特征：未生育、孕前BMI 高（>30 
+kg/m
+2）、多胎妊娠、高龄孕妇（>35 岁）、子痫
+前期或早发心血管疾病家族史
+我国诊治指南
+高度风险
+孕妇合并基础内科疾病或病理因素：糖尿病、高
+血压、肾脏疾病、自身免疫性疾病、存在高血压
+危险因素如阻塞性睡眠呼吸暂停
+既往子痫前期病史、多胎妊娠、肥胖
+中度风险
+一般情况：年龄≥35 岁、孕前BMI ≥28 kg/m
+2
+家族遗传史：子痫前期家族史（母亲或姐妹），
+高血压遗传因素等
+本次妊娠情况：初次妊娠、妊娠间隔时间≥10 年、
+收缩压≥130 mmHg 或舒张压≥80 mmHg（首次
+产前检查、妊娠早期或妊娠任何时期检查时）、
+妊娠早期尿蛋白定量≥0.3 g/24 h 或持续存在随
+机尿蛋白≥（+）
+本次妊娠的产前检查情况：不规律产前检查或产
+前检查不适当（包括产前检查质量问题）、饮食、
+环境等因素
+低度风险
+经历过成功妊娠且无并发症者
+注：1 mmHg=0.133 kPa。
+
+·3584· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+October 2024，Vol.27 No.29
+Chinese General Practice
+于实测值
+［16］。妊娠期新发高血压的定义为同一手臂2
+次血压读数升高（在没有慢性高血压的情况下，收缩压
+≥140 mmHg 和/ 或舒张压≥90 mmHg），2 次测量至
+少间隔4 h
+［15］。
+该推荐建议的筛查间隔为妊娠期每次产前检查应测
+量血压。基于标准的诊室血压测量筛查HDP 可识别需
+要进一步监测和循证管理的个体
+［9］。USPSTF 曾评估过
+诊室、家庭和动态血压测量确定成年人高血压的准确性，
+建议通过诊室血压测量对≥18 岁成年人进行高血压筛
+查
+［17］。没有证据表明HDP 替代筛查策略比产检常规
+血压测量更有效
+［5］。虽然众所周知，风险会持续到产后，
+但几乎没有产后筛查的证据。较好的办法是在出院时告
+知患者子痫前期的症状和体征，并对高血压疾病患者进
+行后续的血压随访。我国共识提到产后72 h 是血压波
+动的高峰期，建议产后72 h 内密切监测血压，至少4~6
+次/d，产后6 周回访时也应测量血压
+［12］。
+此外，在怀疑子痫前期时应进行蛋白尿筛查。已有
+充分的证据证明尿蛋白即时检测（例如尿液试纸测量）
+诊断妊娠期蛋白尿的准确性较低
+［6］，目前证据不支持
+即时尿检筛查子痫前期。我国诊治指南与之略有不同，
+建议所有孕妇每次产前检查应查尿蛋白或尿常规，可疑
+子痫前期孕妇应检测24 h 尿蛋白定量
+［11］。
+2.4 治疗或干预
+目前，除了分娩没有其他治疗子痫前期的方法，分
+娩时机取决于胎龄及是否存在严重的子痫前期表现。
+HDP 的管理策略包括密切监测胎儿和孕产妇、使用降
+压药和有指征时使用硫酸镁预防癫痫发作
+［2］。HDP 患
+者产后血压测量和临床监测也很重要，因为分娩后死亡
+风险仍存在。提高临床医生对HDP 风险增加人群的认
+识有助于改善预防措施的公平传播。如USPSTF 建议考
+虑所有妊娠的黑种人使用低剂量阿司匹林预防子痫前
+期
+［18］。还应注意高危人群结局不佳的风险，如患HDP
+的黑种人和西班牙裔/ 拉丁裔人卒中风险比白种人高2
+倍
+［9］，这提醒临床应将资源集中在最有可能患病或死
+亡的患者。此外，该推荐还为临床医生和孕妇提供了额
+外的工具和资源，如HDP 相关工具和资源
+［19］，关于
+妊娠期高血压的信息
+［20］，先兆子痫和子痫信息
+［21］，
+孕妇锻炼计划
+［22］等。
+2.5 筛查和治疗获益
+虽然没有证据直接比较HDP 筛查者与未筛查者的
+孕产妇和围生期的发病率和死亡率，但已有充分的证据
+证明标准的子痫前期管理可以降低孕产妇和围生期的发
+病率和死亡率，为母亲和婴儿带来巨大益处
+［6］。筛查
+益处的证据审查纳入了4 项RCT 和1 项历史对照研究
+［5，
+9］。将家庭血压测量、减少HDP 低风险人群产检次数
+以及仅在有指征时进行蛋白尿筛查3 种筛查方法分别与
+常规方法进行了比较，发现与常规方法相比，上述3 种
+筛查方法并没有减少或增加HDP 的诊断，健康结局也
+没有统计学差异
+［5，9］。一项评估家庭血压测量作为常
+规诊室筛查补充的RCT（n=2 441）发现干预组和对照
+组在诊断HDP 的天数、HDP 诊断数量、重度高血压发
+生率、HDP 相关产妇并发症方面没有差异
+［5，9，23］。减
+少低风险孕妇产检次数（6~9 次）与标准产检计划（13~14
+次）两组间产妇结局（子痫前期诊断比例、围生期死亡
+率、胎盘早剥、前置胎盘、剖宫产、产后出血、早产等
+方面）和新生儿结局（低出生体质量儿、死产等）无差
+异
+［5，9］。美国的1 项历史对照研究评估了仅在有指征
+（如体质量减轻、血压升高、泌尿症状）时进行蛋白尿
+筛查与每次产前检查常规尿液筛查的影响，发现有指征
+的筛查组早产风险降低36%，两组间HDP 诊断比例、
+剖宫产风险无差异
+［5，9］。但因研究设计相关的潜在混
+淆因素，还需更高质量的研究来证实这一结果。总体上，
+HDP 筛查替代方法的益处证据有限。
+2.6 筛查和治疗的潜在危害
+已有高质量证据表明血压测量几乎没有危害
+［6］。
+在此次证据审查中，HDP 筛查导致严重或显著危害的
+证据有限。2项研究
+［5，9］评估了家庭血压测量筛查的危害，
+发现常规诊室血压测量联合家庭血压测量与常规诊室血
+压测量两组在高血压相关并发症的引产率和剖宫产率或
+紧急剖宫产率、妊娠期或产后焦虑、产后抑郁发生率方
+面无差异。减少低风险孕妇产检次数与标准产检计划两
+组在剖宫产或引产率、焦虑和产后抑郁方面差异无统计
+学意义
+［5，9］。HDP 治疗的潜在危害主要与引产、降压
+药和硫酸镁治疗的已知危害相关，但未经治疗的HDP
+可能导致孕产妇和围生期严重不良结局。
+3 推荐的优势与局限性
+该推荐的优势将HDP 管理关口前移，从传统的疾
+病诊治前移到健康保障和促进，这正是全科医学理念之
+一。此外，该推荐基于最新高质量证据的系统评价形成，
+同时考虑了亚组人群特征及其偏好、公平性及可接受性
+等，为临床实践提供了循证证据和决策依据。该推荐局
+限性在于主要为美国人群制订，缺乏发展中国家HDP
+流行病学特征及研究证据，需要考虑发展中国家适用性
+问题。此外，未报告其使用者、应用环境、外部评审、
+质量保证，可能会影响其应用。
+4 对我国指南制订和临床研究的意义
+我国目前暂无相应指南或共识系统地探讨HDP 筛
+查的利弊及其推荐建议，该推荐可为我国HDP 筛查决
+策及指南制订提供参考及循证证据。USPSTF 提到了未
+来需要研究的空白：（1）检测慢性高血压合并子痫前
+期发展的最佳血压监测方法及预防其发展的策略；（2）
+关于检测和减轻产后妊娠高血压疾病后果的最佳方法；
+
+·3585·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2024年10月  第27卷  第29期
+中国全科医学
+（3）评估HDP 风险分层筛查方法的临床价值；（4）
+评估妊娠和产后期间远程医疗和远程血压测量的使用情
+况，以增加服务可及性；（5）进一步阐明蛋白尿评估
+在产前护理中的价值和作用；（6）评估孕早期、孕晚
+期和产后筛查时机的差异以减少不良结局；（7）孕前
+和孕中保健的障碍；（8）预防HDP 患者心血管并发症。
+5 推荐报告质量评价
+RIGHT 评价显示该推荐报告较透明规范（表3）。
+仅其使用者、应用环境、外部评审、质量保证和局限性
+未报告。
+6 小结
+本文基于指南解读类文献报告规范总结该推荐的重
+要信息，采用RIGHT 清单呈现该推荐报告质量（目前
+指南解读类文献所缺乏的
+［7］），结合我国情况进行分析，
+不仅有助于读者快速了解该推荐总体情况，提高其阅读
+效率，而且有利于促进该推荐在我国的传播与应用。
+该推荐建议在整个妊娠期间测量血压来筛查HDP，
+且证据审查发现产检常规血压测量可能是目前筛查HDP
+最有效的策略，而且更为重要的是筛查呈阳性的人需要
+持续监测和接受HDP 循证管理
+［2］。应注意妊娠并不是
+进行筛查、咨询和治疗的唯一时间，USPSTF 提到所有
+具有生殖能力和/ 或计划怀孕及产后的人应该接受高血
+压疾病筛查。HDP 已被公认为是将来心脑血管风险的
+预测因素，鉴于HDP 不仅使孕产妇的不良结局风险增
+加而且对未来健康影响显著，HDP 的筛查、咨询和治
+疗应早于且不限于妊娠阶段，而且HDP 筛查和管理应
+该在全科医生的职权范围。
+全科医生作为最大的初级保健医生群体，即使孕妇
+本身可能由产科医生管理，但仍是居民在妊娠前、妊娠
+期和产后的主要联系人，承担着辖区内常住孕产妇整个
+妊娠期健康管理、产后访视和产后42 d健康检查的责任，
+对孕产妇进行全程追踪与管理
+［24］。因此，全科医生在
+HDP 的筛查和管理中发挥着重要作用。然而许多全科
+医生缺乏足够的知识技能水平，公众也缺乏对HDP 的
+认识
+［25］。因此，应加强全科医生培训，重视HDP 的
+筛查。在孕妇的每次访视中应该测量血压，秉承“动态
+评估、序贯诊断、全程管理”的原则
+［12］，同时应在孕
+前、孕早期及妊娠期任何时期首诊时进行高危因素的筛
+查、预测和预防
+［11］。全科医生还应提升使用血压测量
+筛查HDP 的能力，增加对HDP 的认识，早期识别预警
+信息并进行相应的处理，延缓病情进展和赢得转诊救治
+时机。全科医生还应加强对公众的健康教育，增进公众
+对HDP 的了解。此外，应注意临床决策所涉及的因素
+不仅是证据，全科医生应了解证据，但要根据具体患者
+表3  RIGHT 清单
+Table 3  The RIGHT list
+领域/ 主题
+条目
+报告情况
+基本信息
+标题/ 副标题
+可通过标题判断为指南
+完全报告
+报告发表年份
+完全报告
+报告指南分类
+完全报告
+执行总结
+汇总呈现指南推荐意见
+完全报告
+术语、缩略语
+定义术语、列出缩略语全称
+完全报告
+通信作者
+有联系方式
+完全报告
+背景
+描述卫生问题
+描述卫生问题的基本流行病学
+完全报告
+指南总目标、具体目的
+描述总目标和具体目的
+完全报告
+目标人群
+主要目标人群
+完全报告
+需考虑的亚组人群
+完全报告
+指南使用者、应用环境
+主要及潜在的使用者
+未报告
+具体应用环境
+未报告
+指南制订小组
+所有贡献者及其作用
+部分报告
+报告制订者及其头衔、职务、工作单位等
+完全报告
+证据
+卫生保健问题
+基于的关键问题
+完全报告
+结局遴选及分类的方法
+完全报告
+系统评价
+描述基于的系统评价是新制作的还是已发
+表的
+完全报告
+若为已发表：参考文献、检索和评价过程、
+是否更新
+完全报告
+评价证据质量
+证据质量评价及分级的方法
+完全报告
+推荐意见
+推荐意见
+清晰准确、可实施的推荐意见
+完全报告
+重要亚组人群的推荐意见
+完全报告
+推荐意见强度及支持证据的质量
+完全报告
+推荐意见形成的原理和说明是否考虑目标人群的偏好及价值观
+完全报告
+是否考虑成本和资源利用
+完全报告
+是否考虑公平性、可行性和可接受性等
+完全报告
+从证据到推荐
+决策过程及方法
+完全报告
+评审和质量保证
+外部评审
+独立评审与否
+未报告
+质量保证
+质量控制与否及其程序
+未报告
+资助与利益冲突声明及管理
+资金来源及作用
+制订各阶段的资金来源
+完全报告
+资助者作用
+完全报告
+利益冲突声明和管理
+利益冲突类型
+完全报告
+利益冲突评价、管理方法、声明获取途径
+完全报告
+其他方面
+可及性
+指南、附件及其他文件获取途径
+完全报告
+对未来研究建议
+实践与研究证据间的差异，和/ 或未来建
+议
+完全报告
+指南的局限性
+局限性及其可能的影响
+未报告
+或情况个性化决策。如西部经济条件落后或偏远地区孕
+妇产前检查率较低，其产后发病和分娩后再次住院的风
+险较大，而确定HDP 需要充分的产前检查、监测和循
+证管理。因此，对于该类人群，仅妊娠期筛查并不足以
+改善健康结局的不平等，全科医生应注意产后筛查和监
+测以避免严重并发症，从而减少卫生不公平。
+致谢：感谢四川大学华西第二医院妇产科贾瑾对本
+文的校订。
+作者贡献：张鹏负责文章的构思与设计、资料收集
+与整理分析、论文撰写与修订，对文章整体负责；刘力
+
+·3586· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+October 2024，Vol.27 No.29
+Chinese General Practice
+滴、杨梓钰、杨荣、吕垚、周伊恒、方湘、雷弋、代华
+对论文修订；廖晓阳进行文章的可行性分析、参与论文
+修订、负责监督管理、文章的质量控制及审校。
+本文无利益冲突。
+张鹏
+：https://orcid.org/0009-0005-8323-3460
+廖晓阳
+：https://orcid.org/0000-0003-4409-9674
+参考文献
+［1］Centers for Disease Control and Prevention. Pregnancy mortality 
+surveillance system［EB/OL］.（2023-03-23）［2024-03-
+05］. https://www.cdc.gov/reproductivehealth/maternal-mortality/
+pregnancy-mortality-surveillance-system.htm.
+［2］US Preventive Services Task Force，BARRY M J，NICHOLSON 
+W K，et al. Screening for hypertensive disorders of pregnancy：
+US Preventive Services Task Force final recommendation statement
+［J］. JAMA，2023，330（11）：1074-1082. DOI：10.1001/
+jama.2023.16991. 
+［3］国家卫生健康委员会. 2022 中国卫生健康统计年鉴［EB/
+OL］.（2023-05-17）［2024-03-09］. http://www.nhc.gov.cn/
+mohwsbwstjxxzx/tjtjnj/202305/6ef68aac6bd14c1eb9375e01a0faa1fb.
+shtml.
+［4］KHOSLA K，HEIMBERGER S，NIEMAN K M，et al. Long-
+term cardiovascular disease risk in women after hypertensive 
+disorders of pregnancy：recent advances in hypertension［J］. 
+Hypertension，2021，78（4）：927-935. DOI：10.1161/
+HYPERTENSIONAHA.121.16506. 
+［5］HENDERSON J T，WEBBER E M，THOMAS R G，et al. Screening 
+for hypertensive disorders of pregnancy：updated evidence report 
+and systematic review for the US Preventive Services Task Force
+［J］. JAMA，2023，330（11）：1083-1091. DOI：10.1001/
+jama.2023.4934. 
+［6］US Preventive Services Task Force，BIBBINS-DOMINGO K，
+GROSSMAN D C，et al. Screening for preeclampsia：US Preventive 
+Services Task Force recommendation statement［J］. JAMA，
+2017，317（16）：1661-1667. DOI：10.1001/jama.2017.3439. 
+［7］周奇，邢丹，李沁原，等. 指南解读类文献报告规范的制订指
+南（RIGHT for INT）［J］. 中国循证医学杂志，2022，22（5）：
+497-507.
+［8］CHEN Y L，YANG K H，MARUŠIC A，et al. A reporting tool for 
+practice guidelines in health care：the RIGHT statement［J］. Ann 
+Intern Med，2017，166（2）：128-132. DOI：10.7326/M16-
+1565. 
+［9］HENDERSON J T，WEBBER E M，VESCO K K，et al. Screening 
+for Hypertensive Disorders of Pregnancy：an Evidence Update for the 
+US Preventive Services Task Force［M］//U.S. Preventive Services 
+Task Force Evidence Syntheses，formerly Systematic Evidence 
+Reviews. Rockville（MD）：Agency for Healthcare Research and 
+Quality（US），2023.
+［10］US Preventive Services Task Force. Grade definitions［EB/
+OL］.（2018-06-01）［2024-03-07］. https://www.
+uspreventiveservicestaskforce.org/uspstf/about-uspstf/methods-and-
+processes/grade-definitions.
+［11］中华医学会妇产科学分会妊娠期高血压疾病学组. 妊娠期高血
+压疾病诊治指南（2020）［J］. 中华妇产科杂志，2020，55（4）：
+227-238. DOI：10.3760/cma.j.cn112141-20200114-00039.
+［12］中华医学会妇产科学分会妊娠期高血压疾病学组. 妊娠期血压
+管理中国专家共识（2021）［J］. 中华妇产科杂志，2021，56
+（11）：737-745. DOI：10.3760/cma.j.cn112141-20210506-00251.
+［13］The Fetal Medicine Foundation. Risk for preeclampsia ［EB/OL］.
+（2024-03-07）［2024-03-07］. https://fetalmedicine.org/
+research/assess/preeclampsia/first-trimester.
+［14］HURRELL A，WEBSTER L，CHAPPELL L C，et al. The 
+assessment of blood pressure in pregnant women：pitfalls and novel 
+approaches［J］. Am J Obstet Gynecol，2022，226（2S）：
+S804-818. DOI：10.1016/j.ajog.2020.10.026. 
+［15］Gestational hypertension and preeclampsia：ACOG practice bulletin 
+summary，number 222［J］. Obstet Gynecol，2020，135（6）：
+1492-1495. DOI：10.1097/AOG.0000000000003892. 
+［16］BELLO N A，WOOLLEY J J，CLEARY K L，et al. Accuracy of 
+blood pressure measurement devices in pregnancy：a systematic 
+review of validation studies［J］. Hypertension，2018，71（2）：
+326-335. DOI：10.1161/HYPERTENSIONAHA.117.10295. 
+［17］US Preventive Services Task Force，KRIST A H，DAVIDSON K W，
+et al. Screening for hypertension in adults：us preventive services 
+task force reaffirmation recommendation statement［J］. JAMA，
+2021，325（16）：1650-1656. DOI：10.1001/jama.2021.4987. 
+［18］US Preventive Services Task Force，DAVIDSON K W，BARRY M 
+J，et al. Aspirin use to prevent preeclampsia and related morbidity 
+and mortality：us preventive services task force recommendation 
+statement［J］. JAMA，2021，326（12）：1186-1191. DOI：
+10.1001/jama.2021.14781. 
+［19］Million Hearts. Hypertensive Disorders of Pregnancy ［EB/OL］.
+（2022-11-08）［2024-02-28］. https://millionhearts.hhs.gov/
+tools-protocols/tools/hypertension-disorders-pregnancy.html.
+［20］BIGGS W. Warning for the wary：high blood pressure during 
+pregnancy［J］. NEJM Journal Watch，2009. DOI：10.1056/
+WH200906180000004.
+［21］Eunice Kennedy Shriver National Institute of Child Health and 
+Human Development. Preeclampsia and eclampsia ［EB/OL］.
+（2017-01-31）［2024-02-28］. https://www.nichd.nih.gov/
+health/topics/preeclampsia.
+［22］Community Preventive Services Task Force. Pregnancy health：
+exercise programs to prevent gestational hypertension ［EB/OL］.
+（2019-05-14）［2024-02-28］. https://www.thecommunityguide.
+org/findings/pregnancy-health-exercise-programs-prevent-
+gestational-hypertension.html.
+［23］TUCKER K L，MORT S，YU L M，et al. Effect of self-monitoring 
+of blood pressure on diagnosis of hypertension during higher-risk 
+pregnancy：the BUMP 1 randomized clinical trial［J］. JAMA，
+2022，327（17）：1656-1665. DOI：10.1001/jama.2022.4712. 
+［24］国家基本公共卫生服务项目管理平台. 孕产妇健康管理服务
+规
+范［EB/OL］.（2024-03-17）［2024-03-17］. http://www.
+nbphsp.org.cn/jbgw/ycf/.
+［25］刘兴会，陈锰. 降低中国可避免的孕产妇死亡［J］. 中国实
+用妇科与产科杂志，2020，36（1）：54-56. DOI：10.19538/
+j.fk2020010113.
+（收稿日期：2024-04-10；修回日期：2024-06-04）
+（本文编辑：贾萌萌）

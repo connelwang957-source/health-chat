@@ -1,0 +1,1256 @@
+标题: 中国流感治疗与药物预防基层指南（2025版）
+期刊: 中国全科医学 2026 第29卷 第13期
+DOI: 10.12114/j.issn.1007-9572.2026.0005
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2026.0005
+
+
+·1633·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+·指南·共识·规范·
+中国流感治疗与药物预防基层指南（2025 版）
+王业明
+1，2，周奇
+3，4，李靓雅
+5，陈思颖
+1，王俊瑞
+6，段钦蕾
+7，
+陈耀龙
+3，4，8，9，10，11*，曹彬
+1，2，12，13*，中华医学会呼吸病学分会，
+中华医学会感染病学分会
+1.100029 北京市，中日友好医院呼吸与危重症医学科
+2.100069 北京市，首都医科大学呼吸病学系
+3.730000 甘肃省兰州市，兰州大学基础医学院循证医学中心
+4.730000 甘肃省兰州市，中国医学科学院循证评价与指南研究创新单元
+5.100084 北京市，清华大学基础医学院
+6.010030 内蒙古自治区呼和浩特市，内蒙古医科大学附属医院
+7.261500 山东省潍坊市，潍坊高密区卫生院
+8.730000 甘肃省兰州市，兰州大学健康数据科学研究院
+9.730000 甘肃省兰州市，甘肃省循证医学重点办公室
+10.730000 甘肃省兰州市，中华医学杂志社指南与标准研究中心
+11.730000 甘肃省兰州市，世界卫生组织指南实施与知识转化合作中心
+12.100029 北京市，国家呼吸医学中心
+13.100029 北京市，中日友好医院新基石科学实验室
+* 通信作者：曹彬，主任医师/ 教授/ 博士生导师；E-mail: caobin_ben@163.com
+陈耀龙，教授/ 博士生导师；E-mail: chevidence@lzu.edu.cn
+【摘要】　流行性感冒（以下简称流感）病毒具有季节性流行、传播迅速、易致高危人群发生重症等特点，对人
+民群众健康构成严重威胁。在基层医疗卫生机构中，流感患者就诊量大、诊疗资源相对有限，对规范、可操作的临床
+指导需求迫切。我国既往关于流感治疗和药物预防的推荐多基于专家共识，缺乏系统的循证医学指南。近年来，神经
+氨酸酶抑制剂等传统抗病毒药物以及RNA 聚合酶抑制剂等新型抗病毒药物的研究证据不断积累，为流感的临床治疗
+提供了更多选择，亟须对现有的用药建议进行系统梳理和科学归纳。基于此，我国相关专业领域的多学科专家依循指
+南科学性（Scientific）、透明性（Transparent）和适用性（Applicable）的评级（Rankings）（简称STAR）推荐制修订
+决策框架，制订了本指南。本指南以基层医疗卫生机构为主要应用场景，重点围绕流感的抗病毒治疗和药物预防，系
+统总结并更新了不同人群的治疗指征、药物选择、用药方案、疗程及安全性管理，特别是对儿童、孕产妇等重点人群
+提出具体建议，并明确了季节性高峰期药物预防的适用条件与策略，最终形成19 条推荐意见，旨在为基层医疗卫生
+机构开展流感治疗与药物预防提供系统、规范、可操作的循证指导。
+【关键词】　流感，人；治疗；药物预防；指南；社区卫生服务
+【中图分类号】　R 197.1　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2026.0005
+Chinese Guidelines for the Treatment and Prophylaxis of Influenza in Primary Care (2025 
+Edition)
+WANG Yeming
+1，2, ZHOU Qi
+3，4, LI Jingya
+5, CHEN Siying
+1, WANG Junrui
+6, DUAN Qinlei
+7, CHEN Yaolong
+3，4，8，9，10，11*, CAO Bin
+1，2，12，13*, 
+Respiratory Disease Branch of the Chinese Medical Association，Infectious Diseases Branch of Chinese Medical Association
+1.Department of Pulmonary and Critical Care Medicine, China-Japan Friendship Hospital, Beijing 100029, China
+实践指南注册：国际实践指南注册与透明化平台（PREPARE-2025CN1551）
+基金项目：北京市卫生健康委研究型病房卓越临床研究计划（BRWEP2024W114060108）
+引用本文：王业明, 周奇, 李靓雅, 等. 中国流感治疗与药物预防基层指南（2025 版）[J]. 中国全科医学, 2026, 29(13): 1633-1644. DOI: 
+10.12114/j.issn.1007-9572.2026.0005. [www.chinagp.net]
+WANG Y M, ZHOU Q, LI J Y, et al. Chinese Guidelines for the Treatment and Prophylaxis of Influenza in Primary Care (2025 Edition)[J]. Chinese 
+General Practice, 2026, 29(13): 1633-1644.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·1634·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2.Department of Respiratory Medicine, Capital Medical University, Beijing 100069, China
+3.Center for Evidence-based Medicine, School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China
+4.Innovation Unit for Evidence-Based Evaluation and Guideline Research, Chinese Academy of Medical Sciences, Lanzhou 730000, China
+5.School of Basic Medical Sciences, Tsinghua University, Beijing 100084, China
+6.Affiliated Hospital of Inner Mongolia Medical University, Hohhot 010030, China
+7.Gaomi District Township Health Center, Weifang 261500, China
+8.Institute of Health Data Science, Lanzhou University, Lanzhou 730000, China
+9.Gansu Provincial Key Office of Evidence-Based Medicine, Lanzhou 730000, China
+10.Guidelines and Standards Research Center, Chinese Medical Journal Publishing House, Lanzhou 730000, China
+11.WHO Collaborating Centre for Guideline Implementation and Knowledge Translation, Lanzhou 730000, China
+12.National Center for Respiratory Medicine, Beijing 100029, China
+13.New Cornerstone Science Laboratory, China-Japan Friendship Hospital, Beijing 100029, China
+*Corresponding authors: CAO Bin, Chief physician/Professor/Doctoral supervisor; E-mail: caobin_ben@163.com
+CHEN Yaolong, Professor/Doctoral supervisor; E-mail: chevidence@lzu.edu.cn
+【Abstract】　Influenza is characterized by pronounced seasonality, rapid transmission, and a high risk of severe illness 
+among high-risk populations. These features pose a substantial threat to public health. In primary healthcare settings, the 
+substantial burden of influenza cases, combined with relatively limited diagnostic and therapeutic resources, creates a pressing need 
+for standardized and actionable guidance. Historically, recommendations for influenza treatment and prophylaxis have largely relied 
+on expert consensus in China, with a lack of systematic, evidence-based guidelines. In recent years, accumulating evidence on 
+traditional antiviral agents such as neuraminidase inhibitors, as well as emerging agents targeting RNA polymerase, has expanded 
+therapeutic options for influenza, underscoring the need to systematically update existing treatment recommendations. Accordingly, 
+a multidisciplinary panel of Chinese experts developed the Clinical Practice Guidelines for the Treatment and Prophylaxis of 
+Influenza in China (2025 Edition) following the Scientific, Transparent, and Applicable Rankings (STAR) framework. With primary 
+healthcare institutions as the main application setting, this guideline focuses on antiviral therapy and prophylaxis, systematically 
+summarizing and updating treatment indications, drug selection, dosing regimens, duration, and safety management across different 
+populations. Specific recommendations are provided for key groups such as children and pregnant women. Indications and strategies 
+for prophylaxis during seasonal epidemic peaks are defined. The guideline presents a total of 19 evidence-based recommendations, 
+providing systemic and actionable guidance for the clinical management and prevention of influenza in primary healthcare settings.
+【Key words】　Influenza, human; Treatment; Prophylaxis; Guideline; Community health services 
+流行性感冒（以下简称流感）是一种急性呼吸道传
+染病，传播迅速、季节性流行显著，对儿童、老年人、
+孕产妇以及慢性基础性疾病患者等高危人群的健康威胁
+尤为严重，可导致重症甚至死亡，给社会带来沉重的疾
+病负担
+［1-3］。《中国流感监测周报》显示，2025-12-
+01—07 省份哨点医院报告的流感样患者占比高于往年
+同期水平
+［4］。其中，南方省份占比为11.1%，高于北
+方省份的7.9%。然而，在流感疾病负担持续加重的背
+景下，我国在流感抗病毒治疗和药物预防方面的临床实
+践仍主要依据专家共识，缺乏系统性循证指南，影响了
+诊疗决策的规范性与科学性
+［5-6］。
+近年来，随着RNA 聚合酶抑制剂等新型抗病毒
+药物的临床试验不断开展，以及神经氨酸酶抑制剂
+（neuraminidase inhibitor, NAI）等传统抗病毒药物的真
+实世界研究不断持续积累，流感治疗和药物预防的循证
+证据日益丰富
+［7-9］。近期发表的《中国流感治疗与药物
+预防临床实践指南（2025 版）》填补了我国流感系统
+性循证指南的空白
+［10］。然而，考虑到基层医疗卫生机
+构在诊疗场景和医疗资源配置上的特殊性，目前仍缺乏
+面向基层医疗卫生机构、侧重规范与可操作性的专项指
+南，影响了基层诊疗决策的规范性与科学性。为促进基
+层诊疗实践规范化，我国相关专业领域的多学科专家依
+循临床实践指南的方法学，在前述指南的基础上，结合
+基层实际需求，制订了《中国流感治疗与药物预防基层
+指南（2025 版）》（以下简称本指南）。本指南旨在
+将复杂的循证医学证据转化为适用于基层医疗场景的具
+体指导，为基层医师提供更为精准、易行的循证建议，
+协助其科学、规范地开展流感防治工作。本指南不具备
+强制性，不具备法律效力，仅供相关医护人员参考。
+1　指南制订方法学
+在《中国流感治疗与药物预防临床实践指南（2025
+版）》
+［10］基础上，制订了此基层版指南。本指南由中
+华医学会呼吸病学分会和感染病学分会发起制订并组织
+撰写，中国医学科学院循证评价与指南研究创新单元、
+兰州大学健康数据科学研究院提供指南的方法学指导。
+
+·1635·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+指南目标人群为流感患者与有流感药物预防需求的人
+群，普遍适用于基层医疗卫生机构，供临床医师、药
+师、护师和其他相关人员使用。本指南已在国际实践
+指南注册与透明化平台（Practice guideline REgistration 
+for transPAREncy, PREPARE）（http://www.guidelines-
+registry.org）注册并上传计划书（注册号：PREPARE-
+2025CN1551），设计与制订参照指南科学性（Scientific）、
+透明性（Transparent）和适用性（Applicable）的评级
+（Rankings）（简称STAR）推荐修订决策框架进行，
+采用推荐意见分级的评估、制订及评价（Grading of 
+Recommendations Assessment, Development and Evaluation, 
+GRADE）方法
+［11］对证据体和推荐意见进行分级（表1），
+参考临床实践指南基层版报告规范
+［12］撰写本指南全文。
+2　定义与术语
+2.1　疑似流感
+在流感流行季节或具有流感流行病学接触史的情况
+下，出现流感样症状的患者。
+2.2　无高危因素人群
+与国外英文流感指南及相关文献中所指的“at 
+low risk of progression to severe influenza” 或“otherwise 
+healthy people”相对应，指既往健康、无基础疾病或存
+在其他导致流感加重的高危因素的人群。
+2.3　高危患者
+与国外英文流感指南及相关文献中所指的“high 
+risk”相对应，指感染流感病毒后更易发生重症或并发
+症而需要住院的个体，高危因素见表2
+［13-15］。
+2.4　非重症流感
+表现为咳嗽、头痛、肌肉和关节疼痛、明显乏力、
+咽喉痛和流涕，可伴或不伴有发热，有时伴有胃肠道症
+状，但无任何重症流感的表现。大多数患者的发热及其
+他症状可在1 周内基本恢复。
+2.5　重症流感
+流感病毒感染引起肺炎、发展为重症疾病［呼吸
+衰竭、急性呼吸窘迫综合征（acute respiratory distress 
+syndrome, ARDS）、感染性休克、心肌受累、中枢神经
+系统受累、多器官功能衰竭］或慢性基础疾病加重而需
+要住院治疗的患者。对于人感染新亚型流感（如尚未广
+泛传播，且致病性、病死率或重症风险尚未明确的甲型
+流感病毒亚型）的感染者，即使未完全符合上述重症流
+表2　成人和儿童流行性感冒高危因素
+Table 2　Risk factors for influenza in adults and children
+成人
+a
+儿童
+d
+≥65 岁
+早产儿
+合并慢性呼吸系统疾病（如慢性阻塞性肺疾病、囊性纤维化）
+合并呼吸系统疾病（如哮喘）
+合并心血管疾病（如先天性心脏病、充血性心力衰竭）
+合并先天性心脏病
+合并神经系统疾病（如脑性瘫痪、癫痫、卒中、智力障碍、肌营养不良和脊髓损伤）
+合并神经系统疾病（如神经发育异常、神经肌肉病）
+免疫缺陷状态（如艾滋病、肿瘤、放疗或化疗、长期使用全身糖皮质激素治疗）
+免疫缺陷状态（如原发性或继发性免疫缺陷病、放疗或
+化疗、长期使用糖皮质激素及免疫抑制剂）
+孕妇或分娩后2 周内
+镰状细胞病
+合并肾脏疾病
+糖尿病
+合并内分泌疾病（如糖尿病）
+BMI 增高
+e
+BMI ≥32.5 kg/m
+2 
+b
+营养不良
+营养不良（BMI：70 岁以下<18.5 kg/m
+2，70 岁及以上<20.0 kg/m
+2）
+c
+年龄<5 岁（尤其2 岁以下）
+合并肝功能不全
+合并血液疾病（如镰状细胞病）
+合并代谢疾病（如遗传性代谢疾病和线粒体疾病）
+注：
+a 证据主要来源于世界卫生组织基于观察性研究开展的系统评价与荟萃分析
+［13］；
+b 参考自国家卫生健康委员会发表的《肥胖症诊疗指南
+（2024 年版）》
+［14］；
+c 参考自中华医学会肠外肠内营养学分会发表的《成人患者营养不良诊断与应用指南（2025 版）》
+［15］；
+d 参考自中国医
+药教育协会儿科专业委员会与中华医学会儿科学分会发表的《儿童流感诊疗及预防指南（2024 医生版）》
+［6］；
+e 与儿童健康风险增加直接关联
+的BMI 临界值尚未形成统一共识，结合当前临床实践与现有研究数据，建议将同年龄、同性别儿童BMI ≥第95 百分位作为评估儿童高危因素
+的参考标准。
+表1　本指南采用GRADE 证据质量与推荐强度分级方法
+Table 1　Quality of evidence and strength of recommendation (GRADE)
+分级
+内容
+证据质量分级
+高（A）非常有把握：观察值接近真实值
+中（B）对观察值有中等把握：观察值有可能接近真实值，但亦
+有可能差别很大
+低（C）对观察值的把握有限：观察值可能与真实值有很大差别
+极低（D）对观察值几乎无把握：观察值与真实值可能有极大差别
+推荐强度分级
+强（1）明确显示干预措施利大于弊或弊大于利
+弱（2）利弊不确定或无论质量高低的证据均显示利弊相当
+注：GRADE= 推荐意见分级的评估、制订及评价。
+
+·1636·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+感的判定标准，也应被视为重症流感患者。
+2.6　暴露前预防
+未感染流感病毒且未暴露于传染源，但面临感染风
+险时（如所在地区处于流感高发季、所在集体出现聚集
+性患者或其他原因导致需接触流感患者），为降低感染
+风险而提前采取的预防措施。
+2.7　暴露后预防
+未感染流感病毒但已暴露于传染源后，为降低感染
+风险而采取的措施。
+3　抗病毒药物剂量疗程汇总
+本指南推荐意见中关于药物剂量疗程的内容汇总形
+成表3~4，供指南使用者快速查询参考。
+表3　抗病毒药物治疗用法、用量及疗程
+Table 3　Antiviral regimens for influenza treatment
+项目
+剂量
+剂型
+用法及疗程
+奥司他韦
+成人
+a
+75 mg/ 次
+胶囊
+2 次/d，疗程5 d
+孕妇和产后患者（分娩后2 周内）
+a
+75 mg/ 次
+儿童≥13 岁
+75 mg/ 次
+颗粒、干混悬剂、胶囊
+儿童（1~12 岁）
+≤15 kg
+30 mg/ 次
+>15~23 kg
+45 mg/ 次
+>23~40 kg
+60 mg/ 次
+>40 kg
+75 mg/ 次
+9~11 月龄
+3.5 mg·kg
+-1·次
+-1
+足月儿0~8 月龄
+3.0 mg·kg
+-1·次
+-1
+早产儿
+校正胎龄<38 周
+1.0 mg·kg
+-1·次
+-1
+校正胎龄38~40 周
+1.5 mg·kg
+-1·次
+-1
+校正胎龄>40 周
+3.0 mg·kg
+-1·次
+-1
+玛巴洛沙韦
+d
+成人（20~80 kg）
+40 mg
+片剂
+单次口服
+成人（≥80 kg）
+80 mg
+儿童≥5 岁且体质量<20 kg
+2 mg·kg
+-1·次
+-1
+干混悬剂
+儿童≥5 岁且体质量20~<80 kg
+40 mg/ 次
+干混悬剂或片剂
+儿童≥5 岁且体质量≥80 kg
+80 mg/ 次
+玛舒拉沙韦
+e
+成人
+40 mg
+片剂
+单次口服
+儿童（≥12 岁且体质量≥40 kg）
+f
+40 mg
+玛硒洛沙韦
+e
+成人
+80 mg
+片剂
+单次口服
+昂拉地韦
+g
+成人
+600 mg/ 次
+片剂
+1 次/d，疗程5 d
+阿比多尔
+e
+成人
+200 mg
+片剂
+3 次/d，疗程5 d
+注：
+a 对于因严重下呼吸道疾病而需要住院的危重症患者，可延长抗病毒治疗时间，尤其是抗病毒治疗5 d 后病毒核酸仍呈阳性者；
+b 对于非
+重症患者，推荐减量至300 mg；
+c 重症患者可延长疗程至5 d；
+d 仅用于非重症患者；
+e 仅用于无高危因素的非重症患者；
+f 当前暂缺乏体质量<40 kg
+患儿的证据；
+g 仅用于无高危因素的非重症甲型流感患者。
+4　流感的抗病毒治疗
+流感相关就诊人群的分层治疗流程见图1 和图2。
+临床问题1：在疑似或确诊为非重症流感且无高危
+因素的患者中，是否推荐常规使用抗病毒治疗？若应给
+予，最佳的给药时机及推荐的用药方案为何？
+推荐意见1.1：对于疑似或确诊为非重症流感且无
+高危因素的患者，若症状出现不足48 h，为缩短流感症
+状缓解时间，可考虑使用抗病毒治疗（2B）。若症状
+出现超过48 h，仅在流感症状（如发热）持续不缓解，
+同时病毒核酸检测仍为阳性时，考虑使用抗病毒治疗
+（2D）。
+推荐意见1.2：对于疑似或确诊为非重症流感且无高
+
+·1637·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+67%，P=0.008 7）和第4 天（25% 比38%，P=0.007 9）
+的病毒培养检出率均低于安慰剂组
+［21］；RNA 聚合酶抑
+制剂在48 h 后使用的获益尚不明确。本指南认为，若
+患者起病超过48 h，流感症状（如发热）持续不缓解且
+病毒核酸检测仍为阳性，提示其可能存在病情进展风险，
+可考虑给予抗病毒治疗。
+在药物选择方面，NAI、RNA 聚合酶抑制剂和病毒
+入侵抑制剂均可有效缩短症状持续时间
+［7，9］。但需注
+意，昂拉地韦仅适用于甲型流感病毒感染，限于具备流
+感分型能力的基层医疗卫生机构使用，或在上级医院指
+导下应用。安全性方面，使用奥司他韦会增加治疗相关
+不良事件的风险（RR=1.23，95%CI=1.10~1.39），以恶
+心和呕吐较为常见，但不会增加严重不良事件的发生率
+（RD=0.0，95%CI=-0.003~0.002）；PA 亚基帽依赖性
+核酸内切酶抑制剂可能增加携带PA 位点氨基酸替代耐
+药株的发生率［玛巴洛沙韦（9.7%）、玛舒拉沙韦（0.9%）、
+玛硒洛沙韦（4.1%）］
+［7，22］。除此之外，PA 亚基帽
+依赖性核酸内切酶抑制剂t1/2 较长（≥3 d），单次口服
+即可完成疗程，在治疗依从性方面存在优势。在可及性
+方面，奥司他韦应用广泛、价格较低且可在基层药房及
+各级医疗机构获得；PA 亚基帽依赖性核酸内切酶抑制
+剂（玛巴洛沙韦、玛舒拉沙韦、玛硒洛沙韦）在部分地
+区可及，医保支付情况存在地区差异，使用前应充分告
+知患者；阿比多尔普遍可及。临床应根据患者的耐受性、
+病情特点及意愿，综合决策选择合适药物。
+表4　抗病毒药物预防用法、用量及疗程
+Table 4　Antiviral regimens for influenza prophylaxis
+项目
+剂量
+剂型
+用法及疗程
+奥司他韦
+成人
+a
+75 mg/ 次
+胶囊
+1 次/d，疗程7~10 d
+孕妇和产后患者（分娩后2 周内）
+75 mg/ 次
+儿童≥13 岁
+75 mg/ 次
+颗粒、干混悬剂、胶囊
+儿童（1~12 岁）
+≤15 kg
+30 mg/ 次
+>15~23 kg
+45 mg/ 次
+>23~40 kg
+60 mg/ 次
+>40 kg
+75 mg/ 次
+9~11 月龄
+3.5 mg·kg
+-1·次
+-1
+足月儿3~8 月龄
+b
+3.0 mg·kg
+-1·次
+-1
+玛巴洛沙韦
+成人（20~80 kg）
+40 mg
+片剂
+单次口服
+成人（≥80 kg）
+80 mg
+儿童≥5 岁且体质量<20 kg
+2 mg·kg
+-1·次
+-1
+干混悬剂
+儿童≥5 岁且体质量20~<80 kg
+40 mg/ 次
+干混悬剂或片剂
+儿童≥5 岁且体质量≥80 kg
+80 mg/ 次
+注：
+a 对于暴露前药物预防，仅推荐用于成人患者，推荐药物为奥司他韦；
+b3 月龄患者以下不推荐。
+危因素的患者，若决定启动抗病毒治疗，可选择的抗病
+毒药物包括NAI（奥司他韦，2B），PA 亚基帽依赖性核
+酸内切酶抑制剂（玛巴洛沙韦、玛舒拉沙韦、玛硒洛沙韦，
+2C），PB2 亚基帽结合域抑制剂（昂拉地韦，仅用于甲
+流患者，2C）和病毒入侵抑制剂（阿比多尔，2D）。
+推荐依据：对于无高危因素的流感患者，临床多表
+现为轻症，1 周内可自行缓解，但部分患者症状持续时
+间较长，影响生活质量。基于现有证据，对于确诊或
+疑似的非重症且无高危因素的流感患者，在起病48 h
+以内启动抗病毒治疗，包括奥司他韦（MD=-18.0 h，
+95%CI=-22.3~-13.7）、玛巴洛沙韦（MD=-24.5 h，95%CI=
+-33.8~-15.1）、玛舒拉沙韦（临床症状缓解时间较安
+慰剂缩短21 h，较安慰剂组缩短33%，P=0.002）、玛
+硒洛沙韦（临床症状缓解时间较安慰剂缩短23.5 h，
+较安慰剂组缩短37.4%，P<0.001）、昂拉地韦（临床
+症状缓解时间较安慰剂缩短24.5 h，较安慰剂组缩短
+38.5%，P<0.000 1）和阿比多尔（MD=-26.4 h，95%CI=
+-37.7~-15.1），可缩短临床症状缓解时间
+［7，16-20］。然
+而，此类患者总体病情较轻，进展为重症或发生并发症
+的风险较低，部分患者进行抗病毒治疗的临床获益可能
+有限。因此，决策时应综合评估患者的病情、潜在获
+益及用药意愿。多数临床试验均在患者起病48 h 内启
+动抗病毒治疗。2014 年一项随机对照试验（RCT）提
+示，若患者起病48 h 后启动治疗，奥司他韦组与安慰
+剂组症状缓解时间相当［3（2，5）d 比3（1，5）d，
+P=0.04］，但奥司他韦组在入组后第2 天（54% 比
+
+·1638·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+临床问题2：在疑似或确诊为非重症流感的高危患
+者中，是否推荐常规使用抗病毒治疗？若应给予，最佳
+的给药时机及推荐的用药方案为何？
+推荐意见2.1：对于疑似或确诊为非重症流感的高
+危患者，推荐常规使用抗病毒治疗，且应尽早开始，最
+好在症状出现后48 h 内进行（2A）。
+推荐意见2.2：对于疑似或确诊为非重症流感的高
+危患者，首选抗病毒药物是奥司他韦（2B）和玛巴洛沙
+韦（2C）。
+推荐依据：高危患者通常合并基础疾病或免疫功能
+低下，感染后更易出现病情加重和并发症。现有证据
+显示，对于疑似或确诊为非重症流感的高危人群，抗
+病毒治疗（包括NAI 和流感RNA 聚合酶抑制剂）可缩
+短症状持续时间（玛巴洛沙韦：MD=-24.5 h，95%CI=
+-33.8~-15.1；奥司他韦：MD=-18.0 h，95%CI=-22.3~
+-13.7）并加快病毒清除
+［7］。其中，奥司他韦（RR=0.37，
+95%CI=0.17~0.81）和玛巴洛沙韦（RD=-1.6%，95%CI=
+-2.0%~0.4%）可能降低住院风险
+［7，23］。临床试验均在
+起病48 h 内启动治疗，对于起病超过48 h 的高危患者，
+抗病毒治疗的获益尚不明确。
+在药物选择方面，奥司他韦可能引起轻度恶心、呕
+吐等不良反应（RR=1.23，95%CI=1.10~1.39）；玛巴洛
+沙韦总体耐受性良好。玛巴洛沙韦可能增加抗药性发生
+风险［5%（15/290）PA/I38X］，而奥司他韦使用者中
+极少检测到治疗相关耐药株
+［7，24］。除此之外，玛巴洛
+沙韦t1/2 较长（约3 d），单次口服即可完成疗程，在治
+疗依从性方面存在优势；奥司他韦应用广泛、价格较低
+且可在各级医疗机构使用。临床实践中，应结合患者耐
+受性、病情特点及意愿进行综合决策。
+临床问题3：在疑似或确诊为重症流感的患者中，
+是否推荐常规使用抗病毒治疗？若应给予，最佳的给药
+时机及推荐的用药方案为何？
+推荐意见3.1：对于疑似或确诊为重症流感的患者，
+推荐常规使用抗病毒治疗，且应尽早开始，最好在症状
+出现后48 h 内开始进行（1A）。
+推荐意见3.2：对于疑似或确诊为重症流感的患者，
+首选抗病毒药物是奥司他韦（1B）。对于因严重下呼吸
+道疾病而需要住院的危重症患者，可延长抗病毒治疗时
+间，尤其是抗病毒治疗5 d 后病毒核酸仍呈阳性者（2C）。
+推荐依据：重症流感是由流感病毒引发的严重感染
+性疾病，可出现呼吸衰竭、休克、多器官功能损伤等危
+及生命的并发症，患者常需住院甚至入住ICU 治疗，对
+个体健康和公共卫生系统均造成沉重负担
+［25］。对于疑
+似或确诊为重症流感的患者，若就诊医疗机构不具备接
+诊和救治能力，应尽快转诊至上级医疗机构，以确保及
+时获得必要的监护和治疗。
+现有证据表明，对于疑似或确诊为重症流感的患者，
+常规使用NAI进行抗病毒治疗可降低死亡风险（OR=0.81，
+95%CI=0.70~0.93，P=0.002 4），缩短住院时间（奥司
+他韦：MD=-1.63 d，95%CI=-2.81~-0.45）
+［8，26］。相较
+于晚期治疗，尽早使用抗病毒治疗能进一步降低死亡率
+（OR=0.48，95%CI=0.41~0.56，P<0.000 1）
+［8，26-27］。因
+此，一旦识别为重症流感，应立即启动抗病毒治疗。
+奥司他韦是重症流感的标准治疗药物，常规疗程
+为5 d。但研究证据表明，部分进展为重症肺炎的患者
+接受奥司他韦治疗后病毒清除较慢［治疗开始后鼻咽
+拭子RNA 阳性持续时间：6（3，8）d 比2（1，3）d，
+P<0.01］，停药后可能出现病毒载量反弹
+［28］。对于危
+重症患者，延长奥司他韦疗程较标准疗程可能进一步降
+接
+诊
+与
+分
+流
+重
+症
+患
+者
+管
+理
+与
+治
+疗
+基层接诊对象
+进入流感预防
+路径（详见图3）
+按人群分层治
+疗（详见图2）
+步骤1：立即启动抗病毒治疗（1 Ａ）
+(最好在症状出现48 h内开始进行）
+步骤4：紧急转诊
+1. 监测血氧，给予支持治疗
+2. 联络并迅速转至上级医院
+考虑延长抗病毒治疗疗程（2C）
+（需权衡获益与耐药风险）
+按标准疗程停药、观察
+步骤5：疗程再评估
+（是否因严重下呼吸道疾病而需要住院？抗病毒治
+疗5 d 后病毒核酸仍呈阳性？）
+步骤4：留院治疗与监测
+步骤2：首选药物奥司他韦（1B）
+在流感流行季节
+或具有流感流行病学接
+触史的情况下，是否出
+现流感样症状？
+是否符合重症标准？
+（详见正文2.5 定义）
+步骤3：救治能力评估
+否
+（预防咨询）
+否
+否
+是
+不具备救治能力
+具备救治能力
+是（疑似/ 确诊流感）
+图1　基层流感接诊分流与重症管理流程图
+Figure 1　Triage, reception and management algorithm for severe influenza 
+in primary care settings
+
+·1639·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+低死亡率（OR=0.53，95%CI=0.40~0.69）
+［29］。因此，
+对于持续存在重度下呼吸道症状的患者，尤其是在接受
+奥司他韦治疗满5 d 后病毒核酸仍呈阳性者，可考虑延
+长抗病毒疗程。但在临床实践中应权衡延长治疗可能带
+来的耐药性等风险
+［29］。
+在安全性方面，系统评价显示奥司他韦在流感治疗
+中具有良好的耐受性，其发生不良事件及严重不良事件
+的风险与同类NAI 相当
+［8］。
+临床问题4：在疑似或确诊为流感的孕妇和产后患
+者（分娩后2 周内）中，推荐的用药方案为何？
+推荐意见：对于疑似或确诊为流感的孕妇和产后患
+者（分娩后2 周内），首选抗病毒药物是奥司他韦，用
+法用量同非孕妇人群（1C）。
+推荐依据：孕妇及产后患者属于流感并发症高风险
+人群，感染后预后较差
+［30］。针对该人群的流感治疗不
+仅关系到孕产妇自身的健康状况，同时也需充分考虑
+对胎儿及新生儿的影响。现有证据表明，对于疑似或
+确诊流感的孕妇及产后患者（分娩后2 周内），奥司
+他韦治疗并未增加早产（OR=1.03，95%CI=0.93~1.15，
+P=0.542）、出生时低Apgar 评分（OR=0.96，
+95%CI=0.74~1.25，P=0.785）或先天性畸形（OR=0.89，
+95%CI=0.69~1.14，P=0.361）等不良结局风险，也未观
+察到不良事件显著增加
+［31-33］。基于可用证据的充分性
+与质量，推荐孕产妇首选奥司他韦，给药方案与非孕妇
+人群一致。鉴于玛巴洛沙韦在孕妇或产后患者中的疗效
+和安全性证据积累不足，暂不推荐使用。此外，由于无
+充分证据支持，不推荐联合使用多种NAI。
+临床问题5：对于疑似或确诊为流感的患儿，是否
+推荐常规使用抗病毒治疗？若应给予，最佳的给药时机
+及推荐的用药方案为何？
+推荐意见5.1：对于疑似或确诊为流感的患儿，推
+荐在以下人群中常规进行抗病毒治疗，且应尽早开始，
+最好在症状出现后48 h 内进行。（1）年龄<2 岁的患
+儿（2C）；（2）年龄≥2 岁的符合以下条件之一：重
+症患儿（1B），合并高危因素或家中有高危接触者的患
+儿（2C）；（3）不满足（1）和（2）的患儿，若症状
+出现不足48 h，可在向监护人充分说明获益与风险，共
+同权衡利弊后，根据个体情况决定是否启动抗病毒治疗
+图2　基层非重症流感患者治疗流程图
+Figure 2　Treatment algorithm for non-severe influenza patients in primary care settings
+非重症流感患者治疗策略
+人群分层与风险评估
+可考虑使用抗病毒治疗，
+旨在缩短流感缓解时间
+首选：奥司他韦（2B）
+备选：玛巴洛沙韦、玛
+舒拉沙韦、玛硒洛沙韦
+（2C）
+仅存在流感症状（如
+发热）持续不缓解，
+同时病毒核酸检测
+仍为阳性时，考虑
+使用抗病毒治疗
+（2D）
+推荐方案：应尽早
+启动常规抗病毒
+治疗（2A）
+首选：奥司他韦
+（2B）、玛巴洛
+沙韦（2C）
+推荐方案：应尽早启动常
+规抗病毒治疗（2C）
+首选：奥司他韦（1B）
+备选：玛巴洛沙韦（适用
+于≥5 岁患儿）（2C）、
+玛舒拉沙韦（适用于
+≥12 岁患儿）（2C）
+推荐方案：医患共同决策
+（2C）
+首选：奥司他韦（1B）
+备选：玛巴洛沙韦（适用于
+≥5 岁患儿）（2C）、玛舒
+拉沙韦（适用于≥12 岁患
+儿）（2C）
+首选：奥司
+他韦, 用法用
+量同非孕妇
+人群（1C）
+症状出现时间
+是否不足48 h ？
+有无高危因素
+（高危因素详见表2）
+有无高危因素
+（高危因素详见表2）
+是
+无
+有
+成人
+孕妇及产后患者（分娩后2 周内）
+<2 岁或合并高危因素
+或家中有高危接触者
+≥2 岁，无高危因素
+且症状出现不足48 h
+儿童
+否
+
+·1640·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+（2C）。
+推荐意见5.2：对于需要给予抗病毒治疗的患儿，
+首选抗病毒药物是奥司他韦（1B）。
+推荐意见5.3：对于口服给药不耐受或有奥司他韦
+治疗禁忌的非重症患儿，建议根据病情严重程度及年龄
+选择以下备选抗病毒治疗方案：（1）口服玛巴洛沙韦（适
+用于≥5 岁患儿）（2C）；（2）口服玛舒拉沙韦（适
+用于≥12 岁患儿）（2C）。
+推荐依据：儿童流感是儿科具有重大公共卫生负担
+的急性呼吸道传染病
+［34］。其临床管理的核心挑战在于
+患儿健康结局呈现显著的两极分化，多数健康患儿表现
+为自限性过程，但高危人群不及时治疗容易进展为重症
+流感，甚至导致死亡
+［35-36］。现有证据表明，低龄（尤
+其是<2 岁）、存在基础疾病或已进展为重症的患儿，
+发生严重并发症的风险显著增高
+［37］。对于这些高危人
+群，症状出现后48 h 内启动抗病毒治疗能显著降低住
+院率（aOR=0.25，95%CI=0.18~0.34），获益明确
+［38］。
+然而，对于不伴高危因素的轻症患儿，抗病毒治疗
+虽能缩短临床症状持续时间（MD=-29.4 h，95%CI=
+-47.04~-11.76），但并未显著降低住院风险（RR=1.92，
+95%CI=0.70~5.23），获益相对有限
+［39］。本指南不建议
+对其进行常规治疗，而是强调若考虑治疗，则需在症状
+出现48 h 窗口期内，通过医患共同决策来个体化定策。
+在药物选择方面，奥司他韦被确立为首选方案，主要基
+于其最为充分的儿童循证基础，以及口服给药方便、
+价格相对低廉、医疗机构可及性高等优势，能够确保
+不同地区和经济背景的患儿均能获得有效治疗
+［40-41］。
+相比之下玛舒拉沙韦虽具有一定疗效，但儿童人群中
+的证据相对有限，多来自成人研究的延伸或小样本试
+验
+［17，42］。除此之外，玛巴洛沙韦（适用于≥5 岁非
+重症患儿）具备单次给药的便利性，但价格较高，且
+需关注耐药风险（PA/I38X 1~5 岁为31.3%；5~12 岁为
+14.6%）；玛舒拉沙韦（适用于≥12 岁且体质量≥40 kg
+患儿）耐药率较低，为治疗提供了新的选择，但其适用
+年龄范围有限，真实世界数据仍不足。因此，本指南将
+上述两种药物列为备选，并对使用场景作出明确限定。
+5　流感的药物预防
+流感暴露前后抗病毒药物预防流程见图3。
+临床问题6：在社区环境中，是否推荐抗病毒药物
+作为流感暴露前预防的策略之一？其与接种流感疫苗的
+关系是什么？
+推荐意见6.1：接种流感疫苗是流感预防最有效的
+手段，常规使用抗病毒药物进行暴露前预防并不可取
+（1C）。
+推荐意见6.2：对于以下情况可以考虑使用抗病毒
+药物进行暴露前流感预防，（1）流感高危人群，且有
+流感疫苗接种禁忌证、无法获得流感疫苗或预计接种流
+感疫苗后效力低下（2C）；（2）当流感高危患者无法
+接种流感疫苗并且无法进行抗病毒药物预防时，可以对
+上述高危患者未接种流感疫苗的密切接触人群进行抗病
+毒药物预防（2C）。
+推荐意见6.3：进行流感暴露前抗病毒药物预防，
+首选奥司他韦（2C）。对于反复暴露风险高且药物耐受
+良好的高危人群，可适当延长疗程（2D）。
+推荐依据：流感病毒传播速度快、人群易感性高，
+可通过飞沫、密切接触及气溶胶传播，在社区环境中，
+易在学校、写字楼、养老院等人员密集场所暴发。预防
+是控制流感传播的核心手段，包括疫苗接种与抗病毒药
+物预防等。其中，流感疫苗能有效降低感染风险及重症
+发生率，是国际公认的最有效、最经济的预防措施
+［43-44］。
+而抗病毒药物预防只作为“补充手段”。
+考虑到在社区范围内常规使用抗病毒药物进行暴露
+前预防可能诱导病毒耐药、增加社会总成本，并伴随潜
+在药物不良反应，其经济效益和安全性不足，因此本指
+南不推荐常规实施此类预防措施。仅在特定情境下，可
+酌情使用抗病毒药物进行暴露前预防，以保护高危人群。
+适用人群主要包括对流感疫苗成分过敏、接种后未产生
+免疫应答、疫苗株与流行株明显不匹配的高危人群，以
+图3　基层流感药物预防流程图
+Figure 3　Influenza prophylaxis algorithm in primary care settings
+否/ 效力不足
+是
+首选：奥司他韦（2C）
+对于反复暴露风险高且药物耐受良好
+的高危人群，可适当延长疗程（2D）
+暴露前：
+（1）高危人群（有疫苗禁忌或效力低）
+（2C）
+（2）高危人群无法接种疫苗并且自身
+无法进行抗病毒药物预防时，可以对
+上述高危患者未接种疫苗的密切接触
+人群进行预防（2C）
+暴露后：暴露后不足48 h
+且无症状
+（1）高危人群（不包括
+<3 月龄的婴儿）（2B）
+（2）与高危者共同居住
+的人群（2C）
+奥司他韦（2B）、玛巴
+洛沙韦（2B）
+注意：药物预防
+不能替代疫苗
+流感预防咨询对象
+常规健康教育
+（无需额外用药）
+是否已接种
+流感疫苗
+使用抗病毒
+药物预防
+
+·1641·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+及高危人群无法预防（如有疫苗接种禁忌，且同时对奥
+司他韦有严重超敏反应或明确耐药）时，对未接种流感
+疫苗的密切接触者进行预防来提供间接保护。在临床工
+作中医护人员必须向患者及家属普及“疫苗优先”的理
+念，说明药物预防适用的特殊场景与风险，严格避免滥
+用抗病毒药物进行暴露前预防。
+药物选择方面，首选奥司他韦。对于暴露前预防，
+奥司他韦的保护效力高达74.0%，虽然可引起轻度恶心
+（1 次/d：12.1%；2 次/d：14.6%；安慰剂：7.1%）、
+呕吐（1 次/d：2.5%；2 次/d：2.7%；安慰剂：0.8%）
+等不良反应，但总体耐受性尚可
+［45］。UpToDate 临床顾
+问网站流感预防章节及瑞典流感指南推荐奥司他韦用于
+暴露前抗病毒预防的疗程为7~10 d，但对于反复暴露风
+险高且药物耐受良好的高危人群，可适当延长疗程
+［45-47］。
+若接受暴露前预防的患者出现流感症状，需进行流感核
+酸检测，确诊后改用治疗剂量，避免延误治疗。
+临床问题7：在社区环境中，是否推荐抗病毒药物
+用于流感暴露后预防？若应给予，最佳的用药时机及推
+荐的用药方案为何？
+推荐意见7.1：抗病毒药物不能替代流感疫苗接种
+（1A），仅作为特定人群和特定情况下暴露后预防的
+补充手段（2C）。
+推荐意见7.2：如果流感暴露后不足48 h 且无症
+状，以下人群可考虑使用抗病毒药物进行预防，（1）
+对于有高危因素的人群（不包括<3 月龄的婴儿），如
+果无法接种流感疫苗或预计接种后效果不佳，可考虑使
+用抗病毒药物进行暴露后预防（2B）；（2）对于无高
+危因素的人群，如果未接种流感疫苗且与有高危因素的
+个体共同居住，可考虑使用抗病毒药物进行暴露后预防
+（2C）。
+推荐意见7.3：暴露后抗病毒药物预防，应在暴露
+后尽早启动（2B），超过48 h 则不推荐（2D），仅在
+发病时启动经验性抗病毒治疗。
+推荐意见7.4：可用于流感暴露后预防的抗病毒药
+物包括奥司他韦（2B）和玛巴洛沙韦（2B）。
+推荐依据：接种流感疫苗是预防流感最有效的措施，
+可显著降低流感感染及相关并发症的风险，减轻医疗系
+统负担
+［48］。然而，一些人群因存在禁忌证或受医疗资
+源限制无法接种疫苗；此外，疫苗保护效果还受流行毒
+株匹配度、个体免疫状态等因素的影响
+［49］，部分人群
+接种后获得的免疫保护有限。仅在上述特殊情况下才应
+考虑抗病毒药物作为辅助预防措施。
+抗病毒药物用于暴露后预防的核心原则是保护具有
+高危因素的人群。对于存在高危因素的人群，若无法接
+种流感疫苗，或因流行株匹配度差、接受免疫抑制治疗
+（如大剂量糖皮质激素、免疫抑制剂、CD20 单抗等）
+或患有导致严重免疫缺陷的基础病而预计接种后保护效
+果不足，可考虑采用暴露后预防。这与WHO、CDC 和
+美国传染病学会等主流指南观点一致
+［13，50-51］。对于无
+高危因素的人群，一般不常规推荐预防性用药，但若其
+未接种流感疫苗且与有高危因素的个体共同居住，为减
+少家庭内传播并保护高危家庭成员，也可酌情考虑。
+目前研究均基于暴露后48 h 内启动预防性用药，
+超过此时间窗的预防效益尚不确定。奥司他韦（RR=0.40，
+95%CI=0.26~0.62；RD=-0.047，95%CI=-0.058~
+-0.030）和玛巴洛沙韦（RR=0.43，95%CI=0.23~0.79；
+RD=-0.044，95%CI=-0.060~-0.016）均可降低症状性流
+感的发生率
+［52］，在预防剂量和推荐疗程下不增加严重
+不良事件的风险
+［52］。奥司他韦的优势在于可及性高，
+价格较低；劣势在于可能引起轻微恶心和头痛等不良事
+件
+［39］。玛巴洛沙韦的优势在于仅需单次服药，依从性好，
+且不良事件发生率低，耐受性更好
+［52］；劣势在于可及
+性一般，价格较高，且存在诱导耐药株产生的风险
+［53］。
+临床医师应结合患者具体情况、药物获取途径及依从性
+等因素综合决策。
+本指南推荐意见执行总结见表5。
+6　小结
+流感作为高传染性急性呼吸道传染病，对儿童、老
+年人、孕产妇及慢性基础疾病患者等高危人群健康威胁
+显著，基层医疗卫生机构作为流感诊疗和防控的第一道
+防线，其诊疗行为的规范性直接影响流感患者预后、重
+症发生率及医疗资源合理利用。为解决基层流感诊疗资
+源相对有限、缺乏针对性循证指导的问题，本指南聚焦
+基层临床实际需求，围绕流感抗病毒治疗与药物预防两
+大核心，制订了兼具科学性与可操作性的临床路径与推
+荐意见。
+本指南强调早期识别、分层干预、精准施策的原则。
+在治疗层面，明确所有疑似或确诊重症流感的患者需立
+即启动抗病毒治疗，把握症状出现48 h 的抗病毒治疗
+关键窗口期，非重症患者按“有无高危因素、年龄、是
+否为孕产妇”进行分层，给出不同人群的首选与备选用
+药方案。在预防层面，本指南确立了流感疫苗的核心预
+防地位，明确抗病毒药物仅作为疫苗接种禁忌、效力不
+足等特殊情况的补充手段，规范了暴露前与暴露后药物
+预防的适用人群、用药选择及时机。此外，本指南配套
+接诊、治疗、预防全流程图，方便基层医护人员快速查
+阅、落地应用。
+本指南的推荐意见基于当前前沿循证医学证据，为
+基层医疗卫生机构开展流感诊疗与药物预防提供了系统
+指导，但临床应用中，医护人员仍需结合患者具体病情、
+药物可及性、个体耐受性及意愿制订个体化方案，兼顾
+
+·1642·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+表5　中国流感治疗与药物预防基层指南推荐意见汇总
+Table 5　Summary of recommendations in Chinese Guidelines for The Treatment and Prophylaxis of Influenza in Primary Care
+临床问题
+推荐意见
+1. 在疑似或确诊为非重症流感且无高危因
+素的患者中，是否推荐常规使用抗病毒治疗？
+若应给予，最佳的给药时机及推荐的用药方
+案为何？
+1.1 对于疑似或确诊为非重症流感且无高危因素的患者，若症状出现不足48 h，为缩短流感症状
+缓解时间，可考虑使用抗病毒治疗（2B）。若症状出现超过48 h，仅在流感症状（如发热）持
+续不缓解，同时病毒核酸检测仍为阳性时，考虑使用抗病毒治疗（2D）
+1.2 对于疑似或确诊为非重症流感且无高危因素的患者，若决定启动抗病毒治疗，可选择的抗病
+毒药物包括神经氨酸酶抑制剂（奥司他韦，2B），PA 亚基帽依赖性核酸内切酶抑制剂（玛巴洛
+沙韦，玛舒拉沙韦，玛硒洛沙韦，2C），PB2 亚基帽结合域抑制剂（昂拉地韦，仅用于甲流患者，
+2C）和病毒入侵抑制剂（阿比多尔，2D）
+2. 在疑似或确诊为非重症流感的高危患者中，
+是否推荐常规使用抗病毒治疗？若应给予，
+最佳的给药时机及推荐的用药方案为何？
+2.1 对于疑似或确诊为非重症流感的高危患者，推荐常规使用抗病毒治疗，且应尽早开始，最好
+在症状出现后48 h 内进行（2A）
+2.2 对于疑似或确诊为非重症流感的高危患者，首选抗病毒药物是奥司他韦（2B）和玛巴洛沙韦
+（2C）
+3. 在疑似或确诊为重症流感的患者中，是否
+推荐常规使用抗病毒治疗？若应给予，最佳
+的给药时机及推荐的用药方案为何？
+3.1 对于疑似或确诊为重症流感的患者，推荐常规使用抗病毒治疗，且应尽早开始，最好在症状
+出现后48 h 内开始进行（1A）
+3.2 对于疑似或确诊为重症流感的患者，首选抗病毒药物是奥司他韦（1B）对于因严重下呼吸道
+疾病而需要住院的危重症患者，可延长抗病毒治疗时间，尤其是抗病毒治疗5 d 后病毒核酸仍呈
+阳性者（2C）
+4. 在疑似或确诊为流感的孕妇和产后患者
+（分娩后2 周内）中，推荐的用药方案为何？
+对于疑似或确诊为流感的孕妇和产后患者（分娩后2 周内），首选抗病毒药物是奥司他韦，用法
+用量同非孕妇人群（1C）
+5. 对于疑似或确诊为流感的患儿，是否推荐
+常规使用抗病毒治疗？若应给予，最佳的给
+药时机及推荐的用药方案为何？
+5.1 对于疑似或确诊为流感的患儿，推荐在以下人群中常规进行抗病毒治疗，且应尽早开始，最
+好在症状出现后48 h 内进行：（1）年龄<2 岁的患儿（2C）；（2）年龄≥2 岁的符合以下条件
+之一：重症患儿（1B）；合并高危因素或家中有高危接触者的患儿（2C）；（3）不满足（1）（2）
+的患儿，若症状出现不足48 h，可在向监护人充分说明获益与风险、共同权衡利弊后，根据个体
+情况决定是否启动抗病毒治疗（2C）
+5.2 对于需要给予抗病毒治疗的患儿，首选抗病毒药物是奥司他韦（1B）
+5.3 对于口服给药不耐受或奥司他韦治疗禁忌的非重症患儿，建议根据病情严重程度及年龄选择
+以下备选抗病毒治疗方案：（1）口服玛巴洛沙韦（适用于≥5 岁患儿）（2C）；（2）口服玛
+舒拉沙韦（适用于≥12 岁患儿）（2C）
+6. 在社区环境中，是否推荐抗病毒药物作为
+流感暴露前预防的策略之一？其与接种流感
+疫苗的关系是什么？
+6.1 接种流感疫苗是流感预防最有效的手段，常规使用抗病毒药物进行暴露前预防并不可取（1C）
+6.2 对于以下情况可以考虑使用抗病毒药物进行暴露前流感预防：（1）流感高危人群，且有流感
+疫苗接种禁忌证、无法获得流感疫苗或预计接种流感疫苗后效力低下（2C）；（2）当流感高危
+患者无法接种流感疫苗并且自身无法进行抗病毒药物预防时，可以对上述高危患者未接种流感疫
+苗的密切接触人群进行抗病毒药物预防（2C）
+6.3 进行流感暴露前抗病毒药物预防，首选奥司他韦（2C）。对于反复暴露风险高且药物耐受良
+好的高危人群，可适当延长疗程（2D）
+7. 在社区环境中，是否推荐抗病毒药物用于
+流感暴露后预防？若应给予，最佳的用药时
+机及推荐的用药方案为何？
+7.1 抗病毒药物不能替代流感疫苗接种（1A），仅作为特定人群和特定情况下暴露后预防的补充
+手段（2C）
+7.2 如果流感暴露后不足48 h 且无症状，以下人群可考虑使用抗病毒药物进行预防：（1）对于
+有高危因素的人群（不包括<3 月龄的婴儿），如果无法接种流感疫苗或预计接种后效果不佳，
+可考虑使用抗病毒药物进行暴露后预防（2B）；（2）对于无高危因素的人群，如果未接种流感
+疫苗且与有高危因素的个体共同居住，可考虑使用抗病毒药物进行暴露后预防（2C）
+7.3 暴露后抗病毒药物预防，应在暴露后尽早启动（2B），超过48 h 则不推荐（2D），仅在发病
+时启动经验性抗病毒治疗
+7.4 可用于流感暴露后预防的抗病毒药物包括奥司他韦（2B）和玛巴洛沙韦（2B）
+指南规范性与临床灵活性。未来，随着流感病毒流行病
+学特征的变化、新型抗病毒药物的研发及循证证据的持
+续积累，本指南将及时更新完善，进一步提升基层流感
+防控的科学性与精准性，为基层流感临床实践提供更贴
+合实际的指导。
+本指南制订工作组名单（姓名排序不分先后）
+首席专家：
+曹彬（中日友好医院呼吸与危重症医学科）
+王福生（解放军总医院第五医学中心感染病医学部）
+首席方法学家：
+陈耀龙（兰州大学基础医学院循证医学中心/ 中国
+医学科学院循证评价与指南研究创新单元）
+基层评阅组：
+王俊瑞（内蒙古医科大学附属医院）
+段钦蕾（潍坊高密区卫生院）
+证据评价组：
+李靓雅（清华大学医学院）
+朱迪（北京协和医学院群医学及公共卫生学院）
+闫梦薇（中日友好医院呼吸与危重症医学科）
+彭文余（清华大学医学院）
+杨晨（清华大学医学院）
+陈思颖（中日友好医院呼吸与危重症医学科）
+甄伟哲（中日友好医院呼吸与危重症医学科）
+周奇（兰州大学基础医学院循证医学中心/ 中国医
+
+·1643·
+2026年5月  第29卷  第13期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+学科学院循证评价与指南研究创新单元）
+指南秘书组：
+王业明（中日友好医院呼吸与危重症医学科）
+利益冲突：曹彬、王业明参与玛巴洛沙韦和玛舒拉
+沙韦的临床试验；其余专家无利益冲突。
+参考文献
+［1］MALEKI F, WELCH V, LOPEZ S M C, et al. Understanding the global 
+burden of influenza in adults aged 18-64years: a systematic literature 
+review from 2012 to 2022[J]. Adv Ther, 2023, 40(10): 4166-4188. 
+DOI: 10.1007/s12325-023-02610-1. 
+［2］XIN W, YOU L, O'BRIEN K L, et al. Global burden of respiratory 
+infections associated with seasonal influenza in children under 5 years 
+in 2018: a systematic review and modelling study[J]. Lancet Glob 
+Health, 2020, 8(4): e497-e510.
+［3］LAFOND K E, PORTER R M, WHALEY M J, et al. Global 
+burden of influenza-associated lower respiratory tract infections 
+and hospitalizations among adults: a systematic review and meta-
+analysis[J]. PLoS Med, 2021, 18(3): e1003550.
+［4］中国疾控预防中心. 全国急性呼吸道传染病哨点监测情况(2025
+年
+第47 周)[EB/OL].(2025-12-20)[2025-12-11]. https://www.
+chinacdc.cn/jksj/jksj04_14275/202512/t20251211_314089.html.
+［5］中华人民共和国国家卫生健康委员会, 国家中医药管理局. 流行
+性感冒诊疗方案(2025 年版)[J]. 中华临床感染病杂志( 中英文), 
+2025, 18(1): 1-5. DOI: 10.3760/cma.j.issn.1674-2397.2025.01.001.
+［6］中国医药教育协会儿科专业委员会, 中华医学会儿科学分会呼
+吸学组, 中国医师协会呼吸医师分会儿科呼吸工作委员会, 等. 
+儿童流感诊疗及预防指南(2024 医生版)[J]. 中华实用儿科临床
+杂志, 2024, 39(12): 881-895. 
+［7］GAO Y, ZHAO Y L, LIU M, et al. Antiviral medications for treatment 
+of nonsevere influenza: a systematic review and network meta-
+analysis[J]. JAMA Intern Med, 2025, 185(3): 293. 
+［8］GAO Y, GUYATT G, UYEKI T M, et al. Antivirals for treatment of 
+severe influenza: a systematic review and network meta-analysis of 
+randomised controlled trials[J]. Lancet, 2024, 404(10454): 753-763.
+［9］LI J Y, JIN Y, WANG Y M, et al. New developments in influenza 
+polymerase inhibitors[J]. J Infect Dis, 2025, 232(Supplement_3): 
+S227-S242. 
+［10］中华医学会呼吸病学分会, 中华医学会感染病学分会. 中国流
+感治疗与药物预防临床实践指南(2025 版)[J]. 中华医学杂志, 
+2025, 106: 1-18. 
+［11］GUYATT G H, OXMAN A D, VIST G E, et al. GRADE: an 
+emerging consensus on rating quality of evidence and strength of 
+recommendations[J]. BMJ, 2008, 336(7650): 924-926. DOI: 10.1136/
+bmj.39489.470347.ad. 
+［12］王平, 周奇, 赵俊贤, 等. 临床实践指南基层版报告规范的研发
+[J]. 中国全科医学, 2023, 26(13): 1543-1550. 
+［13］World Health Organization. Clinical practice guidelines for influenza.
+(2024-09-12)[2025-12-18]. https://www.who.int/publications/i/
+item/9789240097759.
+［14］中华人民共和国国家卫生健康委员会医政司. 肥胖症诊疗指
+南(2024 年版)[J]. 中华消化外科杂志, 2024, 23(10): 1237-1260. 
+DOI: 10.3760/cma.j.cn115610-20241017-00455.
+［15］中华医学会肠外肠内营养学分会, 中国营养学会临床营养分会, 
+中国医疗保健国际交流促进会临床营养健康学分会. 成人患
+者营养不良诊断与应用指南(2025 版)[J]. 中华医学杂志, 2025, 
+105(13): 953-980. 
+［16］WANG Y M, WANG H, LIU D, et al. Efficacy and safety of 
+single-dose suraxavir marboxil tablet in the treatment of acute 
+uncomplicated influenza in adults: a multi-centre, randomized, 
+double-blind, placebo-controlled phase 2 clinical trial[J]. Clin 
+Microbiol Infect, 2025, 31(5): 861-868. 
+［17］WANG Y M, WANG H, ZHANG Y, et al. Single-dose suraxavir 
+marboxil for acute uncomplicated influenza in adults and adolescents: 
+a multicenter, randomized, double-blind, placebo-controlled phase 3 
+trial[J]. Nat Med, 2025, 31(2): 639-646. 
+［18］WANG H Y, WANG G, GAO Y, et al. Efficacy and safety of ZX-
+7101A, an inhibitor of influenza cap-dependent endonuclease, in 
+adults with uncomplicated influenza: a randomized, double-blind, 
+placebo-controlled phase 2/3 trial[J]. Clin Microbiol Infect, 2025, 
+31(2): 274-281. DOI: 10.1016/j.cmi.2024.10.020. 
+［19］YANG Z F, LI Z T, ZHAN Y Q, et al. Safety and efficacy of 
+onradivir in adults with acute uncomplicated influenza A infection: a 
+multicentre, double-blind, randomised, placebo-controlled, phase 2 
+trial[J]. Lancet Infect Dis, 2024, 24(5): 535-545. 
+［20］YANG Z F, ZHAN Y Q, LI Z T, et al. Efficacy and safety of onradivir 
+in adults with acute uncomplicated influenza A infection in China: 
+a multicentre, double-blind, randomised, placebo-controlled and 
+oseltamivir-controlled, phase 3 trial[J]. Lancet Respir Med, 2025, 
+13(7): 597-610. 
+［21］FRY A M, GOSWAMI D, NAHAR K, et al. Efficacy of oseltamivir 
+treatment started within 5 days of symptom onset to reduce influenza 
+illness duration and virus shedding in an urban setting in Bangladesh: 
+a randomised placebo-controlled trial[J]. Lancet Infect Dis, 2014, 
+14(2): 109-118. 
+［22］HAYDEN F G, SUGAYA N, HIROTSU N, et al. Baloxavir marboxil 
+for uncomplicated influenza in adults and adolescents[J]. N Engl J 
+Med, 2018, 379(10): 913-923. DOI: 10.1056/nejmoa1716197. 
+［23］DOBSON J, WHITLEY R J, POCOCK S, et al. Oseltamivir treatment 
+for influenza in adults: a meta-analysis of randomised controlled 
+trials[J]. Lancet, 2015, 385(9979): 1729-1737. 
+［24］ISON M G, PORTSMOUTH S, YOSHIDA Y, et al. Early treatment 
+with baloxavir marboxil in high-risk adolescent and adult outpatients 
+with uncomplicated influenza(CAPSTONE-2): a randomised, 
+placebo-controlled, phase 3 trial[J]. Lancet Infect Dis, 2020, 20(10): 
+1204-1214. 
+［25］PARISI C E, YOUSEY-HINDES K, HOLSTEIN R, et al. Drug use 
+and severe outcomes among adults hospitalized with influenza, 2016-
+2019[J]. Influenza Resp Viruses, 2023, 17: e13052.
+［26］MUTHURI S G, VENKATESAN S, MYLES P R, et al. Effectiveness 
+of neuraminidase inhibitors in reducing mortality in patients admitted 
+to hospital with influenza a H1N1pdm09 virus infection: a meta-
+
+·1644·
+May 2026, Vol.29 No.13 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+analysis of individual participant data[J]. Lancet Respir Med, 2014, 
+2(5): 395-404. 
+［27］WANG Y M, GUO Q, YAN Z, et al. Factors associated with 
+prolonged viral shedding in patients with avian influenza a(H7N9)
+virus infection[J]. J Infect Dis, 2018, 217(11): 1708-1717. 
+［28］LEE N, CHAN P K, WONG C K, et al. Viral clearance and 
+inflammatory response patterns in adults hospitalized for pandemic 
+2009 influenza a(H1N1)virus pneumonia[J]. Antivir Ther, 2011, 
+16(2): 237-247. DOI: 10.3851/imp1722. 
+［29］MORENO G, CARBONELL R, DIAZ E, et al. Effectiveness of 
+prolonged versus standard-course of oseltamivir in critically ill 
+patients with severe influenza infection: a multicentre cohort study[J]. 
+J Med Virol, 2023, 95(8): e29010.
+［30］LOUIE J K, ACOSTA M, JAMIESON D J, et al. Severe 2009 H1N1 
+influenza in pregnant and postpartum women in California[J]. N Engl 
+J Med, 2010, 362(1): 27-35. 
+［31］LIAN J S, ADILIJIANG M, CHANG C H, et al. Neonatal outcomes 
+after neuraminidase inhibitor use during pregnancy: a meta-analysis 
+of cohort studies[J]. Brit J Clinical Pharma, 2022, 88(3): 911-918. 
+DOI: 10.1111/bcp.15033. 
+［32］GREER L G, LEFF R D, ROGERS V L, et al. Pharmacokinetics 
+of oseltamivir in breast milk and maternal plasma[J]. Am J Obstet 
+Gynecol, 2011, 204(6): 524.e1-524.e4.
+［33］GREER L G, LEFF R D, ROGERS V L, et al. Pharmacokinetics 
+of oseltamivir according to trimester of pregnancy[J]. Am J Obstet 
+Gynecol, 2011, 204(6): S89-S93. DOI: 10.1016/j.ajog.2011.03.005. 
+［34］NAIR H, BROOKS W A, KATZ M, et al. Global burden of respiratory 
+infections due to seasonal influenza in young children: a systematic 
+review and meta-analysis[J]. Lancet, 2011, 378(9807): 1917-1930. 
+［35］NEUZIL K M, ZHU Y W, GRIFFIN M R, et al. Burden of 
+interpandemic influenza in children younger than 5 years: a 25-year 
+prospective study[J]. J Infect Dis, 2002, 185(2): 147-152. 
+［36］BHAT N, WRIGHT J G, BRODER K R, et al. Influenza-associated 
+deaths among children in the United States, 2003-2004[J]. N Engl J 
+Med, 2005, 353(24): 2559-2567.
+［37］GILL P J, ASHDOWN H F, WANG K, et al. Identification of children 
+at risk of influenza-related complications in primary and ambulatory 
+care: a systematic review and meta-analysis[J]. Lancet Respir Med, 
+2015, 3(2): 139-149. 
+［38］VENKATESAN S, MYLES P R, LEONARDI-BEE J, et al. Impact of 
+outpatient neuraminidase inhibitor treatment in patients infected with 
+influenza a(H1N1)pdm09 at high risk of hospitalization: an individual 
+participant data metaanalysis[J]. Clin Infect Dis, 2017, 64(10): 1328-
+1334. 
+［39］JEFFERSON T, JONES M A, DOSHI P, et al. Neuraminidase 
+inhibitors for preventing and treating influenza in adults and children 
+[J]. The Cochrane Database of Systematic Reviews, 2014, 2014(4): 
+CD008965. DOI: 10.1002/14651858.CD008965.pub4.
+［40］MALOSH R E, MARTIN E T, HEIKKINEN T, et al. Efficacy and 
+safety of oseltamivir in children: systematic review and individual 
+patient data meta-analysis of randomized controlled trials[J]. Clin 
+Infect Dis, 2018, 66(10): 1492-1500. 
+［41］HEINONEN S, SILVENNOINEN H, LEHTINEN P, et al. Early 
+oseltamivir treatment of influenza in children 1-3 years of age: a 
+randomized controlled trial[J]. Clin Infect Dis, 2010, 51(8): 887-894. 
+DOI: 10.1086/656408. 
+［42］LIU J W, LIN S H, WANG L C, et al. Comparison of antiviral agents 
+for seasonal influenza outcomes in healthy adults and children: a 
+systematic review and network meta-analysis[J]. JAMA Netw Open, 
+2021, 4(8): e2119151. 
+［43］GROHSKOPF L A, BLANTON L H, FERDINANDS J M, et 
+al. Prevention and control of seasonal influenza with vaccines: 
+recommendations of the advisory committee on immunization 
+practices—United States, 2025-26 influenza season[J]. MMWR 
+Morb Mortal Wkly Rep, 2025, 74(32): 500-507.
+［44］国家免疫规划技术工作组流感疫苗工作组. 中国流感疫苗预防
+接种技术指南(2023-2024)[J]. 中华流行病学杂志, 2023, 44(10): 
+1507-1530.
+［45］HAYDEN F G, ATMAR R L, SCHILLING M, et al. Use of the 
+selective oral neuraminidase inhibitor oseltamivir to prevent 
+influenza[J]. N Engl J Med, 1999, 341(18): 1336-1343. 
+［46］WESTIN J, ANDERSSON E, BENGNÉR M, et al. Management of 
+influenza-updated Swedish guidelines for antiviral treatment[J]. 
+Infect Dis, 2023, 55(10): 725-737.
+［47］ZACHAR K C. Seasonal influenza in nonpregnant adults: 
+treatment[Z]. 2025.
+［48］OSTERHOLM M T, KELLEY N S, SOMMER A, et al. Efficacy and 
+effectiveness of influenza vaccines: a systematic review and meta-
+analysis[J]. Lancet Infect Dis, 2012, 12(1): 36-44. 
+［49］BELONGIA E A, KIEKE B A, DONAHUE J G, et al. Effectiveness 
+of inactivated influenza vaccines varied substantially with antigenic 
+match from the 2004-2005 season to the 2006-2007 season[J]. J 
+Infect Dis, 2009, 199(2): 159-167. 
+［50］PREVENTION C F D C A. Influenza antiviral medications: summary 
+for clinicians[Z]. 2023.
+［51］UYEKI T M, BERNSTEIN H H, BRADLEY J S, et al. Clinical 
+practice guidelines by the infectious diseases society of America: 
+2018 update on diagnosis, treatment, chemoprophylaxis, and 
+institutional outbreak management of seasonal influenza[J]. Clin 
+Infect Dis, 2019, 68(6): e1-e47. DOI: 10.1093/cid/ciy866. 
+［52］ZHAO Y L, GAO Y, GUYATT G, et al. Antivirals for post-exposure 
+prophylaxis of influenza: a systematic review and network meta-
+analysis[J]. Lancet, 2024, 404(10454): 764-772. 
+［53］IKEMATSU H, HAYDEN F G, KAWAGUCHI K, et al. Baloxavir 
+marboxil for prophylaxis against influenza in household contacts[J]. N 
+Engl J Med, 2020, 383(4): 309-320. 
+（收稿日期：2026-01-26；修回日期：2026-03-02）
+（本文编辑：王世越）

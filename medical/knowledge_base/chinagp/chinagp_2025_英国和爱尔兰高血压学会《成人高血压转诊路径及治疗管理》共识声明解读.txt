@@ -1,0 +1,579 @@
+标题: 英国和爱尔兰高血压学会《成人高血压转诊路径及治疗管理》共识声明解读
+期刊: 中国全科医学 2025 第28卷 第10期
+DOI: 10.12114/j.issn.1007-9572.2024.0097
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0097
+
+
+·1173·
+2025年4月  第28卷  第10期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+·指南解读·
+英国和爱尔兰高血压学会《成人高血压
+转诊路径及治疗管理》共识声明解读
+周伊恒
+1，吕垚
+1，杨梓钰
+1，杨荣
+1，刘力滴
+1，张鹏
+1，代华
+1，曾锐
+2，
+万智
+3，贾禹
+1，刘长明
+4，雷弋
+1*，廖晓阳
+1*
+1.610041 四川省成都市，四川大学华西医院全科医学中心 全科医学教研室 全科医学研究室
+2.610041 四川省成都市，四川大学华西医院心脏内科
+3.610041 四川省成都市，四川大学华西医院急诊科 急诊医学研究室
+4.610041 四川省成都市双流区西航港社区卫生服务中心
+* 通信作者：雷弋，教授；E-mail：leiyi111@scu.edu.cn
+廖晓阳，教授/ 博士生导师；E-mail：625880796@qq.com
+周伊恒、吕垚为共同第一作者
+【摘要】　英国和爱尔兰高血压学会（BIHS）总结了英国国家卫生与医疗优化研究所（NICE）、欧洲心脏病协
+会（ECS）和欧洲高血压协会（ESH）推出的高血压管理指南，于2023 年1 月9 日在国际高血压杂志Journal of Human 
+Hypertension 上发表了《成人高血压转诊路径及治疗管理共识声明》（以下简称共识声明）。基于现有的证据以及专家
+意见，共识声明重点提出了高血压患者转诊的标准以及转诊等待期间患者的管理，以优化基层医生对高血压患者的管
+理。本文旨在对共识声明的核心要点进行解读，为我国基层医生管理高血压患者提供建议。鉴于我国基层医疗问题具
+有复杂性和地域性，仍需要基层医生进行综合评估，践行最有利于患者的临床实践方案。
+【关键词】　高血压；转诊；治疗；解读；共识
+【中图分类号】　R 544.1　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2024.0097
+Interpretation of the Consensus Statement of the British and Irish Hypertension Societies on Adult 
+Hypertension Referral Pathway and Therapeutic Management
+ZHOU Yiheng
+1，LYU Yao
+1，YANG Ziyu
+1，YANG Rong
+1，LIU Lidi
+1，ZHANG Peng
+1，DAI Hua
+1，ZENG Rui
+2，WAN Zhi
+3，
+JIA Yu
+1，LIU Changming
+4，LEI Yi
+1*，LIAO Xiaoyang
+1*
+1.Teaching&Research Section/General Practice Research Institute/General Practice Medical Center，West China Hospital，Sichuan 
+University，Chengdu 610041，China
+2.Department of Cardiology，West China Hospital，Sichuan University，Chengdu 610041，China
+3.Department of Emergency Medicine/Emergency Medicine Research Unit，West China Hospital，Sichuan University，Chengdu 
+610041，China
+4. Xihangang Community Health Service Center，Chengdu Shuangliu District，Chengdu 610041，China
+*Corresponding authors：LEI Yi，Professor；E-mail：leiyi111@scu.edu.cn
+LIAO Xiaoyang，Professor/Doctoral supervisor；E-mail：625880796@qq.com
+ZHOU Yiheng and LYU Yao are co-first authors
+【Abstract】　The British and Irish Hypertension Society（BIHS）summarized guidelines from the National Institute for 
+Health and Care Excellence（NICE），the European Society of Cardiology and the European Society of Hypertension（ESH），
+and published Adult Hypertension Referral Pathway and Therapeutic Management in the Journal of Human Hypertension on 
+基金项目：四川省科技厅软科学项目（2022JDR0325）
+引用本文：周伊恒，吕垚，杨梓钰，等. 英国和爱尔兰高血压学会《成人高血压转诊路径及治疗管理》共识声明解读［J］. 中国全科医学，
+2025，28（10）：1173-1178. DOI：10.12114/j.issn.1007-9572.2024.0097.［www.chinagp.net］
+ZHOU Y H，LYU Y，YANG Z Y，et al. Interpretation of the consensus statement of the British and Irish Hypertension Societies on Adult 
+Hypertension Referral Pathway And Therapeutic Management［J］. Chinese General Practice，2025，28（10）：1173-1178.
+©Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·1174·
+April 2025，Vol.28 No.10 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+January 9，2023. Based on the existing evidence and expert opinions，this article focuses on the referral criteria of hypertensive 
+patients and the treatment of patients during the referral waiting period，so as to optimize the management of hypertensive patients 
+by primary doctors. The purpose of this article is to interpret the core points of the consensus statement to provide recommendations 
+for primary care physicians in China on the referral criteria and treatment of hypertensive patients during referral waiting period. 
+In view of the complexity and regionalism of China's primary medical problems，it is still necessary for primary doctors to conduct 
+comprehensive evaluation and practice the clinical practice plan that is most beneficial to patients.
+【Key words】　Hypertension；Referral；Therapy；Interpretation；Consensus
+世界卫生组织发布的《全球高血压报告》指出全球
+30~79 岁成人的高血压患病率约为33%，全球高血压的
+控制情况不容乐观
+［1］。《中国心血管健康与疾病报告
+2022》显示，我国高血压患病人数已达2.45 亿，是我
+国目前患病人数最多的慢性非传染病
+［2］。有研究指出，
+收缩压每降低10 mmHg（1 mmHg=0.133 kPa）或舒张压
+降低5 mmHg，全因死亡率降低10%~15%，冠心病风险
+降低20%，卒中风险降低40%
+［3］，由此可见，对高血
+压患者正确且高效的管理对于降低我国心血管疾病发病
+率发挥着重要作用。随着高血压相关的临床研究不断深
+入，许多国家和地区都制订或更新了相关指南，为高血
+压的规范管理提供了更多循证医学证据
+［3-4］。尽管如此，
+目前我国对高血压的控制仍然处于较低水平，在高血压
+患者的管理上也有所不足，比如如何准确识别需要转诊
+的高血压人群，何时启动降压治疗，如何规范处理需要
+转诊的患者等。目前我国对于上述问题缺乏相关的指南
+或专家共识，且针对上述问题缺乏高质量的循证医学证
+据，而《成人高血压转诊路径及治疗管理共识声明》（以
+下简称共识声明）针对上述问题制定了相应的标准及处
+理方法，对我国高血压的精确管理具有借鉴意义，因此
+本文旨在对共识声明进行解读。该共识声明的解读团队
+由心血管病专家、全科医学临床医生和循证医学方法学
+专家组成。
+1　共识声明的制订背景和方法
+共识声明是通过总结英国国家卫生与医疗优化研
+究所（National Institute for Health and Care Excellence，
+NICE）、欧洲心脏病协会（European Society of 
+Cardiology，ECS）和欧洲高血压协会（European Society 
+of Hypertension，ESH）在2023 年和2019 年发布的高血
+压管理指南而来，于2023 年1 月9 日在国际高血压杂
+志Journal of Human Hypertension 上发表。共识声明适用
+于基层医疗卫生机构（社区卫生服务中心、社区卫生服
+务站、乡镇卫生院等）的成人高血压患者，目标人群为
+基层医务工作者。其中转诊标准适用于所有成年患者，
+而转诊等待期的治疗管理适用于除妊娠、高血压急症（恶
+性高血压）以及其他符合紧急转诊标准之外的成年患者。
+该共识声明指出了在制订过程中的利益冲突声明，存在
+利益冲突的人员均不参与共识声明的制订。声明制订小
+组成员主要是英国和爱尔兰高血压学会年会（BIHS）
+协会成员，专业上主要涵盖慢性病、心血管疾病、高血
+压等领域。NICE、ECS 和ESH 制订指南的资料来源包
+括从Medline、Embase 和Cochrane Library 中检索出来
+的具有较高循证医学证据等级的队列研究、随机对照研
+究或者相关系统性综述，采取的证据质量和推荐意见强
+度分级都参考了“证据质量和推荐分级评估、制订与评
+价”体系
+［5］（Grading of Recommendations Assessment，
+Development and Evaluation，GRADE）的建议，同时也
+参考了美国心脏病学会和美国心脏协会的最新证据分级
+定义。证据强度分为A、B、C 级，分别代表：有力证据、
+中等证据和不充分证据。推荐强度分为Ⅰ、Ⅱ、Ⅲ级，
+分别代表：推荐，二者之间和不推荐。
+2　共识声明的主要内容
+共识声明主要包括以下四部分：转诊标准、转诊期
+间的信息分享、转诊等待期间患者的管理以及培养高血
+压专科医生在英国面临的挑战。共识声明提出的转诊标
+准和转诊等待期间患者的管理有助于指导和规范我国基
+层医疗卫生机构对高血压患者的管理，因此本文主要针
+对这两方面进行解读。
+2.1　共识声明的转诊标准
+精确识别需要转诊的患者是制订高血压患者转诊标
+准的重要依据，共识声明提出在进行转诊之前需要通过
+动态血压监测和家庭血压监测确认患者存在高血压，之
+后按照NICE 的高血压管理指南进行管理，最后评估患
+者当前用药情况
+［4］。
+2.1.1　紧急转诊的标准：高血压急症是高血压紧急转诊
+（也称急救车转诊）的主要标准之一。高血压急症是指
+过高的血压（一般是3 级）介导的急性器官损伤，起病急，
+预后转归变化大，病死率高，需要快速识别并立即进行
+降压治疗
+［6］。然而，目前除了急性出血性或者缺血性
+卒中患者的急性降压治疗外，还没有任何的随机对照研
+究为高血压急症的治疗提供高质量的循证医学证据
+［7］，
+对于高血压急症的临床治疗策略大多数是基于临床经
+验、观察以及和中间结果的比较得出来的。由于高血压
+急症并没有一个明确的血压阈值
+［8］，因此在基层医疗
+
+·1175·
+2025年4月  第28卷  第10期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+卫生机构准确识别高血压急症十分困难。
+为了搜集高血压紧急转诊标准的相关证据，NICE
+委员从Medline（OVID）、Embase（OVID）和Cochrane 
+Library（Wiley）检索了2018 年10 月之前发表的所有
+高血压急症相关的临床研究文献共16 965 篇
+［9］。经过
+全文资格评估（表1），仅有30 篇文献符合要求，此外，
+由于研究人群不匹配（n=17），方法学设计不合理（n=9）
+以及未使用多变量分析（n=4）等原因，文章均被排除。
+因此，对于高血压患者紧急转诊的标准并没有相应的临
+床证据。除此之外，国际上目前很少有指南能够判断患
+者是否发生高血压急症或者有相关风险，尤其考虑到在
+基层医疗卫生机构，医生很难通过血压标准来判断是未
+经治疗或者治疗不佳的慢性高血压还是早期的高血压急
+症，因此很有可能造成漏诊或者不必要的转诊。比如，
+加拿大的一项回顾性研究评估了2016 年4 月—2017 年
+3 月因高血压紧急转诊的患者254 例，其中67 例是由
+家庭医生转诊，187 例是自行转诊。只有6 例达到了高
+血压急症的诊断标准，大多数患者（71.6%）不需要现
+场治疗
+［10］。该研究强调，制订高血压患者的紧急转诊
+标准十分重要，不仅有助于提高对高血压急症的辨别率，
+还可以减少不必要的转诊。对此，共识声明提出对于达
+到以下任一标准的高血压紧急情况，需要紧急转诊：
+（1）恶性高血压，即血压≥180/120 mmHg 同时伴
+有视乳头水肿或出血；
+（2）高血压危象，出现危及生命的靶器官损伤包
+括但不限于急性主动脉夹层、急性肾损伤、急性心肌缺
+血、急性心力衰竭、急性卒中或嗜铬细胞瘤；
+（3）先兆子痫或妊娠期严重高血压，需要多学科
+联合治疗。
+2.1.2　常规转诊的标准：大部分高血压患者的日常管理
+是在基层医疗卫生机构，但是在某些情况下需要转入上
+级医疗机构。需要注意不同国家高血压患者的门诊或者
+门诊护理不一样，即对于高血压患者的转诊标准因国家
+而异。共识声明提出当达到以下标准之一时则需要常规
+转诊：
+（1）初次诊断高血压时年龄小于40 岁；
+（2）疑似继发性高血压，包括但不限于醛固酮增
+多症、嗜铬细胞瘤、药物性高血压等；
+（3）妊娠高血压或产后高血压；
+（4）顽固性高血压，即血管紧张素转换酶抑制剂
+（ACEI）或血管紧张素Ⅱ受体抑制剂（ARB）合并钙
+通道阻滞剂（CCB）以及噻嗪类利尿剂（“三联疗法”）
+治疗后血压控制仍然不理想；
+（5）持续的症状性直立性低血压，药物治疗后收
+缩压下降仍然≥20 mmHg 或舒张压下降≥10 mmHg；
+（6）复杂多重用药。
+这与我国在《国家基层高血压防治管理指南2020
+版》
+［11］中提出的转诊标准基本一致。但是我国并没有
+将持续症状性体位低血压纳入转诊标准，因此本团队建
+议可以参照共识声明的意见，将其纳入高血压患者转诊
+标准。需要注意的是，我国指南指出妊娠和哺乳期女性
+高血压患者经基层医疗卫生机构确诊后，并不推荐继续
+就诊于基层医疗卫生机构。
+2.2　转诊期间的信息分享
+为了促进转诊患者和上级医生的交流，减少不必要
+的重复检查，提高转诊效率，共识声明推荐患者转诊时
+将以下信息同上级医生分享：
+（1）病历资料，包括转诊原因，目前使用的药物，
+既往不耐受的降血压药物及不耐受原因，相关的用药史
+和家族史，高血压持续时间和确诊高血压的年龄等；
+（2）相关检查，包括血液和尿液检查结果、动态
+和/或家庭血压监测结果、心电图和/或超声心动图结果、
+影像学报告（例如胸部CT、肾脏超声或核磁）等。
+表1　高血压急症相关文献审查方案
+Table 1　Review protocol for hypertensive emergency
+研究对象
+疑似高血压急症的成年患者（不包括妊娠期女性）
+转诊要求
+血压≥180/120 mmHg 或者平均动脉压≥140 mmHg 且伴
+有以下一种或多种症状：（1）3 级或4 级高血压性视网
+膜病变；（2）急性器官损伤的信号，即肾、心、眼、脑（意
+识不清）；（3）视力障碍；（4）头痛；（5）胸痛；（6）
+癫痫发作
+混杂因素
+既往继发性高血压
+结局
+（1）死亡率；（2）卒中；（3）诊断为高血压急症；（4）
+住院；（5）肾透析
+研究方法
+队列研究和病例对照研究及其系统性综述
+注：1 mmHg=0.133 kPa。
+2.3　转诊等待期间患者的管理
+在某些情况下，患者转诊至上级医院可能需要等待
+较长时间，这段时间称之为转诊等待期。共识声明针对
+这一时期提出了相应的管理方法，包括生活方式干预和
+药物治疗策略。符合常规转诊标准的患者可以按照共识
+声明提出的管理方法进行规范管理，但应注意，共识声
+明中提供的管理方法不可用于妊娠、高血压急症患者，
+以及其他符合紧急转诊标准的患者。
+2.3.1　生活方式干预：如果血压升高处于确诊高血压
+的临界值，同时存在可改变的危险因素，如吸烟、饮
+酒、高盐饮食等不良生活习惯，可以采取为期3 个月的
+生活方式优化措施，鼓励患者改善生活方式，如减轻
+体重，终止高血压膳食疗法（dietary approaches to stop 
+hypertension，DASH），减少食盐摄入，进行有规律的
+体力活动等
+［3］。我国对于确诊高血压的患者，也提倡
+立即启动并长期坚持生活方式干预，即“健康生活方式
+六部曲”——限盐减重多运动，戒烟戒酒心态平和
+［12］。
+
+·1176·
+April 2025，Vol.28 No.10 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+健康的生活方式是预防或延缓高血压发病、降低心
+血管风险的重要途径。与有不良生活方式的个体相比，
+具有健康生活方式的个体，无论潜在的血压遗传风险如
+何，其血压低4~5 mmHg
+［13-14］。此外，健康的生活方
+式可以增强药物的降血压效果，并减少药物用量
+［15］。
+2.3.2　药物治疗策略：尽管改善或纠正不适当的生活方
+式可以降低血压和降低总的心血管事件风险
+［16］，但大
+多数高血压患者需要在生活方式干预的同时接受降压药
+物治疗。大量随机对照研究支持通过药物治疗来预防心
+血管疾病
+［17-19］。ACEI、ARB、β- 受体阻滞剂、CCB
+和噻嗪类利尿剂5 大类药物在众多随机对照试验中都被
+论证能有效降低血压和心血管事件的发生率。符合常规
+转诊标准的成人高血压患者可以按照共识声明中提出的
+管理方法分五阶段进行药物治疗，见图1。
+第一阶段：单药治疗A 或C。对于1 级高血压和低
+危患者，如果血压仅轻度升高，考虑起始单药治疗，其
+推荐强度为Ⅰ C。小于55 岁的患者推荐使用起始剂量
+的ACEI 或ARB 药物，如培哚普利、赖诺普利或氯沙坦、
+坎地沙坦；55 岁及以上无2 型糖尿病的患者推荐使用
+起始剂量的CCB 类药物，如氨氯地平、乐卡地平。若
+第一阶段不能将血压平稳控制在目标血压值的范围内，
+则进行第二阶段的治疗。此外，若患者家庭平均血压
+≥150/95 mmHg（诊室血压≥160/100 mmHg）则直接
+跳转至第二阶段进行治疗。
+第二阶段：二联疗法A 加C。对于大多数高血压患
+者，推荐双药联合治疗，首选组合应包括抑制肾素- 血
+管紧张素系统（RAS）阻断剂（ACEI 或ARB）与CCB
+或噻嗪类利尿剂，推荐强度为Ⅰ A。第二阶段若仍然不
+能将血压平稳控制在目标血压值的范围内，则进行第三
+阶段的治疗。
+第三阶段：二联疗法A 加C（增加剂量）。保持基
+本的双药联合不变，若血压下降仍然不理想，则适当增
+加药物的剂量，使之达到最佳耐受剂量。第三阶段若仍
+然不能将血压控制在目标血压值的范围内，则进行第四
+阶段的治疗。
+第四阶段：三联疗法A 加C 加D。如果初始的两
+药联合使用各自成分的最大推荐和耐受剂量仍不能控
+制血压，治疗应增加到三药联合。在ACEI 或ARB 和
+CCB 的基础上，加入噻嗪类利尿剂，推荐强度为Ⅰ A。
+如果成人已服用最大推荐和耐受剂量，血压仍未得到控
+制，则视为难治性高血压，建议延长治疗，推荐强度为
+Ⅰ A。
+第五阶段：四联疗法。如果病情持续进展，血压仍
+不能得到有效控制的患者或已确诊难治性高血压的患
+者，应积极寻求专家建议，考虑增加第四种降压药( 螺
+内酯) 进一步治疗。如果出现性激素样不良反应，如男
+注：ABPM= 动态压监测，HBPM= 家庭血压监测，ACEI= 血管紧
+张素转化酶抑制剂，ARB= 血管紧张素Ⅱ受体阻滞剂，CCB= 钙通道
+阻滞剂，SPC= 单片复方制剂，BP= 血压，1 mmHg=0.133 kPa。
+图1　成人高血压转诊路径及治疗管理策略
+Figure 1　Referral pathways and treatment management strategies for adult 
+hypertension
+尽管已经采取了生活方式干预，但是使用
+24 h ABPM 和（或）/HBPM 证实有高血压
+治疗目标<135/85 mmHg
+（诊室<149/90 mmHg）
+年龄<55 岁
+ACEI 或ARB
+（起始剂量）
+年龄≥55 岁
+CCB
+（起始剂量）
+联合使用ACEI 或ARB 和CCB
+根据BP 下降需求增加ACEI 或
+ARB 和/ 或CCB 的剂量
+加入噻嗪类利尿剂
+对这三种药物明显耐药：根据
+HBPM/ABPM 确诊顽固性高血压。讨
+论遵守并考虑SPC。考虑其他原因。
+考虑专家建议并开始用螺内酯
+螺内酯12.5 mg OM
+进一步的选择
+阿米洛利5-10 mg OD
+多沙唑嗪XL mg OD
+比索洛尔2.5 mg OD
+第一步
+单药治疗
+A 或C
+A+C
+A+C
+A+C+D
+第二步
+二联疗法
+第三步
+加量治疗
+第四步
+三联疗法
+第五步
+四联疗法
+如果家庭平均血压
+≥150/95 mmHg（诊
+室≥160/100 mmHg）
+直接跳转到第二步
+性乳房发育症，则改为两倍剂量的依普利酮或阿米洛
+利
+［4］。根据情况可以进一步选择阿米洛利、多沙唑嗪
+缓释片、比索洛尔。
+我国《国家基层高血压防治管理指南2020 版》也
+为基层医务人员提供了可掌握的简单实用的治疗方案。
+
+·1177·
+2025年4月  第28卷  第10期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+共识声明与我国基层指南的治疗相似，具体治疗方案有
+所差异（表2）
+［12］。我国建议高血压患者如果明确诊断，
+在生活方式干预的同时应当立即启动药物治疗。仅收缩
+压<160 mmHg 且舒张压<100 mmHg 且未合并冠心病、
+心力衰竭、脑卒中、外周动脉粥样硬化病、肾脏疾病或
+糖尿病的高血压患者，采用单纯生活方式干预，最多3
+个月，若仍未达标，再启动药物治疗。对于降压药物的
+选择，我国指南与BISH 共识声明主张一致，均认为应
+选用上述5 类证据明确、可改善预后的降压药物。对于
+药物治疗方案，我国指南更加全面细致，主张以是否存
+在合并症进行治疗分类，而BISH 共识指南更加简练，
+在中国的本土化推广仍需结合我国指南。
+共识声明指出，以上建议并不是强制要求的，而是
+需要临床医生根据患者的具体情况和专业判断进行灵活
+的应用，在转诊等待期间，应该继续监测和记录患者的
+血压，至少1 次/ 周，以便根据患者的病情和风险调整
+治疗方案。同时基层医生应与上级医生保持沟通和协调，
+有助于高血压患者的管理。
+2.4　建立高血压专家在英国面临的挑战
+共识声明指出英国目前没有高血压专科医生的注
+册，正在致力于高血压专科医生的认证系统。
+3　对我国基层临床实践和指南制订的意义
+3.1　对我国基层临床实践的意义
+高血压是一种慢性病，需要终生管理，基层医疗卫
+生机构在高血压患者的终生管理中发挥着独特的优势。
+对该共识声明进行解读，促进高血压患者转诊路径的优
+化和治疗的规范化，对高血压患者的临床管理具有重要
+参考价值。在转诊方面，共识声明给出了明确的紧急转
+诊和普通转诊的标准，可以结合我国的转诊标准适当参
+考，有助于实现我国高血压医防融合一体化管理，开通
+转诊绿色通道。为了避免患者进行不必要的重复检测，
+最大限度地利用资源，并使患者能够尽快开始新的或修
+改旧的治疗方案，可以将具体的病历资料和相关检查结
+果和上级医生分享，这与我国的县域医共体政策，实现
+检查结果的互认，信息系统支持的信息共享一致。在治
+疗方面，共识声明推荐的治疗方法和我国治疗理念相似，
+与我国常见的治疗方法相符，提供了相应的循证医学证
+据，对我国治疗有一定的指导意义。
+3.2　对我国指南制订的意义
+该共识声明的解读为高血压患者转诊和治疗提供了
+循证医学证据，为我国以后相关指南的制订提供了循证
+医学支持。国内外目前缺乏统一的高血压患者紧急转诊
+的标准，该共识声明明确提出了这个转诊的标准，可以
+作为我国基层医师对高血压患者紧急转诊的参考，也可
+以作为我国对高血压患者紧急转诊标准制订的基础，对
+于规范高血压患者紧急转诊有重要意义。
+4　小结
+本解读针对共识声明中的主要内容进行重点说明，
+并结合我国具体情况进行对比，为我国管理高血压患者
+提供参考，但是也有一定的局限性。比如共识声明提出
+的紧急转诊标准缺乏高质量的循证医学支持，标准实施
+之后患者获益情况未知，特别是转诊标准的灵敏度和特
+异度需要总结、评价和进一步的研究。此外，共识声明
+主要适用于欧洲的高血压患者，需要根据中国的高血压
+流行状况、医疗资源、诊疗模式等，对该共识声明中的
+一些标准和流程进行适当的调整和优化，使之更符合中
+国的实际情况和需求。
+作者贡献：周伊恒、吕垚负责文章的构思与设计、
+论文撰写；杨梓钰、杨荣、刘力滴、张鹏、代华、曾锐、
+万智、贾禹、刘长明负责对文章的修订；雷弋、廖晓阳
+负责文章的质量控制及审校，对文章整体负责。
+本文无利益冲突。
+表2　成人高血压转诊路径及治疗管理共识声明与国家基层高血压防治管理指南（2020 版）对比
+Table 2　Comparison between the Adult Hypertension Referral Pathway and Therapeutic Management and the Guidelines for Prevention and Treatment of 
+Hypertension in China（2020 edition）
+对比项目
+成人高血压转诊路径及治疗管理共识声明
+国家基层高血压防治管理指南（2020 版）
+不同点治疗周期
+4~6 周
+2~4 周
+治疗方案
+仅针对无合并症患者给出简略的治疗方案
+根据患者是否存在合并症及血压水平，选择合适的药物
+药物选择
+循序渐进，逐渐增加药物
+较为复杂但是更加全面，β- 受体阻滞剂和噻嗪类利尿剂可在起始
+阶段便根据患者实际情况选用。
+药物联用情况
+双联药物推荐A+C；
+三联药物推荐A+C+D
+双联三联药物组合更加多样；双联可选择A+C、A+D、C+D 和
+B+D；三联药物除A+C+D 外还可选择A+C+B
+相同点降压目标
+一般情况下降压目标为诊室血压值<140/90 mmHg
+治疗策略
+均提倡生活方式干预与药物治疗管理相结合
+启动药物治疗时机收缩压<160 mmHg 且舒张压<100 mmHg 且无合并症的高血压患者，可根据病情及患者意愿暂缓给药，采用单纯生
+活方式干预最多3 个月，若仍未达标，再启动药物治疗
+治疗药物推荐
+治疗药物均推荐使用单片复方制剂，以增加患者依从性
+
+·1178·
+April 2025，Vol.28 No.10 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+参考文献
+［1］孙芹，田伟帆，罗婷婷，等. 2023 年世界卫生组织《全球高血
+压报告》解读［J］. 中国胸心血管外科临床杂志，2024，31（2）：
+203-208.
+［2］马丽媛，王增武，樊静，等. 《中国心血管健康与疾病报告
+2022》要点解读［J］. 中国全科医学，2023，26（32）：3975-
+3994. DOI：10.12114/j.issn.1007-9572.2023.0408.
+［3］MANCIA G，KREUTZ R，BRUNSTRÖM M，et al. 2023 ESH 
+guidelines for the management of arterial hypertension the task 
+force for the management of arterial hypertension of the European 
+society of hypertension：endorsed by the international society of 
+hypertension（ISH）and the European renal association（ERA）
+［J］. J Hypertens，2023，41（12）：1874-2071. DOI：10.1097/
+HJH.0000000000003480. 
+［4］Hypertension in adults：diagnosis and management.//National 
+Institute for Health and Care Excellence：Guidelines ［M］. 
+London；National Institute for Health and Care Excellence (NICE) 
+Copyright © NICE 2023. 2023.
+［5］GUYATT G H，OXMAN A D，SCHÜNEMANN H J，et al. 
+GRADE guidelines：a new series of articles in the Journal of Clinical 
+Epidemiology［J］. J Clin Epidemiol，2011，64（4）：380-382. 
+DOI：10.1016/j.jclinepi.2010.09.011. 
+［6］孙英贤，赵连友，田刚，等. 高血压急症的问题中国专家共识［J］. 
+中华高血压杂志，2022，30（3）：207-218. DOI：10.16439/
+j.issn.1673-7245.2022.03.003.
+［7］VAN DEN BORN B H，LIP G Y H，BRGULJAN-HITIJ J，et al. 
+ESC Council on hypertension position document on the management 
+of hypertensive emergencies［J］. Eur Heart J Cardiovasc 
+Pharmacother，2019，5（1）：37-46. DOI：10.1093/ehjcvp/
+pvy032. 
+［8］SALVETTI M，BERTACCHINI F，SACCÀ G，et al. Hypertension 
+urgencies and emergencies：the GEAR project［J］. High Blood 
+Press Cardiovasc Prev，2020，27（2）：129-132. DOI：10.1007/
+s40292-020-00372-3. 
+［9］NATIONAL GUIDELINE C. NICE Evidence Reviews Collection ［M］. 
+Evidence review for same-day specialist review：Hypertension in 
+adults：diagnosis and management：Evidence review I. London；
+National Institute for Health and Care Excellence（NICE）Copyright 
+© NICE 2019. 2019.
+［10］RICHARD A E，CHOMIENNE M H. Review of referrals sent to 
+the emergency department for management of hypertension［J］. 
+Cardiol Res，2021，12（3）：156-160. DOI：10.14740/cr1233. 
+［11］国家心血管病中心，国家基本公共卫生服务项目基层高血压管
+理办公室，国家基层高血压管理专家委员会. 国家基层高血压
+防治管理指南2020 版［J］. 中国医学前沿杂志（电子版），
+2021，13（4）：26-37. DOI：10.12037/YXQY.2021.04-06.
+［12］PAZOKI R，DEHGHAN A，EVANGELOU E，et al. Genetic 
+predisposition to high blood pressure and lifestyle factors：
+associations with midlife blood pressure levels and cardiovascular 
+events［J］. Circulation，2018，137（7）：653-661. DOI：
+10.1161/CIRCULATIONAHA.117.030898.
+［13］OJANGBA T，BOAMAH S，MIAO Y D，et al. Comprehensive 
+effects of lifestyle reform，adherence，and related factors on 
+hypertension control：a review［J］. J Clin Hypertens，2023，25（6）：
+509-520. DOI：10.1111/jch.14653. 
+［14］PESCATELLO L S，WU Y，GAO S M，et al. Do the combined 
+blood pressure effects of exercise and antihypertensive medications 
+add up to the sum of their parts? A systematic meta-review［J］. 
+BMJ Open Sport Exerc Med，2021，7（1）：e000895. DOI：
+10.1136/bmjsem-2020-000895. 
+［15］PRABHAKARAN D，ANAND S，WATKINS D，et al. 
+Cardiovascular，respiratory，and related disorders：key messages 
+from disease control priorities，3rd edition［J］. Lancet，2017，
+391（10126）：1224-1236. DOI：10.1596/978-1-4648-0518-
+9_ch1. 
+［16］ETTEHAD D，EMDIN C A，KIRAN A，et al. Blood pressure 
+lowering for prevention of cardiovascular disease and death：a 
+systematic review and meta-analysis［J］. Lancet，2016，387
+（10022）：957-967. DOI：10.1016/S0140-6736(15)01225-8. 
+［17］TSAI W C，WU H Y，PENG Y S，et al. Association of intensive 
+blood pressure control and kidney disease progression in nondiabetic 
+patients with chronic kidney disease：a systematic review and meta-
+analysis［J］. JAMA Intern Med，2017，177（6）：792-799. 
+DOI：10.1001/jamainternmed.2017.0197. 
+［18］XIE X F，ATKINS E，LV J C，et al. Effects of intensive blood 
+pressure lowering on cardiovascular and renal outcomes：updated 
+systematic review and meta-analysis［J］. Lancet，2016，387
+（10017）：435-443. DOI：10.1016/S0140-6736(15)00805-3. 
+［19］Blood Pressure Lowering Treatment Trialists' Collaboration. Age-
+stratified and blood-pressure-stratified effects of blood-pressure-
+lowering pharmacotherapy for the prevention of cardiovascular 
+disease and death：an individual participant-level data meta-
+analysis［J］. Lancet，2021，398（10305）：1053-1064. 
+DOI：10.1016/S0140-6736(21)01921-8. 
+（收稿日期：2024-08-15；修回日期：2024-11-28）
+（本文编辑：崔莎）

@@ -1,0 +1,803 @@
+标题: 门诊或居家心脏康复训练对中青年冠心病患者经皮冠状动脉介入术后心肺功能和心理的影响
+作者: 李婧媛, 李海英, 郭晓, 曲凤霞, 辛越, 周亚群
+期刊: 精准医学杂志 2025 第40卷 第2期
+DOI: 10.13362/j.jpmed.202540045
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202540045
+
+
+精准医学杂志2025年4月第40卷第2期 JPrecisMed,April2025,Vol.
+40,No.
+2
+doi:10.
+13362/j.
+jpmed.
+202540045  文章编号:2096-529X(2025)02-0173-05
+[收稿日期]2025-02-29; [修订日期]2025-04-06
+[基金项目]山东省青岛市科技惠民示范引导专项(21-1-4-
+rkjk-21-nsh)
+[通信作者]郭晓,Email:15898865715@163.
+com
+门诊或居家心脏康复训练对中青年冠心病患者经皮
+冠状动脉介入术后心肺功能和心理的影响
+李婧媛 李海英 郭晓 曲凤霞 辛越 周亚群
+(青岛心血管病医院心内科,山东青岛 266034)
+[摘要] 目的 探讨门诊或居家心脏康复训练对中青年冠心病患者经皮冠状动脉介入术(PCI)后心肺功能及
+心理的影响。方法 选择2020年1月—2021年12月于我院PCI术后患者110例,随机分为居家组(56例)和门诊
+组(54例)。根据CPET 评估结果,制定个体化康复训练处方,门诊组患者在医院门诊进行心脏康复训练,居家组患
+者进行居家心脏康复训练,记录两组患者在训练前和训练3 个月时心肺运动测试结果、广泛性焦虑自评量表
+(GAD-7)评分和9项患者健康抑郁量表(PHQ-9)评分,并对两组患者训练前后各项指标差值进行比较。结果 两
+组患者康复训练后的无氧阈功率(ATPower)、无氧阈代谢当量(ATMets)、无氧阈每公斤摄氧量(ATVO2)、峰值功
+率(PEAKPower)、峰值每公斤摄氧量(PEAKVO2max)、峰值代谢当量(PEAKMets)较训练前均明显增加(t=
+2.
+22~6.
+43,P<0.
+05);两组患者安静心率、安静收缩压、安静舒张压较训练前差异无显著性(P>0.
+05),两组患者训
+练前后的ATMets、ATVO2、PEAKMets、PEAKPower、PEAKVO2max的差值比较差异有显著性(z=2.
+23~4.
+10,
+P<0.
+05)。两组患者康复训练后GAD-7评分与PHQ-9评分均较康复前显著降低(
+t=5.
+82~8.
+59,P<0.
+05),但两
+组训练前后的GAD-7评分、PHQ-9评分差值比较差异无显著性(P>0.
+05)。结论 门诊和居家心脏康复训练均能
+够提高中青年冠心病患者PCI术后心肺功能,可缓解患者焦虑、抑郁情绪,但门诊心脏康复训练的效果优于居家训练。
+[关键词] 冠心病;经皮冠状动脉介入治疗;运动试验;运动疗法;远程康复;抑郁;焦虑;中年人;青年人
+[中图分类号] R541.
+4;R654.
+33    [文献标志码] A
+Effectofoutpatientorhome-basedcardiacrehabilitationtrainingoncardiopulmonaryfunctionand
+mentalhealthafterpercutaneouscoronaryinterventioninyoungandmiddle-agedpatientswithcoro-
+naryheartdisease LIJingyuan,LI Haiying,GUO Xiao,QU Fengxia,XIN Yue,ZHOU Yaqun (Departmentof
+Cardiology,QingdaoCardiovascularHospital,Qingdao266034,China)
+[ABSTRACT] Objective Toinvestigatetheeffectofoutpatientorhome-basedcardiacrehabilitationtrainingoncardiopul-
+monaryfunctionandmentalhealthafterpercutaneouscoronaryintervention(PCI)inyoungandmiddle-agedpatientswithcoronary
+heartdisease. Methods Atotalof110patientswhounderwentPCIinourhospitalfromJanuary2020toDecember2021were
+randomlydividedintohome-basedgroupwith56patientsandoutpatientgroupwith54patients.Anindividualizedrehabilitation
+trainingprescriptionwasformulatedbasedontheresultsofCPETassessment,andthepatientsintheoutpatientgroupreceived
+cardiacrehabilitationtrainingattheoutpatientservice,whilethoseinthehome-basedgroupreceivedcardiacrehabilitationtraining
+athome.Relateddatawererecordedbeforetrainingandafter3monthsoftraining,includingcardiorespiratoryexercisetestresults,
+7-item GeneralizedAnxietyDisorderScale(GAD-7)score,andPatientHealthQuestionnaire-9(PHQ-9)score,andthechangesin
+theseindicatorswerecomparedbetweenthetwogroups. Results Afterrehabilitationtraining,bothgroupshadsignificantin-
+creasesinanaerobicthresholdpower,anaerobicthresholdmetabolicequivalent(ATMets),anaerobicthresholdoxygenuptakeper
+kilogram (ATVO2),peakpower(PEAKPower),peakoxygenuptakeperkilogram (PEAKVO2max),andpeakmetabolicequiva-
+lent(PEAKMets)(
+t=2.
+22-6.
+43,P<0.
+05),withnosignificantchangesinheartrate,systolicbloodpressure,anddiastolicblood
+pressureatrestingstate(P>0.
+05),andthereweresignificantdifferencesbetweenthetwogroupsinthechangesinATMets,AT-
+VO2,PEAKPower,PEAKMets,andPEAKVO2maxaftertraining(z=2.
+23-4.
+10,P<0.
+05).Bothgroupshadsignificantreduc-
+tionsinGAD-7andPHQ-9scoresafterrehabilitationtraining(
+t=5.
+82-8.
+59,P<0.
+05),andtherewerenosigni-ficantdifferences
+inthechangesinGAD-7andPHQ-9scoresbetweenthetwogroupsaftertraining(P>0.
+05). Conclusion Bothoutpatientand
+home-basedcardiacrehabilitationtrainingcanimprovecardiopulmonaryfunctionandalleviateanxietyanddepressionafterPCIin
+youngandmiddle-agedpatientswithcoronaryheartdisease,andoutpatientcardiacrehabilitationtraininghasabettereffectthan
+home-basedtraining.
+[KEY WORDS] Coronarydisease;Percutaneouscoronaryintervention;Exercisetest;Exercisetherapy;Telerehabilitation;
+Depression;Anxiety;Middleaged;Youngadult
+  近年来冠心病的发病率、死亡率呈年轻化趋势,
+且以35~60岁的患者为主[1],接受经皮冠状动脉介
+·
+3
+7
+1
+·
+
+精准医学杂志2025年4月第40卷第2期 JPrecisMed,April2025,Vol.
+40,No.
+2
+入术(PCI)治疗的中青年冠心病患者逐年增加。但
+PCI术后患者可能会发生支架内狭窄[2]、斑块破裂
+等不良心血管事件,危及患者生命,更容易引发焦虑
+和抑郁等情绪[3],影响预后。循证医学表明,以运动
+为核心的心脏康复训练可有效地降低患者再住院率
+和死亡率[4-6],同时能有效改善患者焦虑和抑郁情
+绪,对提高患者的生活质量具有重要意义[7]。目前
+尚无门诊康复和居家康复对中青年冠心病患者PCI
+术后康复效果影响的研究。本研究利用心肺运动试
+验(CPET)评估患者心肺功能,为患者制定个体化
+心脏康复训练运动处方,采取门诊和居家康复两种
+形式,比较这两种康复形式对PCI术后中青年冠心
+病患者运动耐量和心理状态的影响,旨在为临床实
+践提供数据参考。
+1 对象与方法
+1.
+1 研究对象
+选取2020年1月—2021年12月于青岛心血
+管病医院住院的PCI术后的冠心病患者110 例。
+纳入标准:①18岁≤年龄≤60岁者;②PCI术后1~
+3个月者;③对合并有主动脉夹层、主动脉瘤、未控
+制的心律失常、症状严重的主动脉狭窄或其他瓣膜
+病、心力衰竭失代偿者,待病情平稳后再纳入;④不
+存在外出等情况,能保证完成3个月的试验者。排
+除标准:①存在CPET 禁忌证者;②患有严重疾病
+(如肝衰竭、肾衰竭、肿瘤晚期等)者;③伴有言语或
+精神障碍者,或存在运动受限(如残疾)情况,难以完
+成CPET 评估者。采用数字表法将患者随机分为
+居家组(56例)和门诊组(54例)。居家组患者当中
+男37例,女19 例;合并高血压25 例,合并糖尿病
+10例,同时合并高血压与糖尿病6例。门诊组患者
+中男40例,女14例;合并高血压26例,合并糖尿病
+8例,同时合并高血压与糖尿病7例。两组患者的
+年龄、性别、身高、体质量、BMI、合并症等比较差异
+无显著性(P>0.
+05)。见表1。
+表1 两组患者一般资料比较(􀭵
+x±s)
+组别 n
+年龄
+(岁)
+身高
+(h/cm)
+体质量
+(m/kg)
+BMI
+(kg/m2)
+居家组56 45.
+45±5.
+79168.
+75±8.
+29 75.
+35±12.
+10 26.
+54±2.
+96
+门诊组54 45.
+72±6.
+08168.
+75±7.
+14 74.
+80±16.
+42 26.
+09±4.
+26
+1.
+2 两组患者的心脏康复训练
+两组患者均于康复训练前采用次极量运动试验
+及10~20Watt/min的速度斜坡式功率递增运动方
+案(Ramp方案)进行CPET 测试,测试过程严格按
+照《心肺运动试验临床规范应用中国专家共识》
+[8]来
+进行,根据CPET 结果为每个患者制定个性化运动
+处方。所有患者的康复训练内容均分为热身运动、
+有氧运动、抗阻运动、柔韧性训练、平衡以及协调性
+训练5部分,时间为60~90 min,训练的频率为每
+周3次,持续3个月。所有患者训练时均行心电监
+测,根据心率情况调整运动强度,使心率处于运动处
+方建议的有效运动的心率范围内。居家组患者的心
+率监测设备可根据情况选择心率带、运动手环或其
+他具有监测功能的设备;患者通过移动终端运动记
+录程序打卡,记录每次训练前后心率和血压及训练
+过程中的不适等情况,并可随时通过电话或者微信
+与康复治疗师沟通。门诊组的患者每周3次到医院
+门诊进行康复训练,采用单导联心电监护设备进行
+心电监测,由康复治疗师记录患者每次训练前后心
+率、血压;如患者在训练过程中出现不适等情况,随
+时指导并记录。所有患者均同时接受PCI术后规
+范药物治疗、健康教育、合理膳食建议、戒烟管理、心
+理情绪干预等。
+两组患者均每4周随访1次,通过门诊或电话
+的形式,咨询患者康复训练的情况及临床事件的发
+生情况,并调整运动处方;鼓励和督促患者按照制定
+好的运动处方坚持康复训练,坚持自我评价,改变生
+活方式;同时根据病情给予抗血小板、降脂、降糖和
+调整血压的药物治疗。
+1.
+3 观察指标
+分别记录两组患者在康复训练前以及康复训练
+3个月时的如下指标:①一般临床指标:包括安静时
+心率、安静收缩压(SBP)以及安静舒张压(DBP);
+②CPET 指标:包括无氧阈功率(ATPower)、无氧
+阈每公斤摄氧量(ATVO2)、无氧阈代谢当量(AT-
+Mets)、峰值功率(PEAKPower)、峰值每公斤摄氧
+量(PEAKVO2max)、峰值代谢当量(PEAKMets);
+③焦虑抑郁评分:两组患者均于无干扰情况下,采用
+广泛性焦虑自评量表(GAD-7)
+[9]和9项患者健康抑
+郁量表(PHQ-9)
+[10]针对患者的焦虑和抑郁情况进
+行评分。
+1.
+4 统计学处理
+采用SPSS26.
+0统计学软件处理数据。计量资
+料以􀭺
+x±s 表示,组内康复训练前后差异性比较采
+用配对t检验,两组间康复训练前后各指标的差值
+比较采用两个独立样本的t 检验或秩和检验;分类
+变量以例表示,差异性分析采用χ2检验。以P <
+0.
+05表示差异有统计学意义。
+·
+4
+7
+1
+·
+
+精准医学杂志2025年4月第40卷第2期 JPrecisMed,April2025,Vol.
+40,No.
+2
+2 结  果
+2.
+1 两组患者的运动耐量比较
+研究进行过程中门诊组脱落4例,居家组脱落
+6例,故康复训练3个月时,门诊组为50例,居家组
+为50例。所有患者在研究期间均未发生心脏不良
+事件。
+两组患者训练3个月时安静心率、安静SBP、安
+静DBP与训练前相比差异无显著性(P>0.
+05),两
+组患者在训练3个月时的ATPower、ATMets、AT-
+VO2、PEAKPower、PEAKVO2max、PEAKMets较
+训练前均显著增加(
+t=2.
+22~6.
+43,P<0.
+05);两组
+患者训练前后的ATMets、ATVO2、PEAKPower、
+PEAKMets、PEAKVO2max 的差值比较差异有显
+著性(z=2.
+23~4.
+10,P<0.
+05)。见表2。
+2.
+2 两组患者焦虑和抑郁评分比较
+两组患者训练后GAD-7评分与PHQ-9评分较
+训练前显著降低(
+t=5.
+82~8.
+59,P<0.
+05)。两组
+患者训练前后GAD-7评分、PHQ-9评分差值比较
+差异无显著性(P>0.
+05)。见表3。
+表2 两组患者运动耐量比较(n=50)
+组别
+安静心率(f/min-1)
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+安静SBP(p/mmHg)
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+居家组
+68.
+95±11.
+04
+72.
+60±12.
+58
+1.
+00(-3.
+25,12.
+25)
+113.
+80±13.
+54
+113.
+30±21.
+61
+-3.
+50(-8.
+50,9.
+50)
+门诊组
+70.
+55±12.
+93
+69.
+05± 8.
+16
+0.
+00(-5.
+00,5.
+50)
+117.
+05±14.
+38
+111.
+70±13.
+43
+-2.
+00(-13.
+75,2.
+00)
+组别
+安静DBP(p/mmHg)
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+ATPower(P/W)
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+居家组
+72.
+30± 8.
+99
+74.
+85±10.
+03
+ 0.
+50(-3.
+00,14.
+00)
+60.
+80±18.
+36
+66.
+95±18.
+46
+3.
+50(-2.
+25,18.
+00)
+门诊组
+76.
+15±10.
+07
+75.
+25± 8.
+15
+-2.
+50(-8.
+75,8.
+75)
+59.
+60±22.
+86
+73.
+35±22.
+02
+12.
+00( 5.
+75,22.
+50)
+组别
+ATMets
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+ATVO2[mL/(min·kg)]
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+居家组
+3.
+51±0.
+49
+3.
+80±0.
+57
+0.
+25(0.
+00,0.
+63)
+12.
+31±1.
+67
+13.
+34±2.
+19
+0.
+55(0.
+10,2.
+00)
+门诊组
+3.
+55±0.
+51
+4.
+25±0.
+54
+0.
+55(0.
+33,1.
+08)
+12.
+44±1.
+78
+15.
+06±1.
+77
+2.
+15(1.
+13,4.
+35)
+组别
+PEAKPower(P/W)
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+PEAKVO2max
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+居家组
+94.
+01±36.
+68
+104.
+25±32.
+97
+3.
+50(-0.
+75,17.
+50)
+16.
+69±3.
+39
+17.
+42±3.
+29
+0.
+40(0.
+30,1.
+28)
+门诊组
+103.
+60±32.
+51
+122.
+35±35.
+29
+15.
+00( 4.
+50,32.
+50)
+17.
+40±2.
+27
+20.
+60±3.
+04
+2.
+55(1.
+35,5.
+13)
+组别
+PEAKMets
+训练前(􀭺
+x±s)
+训练后(􀭺
+x±s)
+差值[M(P25,P75)]
+居家组
+4.
+67±0.
+96
+4.
+90±0.
+96
+0.
+10(0.
+10,0.
+30)
+门诊组
+4.
+94±0.
+68
+5.
+89±0.
+85
+0.
+90(0.
+35,1.
+45)
+表3 两组患者焦虑和抑郁评分比较(分,n=50,􀭵
+x±s)
+组别
+GAD-7评分
+训练前
+训练后
+差值
+PHQ-9评分
+训练前
+训练后
+差值
+居家组
+7.
+15±1.
+02
+4.
+95±0.
+81
+2.
+20±1.
+11
+8.
+10±1.
+18
+5.
+55±0.
+84
+2.
+55±1.
+19
+门诊组
+7.
+75±1.
+01
+5.
+30±0.
+85
+2.
+45±1.
+46
+8.
+05±1.
+26
+5.
+80±1.
+02
+2.
+25±1.
+37
+3 讨  论
+冠心病患者在PCI术后,因惧怕诱发心绞痛而
+不敢进行正常的日常活动,从而致运动耐量逐渐下
+降,影响生活质量,而运动不足的生活方式又可能会
+进一步促进冠心病发展[11]。心绞痛产生的不适、对
+心脏意外事件的担忧以及长期服药的困扰,也会使
+患者产生焦虑和抑郁情绪[12]。有研究报道,20%~
+30%的冠心病患者存在焦虑症状[13],血运重建后,
+约90.
+6%的患者有抑郁症状,其中约35%为重度抑
+郁。中青年患者是家庭主要经济及精神支柱,其焦
+虑和抑郁情绪更应得到关注。
+目前临床中广泛应用CEPT 评估患者的心肺
+功能[14],可通过CEPT 监测患者运动状态时的心血
+管系统,测得PEAKVO2max
+[15]。PEAKVO2max
+是反映心肺代谢整体功能的核心指标,体现了人体
+最大有氧代谢和心肺储备能力,是评估有氧代谢能
+力的最佳指标和心肺功能的金标准。本研究参考
+《冠心病康复与二级预防中国专家共识》
+[16],根据康
+复训练前患者的CPET 结果,制定个性化心脏康复
+训练处方,指导PCI术后中青年冠心病患者进行居
+家或门诊心脏康复训练[17]。结果显示,3个月后,两
+·
+5
+7
+1
+·
+
+精准医学杂志2025年4月第40卷第2期 JPrecisMed,April2025,Vol.
+40,No.
+2
+组患者ATPower、ATMets、ATVO2、PEAKPower、
+PEAKVO2max、PEAKMets等指标明显提升,说明
+门诊康复和居家康复均能提升心肺功能;两组患者
+训练前后ATMets、ATVO2、PEAKMets、PEAK-
+VO2max的差值比较差异显著,提示门诊组患者康
+复效果优于居家组。分析原因,可能是因为患者在
+医院门诊进行心脏康复训练时,由康复治疗师进行
+监督,在保证运动安全性的同时,合理把控住了运动
+强度,保证了运动时间,患者配合度和完成度均较
+高,故PEAKVO2max 提升明显;居家组患者由于
+无人监督,运动处方完成的质量不能保证,依从性可
+能不足,致心肺功能提升不如门诊组康复患者。但
+心脏康复疗效评价指标较多,如危险因素管理情况、
+生活质量和长期预后等,两种康复训练模式对PCI
+术后患者其他方面的疗效差异仍需更深入分析。
+有研究显示,15%~20%的心脏病患者会产生
+焦虑抑郁等不良情绪,影响患者预后[18]。冠心病患
+者PCI术后发生焦虑抑郁的机制可能与大脑边缘
+系统-纹状体-丘脑神经递质环路被阻断有关[19]。本
+研究结果显示,两组患者心脏康复训练后GAD-7评
+分与PHQ-9评分均显著低于训练前,说明康复训
+练可以改善患者焦虑抑郁的情绪,但两组患者训练
+前后GAD-7评分与PHQ-9评分的差值比较无显著
+差异,提示心脏康复训练可以改善患者的焦虑和抑
+郁状况,并且不受训练地点的影响。
+我国冠心病患者的心脏康复工作仍处于起步阶
+段[20-21],全国2/3以上的医院没有开展心脏康复工
+作[22]。我国冠心病发病率在逐年增高,PCI手术数
+量也在逐年攀升,因此这部分患者的心脏康复训练
+工作仍然任重道远[23]。PCI是发生冠心病急性事
+件时的治疗手段,心脏康复是急性事件后的长期、综
+合管理方式,两者一脉相承,构成了完整的冠心病治
+疗方案[24]。门诊康复和居家康复作为不同心脏康
+复模式,有各自的优势。门诊康复疗效和安全性明
+确,而居家康复更便利、舒适,可以更好地保护患者
+隐私,但其疗效与安全需要通过一定的措施得以保
+证[25]。本研究显示,居家康复训练同样也可以提升
+PCI术后患者的心肺耐力和心理健康,与之前的研
+究相似[26]。随着我国医疗体系的健全,医生和患者
+心脏康复理念的增强,以及居民健康意识的深入,相
+信会有越来越多的PCI术后患者经过健康教育、心
+脏康复和定期随访,对冠心病相关知识的了解增多。
+这有助于患者用药规范性的调整和不良生活习惯的
+改善,会使患者运动耐量进一步提升,心理问题进一
+步解决,从而使患者尽早回归社会并长期获益。
+综上,门诊和居家心脏康复训练均能提升中青
+年冠心病患者PCI术后心肺功能,缓解其焦虑、抑
+郁情绪,门诊心脏康复训练效果优于居家康复。
+伦理批准和知情同意:本研究涉及的所有试验均已通过青岛心血管
+病医院伦理委员会的审核批准(文件号2021-QFLX-001)。所有试
+验过程均遵照《青岛心血管病医院伦理标准》的条例进行。受试对象
+或其亲属已经签署知情同意书。
+作者声明:李婧媛、郭晓、曲凤霞参与了研究设计;李婧媛、李海英、辛
+越、周亚群参与了论文的写作和修改。所有作者均阅读并同意发表
+该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] 国家心血管病中心,中国心血管健康与疾病报告编写组,胡盛
+寿.中国心血管健康与疾病报告2023 概要[J].中国循环杂
+志,2024,39(7):625-660.
+[2] GIUSTINOG,COLOMBOA,CAMAJA,etal.Coronaryin-
+stentrestenosis[J].JAm CollCardiol,2022,80(4):348-372.
+[3] SAINIRK,CHAUDHURYS,SINGH N,etal.Depression,
+anxiety,andqualityoflifeafterpercuataneouscoronaryinter-
+ventions[J].IndPsychiatryJ,2022,31(1):6-18.
+[4] SHEPHARDRJ.Ahalf-centuryofevidence-basedcardiacre-
+habilitation:Ahistoricalreview[J].ClinJSportMed,2022,
+32(1):e96-e103.
+[5] SIMON M,KORN K,CHO L,etal.Cardiacrehabilitation:
+Aclass1recommendation[J].CleveClinJMed,2018,85(7):
+551-558.
+[6] YANG X Y,LIY D,REN X M,etal.Effectsofexercise-
+basedcardiacrehabilitationinpatientsafterpercutaneouscoro-
+naryintervention:A meta-analysisofrandomizedcontrolled
+trials[J].SciRep,2017,7:44789.
+[7] SHEN T,WANG Y W,RENC,etal.TheeffectsofCPET-
+guidedcardiacrehabilitationonexercisetoleranceinolderper-
+sonswithCHDafterPCI[J].SciRep,2023,13(1):19994.
+[8] 中华医学会心血管病学分会,中国康复医学会心肺预防与康复
+专业委员会,中华心血管病杂志编辑委员会.心肺运动试验临
+床规范应用中国专家共识[J].中华心血管病杂志,2022,50
+(10):973-986.
+[9] TOUSSAINT A,HÜSINGP,GUMZA,etal.Sensitivityto
+changeand minimalclinically important difference ofthe
+7-item Generalized AnxietyDisorderQuestionnaire (GAD-7)
+[J].JAffectDisord,2020,265:395-401.
+[10]LEVISB,BENEDETTIA,THOMBSBD,etal.Accuracyof
+PatientHealthQuestionnaire-9 (PHQ-9)forscreeningtode-
+tectmajordepression:Individualparticipantdatameta-analy-
+sis[J].BMJ,2019,365:11476.
+[11]WANGLL,MEIF,MIN M Y,etal.Adoptionofthecar-
+diopulmonaryexercisetestintheexerciseabilityandcardio-
+pulmonaryfunctionrehabilitationofcoronaryarterydisease
+(CAD)patients[J].BMC CardiovascDisord,2024,24(1):
+·
+6
+7
+1
+·
+
+精准医学杂志2025年4月第40卷第2期 JPrecisMed,April2025,Vol.
+40,No.
+2
+313.
+[12]KALAP,HUDAKOVA N,JURAJDA M,etal.Depression
+andanxietyafteracutemyocardialinfarctiontreatedbyprima-
+ryPCI[J].PLoSOne,2016,11(4):e0152367.
+[13]ZHOU Y,ZHU XP,SHIJJ,etal.Coronaryheartdisease
+anddepressionoranxiety:Abibliometricanalysis[J].Front
+Psychol,2021,12:669000.
+[14]MATTAVELLII,VIGNATIC,FARINA S,etal.Beyond
+VO2:Thecomplexcardiopulmonaryexercisetest[J].EurJ
+PrevCardiol,2023,30(Suppl2):
+ii34-ii39.
+[15]DUCHARMEJB,MCKENNAZ,NAVA RC,etal.Effect
+ofcardiorespiratoryfitnessonverifying VO2 maxin middle-
+agedandolderadults[J].IntJSportsMed,2022,43(9):791-
+796.
+[16]中华医学会心血管病学分会,中国康复医学会心血管病专业委
+员会,中国老年学学会心脑血管病专业委员会.冠心病康复与
+二级预防中国专家共识[J].中华心血管病杂志,2013,41(4):
+267-275.
+[17]DIBBEN G O,FAULKNERJ,OLDRIDGE N,etal.Exer-
+cise-basedcardiacrehabilitationforcoronaryheartdisease:A
+meta-analysis[J].EurHeartJ,2023,44(6):452-469.
+[18]程宇彤,刘佳悦,王宇娃,等.冠心病与抑郁的神经生物学相关
+性研究进展[J].国际精神病学杂志,2024,51(5):1377-1379,
+1396.
+[19]BRAVO-ESCOBARR,GONZÁLEZ-REPRESASA,GÓMEZ-
+GONZÁLEZA M,etal.Effectivenessofe-Healthcardiacre-
+habilitationprogram onqualityoflifeassociated withsymp-
+tomsofanxietyanddepressionin moderate-riskpatients[J].
+SciRep,2021,11(1):3760.
+[20]THOMAS R J.Cardiacrehabilitation-challenges,advances,
+andtheroadahead[J].NEnglJMed,2024,390(9):830-841.
+[21]中国心血管健康与疾病报告(2022)节选二:心血管病康复[J].
+心脑血管病防治,2023,23(8):5-11,35.
+[22]LIS W,XU H.Thedevelopmentofcardiacrehabilitationin
+China:Currentstatusandfutureperspectives[J].RevCardio-
+vascMed,2024,25(7):233.
+[23]JAHANDIDEHS,JAHANDIDEH M,BARZEGARIE.Indi-
+viduals'intentiontoengageinoutpatientcardiacrehabilitation
+programs:Predictionbasedonanenhanced model[J].JClin
+PsycholMedSettings,2021,28(4):798-807.
+[24]DIBBEN G O,FAULKNERJ,OLDRIDGE N,etal.Exer-
+cise-basedcardiacrehabilitationforcoronaryheartdisease:A
+meta-analysis[J].EurHeartJ,2023,44(6):452-469.
+[25]SHIELDSGE,ROWLANDSON A,DALALG,etal.Cost-
+effectivenessofhome-basedcardiacrehabilitation:Asystema-
+ticreview[J].Heart,2023,109(12):913-920.
+[26]NSON,NASSAR M,MBOMEY,etal.Comparativeassess-
+mentofthelong-term efficacyofhome-basedversuscenter-
+basedcardiacrehabilitation[J].Cureus,2022,14(3):e23485.
+(本文编辑 耿波)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第172页)
+[6] 杨学军,陈宏,李佳博,等.2021年世界卫生组织中枢神经系统
+肿瘤分类(第五版)整合及分层诊断解读[J].中国现代神经疾
+病杂志,2021,21(9):764-768.
+[7] 鲁彦,吕阿佩,樊丽丽.脑胶质瘤术后早期癫痫发生情况及相
+关影响因素研究[J].实用癌症杂志,2023,38(8):1291-1293.
+[8] MARKU M,RASMUSSENBK,BELMONTEF,etal.Pre-
+diagnosisepilepsyandsurvivalinpatientswithglioma:Ana-
+tionwidepopulation-basedcohortstudyfrom2009to2018[J].
+JNeurol,2022,269(2):861-872.
+[9] AVILA E K,TOBOCHNIK S,INATIS K,etal.Brain
+tumor-relatedepilepsy management:Asocietyforneuro-on-
+cology(SNO)consensusreviewoncurrentmanagement[J].
+NeuroOncol,2024,26(1):7-24.
+[10]LIL W,FANGSY,LIGZ,etal.Glioma-relatedepilepsyin
+patientswithdiffusehigh-gradegliomaafterthe2016 WHO
+update:Seizurecharacteristics,riskfactors,andclinicalout-
+comes[J].JNeurosurg,2021,136(1):67-75.
+[11]罗廷,陈玲,黄浩.酒精相关性癫痫的研究进展[J].中华老年
+心脑血管病杂志,2022,24(10):1114-1115.
+[12]方筱静,王薇薇,吴逊.酒、咖啡、烟对癫痫的影响[J].医学研
+究杂志,2016,45(1):184-186.
+[13]张迎春,何诚成,张兴国,等.卒中后癫痫发作预测模型的构建
+及危险因素分析[J].癫痫杂志,2024,10(4):313-319.
+[14]高婷婷,董亮,曾可斌.脑胶质瘤相关性癫痫治疗及预后的研
+究进展[J].现代医药卫生,2020,36(16):2577-2580.
+[15]CURRYR N,AIBAI,MEYERJ,etal.Gliomaepileptiform
+activityandprogressionaredrivenbyIGSF3-mediatedpotas-
+siumdysregulation[J].Neuron,2023,111(5):682-695.
+[16]张晓聪,马骏鹏,朱创业,等.脑胶质瘤术后早期癫痫发作相关
+危险因素的Logistic回归分析[J].肿瘤预防与治疗,2021,34
+(2):138-142.
+[17]盛博,陈炜.脑胶质瘤相关性癫痫治疗的研究进展[J].医学综
+述,2021,27(8):1528-1533.
+[18]张宇,何堃宇,冯世宇.脑胶质瘤诊疗进展[J].肿瘤防治研究,
+2022,49(6):528-534.
+[19]李德培,陈忠平.脑胶质瘤临床诊疗新进展[J].国际神经病学
+神经外科学杂志,2020,47(1):87-90.
+[20]张伟,王政.中国抗癌协会脑胶质瘤整合诊治指南(精简版)
+[J].中国肿瘤临床,2022,49(16):811-818.
+[21]YOU G,SHAZY,JIANGT.Clinicaldiagnosisandperiope-
+rativemanagementofglioma-relatedepilepsy[J].FrontOn-
+col,2021,10:550353.
+[22]VANDER MEERPB,TAPHOORN MJB,KOEKKOEKJ
+AF.Managementofepilepsyinbraintumorpatients[J].Curr
+OpinOncol,2022,34(6):685-690.
+(本文编辑 耿波)
+·
+7
+7
+1
+·

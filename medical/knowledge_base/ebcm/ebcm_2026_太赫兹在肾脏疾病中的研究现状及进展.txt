@@ -1,0 +1,632 @@
+标题: 太赫兹在肾脏疾病中的研究现状及进展
+作者: 超 刘, 意卉 施, 清华 陈, 睿 刘, 杨帆 吕, 哲毅 董, 权 洪
+期刊: 临床医药循证研究 2026 第2卷 第3期
+DOI: 10.65140/ebcm202603.31
+来源URL: https://www.pangupress.com/journal/ebcm/2/3/31
+
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+41
+DOI: 10.65140/ebcm202603.31
+通讯作者：洪权，redhq@163.com
+太赫兹在肾脏疾病中的研究现状及进展
+刘超1，施意卉2，陈清华1，刘睿3，吕杨帆4，董哲毅5，洪权5,*
+1 解放军69235 部队医院，新疆奎屯，833200
+2 新疆生产建设兵团第八师石河子市中心血站，新疆石河子，832000
+3 空军军医大学唐都医院重症医学科，陕西西安，710038
+4 陆军军医大学新桥医院病理科，重庆沙坪坝，400037
+5 解放军总医院第一医学中心肾脏病医学部，北京海淀，100853
+摘
+要：太赫兹技术作为介于微波与红外之间的新兴电磁波段，凭借非电离性、高分子指纹识别能力及对水分子和
+生物大分子振动模式的敏感性，在生物医学领域潜力巨大。本文综述其在肾脏疾病早期诊断、病理机制解析、药物
+递送辅助及光热治疗中的应用进展：太赫兹成像可实现肾纤维化微米级分辨率表征，光谱技术能无创区分蛋白尿类
+型、检测关键生物标志物并克服传统方法缺陷；在治疗层面可增强药物靶向递送效率，具备局部光热消融潜力。尽
+管面临穿透深度有限、成本高、临床数据缺乏等挑战，随着相关技术发展，其正迈向小型化、智能化与临床实用化，
+未来有望成为肾脏疾病精准诊疗的核心工具。
+关键词：太赫兹技术；肾脏疾病；生物标志物；太赫兹成像；太赫兹光谱；病理机制
+基金项目：博士后特别资助项目（2024T171187），博士后面上项目（2022M723899），陕西省重点研发计划（2023-
+YBSF-635），国家自然科学基金青年项目（82200780）
+Research Status and Progress of Terahertz Technology in Kidney Diseases
+LIU Chao¹, SHI Yihui², CHEN Qinghua¹, LIU Rui³, LV Yangfan⁴, DONG Zheyi⁵, HONG Quan⁵,*
+1Hospital of PLA Unit 69235, Kuitun, Xinjiang 833200, China
+2Shihezi Central Blood Bank, the 8th Division, Xinjiang Production and Construction Corps, Shihezi, Xinjiang 832000, China
+3Department of Critical Care Medicine, Tangdu Hospital of Air Force Medical University, Xi'an, Shaanxi 710038, China
+4Department of Pathology, Xinqiao Hospital of Army Medical University, Shapingba, Chongqing 400037, China
+5Department of Nephrology, the 1st Medical Center, Chinese PLA General Hospital, Haidian, Beijing 100853, China
+Abstract: Terahertz (THz) technology, as an emerging electromagnetic band between microwaves and infrared, possesses tremendous
+potential in biomedical fields owing to its non-ionizing nature, high molecular fingerprint recognition capability, and sensitivity to
+vibrational modes of water molecules and biological macromolecules. This review summarizes the application progress of THz
+technology in early diagnosis, pathological mechanism analysis, drug delivery assistance, and photothermal therapy of kidney diseases:
+THz imaging can achieve micrometer-level resolution characterization of renal fibrosis, while spectroscopic technology enables non-
+invasive differentiation of proteinuria types, detection of key biomarkers, and overcoming of limitations inherent in traditional methods;
+at the therapeutic level, it can enhance targeted drug delivery efficiency and holds potential for local photothermal ablation. Despite
+challenges including limited penetration depth, high cost, and insufficient clinical data, with ongoing technological advances, THz
+technology is progressing toward miniaturization, intelligence, and clinical practicality, and is expected to become a core tool for
+precision diagnosis and treatment of kidney diseases in the future.
+Keywords: terahertz technology; kidney diseases; biomarkers; terahertz imaging; terahertz spectroscopy; pathological mechanisms
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+42
+DOI: 10.65140/ebcm202603.31
+1.
+引言
+1.1 太赫兹技术概述
+太赫兹波通常定义为频率处于0.1 至10 THz
+区间（对应波长30 μm~3 mm）的电磁波，在电磁
+频谱中介于微波与红外波段之间。由于单光子能
+量仅约4.1 meV（以1 THz 为例），远低于化学键
+断裂阈值，因此不具备电离损伤能力，对生物组
+织具有较好的安全性[1]。该波段对水分子及极性
+分子的转动与振动模式具有显著响应，能够反映
+物质的微观结构及化学组分信息，这一特性被称
+为太赫兹“分子指纹”效应[2,3]。在成像方面，太赫
+兹系统可达到亚毫米乃至微米量级的空间分辨率，
+叠加光谱分辨能力后可实现多参数同时成像[2]。
+从技术体系来看，太赫兹手段主要分为光谱
+测量与成像两大类。其中，太赫兹时域光谱（THz-
+TDS）通过记录超短脉冲的时域响应来提取样品
+的光学常数，而衰减全反射（THz-ATR）光谱则针
+对液体和薄膜样品具有更高的检测灵敏度。
+1.2 肾脏疾病研究现状
+肾脏是人体重要排泄和内分泌器官，慢性肾
+脏病（CKD）已成为全球重大公共卫生问题，全
+球受影响人数超7.5 亿，病因复杂且进展隐匿，晚
+期需依赖透析或肾移植[6,7]。
+针对肾脏疾病的诊断手段当前存在明显局限，
+例如超声对早期肾实质病变敏感性低，CT 有电离
+辐射，MRI 设备昂贵。虽然肾活检作为“金标准”，
+但是是有创操作，存在相应并发症及取样误差[8]。
+在肾脏病治疗方面，现有的手段主要为对症
+处理，如控制危险因素、终末期替代治疗等，缺乏
+特效药物治疗。
+2
+太赫兹技术在肾脏疾病诊断中的应用
+2.1 太赫兹成像技术
+太赫兹显微探针系统以20 微米分辨率扫描，
+通过羟脯氨酸含量及空间分布刻画肾纤维化范围
+和程度[5]，弥补了传统病理染色在定量分析上的
+不足。THz-TDS 成像还可定量分析组织含水量，
+为水代谢紊乱相关肾病提供实时水分布信息[10]。
+太赫兹近场纳米成像将分辨率推进至纳米尺
+度，基于石墨烯介导的THz sSNOM 技术已实现
+对单个蛋白质分子的成像观测[12]，为追踪肾脏疾
+病相关蛋白质构象变化开辟了新窗口。THz-ATR
+成像可动态监测细胞膜通透性，已用于研究皂苷
+对MDCK 细胞膜的作用[13]及药物对肾细胞膜的
+影响[9]。
+太赫兹超材料与微流控传感芯片结合可提升
+检测灵敏度。一种新型传感芯片在1.5-3.0 THz 频
+段内具有三个共振吸收峰，吸收强度超90%，已
+成功区分正常细胞与癌细胞[14]，有望用于微量肾
+脏疾病标志物的高灵敏度检测。
+2.2 太赫兹光谱技术
+太赫兹光谱检测的基本思路是测量样品对太
+赫兹波的特征吸收谱，从中提取分子种类、构象
+及分子间相互作用等化学信息。其物理本质是太
+赫兹光场驱动分子发生低频集体振动模式，由此
+产生具有样品特异性的“分子指纹”谱。
+2.2.1 尿液生物标志物检测
+THz-TDS 对氢键变化高度敏感，可区分蛋白
+尿与非蛋白尿样本。在0.5-1.2 THz 频段内，尿蛋
+白浓度与光谱吸收呈正相关[2]。1.0 THz 处pH 值
+（6-9）对吸收光谱影响不显著，克服了传统试纸
+条法的pH 干扰问题。高分子量蛋白质（如白蛋白）
+吸收强度大于低分子量蛋白质（如β2-微球蛋白），
+可据此判断肾小球滤过膜损伤程度[2]。
+2.2.2 血液及组织代谢物检测
+太赫兹光谱结合频域分析揭示了抗氧化剂介
+导肌酐水平降低的机制：NAC 和ASC 与肌酐形
+成氢键复合物后发生无势垒质子转移生成肌酸离
+子，为高肌酐血症治疗提供理论依据[15]。太赫兹
+光谱结合低温干燥预处理已实现同型半胱氨酸定
+量检测，检测限10 µmol/L，线性相关性优于拉曼
+光谱[16]。
+太赫兹高分辨率气体光谱发现糖尿病与非糖
+尿病大鼠肾脏组织热分解气体产物存在明显差异，
+丙酮为主要标志物，为糖尿病肾病诊断提供代谢
+组学证据。太赫兹光谱已用于研究肾脏离子通道
+功能，成功区分天然与受抑制状态的ENaC 通道，
+为离子通道相关疾病药物筛选开辟新途径[17]。
+2.3 与传统诊断技术的对比
+2.3.1 与生化检测方法的对比
+传统试纸条法操作简便但属半定量且易受干
+扰。THz-TDS 不受pH 值影响且能区分不同分子
+量蛋白质，但灵敏度、稳定性和设备成本短期内
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+43
+仍制约其替代试纸条法[2]。
+传统HPLC 法测尿酸步骤繁琐，THz-TDSE 检
+测快速、特异性强，在大规模筛查中应用前景较
+好[3]。太赫兹光谱检测同型半胱氨酸检测限达10
+µmol/L，线性相关性优于传统方法，但对样品量
+和水分控制有要求[34]。
+2.3.2 与影像学检查的对比
+常规超声检查对早期肾实质病变的敏感性不
+足，而太赫兹显微成像却能够更早捕捉到肾纤维
+化的变化迹象，不过其穿透深度仍然有限[5]。其他
+检查手段如CT 检查存在电离辐射风险，MRI 则
+耗时且费用较高。但是从临床应用角度看，太赫
+兹成像与传统影像手段之间更多是互补关系，通
+过多种数据的融合有望提升对肾脏疾病评估的全
+面性[18]。
+2.3.3 与肾活检的对比
+肾活检虽然是诊断肾脏疾病的“金标准”，但
+是是有创的，并且存在取样误差。太赫兹技术能
+够以无创方式快速评估纤维化的程度和范围，同
+时还可提供分子水平的辅助病理分型信息[5]，并
+通过动态监测治疗效果来减少反复活检的需求。
+不过太赫兹技术目前尚无法获取细胞形态学细节，
+因此需要与传统病理检查相结合，提高诊断准确
+率。
+3
+太赫兹技术在肾脏疾病治疗中的探索
+3.1 太赫兹辅助药物递送
+太赫兹波与生物分子低频振动模式能够改变
+细胞膜的理化性质，从而促进药物的跨膜转运[9]。
+在药物递送器件方面，可植入降解的太赫兹超材
+料器件能够实时监测药物释放过程[19]，这一特性
+使其适用于肾脏局部的精准给药。
+在药物定量检测方面，太赫兹光谱法已经实
+现了对利伐沙班的快速定量检测，检测限为2
+μmol/mL，检测时间仅需1 分钟[20]，这种方法可用
+于指导CKD 患者的个体化剂量调整。此外，反射
+光谱技术能够穿透片剂定量分析药物含量[21]。
+3.2 太赫兹光热治疗
+太赫兹光热治疗通过热消融和免疫激活杀伤
+癌细胞。33 THz 辐射可抑制端粒酶活性降低癌细
+胞致瘤性[22]，适用于肾细胞癌。太赫兹响应性纳
+米材料与靶向分子结合可提高病变组织选择性富
+集和光热转换效率[23,24]，有望实现“诊断-治疗一体
+化”。
+太赫兹调制红外辐射可改善局部血流动力学
+[25]。0.1 THz 辐射上调VEGF 表达促进血管生成
+[26]，有望用于肾缺血再灌注损伤或肾移植后组织
+修复，减少肾小管上皮细胞凋亡和纤维化以改善
+预后。
+4
+太赫兹技术在肾脏病理机制研究中的作用
+4.1 肾脏组织分子指纹分析
+太赫兹技术能够获取肾脏组织的“分子指纹”
+信息，反映其病理生理状态，从而为病理机制研
+究提供多角度的分析手段。
+THz-ATR 技术揭示了皂苷导致MDCK 细胞
+膜通透化机制[13]。太赫兹光谱还可实时监测PDT
+诱导的细胞膜通透化早期事件，给出膜表面缺陷
+数量信息，这是常规方法难以达到的[9]。
+太赫兹光谱成像可测量肾脏组织含水量[10]，
+虽肾脏结构复杂导致偏差但仍有应用前景。该技
+术还可探测生物分子水合壳层结构，捕捉蛋白质
+聚集过程中水合状态变化[27]，为理解蛋白尿病理
+过程提供参考。
+4.2 病理模型构建与验证
+借助太赫兹微探针系统在20 微米尺度上的
+扫描能力，研究人员能够依据羟脯氨酸的空间分
+布情况对纤维化区域进行精确定位与定量刻画[5]，
+这一功能有效弥补了常规生化检测方法无法提供
+空间分布信息的不足。此外，利用太赫兹高分辨
+率光谱技术，可以辨识糖尿病肾病模型组织在热
+分解产物上的代谢差异[28]。实验观察表明，经甘
+油处理的糖尿病样品在太赫兹波段下的透明效率
+明显低于正常样品，这一现象提示疾病状态会对
+组织的光学特性产生影响。
+5
+挑战与未来展望
+5.1 技术挑战
+太赫兹技术走向临床应用之前，若干瓶颈问
+题尚待解决。硬件层面最为突出：现有太赫兹光
+源的输出功率、频率覆盖范围和长期稳定性均难
+以满足活体组织检测需求，而水分子在太赫兹波
+段的强吸收又进一步压低了信噪比[29]。探测器方
+面，响应速度和灵敏度的不足直接制约了实时成
+像与动态监测的开展。与此同时，空间分辨率与
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+44
+穿透深度之间的固有矛盾尚未找到妥善的折中方
+案——近场技术虽然能够突破衍射极限，但操作
+流程复杂且扫描范围有限；太赫兹波在生物组织
+中的穿透深度仅停留在数百微米至毫米量级，对
+于肾脏这类位置较深的实质器官，无创成像仍存
+在相当大的困难[30]。
+水分子强吸收不仅是信噪比问题的根源，也
+是干扰目标分子信号的主要因素。生物样品本身
+组成复杂且处于动态变化之中，这给光谱数据的
+解读和成像结果的判读都带来了不小的挑战[2,16]。
+工程实现方面，当前系统多采用逐点扫描方式，
+成像速度偏慢，加之设备体积庞大、造价昂贵，距
+小型化和床旁使用尚有较大距离[31]。
+数据处理同样是一个亟待突破的环节。太赫
+兹测量数据维数高、结构复杂，虽然引入深度学
+习等AI 算法是一条可行的路径，但高质量标注数
+据集的匮乏以及已有模型在跨平台、跨样本条件
+下泛化能力的不足，使得这一方向的实际落地仍
+面临不少障碍[5,11]。
+5.2 未来研究方向
+从硬件研发角度看，提高太赫兹光源的输出
+功率和频率可调范围、改善探测器量子效率以及
+发展集成化成像架构，是提升系统整体性能的关
+键所在。在应用模式创新方面，将太赫兹检测与
+超声、MRI、质谱乃至基因测序等手段融合，构建
+多尺度、多参数的联合表征方案，有望弥补单一
+模态信息维度不足的缺陷，从而提高肾脏疾病评
+估的准确性[32]。治疗应用层面，太赫兹在微创消
+融和异常蛋白沉积调控中的潜在价值值得深入探
+索[33,34]，而肾脏靶向药物递送系统的优化与实时
+疗效监控也是可着力方向[4]。
+基础研究方面，借助太赫兹技术追踪病理因
+素对肾脏细胞的早期影响、在动物模型上动态监
+测疾病进展轨迹[35]，并引入肾脏类器官模型开展
+药物筛选和个体化治疗评估[36]，将有助于弥补现
+有病理模型在模拟人体环境方面的不足。
+此外，可利用机器学习算法实现太赫兹光谱
+数据的自动特征提取和疾病分类、预测模型构建，
+并建立标准化、多中心的太赫兹医学数据库，来
+挖掘疾病亚型分类依据和治疗响应预测因子[37]。
+6
+结论
+基于太赫兹的显微成像和光谱检测已初步证
+明其在肾纤维化定量评估、蛋白尿分型、尿酸及
+同型半胱氨酸等标志物检测中的可行性。同时也
+需要看到，现有研究多停留在实验室阶段，样本
+量有限，距离临床常规应用仍有不小距离。穿透
+深度不足、水分子干扰、设备小型化困难以及标
+准化数据集的缺失，都是后续需要逐一克服的问
+题。
+【参考文献】
+[1]
+Yu Liu, Hao Liu, Meiqiong Tang, et al. The
+medical application of terahertz technology in non-
+invasive
+detection
+of
+cells
+and
+tissues:
+opportunities and challenges[J]. RSC Advances,
+2019, 9(17): 9354-9363. doi:10.1039/c8ra10605c.
+[2]
+Zhenrui Xue, Ping Mao, Ping Peng, et al. Terahertz
+spectra of
+proteinuria
+and
+non-proteinuria[J].
+Frontiers in Bioengineering and Biotechnology,
+2023,
+11:
+1119694.
+doi:10.3389/fbioe.2023.1119694.
+[3]
+Zahra Mazaheri, Giorgia Federico, Can Koral, et al.
+Fast Detection of Uric Acid in Urine for Early
+Diagnosis Using THz Polarized Waves[J]. Sensors
+(Basel),
+2025,
+25(4):
+1004.
+doi:10.3390/s25041004.
+[4]
+Sharma Naveen, Duvuri Swetha, Rastogi Ashu, et
+al. In-vivo reflection terahertz imaging for non-
+invasive skin diagnostics: a topical review[J].
+Biomedical physics & engineering express, 2025,
+11(6). doi:10.1088/2057-1976/ae1038.
+[5]
+Han Li, Jiarong Ding, Huan Zhang, et al. The
+Spatial Distribution of Renal Fibrosis Investigated
+by Micro-probe Terahertz Spectroscopy System[J].
+Diagnostics
+(Basel),
+2022,
+12(7):
+1602.
+doi:10.3390/diagnostics12071602.
+[6]
+Deng Li-Er, Guo Manli, Deng Yijun, et al. MOF-
+Based Platform for Kidney Diseases: Advances,
+Challenges, and Prospects[J]. Pharmaceutics, 2024,
+16(6). doi:10.3390/pharmaceutics16060793.
+[7]
+Chu Chenling, Behera Tapas, Huang Ying, et al.
+Research progress of gut microbiome and diabetic
+nephropathy[J]. Frontiers in Medicine, 2024, 11:
+1490314. doi:10.3389/fmed.2024.1490314.
+[8]
+Granata Antonio, Distefano Giulio, Maccarrone
+Rosario, et al. Quantitative imaging in nephrology:
+limits
+and
+potentials
+of
+elastosonography[J].
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+45
+Giornale italiano di nefrologia, 2022, 39(4).
+[9]
+Xiujun Zheng, Blandine Lordon, Anne-Françoise
+Mingotaud, et al. Terahertz Spectroscopy Sheds
+Light on Real-Time Exchange Kinetics Occurring
+through Plasma Membrane during Photodynamic
+Therapy Treatment[J]. Advanced Science, 2023,
+10(18): e2300589. doi:10.1002/advs.202300589.
+[10] Kyumin Lee, Kiyong Jeoung, Sang Hoon Kim, et
+al. Measuring water contents in animal organ
+tissues using terahertz spectroscopic imaging[J].
+Biomedical Optics Express, 2018, 9(4): 1582-1589.
+doi:10.1364/BOE.9.001582.
+[11] Chen Junren, Chen Rui, Chen Liangyin, et al.
+Kidney
+medicine
+meets
+computer
+vision:
+a
+bibliometric analysis[J]. International Urology and
+Nephrology,
+2024,
+56(10):
+3361-3380.
+doi:10.1007/s11255-024-04082-w.
+[12] Yang Zhongbo, Tang Dongyun, Hu Jiao, et al.
+Near-Field
+Nanoscopic Terahertz
+Imaging
+of
+Single Proteins[J]. Small, 2020, 17(3): e2005814.
+doi:10.1002/smll.202005814.
+[13] Xiujun Zheng, Guilhem Gallot. Dynamics of Cell
+Membrane Permeabilization by Saponins Using
+Terahertz
+Attenuated
+Total
+Reflection[J].
+Biophysical
+Journal,
+2020,
+119(4):
+749-755.
+doi:10.1016/j.bpj.2020.05.040.
+[14] Zhang Yuan, Jia Keke, Ge Hongyi, et al. A Novel
+Terahertz Metamaterial Microfluidic Sensing Chip
+for Ultra-Sensitive Detection[J]. Nanomaterials,
+2024, 14(13). doi:10.3390/nano14131150.
+[15] Subhadip
+Chakraborty,
+Indrani
+Bhattacharya,
+Rajib Kumar Mitra. Solvation Plays a Key Role in
+Antioxidant-Mediated Attenuation of Elevated
+Creatinine Level: An In Vitro Spectroscopic
+Investigation[J].
+The
+Journal
+of
+Physical
+Chemistry
+B,
+2023,
+127(40):
+8576-8585.
+doi:10.1021/acs.jpcb.3c05334.
+[16] Wang Liping, Wu Xu, Peng Yan, et al. Quantitative
+analysis of homocysteine in liquid by terahertz
+spectroscopy[J]. Biomedical Optics Express, 2020,
+11(5): 2570-2577. doi:10.1364/BOE.391894.
+[17] Mernea Maria, Ulăreanu Roxana, Cucu Dana, et al.
+Epithelial
+Sodium
+Channel
+Inhibition
+by
+Amiloride Addressed with THz Spectroscopy and
+Molecular Modeling[J]. Molecules, 2022, 27(10).
+doi:10.3390/molecules27103271.
+[18] Yin Xiao-Xia, Hadjiloucas Sillas, Zhang Yanchun,
+et al. Pattern identification of biomedical images
+with time series: Contrasting THz pulse imaging
+with
+DCE-MRIs[J]. Artificial
+Intelligence
+in
+Medicine,
+2016,
+67:
+1-23.
+doi:10.1016/j.artmed.2016.01.005.
+[19] Sun Long, Zhou Zhitao, Zhong Junjie, et al.
+Implantable, Degradable, Therapeutic Terahertz
+Metamaterial Devices[J]. Small, 2020, 16(17):
+e2000294. doi:10.1002/smll.202000294.
+[20] Wu Xu, Wang Liping, Peng Yan, et al. Quantitative
+analysis of direct oral anticoagulant rivaroxaban by
+terahertz spectroscopy[J]. Analyst, 2020, 145(11):
+3909-3915. doi:10.1039/d0an00268b.
+[21] Hisazumi
+Jin,
+Watanabe
+Tomoyuki,
+Suzuki
+Tatsuya,
+et
+al.
+Using
+terahertz
+reflectance
+spectroscopy
+to
+quantify
+drug
+substance
+in
+tablets[J]. Chemical & Pharmaceutical Bulletin,
+2012, 60(12): 1487-1493. doi:10.1248/cpb.c12-
+00524.
+[22] Yin Junkai, Wu Kaijie, Yu Yun, et al. Terahertz
+Photons Inhibit Cancer Cells Long Term by
+Suppressing Nano Telomerase Activity[J]. ACS
+Nano,
+2024,
+18(6):
+4796-4810.
+doi:10.1021/acsnano.3c09216.
+[23] Yang Ke, Huang Honghao, Zhang Xiaoqiuyan, et
+al. MXene-Powered Terahertz Metamaterials as a
+Real-Time
+Biosensing
+Platform
+for
+In
+Vivo
+Thrombus Monitoring[J]. Advanced Materials,
+2025, e07063. doi:10.1002/adma.202507063.
+[24] Ma Jiali, Wang Junju, He Hong, et al. Rapid and
+Early
+Detection
+of
+Bacteremia
+and
+In
+Situ
+Elimination
+by
+Graphene
+Hybrid
+Terahertz
+Metasurfaces with CuS Nanoparticles[J]. ACS
+Nano,
+2025,
+19(31):
+28588-28601.
+doi:10.1021/acsnano.5c07889.
+[25] A. I. Ageeva, A. G. Kulikov, S. A. Volovets, et al.
+Gonarthrosis concurrent with
+chronic venous
+insufficiency: a new look at therapy[J]. Voprosy
+kurortologii, fizioterapii, i lechebnoi fizicheskoi
+kultury,
+2019,
+96(5):
+29-35.
+doi:10.17116/kurort20199605129.
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+46
+[26] Liu
+Li,
+Geng
+Shaohui,
+Jiang
+Yijin,
+et
+al.
+Noninvasive Terahertz Therapy Promoted Bone
+Regeneration via Localized Angiogenesis in a Pre-
+Clinical
+Tibial
+Defect
+Model[J].
+Photobiomodulation, photomedicine, and laser
+surgery,
+2025,
+43(9):
+417-424.
+doi:10.1177/15578550251363058.
+[27] Wang Pengfei, Wang Xiangchao, Liu Liyuan, et al.
+The Hydration Shell of Monomeric and Dimeric
+Insulin
+Studied
+by
+Terahertz
+Time-Domain
+Spectroscopy[J].
+Biophysical
+Journal,
+2019,
+117(3): 533-541. doi:10.1016/j.bpj.2019.06.028.
+[28] Anastasiya A. Lykina, Vladimir A. Anfertev, Elena
+G. Domracheva, et al. Terahertz high-resolution
+spectroscopy
+of
+thermal
+decomposition
+gas
+products of diabetic and non-diabetic blood plasma
+and kidney tissue pellets[J]. Journal of Biomedical
+Optics,
+2021,
+26(4):
+043008.
+doi:10.1117/1.JBO.26.4.043008.
+[29] Wang
+Haiqing,
+Shi
+Wei,
+Hou
+Lei,
+et
+al.
+Quantitative analysis of aqueous biomolecular
+mixtures by THz spectroscopy based on high-
+power
+LiNbO3
+radiation
+source[J].
+Spectrochimica Acta
+Part A.
+Molecular
+and
+Biomolecular
+Spectroscopy, 2022, 287(Pt 2):
+122075. doi:10.1016/j.saa.2022.122075.
+[30] Wang Jiarui, Stantchev Rayko, Sun Qiushuo, et al.
+THz in vivo measurements: the effects of pressure
+on skin reflectivity[J]. Biomedical Optics Express,
+2018,
+9(12):
+6467-6476.
+doi:10.1364/BOE.9.006467.
+[31] Kim Steven, Roy Shuvo. Microelectromechanical
+systems and nephrology: the next frontier in renal
+replacement technology[J]. Advances in Chronic
+Kidney
+Disease,
+2013,
+20(6):
+516-535.
+doi:10.1053/j.ackd.2013.08.006.
+[32] Jiang Buchun, Liu Fei, Fu Haidong, et al.
+Advances in imaging techniques to assess kidney
+fibrosis[J]. Renal Failure, 2023, 45(1): 2171887.
+doi:10.1080/0886022X.2023.2171887.
+[33] Shi Shenggan, Yuan Shuqin, Zhou Jun, et al.
+Terahertz technology and its applications in head
+and
+neck
+diseases[J]. iScience, 2023, 26(7):
+107060. doi:10.1016/j.isci.2023.107060.
+[34] Shang Sen, Zhao Xiaofei, Zhang Qi, et al. Potential
+Therapeutic Effects of Terahertz Radiation on
+Alzheimer's Disease-like Pathology in the Tau
+Transgenic Caenorhabditis elegans Model[J]. ACS
+Chemical Neuroscience, 2025, 16(9): 1710-1719.
+doi:10.1021/acschemneuro.4c00666.
+[35] Osafune
+Kenji.
+iPSC
+technology-based
+regenerative medicine for
+kidney diseases[J].
+Clinical and Experimental Nephrology, 2021,
+25(6): 574-584. doi:10.1007/s10157-021-02030-x.
+[36] Mao Runqi, Zhang Junming, Qin Haoxiang, et al.
+Application
+progress
+of
+bio-manufacturing
+technology in kidney organoids[J]. Biofabrication,
+2025, 17(2). doi:10.1088/1758-5090/adb4a1.
+[37] Liu Z. Artificial intelligence: a new journey in
+nephrology[J]. Zhonghua yi xue za zhi, 2023,
+103(18): 1355-1358. doi:10.3760/cma.j.cn112137-
+20221201-02537.

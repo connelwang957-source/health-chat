@@ -1,0 +1,772 @@
+标题: 局部晚期食管癌免疫治疗的研究进展
+作者: 王瑞丰, 郭天慧, 王琪, 高文, 王海冀, 张碧媛
+期刊: 精准医学杂志 2026 第41卷 第1期
+DOI: 10.13362/j.jpmed.202641020
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202641020
+
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+doi:10.
+13362/j.
+jpmed.
+202641020  文章编号:2096-529X(2026)01-0076-07
+·综述·
+[收稿日期]2025-05-09; [修订日期]2025-10-13
+[基金项目]吴阶平医学基金临床研究项目(320.
+6750.
+2023-17-
+30)
+[通信作者]张碧媛,Email:biyuanzhang@qdu.
+edu.
+cn;王海冀,
+Email:wanghaiji@qdu.
+edu.
+cn
+局部晚期食管癌免疫治疗的研究进展
+王瑞丰 郭天慧 王琪 高文 王海冀 张碧媛
+(青岛大学附属医院肿瘤放疗科,山东青岛 266035)
+[摘要] 食管癌是一种高发病率和致死率的恶性肿瘤,患者在确诊时多已处于局部晚期,常规标准治疗方案
+如根治性同步放化疗(dCRT)在疗效上仍存在局限性。免疫治疗可激活系统性抗肿瘤免疫应答,其与dCRT 的联
+合应用可进一步放大抗肿瘤效应,在局部晚期食管癌的治疗中发挥重要作用。免疫治疗联合dCRT 正逐渐成为食
+管癌综合治疗体系的关键组成部分,然而其最优联合模式尚未明确,具体作用仍有待大样本临床试验及长期随访
+数据进一步验证。本文从免疫治疗的抗肿瘤机制、免疫治疗效果预测生物标志物、免疫治疗与dCRT 联合治疗模
+式的临床应用等方面,对免疫治疗在局部晚期食管癌中的研究进展进行系统性综述,并对免疫联合治疗的未来研
+究方向进行展望,以期为局部晚期食管癌治疗策略的优化提供依据。
+[关键词] 食管肿瘤;免疫疗法;免疫检查点抑制剂;放化疗,辅助;生物标记,肿瘤;肿瘤微环境;综述
+[中图分类号] R735.
+1;R730.
+5    [文献标志码] A
+Researchadvancesinimmunotherapyforlocallyadvancedesophagealcancer WANGRuifeng,GUOTian-
+hui,WANGQi,GAO Wen,WANG Haiji,ZHANGBiyuan (DepartmentofRadiationOncology,TheAffiliatedHospitalof
+QingdaoUniversity,Qingdao266035,China)
+[ABSTRACT] Esophagealcancerisamalignancywithhighincidenceandmortalityrates,andmostpatientsarealreadyatlo-
+callyadvancedstageatdiagnosis.Conventionalstandardtreatments,suchasdefinitiveconcurrentchemoradiotherapy(dCRT),still
+havelimitationsinefficacy.Immunotherapycanactivatesystemicantitumorimmuneresponse,anditscombinationwithdCRTcan
+furtheramplifyantitumoreffects,playinganimportantroleinthetreatmentoflocallyadvancedesophagealcancer.Immunotherapy
+combinedwithdCRTisgraduallybecomingakeycomponentofcomprehensivetreatmentstrategiesforesophagealcancer;howe-
+ver,theoptimalcombinationapproachremainsunclear,anditsspecificbenefitsrequirefurtherconfirmationthroughlarge-sample
+clinicaltrialsandlong-termfollow-updata.Thisreviewsystematicallysummarizestheresearchadvancesinimmunotherapyforlo-
+callyadvancedesophagealcancerfromtheperspectivesofantitumormechanisms,predictivebiomarkersofimmunotherapyeffica-
+cy,andclinicalapplicationsofimmunotherapycombinedwithdCRT,anddiscussesfutureresearchdirectionsforcombinationim-
+munotherapy,withtheaimofprovidingabasisforoptimizingtreatmentstrategiesforlocallyadvancedesophagealcancer.
+[KEY WORDS] Esophagealneoplasms;Immunotherapy;Immunecheckpointinhibitors;Chemoradiotherapy,adjuvant;
+Biomarkers,tumor;Tumormicroenvironment;Review
+  食管癌是一种发病率和死亡率均较高的消化道恶性肿
+瘤。2022年,全球食管癌新发病例约51.
+1万例,死亡病例达
+44.
+5万例[1]。在中国,食管鳞癌(ESCC)为最常见的病理类
+型,而食管腺癌(EAC)在欧美地区更为常见。受限于其复杂
+的解剖结构和高侵袭性,大多数食管癌患者确诊时已处于局
+部晚期阶段,治疗难度大且复发率高。根治性同步放化疗
+(dCRT)是美国国立综合癌症网络及中国临床肿瘤学会指南
+所推荐的针对不可切除局部晚期食管癌患者的标准治疗方
+案[2-3],但接受dCRT 治疗患者的5年生存率仅约20%
+[4]。
+免疫检查点抑制剂(ICIs)通过激活抗肿瘤免疫反应,在
+多种肿瘤中展现出卓越疗效,并与化/放疗具有协同作用。
+在晚期食管癌中,ICIs表现出较好的疗效与良好的安全性,
+已成为肿瘤系统治疗中的重要组成部分[5]。多项小样本试
+验结果显示,ICIs与dCRT 联合治疗对于局部晚期ESCC 具
+有良好的临床应用前景[6],但最佳模式尚未明确。此外,免
+疫治疗在实体瘤患者中存在个体差异,相关生物标志物的探
+索有助于个体化治疗的实现,对于提高患者的治疗反应和生
+活质量具有重要意义。本文从免疫治疗的抗肿瘤机制、免疫
+治疗效果预测生物标志物、免疫治疗与dCRT 联合治疗模式
+的临床应用等方面,对免疫治疗在局部晚期食管癌中的研究
+进展进行系统性综述,并对免疫联合治疗的未来研究方向进
+行展望,以期为局部晚期食管癌治疗策略的优化提供依据。
+1 免疫治疗的抗肿瘤机制
+ICIs可通过阻断肿瘤微环境(TME)中程序性死亡受体-
+1(PD-1)/程序性死亡配体-1(PD-L1)、细胞毒性T 淋巴细胞
+相关抗原-4(CTLA-4)以及淋巴细胞激活基因3(LAG-3)等
+免疫检查点分子介导的免疫抑制通路,有效逆转肿瘤抗原特
+异性T 细胞的功能抑制,恢复其活化状态与增殖能力,促进
+其向肿瘤组织的浸润,并通过诱导其克隆性扩增促进系统性
+·
+6
+7
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+抗肿瘤免疫应答。此外,免疫治疗可促进免疫记忆细胞的形
+成。研究表明,接受新辅助治疗并实施手术的患者,其外周
+血中可持续检测到肿瘤抗原特异性T 细胞,提示免疫治疗
+具备清除术后残余肿瘤细胞的潜力[7]。
+  放化疗(CRT)与ICIs的联合应用可进一步放大抗肿瘤
+免疫效应。其中,化疗可通过诱导免疫原性细胞死亡、抑制
+免疫抑制细胞功能以及促进树突状细胞(DCs)活化,从而阻
+断肿瘤的免疫逃逸机制并增强其抗肿瘤免疫反应[8]。放疗
+可通过直接诱导DNA 双链断裂介导细胞毒性,从而发挥与
+ICIs的协同抗肿瘤作用;此外,放疗还可通过促进肿瘤抗原
+和损伤相关分子模式的释放,激活干扰素信号通路,诱导Ⅰ
+型和Ⅱ型干扰素的表达,前者可增强DCs的募集与成熟,后
+者可上调DCs中主要组织相容性复合体Ⅰ类(MHC-Ⅰ)分
+子的表达,两者协同激活抗肿瘤免疫应答[9-10]。
+2 食管癌免疫治疗效果预测的生物标志物
+食管癌具有较高的免疫原性,可表达特异性肿瘤抗原,
+因而被认为是高度适合免疫治疗的肿瘤类型。在疾病早期
+阶段,食管癌细胞即可触发显著的抗肿瘤免疫反应。肿瘤治
+疗的疗效预测生物标志物黑色素瘤相关抗原A、癌睾抗原
+NY-ESO-1、Y 染色体睾丸特异性蛋白基因2和苏氨酸-酪氨
+酸激酶等,在包括食管癌在内的多种肿瘤中均表达上调,在
+介导肿瘤抗原识别并激活特异性免疫应答的过程中发挥重
+要作用。近年来,ICIs在晚期及局部晚期ESCC 治疗中显示
+出良好疗效,但存在显著个体差异,ICIs疗效预测生物标志
+物的检测可有效指导个体化精准治疗。目前针对食管癌的
+常见生物标志物包括PD-L1、肿瘤突变负荷(TMB)、微卫星
+高度不稳定(MSI-H)或错配修复缺陷(MSI-H/dMMR)、肿
+瘤浸润淋巴细胞(TILs)等,均具有一定的预后预测价值。
+2.
+1 肿瘤细胞相关生物标志物
+PD-1主要表达于肿瘤浸润性免疫细胞,其配体PD-L1
+则主要表达于抗原呈递细胞和肿瘤细胞,两者结合会负向调
+控T 细胞功能,从而抑制抗肿瘤免疫应答。使用单克隆抗
+体阻断PD-1/PD-L1的结合可有效改善抗原呈递效率及T
+细胞对抗原刺激的应答能力,进而增强抗肿瘤免疫应答。
+PD-L1的表达水平被广泛用作预测PD-1/PD-L1 阻滞剂的
+临床疗效,其预测价值已在多种实体瘤中得到验证[11-12]。多
+项Ⅲ期临床研究表明,ICIs联合化疗可为PD-L1 高表达的
+晚期食管癌患者带来更显著的生存获益[13-14];帕博利珠单抗
+联合化疗可显著改善PD-L1
++ 晚期食管癌患者的无进展生
+存期(PFS)和总生存期(OS)[5];少量小样本研究提示,PD-
+L1高表达可能与接受免疫治疗的局部晚期食管癌患者预后
+改善相关[15-16]。然而,同样有多项Ⅲ期临床研究结果显示,
+PD-L1表达水平的高低不会影响食管癌患者的免疫治疗效
+果[13-14,17-18]。因此,PD-L1对于食管癌ICIs治疗预后的预测
+价值仍存在争议。一方面,PD-L1的表达具有时间动态性,
+放疗、化疗及靶向治疗均可诱导肿瘤细胞及抗原呈递细胞的
+PD-L1表达上调[19-20];另一方面,PD-L1的表达在原发灶与
+转移灶之间以及同一病灶不同取材区域之间存在空间异质
+性,可能导致检测结果不一致[21]。因此,PD-L1对于食管癌
+ICIs治疗预后的预测价值仍需大样本临床试验进一步验证。
+微卫星不稳定性(MSI)指由错配修复(MMR)功能异常
+导致的基因组短串联重复序列变异,当超过30% ~40% 的
+标志物发生突变时,肿瘤被定义为MSI-H。MSI-H 可促进
+肿瘤新抗原生成,增强T 细胞增殖与活化,进而提高肿瘤对
+免疫治疗的敏感性,故被视为预测免疫治疗疗效的重要生物
+标志物。自2017年美国食品药品监督管理局(FDA)批准帕
+博利珠单抗用于不可切除或转移性MSI-H 实体瘤治疗以
+来,MSI-H/dMMR 已成为指导免疫治疗的伴随诊断指标之
+一。然而,尽管MSI-H 在结直肠癌、胃癌和子宫内膜癌等多
+种恶性肿瘤中相对常见,但在食管癌中的发生率极低,尤其
+在ESCC中几乎未见表达。有研究数据显示,MSI-H 在胃
+癌、食管胃结合部(GEJ)腺癌、EAC 及ESCC 中的发生率分
+别为7.
+0%、4.
+0%、0.
+4% 和0
+[22]。上述研究表明,MSI-H 作
+为生物标志物在食管癌免疫治疗效果预测中的适用性和有
+效性仍需更多研究进行验证。
+TMB指肿瘤细胞基因组编码区(通常为外显子区域)的
+体细胞非同义突变总数。近年来,TMB 逐渐成为预测免疫
+治疗疗效的重要生物标志物。与MSI-H 相似,高TMB通过
+增加新抗原负荷,增强肿瘤免疫原性,从而促进具有识别功
+能和细胞毒性的抗肿瘤免疫应答。一项生物信息学分析显
+示,肿瘤细胞的TMB水平与自然杀伤细胞、调节性T 细胞
+(Tregs)和CD8
++ T 细胞在肿瘤组织中的浸润程度呈正相
+关[23]。此外,TMB水平升高可促进抗原呈递细胞在TME
+中的募集与活化,进而增强肿瘤对免疫治疗的响应。KEY-
+NOTE-158研究显示,接受帕博利珠单抗治疗的晚期实体瘤
+患者中,高TMB(TMB-H,即TMB≥10 mut/Mb)患者的客
+观缓解率(ORR)显著高于非TMB-H 的患者[24]。美国FDA
+于2020年批准帕博利珠单抗用于治疗不可切除或转移性
+TMB-H 实体瘤,但该批准所依据的分析结果中未包含食管
+癌患者数据。尽管食管癌在所有癌种中的基因突变中位数
+排名第6位,但其TMB-H 的发生率较低。研究显示,TMB-
+H 在胃癌、GEJ腺癌、EAC和ESCC中的发生比例分别仅约
+8%、3%、2%和3%
+[22]。KLERK 等[25]曾报道一项帕博利珠
+单抗治疗难治性食管癌的Ⅱ期试验,结果提示,同时具有较
+高TMB及MSI-H 水平的患者可能表现出更优的生存获益。
+总体而言,现有证据初步支持了TMB在肿瘤免疫治疗中疗
+效的预测价值。然而,受限于大样本临床研究数据的缺乏、
+不同检测平台及不同肿瘤类型可比性的差异、评估方法和阈
+值的标准化不足,将TMB应用于食管癌免疫治疗的临床疗
+效预测仍面临诸多挑战。
+2.
+2 肿瘤免疫微环境(TIME)相关生物标志物
+TILs作为TIME的关键组分,已被广泛用于评估抗肿
+瘤免疫应答状态及免疫治疗疗效。荟萃分析结果显示,食管
+癌患者TILs水平较高,尤其当CD8
++ 与CD4
++ T 细胞在肿
+瘤巢、肿瘤间质(特别是深部间质)中高度浸润时,通常与较
+·
+7
+7
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+长的OS显著相关[26-27]。然而,由于上述分析中纳入研究所
+采用的治疗方式不统一,且已有证据表明不同TILs亚群与
+预后的关联性存在差异[28],因此TILs在免疫治疗效果中的
+预测作用仍需进一步验证。有一项研究显示,接受替雷利珠
+单抗联合新辅助化疗并达到病理完全缓解(pCR)的ESCC
+患者的治疗后样本当中,CD8
++ T 细胞、辅助性T 淋巴细胞
+(Ths)、Tregs及成熟DCs比例显著升高,B细胞和中性粒细
+胞比例有所下降[29]。对食管癌患者术后肿瘤组织的一项分
+析结果表明,肿瘤组织内CD8
++ 与CD4
++T 细胞的高度浸润
+与良好的生存预后呈正相关[30]。另一项研究表明,CD8
++ T
+细胞浸润程度升高与患者更高的完全缓解(CR)率及更长的
+PFS显著相关[31]。近年来,多种新型肿瘤免疫靶点如LAG-
+3、T 细胞因子-1(TCF-1)及免疫球蛋白和黏蛋白结构域分
+子-3(TIM-3)受到广泛关注。研究表明,CD4
++T 细胞上PD-
+1及TIM-3的高表达与难治性食管癌患者的不良预后显著
+相关[25]。另有研究显示,TCF-1
++CD8
++ T 细胞作为具备自
+我更新与分化潜能的干细胞样亚群,在维持肿瘤内免疫应答
+并抑制肿瘤进展方面发挥重要作用[32]。PALACE-1研究显
+示,在经新辅助帕博利珠单抗联合CRT 并接受手术切除的
+ESCC患者中,达到pCR 者其切除肿瘤标本内TCF-1
++ 细胞
+比例高于非pCR 患者,提示该细胞群与pCR 相关,可作为反
+映瘤内免疫活性及治疗敏感性的潜在线索[33]。然而,针对
+上述新型分子靶点的研究数量有限,其在食管癌免疫治疗效
+果预测中的作用尚不明确,需要大型临床试验的长期随访数
+据予以验证。
+肿瘤相关巨噬细胞(TAMs)是TIME 中发挥关键免疫
+调节作用的细胞群,其密度、分布和亚型均与食管癌患者的
+预后相关。一项评估特瑞普利单抗治疗局部晚期ESCC 患
+者的临床试验结果显示,疗效更佳者的肿瘤组织中M2 型
+TAMs密度较低[34]。另一项卡瑞利珠单抗联合CRT 研究
+表明,若患者在基线状态时肿瘤微环境中PD-L1
+- 巨噬细胞
+密度较高,则其PFS显著延长;若治疗期间该细胞密度持续
+保持较高水平,则患者OS与PFS均会显著改善[16]。多重
+免疫荧光成像显示,相比于PD-L1
++ 巨噬细胞,PD-L1
+- 巨噬
+细胞的分布更靠近肿瘤细胞,此特征也许能部分解释较高
+PD-L1
+- 巨噬细胞密度与更好临床结局的关联[35]。此外,该
+研究还发现TAMs的空间分布与患者TMB水平相关;另有
+研究表明TAMs可分泌多种趋化因子调节TIME,并与食管
+癌患者肿瘤组织PD-L1表达水平呈正相关[36],提示TAMs
+对食管癌免疫治疗预后的预测价值应该结合其他生物标志
+物进行综合分析。
+3 免疫治疗与dCRT联合治疗模式的临床应用
+3.
+1 可切除局部晚期食管癌的免疫治疗
+3.
+1.
+1 新辅助免疫治疗 可切除局部晚期食管癌新辅助治
+疗的主要目标为通过术前化疗和(或)放疗实现肿瘤降期,提
+高R0切除率并改善术后生存。当前,新辅助CRT 因兼具
+局部控制与系统治疗的双重优势,在多项研究中较单纯新辅
+助化疗显示出更优疗效,已被国际指南推荐为可切除局部晚
+期食管癌的标准治疗方案[2-3]。在传统治疗模式不断优化的
+背景下,免疫治疗作为新兴手段正逐渐融入新辅助策略。多
+项临床研究结果显示,ICIs联合化疗、放疗或CRT 应用于术
+前治疗可能提高肿瘤缓解率,且安全性较为可控。这提示免
+疫治疗与传统治疗的协同应用有望进一步提高可切除局部
+晚期食管癌患者的长期生存率,是未来研究的重要方向。
+全球首项评估免疫治疗联合新辅助化疗治疗策略的Ⅱ
+期临床试验NICE研究结果显示,接受免疫联合新辅助化疗
+并完成手术切除的可切除局部晚期食管癌患者的pCR 率为
+39.
+2%,初步证实了该方案在可切除局部晚期食管癌患者治
+疗中的可行性与安全性[37]。随后有多项小样本研究结果显
+示,接受免疫治疗联合化疗并完成手术的食管癌患者pCR
+率为15.
+4%~28.
+0%,整体疗效较对照组更优,进一步验证
+了该策略的治疗潜力[38-41]。近年来,CheckMate577等大样
+本Ⅲ期临床试验结果表明,纳武利尤单抗联合新辅助化疗在
+肿瘤局部控制、病理缓解程度及患者总生存趋势等方面均优
+于传统新辅助化疗,且患者具备良好耐受性[42-43]。上述结果
+表明,免疫治疗联合新辅助化疗在食管癌围手术期治疗中具
+有潜在应用价值,但相较于经典新辅助CRT 尚未显现明显
+优势,因此,联合治疗模式的进一步优化及获益人群的精准
+识别,仍是当前研究的关键问题。
+多项Ⅲ期临床研究证实,与单纯手术切除相比,新辅助
+CRT 联合手术可显著改善可切除局部晚期食管癌患者预
+后[44-45]。因此国内外指南将CRT 确定为局部晚期食管癌围
+手术期的标准治疗模式[2-3],对于局部晚期食管癌综合治疗
+模式探索的焦点更多地转向了免疫治疗与新辅助CRT 的联
+合使用。PALACE-1研究是首项评估免疫治疗联合新辅助
+CRT 治疗局部晚期ESCC患者的Ⅰb期临床试验,其结果初
+步显示该方案具有良好的病理缓解率(经治疗后pCR 率达
+55.
+6%)和可控的安全性[33]。后续PALACE-2 多中心Ⅱ期
+试验已完成入组,该研究结果的公布有望进一步验证免疫治
+疗联合新辅助CRT 的有效性与安全性[46]。此外,有多项小
+样本研究同样表明免疫治疗联合新辅助CRT 在可切除局部
+晚期ESCC患者的治疗中具有可行性[47-49]。一项荟萃分析
+结果显示,免疫治疗联合新辅助CRT 在提高患者的pCR 率
+和主要病理缓解(MPR)率方面可能优于传统新辅助治疗,
+且毒性反应总体可控[50]。然而需注意的是,免疫治疗联合
+新辅助CRT 可能增加食管切除术的操作难度(术野纤维化
+以及组织粘连与局部水肿的发生概率升高)并升高围手术期
+并发症风险(如免疫相关性肺炎和放射性肺炎所致呼吸功能
+不全甚至衰竭),从而影响患者的治疗依从性。此外,尽管多
+数研究表明新辅助CRT 相比单纯新辅助化疗可显著提高局
+部区域控制率及R0切除率,但这两种治疗模式下食管癌或
+GEJ腺癌患者的长期生存获益并无差异[51]。
+综上,免疫治疗联合传统新辅助治疗模式在可切除局部
+晚期食管癌中具有一定的应用潜力。然而,相较于单纯行新
+辅助CRT 的治疗方法,其长期生存优势尚未确立,同时免疫
+·
+8
+7
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+治疗联合新辅助CRT 可能增加手术难度及术后并发症风
+险。因此,优化联合治疗模式以实现最佳疗效和最小风险,仍
+然是可切除局部晚期食管癌临床治疗中所面临的重要挑战。
+3.
+1.
+2 辅助免疫治疗 随着围手术期免疫治疗模式的进一
+步探索,免疫治疗的作用已不限于新辅助阶段,多项临床研
+究开始探索辅助免疫治疗在可切除局部晚期食管癌治疗中
+的应用价值。其中,CheckMate577作为代表性的Ⅲ期临床
+试验,结果显示纳武利尤单抗辅助治疗可显著延长可切除食
+管癌以及GEJ腺癌患者的PFS,且安全性良好,3级及以上
+不良事件(AEs)发生率虽略高于安慰剂组,但整体可控[52]。
+该研究为术后无病生存但仍具复发风险的可切除局部晚期
+食管癌患者提供了新的辅助治疗选择,同时为术后辅助免疫
+治疗提供了高级别的循证医学证据。此外,有研究表明,在
+接受新辅助CRT 后手术且有残余病灶的局部晚期食管癌患
+者中,接受辅助度伐利尤单抗治疗组患者的无复发生存期较
+历史对照组患者更长[53];而另一项Ⅱ期研究则未证实辅助
+度伐利尤单抗治疗对新辅助CRT 后行手术治疗的局部晚期
+食管癌患者的无病生存期有改善作用[54]。总体而言,目前
+关于可切除局部晚期食管癌术后辅助免疫治疗的证据仍有
+限,需要更多随机对照研究进行验证。
+3.
+1.
+3 术后免疫维持治疗 近年来,术后免疫维持治疗在可
+切除局部晚期食管癌中的应用受到越来越广泛的关注。现
+有研究主要聚焦于接受新辅助治疗及手术后的患者,旨在评
+估术后免疫维持治疗在降低复发风险及改善长期生存方面
+的价值,相关在研试验包括NCT05213312、NCT05189730、
+NCT05182944、NCT04813523、KEYSTONE-002 等。上述
+临床试验目前多处于开展或随访阶段,术后免疫维持治疗结
+局的数据尚未公开。因此,对于可切除局部晚期食管癌患
+者,目前尚缺乏有关免疫维持治疗的大规模临床试验数据。
+然而,非小细胞肺癌(NSCLC)的NADIM 研究5年随访结果
+显示,在可切除Ⅲa期的NSCLC患者中,术前化疗联合免疫
+治疗并辅以术后免疫维持治疗可以带来较为持久的生存获
+益[55],可为食管癌术后免疫维持治疗策略提供一定借鉴。
+3.
+2 不可切除局部晚期食管癌的免疫治疗
+对于不可切除的局部晚期食管癌患者,dCRT 可显著提
+高局部控制率并改善患者短期生存结局,是目前国际指南推
+荐的标准治疗模式[2-3]。然而,多数患者在接受dCRT 后仍
+然面临较高的疾病进展与远期复发风险,整体生存获益有
+限[4,56]。免疫治疗与dCRT 的联合治疗模式有望通过增强
+局部免疫效应和延缓远处转移发生,进而改善不可切除局部
+晚期食管癌患者长期生存。目前,有多项小样本临床试验正
+在评估不可切除局部晚期食管癌的免疫治疗与dCRT 的不
+同联合时序模式,包括诱导化疗联合免疫治疗序贯dCRT、
+dCRT 同期联合免疫治疗及dCRT 序贯免疫维持治疗等。
+一项回顾性研究结果显示,与单纯dCRT 相比,诱导化
+疗联合免疫治疗后序贯dCRT 显著延长不可切除局部晚期
+ESCC患者的PFS、OS、ORR 及疾病控制率(DCR)[6];此外,
+有研究表明,该治疗模式对不可切除局部晚期食管癌患者的
+治疗效果优于仅行dCRT 组,且治疗相关AEs以血液学毒
+性为主,免疫相关AEs均为皮疹,发生率低且较为可控[57]。
+一项Ⅰb期临床试验结果显示,不可切除局部晚期ES-
+CC患者接受PD-1抑制剂卡瑞利珠单抗与dCRT 的联合治
+疗12和24个月后,PFS和OS均显著延长,放射性食管炎
+等治疗相关AEs均得到有效控制,未发生治疗相关死亡事
+件[16]。另一项Ⅱ期临床试验评估了PD-L1抑制剂度伐利尤
+单抗联合CTLA-4抑制剂替西木单抗与dCRT 联合应用对
+不可切除局部晚期ESCC 患者的疗效和安全性,结果显示,
+患者在接受联合治疗12和24个月后,PFS与OS均显著延
+长,AEs以血液学毒性为主且总体可控[15]。此外,EGFR 单
+克隆抗体尼妥珠单抗联合CRT 的治疗方案已获部分指南推
+荐[58]。一项Ⅲ期随机对照研究表明,局部晚期不可切除的
+ESCC患者在接受dCRT 联合尼妥珠单抗治疗后,相较于单
+纯dCRT 治疗患者,在3~6个月的CR 率与ORR 更高,AEs
+发生率未见显著差异。
+TENERGY 研究结果显示,不可切除局部晚期ESCC患
+者在接受dCRT 后序贯阿替利珠单抗进行维持治疗12个月
+后,ORR、PFS以及OS均显著改善[59]。另一项Ⅰb/Ⅱ期试
+验结果显示,不可切除局部晚期ESCC患者在dCRT 后接受
+信迪利单抗维持免疫治疗12个月后,ORR、PFS以及OS同
+样均显著改善[60]。上述两项研究所观察到的治疗相关AEs
+均多为1~2级,整体安全性可控。
+上述研究表明,对于不可切除局部晚期食管癌,免疫治
+疗联合dCRT 在多种联合时序模式下均可在一定程度上改
+善患者预后,且不良反应较为可控,但患者长期生存获益仍
+需通过进一步随访和大样本临床试验数据加以验证。目前
+多项Ⅲ期试验(如RATIONALE-311、KEYNOTE-975、ES-
+CORT-CRT、KUNLUN)正在评估ICIs联合dCRT 用于不
+可切除局部晚期食管癌的疗效与安全性,有望为免疫治疗联
+合dCRT 模式在不可切除局部晚期食管癌中的疗效提供更
+有力的证据支持。
+4 总结
+ICIs可通过阻断TME中PD-1/PD-L1、CTLA-4等免疫
+检查点分子介导的免疫抑制通路,有效逆转肿瘤抗原特异性
+T 细胞的功能抑制,从而激活系统性抗肿瘤免疫应答。CRT
+与ICIs的联合应用可进一步放大抗肿瘤免疫效应。对于可
+切除局部晚期食管癌,新辅助及辅助免疫治疗已显示出良好
+的疗效与可控的安全性;对于不可切除局部晚期食管癌,免
+疫治疗联合dCRT 的多模式治疗同样展现出对患者预后的
+有效改善。免疫治疗联合dCRT 正逐渐成为食管癌综合治
+疗体系的关键组成部分,然而其最优联合模式尚未明确,具
+体作用仍有待大样本临床试验及长期随访数据进一步验证。
+未来研究应着力于筛选相关疗效预测生物标志物,建立疗效
+精准预测体系,持续完善治疗方案,推动免疫治疗在局部晚
+期食管癌中的临床规范应用和个体化治疗实践,最终改善患
+者的生存结局与生活质量。
+·
+9
+7
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+作者声明:所有作者均参与了研究设计及论文的写作和修改。所有
+作者均阅读并同意发表该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] BRAYF,LAVERSANNE M,SUNG H,etal.Globalcancer
+statistics2022:GLOBOCANestimatesofincidenceandmor-
+talityworldwidefor36cancersin185countries[J].CACancer
+JClin,2024,74(3):229-263.
+[2] AJANIJA,D’AMICOTA,BENTREM DJ,etal.Esopha-
+gealandesophagogastricjunctioncancers,version2.2019,
+NCCNclinicalpracticeguidelinesinoncology[J].JNatlCompr
+CancNetw,2019,17(7):855-883.
+[3] MURO K,LORDICK F,TSUSHIMA T,etal.Pan-Asian
+adaptedESMO ClinicalPractice Guidelinesforthe manage-
+mentofpatients with metastaticoesophagealcancer:A JS-
+MO-ESMOinitiativeendorsedbyCSCO,KSMO,MOS,SSO
+andTOS[J].AnnOncol,2019,30(1):34-43.
+[4] HULSHOF M C C M,GEIJSEN E D,ROZEMA T,etal.
+Randomizedstudyondoseescalationin definitivechemora-
+diationforpatients withlocallyadvancedesophagealcancer
+(ARTDECOstudy)[J].JClin Oncol,2021,39(25):2816-
+2824.
+[5] SUNJM,SHENL,SHAH M A,etal.Pembrolizumabplus
+chemotherapyversuschemotherapyaloneforfirst-linetreat-
+mentofadvancedoesophagealcancer (KEYNOTE-590):A
+randomised,placebo-controlled,phase3study[J].Lancet,
+2021,398(10302):759-771.
+[6] LIAN H M,WUJL,LIUFU WJ,etal.Inductionimmuno-
+therapypluschemotherapyfollowed by definitivechemora-
+diationtherapyinlocallyadvancedesophagealsquamouscell
+carcinoma:Apropensity-scorematchedstudy[J].CancerIm-
+munolImmunother,2024,73(3):55.
+[7] O’DONNELLJS,HOEFSMIT EP,SMYTH M J,etal.
+Thepromiseofneoadjuvantimmunotherapyandsurgeryfor
+cancertreatment[J].ClinCancerRes,2019,25(19):5743-
+5751.
+[8] ZHAO Y,DU JF,SHEN X F.Targeting myeloid-derived
+suppressorcellsintumorimmunotherapy:Current,futureand
+beyond[J].FrontImmunol,2023,14:1157537.
+[9] LHUILLIER C,RUDQVIST N P,ELEMENTO O,etal.
+Radiationtherapyandanti-tumorimmunity:Exposingimmu-
+nogenicmutationstotheimmunesystem[J].Genome Med,
+2019,11(1):40.
+[10]JORGOVANOVICD,SONG MJ,WANGLP,etal.Roles
+ofIFN-γintumorprogressionandregression:Areview[J].
+BiomarkRes,2020,8:49.
+[11]SCHACHTERJ,RIBASA,LONG G V,etal.Pembrolizu-
+mabversusipilimumabforadvancedmelanoma:Finaloverall
+survivalresultsofamulticentre,randomised,open-labelphase
+3study (KEYNOTE-006)[J].Lancet,2017,390(10105):
+1853-1862.
+[12]COHENEE W,SOULIÈRESD,LETOURNEAUC,etal.
+Pembrolizumabversusmethotrexate,docetaxel,orcetuximab
+forrecurrentormetastatichead-and-necksquamouscellcarci-
+noma(KEYNOTE-040):Arandomised,open-label,phase3
+study[J].Lancet,2019,393(10167):156-167.
+[13]LUZH,WANGJY,SHUYQ,etal.Sintilimabversuspla-
+ceboincombinationwithchemotherapyasfirstlinetreatment
+forlocallyadvancedormetastaticoesophagealsquamouscell
+carcinoma (ORIENT-15):Multicentre,randomised,double
+blind,phase3trial[J].BMJ,2022,377:e068714.
+[14]WANGZX,CUICX,YAOJ,etal.Toripalimabplusche-
+motherapyintreatment-naïve,advancedesophagealsquamous
+cellcarcinoma (JUPITER-06):A multi-centerphase3trial
+[J].CancerCell,2022,40(3):277-288.
+e3.
+[15]PARKS,OH D,CHOIYL,etal.Durvalumabandtremeli-
+mumabwithdefinitivechemoradiotherapyforlocallyadvanced
+esophagealsquamouscellcarcinoma[J].Cancer,2022,128
+(11):2148-2158.
+[16]ZHANG W C,YANCH,ZHANGT,etal.Additionofcam-
+relizumabtodocetaxel,cisplatin,andradiationtherapyinpa-
+tientswithlocallyadvancedesophagealsquamouscellcarcino-
+ma:Aphase Ⅰbstudy[J].Oncoimmunology,2021,10(1):
+1971418.
+[17]KATO K,CHO B C,TAKAHASHI M,etal.Nivolumab
+versuschemotherapyin patients withadvancedoesophageal
+squamouscellcarcinomarefractoryorintoleranttoprevious
+chemotherapy (ATTRACTION-3):A multicentre,rando-
+mised,open-label,phase3trial[J].LancetOncol,2019,20
+(11):1506-1517.
+[18]LUO H Y,LUJ,BAIYX,etal.Effectofcamrelizumabvs
+placeboaddedtochemotherapyonsurvivalandprogression-
+freesurvivalinpatientswithadvancedormetastaticesophageal
+squamouscellcarcinoma:TheESCORT-1strandomizedclini-
+caltrial[J].JAMA,2021,326(10):916-925.
+[19]PENGSL,WANGR,ZHANGXJ,etal.EGFR-TKIresis-
+tancepromotesimmuneescapeinlungcancerviaincreased
+PD-L1expression[J].MolCancer,2019,18(1):165.
+[20]DUSS,CHENG W,YANGP,etal.Radiationtherapypro-
+moteshepatocellularcarcinomaimmunecloakingvia PD-L1
+upregulationinducedbycGAS-STINGactivation[J].IntJRa-
+diatOncolBiolPhys,2022,112(5):1243-1255.
+[21]WANG YZ,ZHOU Y,YANGLY,etal.Challengescoexist
+withopportunities:SpatialheterogeneityexpressionofPD-L1
+incancertherapy[J].Adv Sci (Weinh),2024,11(1):
+e2303175.
+[22]SALEM M E,PUCCINIA,XIUJ,etal.Comparativemole-
+cularanalysesofesophagealsquamouscellcarcinoma,esopha-
+gealadenocarcinoma,andgastricadenocarcinoma[J].Oncolo-
+gist,2018,23(11):1319-1327.
+[23]LIJ W,CHEN H Q,GUO H F,etal.Characterizationof
+geneexpressionprofilesofesophagealcancerpatientswithdif-
+ferentnonsynonymoustumor mutation burden[J].Thorac
+Cancer,2020,11(8):2270-2278.
+·
+0
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+[24]MARABELLEA,LED T,ASCIERTOP A,etal.Efficacy
+ofpembrolizumabinpatientswithnoncolorectalhighmicrosa-
+telliteinstability/mismatch repair-deficient cancer: Results
+fromthephase ⅡKEYNOTE-158study[J].JClin Oncol,
+2020,38(1):1-10.
+[25]DEKLERK L K,PATEL A K,DERKSS,etal.Phase Ⅱ
+studyofpembrolizumabinrefractoryesophagealcancerwith
+correlatesofresponseandsurvival[J].JImmunotherCancer,
+2021,9(9):e002472.
+[26]LIUB,LIUZY,GAOC.RelationshipbetweenCD8+ Tcells
+andprognosisofesophagealcancerpatients:Asystematicre-
+viewandmeta-analysis[J].MolBiotechnol,2024,66(1):138-
+150.
+[27]GAO Y B,GUO W,GENG X,etal.Prognosticvalueof
+tumor-infiltratinglymphocytesinesophagealcancer:Anupda-
+tedmeta-analysisof30studieswith5,122patients[J].Ann
+TranslMed,2020,8(13):822.
+[28]ZHENG X,SONG X,SHAO YJ,etal.Prognosticroleof
+tumor-infiltratinglymphocytesinesophaguscancer:A meta-
+analysis[J].CellPhysiolBiochem,2018,45(2):720-732.
+[29]YAO G,FAN H,WANGR,etal.15PPredictionforpCRaf-
+terneoadjuvantimmunotherapycombinedwithchemotherapy
+usingsingle-cellRNAsequencinginpatientswithlocallyad-
+vancedesophagealsquamouscellcarcinoma (escc):Asingle-
+armphaseⅡclinicaltrial[J].ImmunoOncolTechnol,2022,
+16:100120.
+[30]YAGIT,BABA Y,ISHIMOTOT,etal.PD-L1expression,
+tumor-infiltratinglymphocytes,andclinicaloutcomein pa-
+tients with surgically resected esophagealcancer[J].Ann
+Surg,2019,269(3):471-478.
+[31]ZHU YJ,WENJ,LIQQ,etal.Toripalimabcombinedwith
+definitivechemoradiotherapyinlocallyadvancedoesophageal
+squamouscellcarcinoma(EC-CRT-001):Asingle-arm,phase
+2trial[J].LancetOncol,2023,24(4):371-382.
+[32]SIDDIQUII,SCHAEUBLEK,CHENNUPATIV,etal.In-
+tratumoralTcf1+PD-1+CD8+ Tcellswithstem-likeproper-
+tiespromotetumorcontrolin responseto vaccination and
+checkpointblockadeimmunotherapy[J].Immunity,2019,50
+(1):195-211.
+e10.
+[33]LICQ,ZHAOSG,ZHENG Y Y,etal.Preoperativepem-
+brolizumabcombinedwithchemoradiotherapyforoesophageal
+squamouscellcarcinoma (PALACE-1)[J].EurJ Cancer,
+2021,144:232-241.
+[34]HE W W,LENGXF,MAOTQ,etal.Toripalimabpluspa-
+clitaxelandcarboplatinasneoadjuvanttherapyinlocallyad-
+vancedresectableesophagealsquamouscellcarcinoma[J].On-
+cologist,2022,27(1):e18-e28.
+[35]MAXX,GUOZB,WEIXY,etal.Spatialdistributionand
+predictivesignificanceofdendriticcellsand macrophagesin
+esophagealcancertreated withcombinedchemoradiotherapy
+andPD-1blockade[J].FrontImmunol,2022,12:786429.
+[36]SUIXH,CHENCX,ZHOUX M,etal.Integrativeanalysis
+ofbulk and single-cellgeneexpression profilestoidentify
+tumor-associatedmacrophage-derivedCCL18asatherapeutic
+targetofesophagealsquamouscellcarcinoma[J].JExpClin
+CancerRes,2023,42(1):51.
+[37]LIZG,LIUJ,ZHANG M,etal.AphaseⅡstudyofneoad-
+juvantimmunotherapycombinedwithchemotherapy(camreli-
+zumabplusalbuminpaclitaxelandcarboplatin)inresectable
+thoracicesophagealsquamouscellcancer (NICEstudy):In-
+terimresults[J].JClinOncol,2021,39(15_suppl):4060.
+[38]CHEN Y Y,WANGPP,HU Y,etal.Clinicalefficacyand
+immuneresponseofneoadjuvantcamrelizumabpluschemo-
+therapyinresectablelocallyadvancedoesophagealsquamous
+cellcarcinoma:Aphase2trial[J].BrJCancer,2024,131(7):
+1126-1136.
+[39]CHAOL,LIUJT,CHENY,etal.Benefitsofcamrelizumab
+pluscarboplatinandalbuminpaclitaxelasinductiontherapyfor
+locallyadvancedborderlineresectableorunresectableesopha-
+gealsquamouscellcarcinoma[J].ThoracCancer,2024,15
+(8):622-629.
+[40]SHANGXB,XIEYJ,YUJP,etal.Aprospectivestudyof
+neoadjuvantpembrolizumabpluschemotherapyforresectable
+esophagealsquamouscellcarcinoma:TheKeystone-001trial
+[J].CancerCell,2024,42(10):1747-1763.
+e7.
+[41]WANGP Y,CHEN YJ,LEI M X,etal.Comparisonof
+neoadjuvantchemoimmunotherapy and neoadjuvantchemo-
+therapyforresectableesophagealsquamouscellcarcinoma:A
+retrospectivestudywith3-yearsurvivalanalysis[J].JCancer
+ResClinOncol,2024,150(10):477.
+[42]QINJJ,XUEL Y,HAO A L,etal.Neoadjuvantchemo-
+therapywithorwithoutcamrelizumabinresectableesophageal
+squamouscellcarcinoma:Therandomizedphase3ESCORT-
+NEO/NCCES01trial[J].NatMed,2024,30(9):2549-2557.
+[43]ZHENG Y,LIANGGH,YUANDF,etal.Perioperativeto-
+ripalimabplusneoadjuvantchemotherapymightimproveout-
+comesinresectableesophagealcancer:Aninterimanalysisofa
+phase Ⅲrandomized clinical trial[J].Cancer Commun
+(Lond),2024,44(10):1214-1227.
+[44]VAN HAGENP,HULSHOFM M,VANLANSCHOTJB,
+etal.Preoperativechemoradiotherapyforesophagealorjunc-
+tionalcancer[J].NEnglJMed,2012,366(22):2074-2084.
+[45]YANG H,LIU H,CHEN YP,etal.Neoadjuvantchemora-
+diotherapyfollowedbysurgeryversussurgeryaloneforlocally
+advancedsquamouscellcarcinomaoftheesophagus (NEO-
+CRTEC5010):AphaseⅢmulticenter,randomized,open-la-
+belclinicaltrial[J].JClinOncol,2018,36(27):2796-2803.
+[46]ZHENG Y Y,LICQ,YUBT,etal.Preoperativepembroli-
+zumabcombinedwithchemoradiotherapyforesophagealsqua-
+mouscellcarcinoma:Trialdesign[J].JTCVSOpen,2021,9:
+293-299.
+[47]XU X,SUNZY,LIU Q,etal.Neoadjuvantchemoradiothe-
+rapycombinedwithsequentialperioperativetoripalimabinlo-
+callyadvancedesophagealsquamouscellcancer[J].JImmu-
+·
+1
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+notherCancer,2024,12(3):e008631.
+[48]JIANG N,ZHANGJY,GUOZ,etal.Short-courseneoadju-
+vantradiotherapycombined withchemotherapyandtoripali-
+mabforlocallyadvancedesophagealsquamouscellcarcinoma
+(SCALE-1):Asingle-armphaseⅠbclinicaltrial[J].JImmu-
+notherCancer,2024,12(1):e008229.
+[49]SHISM,ZHOU H,LIL,etal.Comparisonofneoadjuvant
+chemoradiotherapyversuschemoradiotherapy plusimmuno-
+therapyforesophagealsquamouscellcarcinomainareal-world
+multicentercohort:Apropensityscorematchingstudy[J].Sci
+Rep,2024,14(1):24738.
+[50]QIN H,LIUFT,ZHANGYZ,etal.Comparisonofneoad-
+juvantimmunotherapyversusroutineneoadjuvanttherapyfor
+patientswithlocallyadvancedesophagealcancer:Asystematic
+review and meta-analysis[J].FrontImmunol,2023,14:
+1108213.
+[51]RONELLENFITSCH U,FRIEDRICHSJ,BARBIER E,et
+al.Preoperativechemoradiotherapyvschemotherapyforade-
+nocarcinomaoftheesophagogastricjunction:Anetworkmeta-
+analysis[J].JAMA Netw Open,2024,7(8):e2425581.
+[52]KELLYRJ,AJANIJA,KUZDZALJ,etal.Adjuvantni-
+volumabinresectedesophagealorgastroesophagealjunction
+cancer[J].NEnglJMed,2021,384(13):1191-1203.
+[53] MAMDANI H,SCHNEIDER B,PERKINSS M,etal.A
+phase Ⅱtrialofadjuvantdurvalumabfollowingtrimodality
+therapyforlocallyadvancedesophagealandgastroesophageal
+junctionadenocarcinoma:Abigtencancerresearchconsortium
+study[J].FrontOncol,2021,11:736620.
+[54]PARKS,SUNJM,CHOIYL,etal.Adjuvantdurvalumab
+foresophagealsquamouscellcarcinomaafterneoadjuvantche-
+moradiotherapy:A placebo-controlled,randomized,double-
+blind,phaseⅡstudy[J].ESMO Open,2022,7(1):100385.
+[55]PROVENCIO M,NADAL E,INSA A,etal.Perioperative
+chemotherapyand nivolumabin non-small-celllung cancer
+(NADIM):5-yearclinicaloutcomesfromamulticentre,sin-
+gle-arm,phase2trial[J].LancetOncol,2024,25(11):1453-
+1464.
+[56]LIUSL,LUOLL,ZHAOL,etal.Inductionchemotherapy
+followedbydefinitivechemoradiotherapyversuschemoradio-
+therapyaloneinesophagealsquamouscellcarcinoma:Aran-
+domizedphaseⅡtrial[J].NatCommun,2021,12(1):4014.
+[57]AIDS,HAOSN,SHEN W B,etal.Inductionsintilimab
+andchemotherapyfollowedbyconcurrentchemoradiotherapy
+forlocallyadvancedesophagealcancer:A proof-of-concept,
+single-arm,multicenter,phase2trial[J].EClinicalMedicine,
+2024,69:102471.
+[58]中国医师协会放射肿瘤治疗医师分会,中华医学会放射肿瘤治
+疗学分会,中国抗癌协会肿瘤放射治疗专业委员会.中国食管
+癌放射治疗指南(2019年版)[J].国际肿瘤学杂志,2019,46
+(7):385-398.
+[59]BANDO H,KOTANID,TSUSHIMAT,etal.TENERGY:
+MulticenterphaseⅡstudyofAtezolizumabmonotherapyfol-
+lowingdefinitiveChemoradiotherapywith5-FUplusCisplatin
+inpatientswithunresectablelocallyadvancedesophagealsqua-
+mouscellcarcinoma[J].BMCCancer,2020,20(1):336.
+[60]LIUCX,SUN HF,HUANG W,etal.Sintilimabasmainte-
+nancetreatmentforlocal/regionalrecurrentesophagealsqua-
+mouscarcinomaafterconcurrentchemoradiotherapy:Asing-
+le-arm Ⅰb/Ⅱphasestudy[J].FrontImmunol,2023,14:
+1193394.
+(本文编辑 李京蔓 厉建强)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第75页)
+[10]MURAKAMIY,YASUDA T,SAIGOK,etal.Comprehen-
+siveanalysisofmicroRNAexpressionpatternsinhepatocellu-
+larcarcinomaandnon-tumoroustissues[J].Oncogene,2006,
+25(17):2537-2545.
+[11]DILEVA G,GAROFALO M,CROCEC M.microRNAsin
+cancer[J].AnnuRevPathol,2014,9:287-314.
+[12]LV Y,SUNXJ.RoleofmiRNAinpathogenesis,diagnosis,
+andprognosisinhepatocellularcarcinoma[J].ChemBiolDrug
+Des,2024,103(1):e14352.
+[13]ZHENG Q,HOU W.RegulationofangiogenesisbymicroR-
+NAsincancer[J].MolMedRep,2021,24(2):583.
+[14]HUANGPX,XU XJ,WANGLY,etal.TheroleofEGF-
+EGFRsignallingpathwayinhepatocellularcarcinomainflam-
+matorymicroenvironment[J].JCellMolMed,2014,18(2):
+218-230.
+[15]HUANGXJ,QINFZ,MENG Q H,etal.Proteintyrosine
+phosphatasereceptortype D (PTPRD)-mediated signaling
+pathwaysforthepotentialtreatmentofhepatocellularcarcino-
+ma:Anarrativereview[J].AnnTranslMed,2020,8(18):
+1192.
+[16]DINGJ,XU K D,ZHANGJ,etal.OverexpressionofCX-
+CL2inhibitscellproliferationandpromotesapoptosisinhepa-
+tocellularcarcinoma[J].BMBRep,2018,51(12):630-635.
+[17]LIU TJ,SUN HZ,ZHU D W,etal.TRA2Apromotedpa-
+clitaxelresistance and tumor progressionin triple-negative
+breastcancersvia regulating alternative splicing[J].Mol
+CancerTher,2017,16(7):1377-1388.
+[18]OYADOMARIS,MORIM.RolesofCHOP/GADD153inen-
+doplasmicreticulumstress[J].CellDeathDiffer,2004,11(4):
+381-389.
+[19]JIANG X W,HAO Y Q.Analysisofexpressionprofiledata
+identifieskeygenesandpathwaysinhepatocellularcarcinoma
+[J].OncolLett,2018,15(2):2625-2630.
+[20]ZHANGPJ,WEIR,WENXY,etal.Genesexpressionpro-
+filingofperipheralbloodcellsofpatientswithhepatocellular
+carcinoma[J].CellBiolInt,2012,36(9):803-809.
+[21]LIH Y,GAOL,KANGXJ,etal.RPS24isassociatedwith
+apoorprognosisandimmuneinfiltrationinhepatocellularcar-
+cinoma[J].IntJMolSci,2023,24(1):806.
+(本文编辑 耿波)
+·
+2
+8
+·

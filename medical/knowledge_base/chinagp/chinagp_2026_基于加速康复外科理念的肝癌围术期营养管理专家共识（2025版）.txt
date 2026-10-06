@@ -1,0 +1,1180 @@
+标题: 基于加速康复外科理念的肝癌围术期营养管理专家共识（2025版）
+期刊: 中国全科医学 2026 第29卷 第08期
+DOI: 10.12114/j.issn.1007-9572.2025.0378
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2025.0378
+
+
+·953·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+·指南·共识·
+基于加速康复外科理念的肝癌围术期营养管理
+专家共识（2025 版）
+中国康复医学会社区康复工作委员会
+通信作者：贾杰，教授/ 主任医师；E-mail: shannonjj@126.com
+【摘要】　肝癌患者因肝功能损伤、肿瘤消耗及治疗毒副作用等因素导致营养不良发生率高，显著增加术后并发
+症发生风险并缩短生存期。基于加速康复外科（ERAS）理念的多学科协作的围术期营养管理策略，已被证实能缩短
+住院时间并减少并发症。然而，目前国内外尚缺乏针对ERAS 理念下肝癌围术期营养管理的专家共识。本共识通过整
+合循证证据与多学科临床实践经验，围绕肝癌患者营养筛查与评估方法、围术期营养方案、多学科协作路径等3 大核
+心内容，构建规范化营养管理模式，形成包括围术期动态营养状况筛查评估、分阶段营养支持、运动干预及心理支持、
+多学科精准协作等围术期营养管理策略，旨在统一临床实践标准，改善肝癌患者营养状况及疾病预后。本共识适用于
+肝胆肿瘤相关科室及社区医院，为肝癌围术期患者提供加速康复外科理念下的科学化、个性化营养管理方案。
+【关键词】　肝肿瘤；加速康复外科；围术期管理；营养干预；多学科协作
+【中图分类号】　R 735.7　R 459.3　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2025.0378
+Expert Consensus on Perioperative Nutritional Management for Liver Cancer Based on the 
+Enhanced Recovery after Surgery Concept (2025)
+Chinese Rehabilitation Medicine Association Community Rehabilitation Working Committee
+Corresponding author: JIA Jie, Professor/Chief physician; E-mail: shannonjj@126.com
+【Abstract】　Patients with hepatocellular carcinoma (HCC) frequently experience malnutrition due to impaired liver 
+function, tumor-related cachexia, and treatment-related toxicities, which significantly increases postoperative complications and 
+reduces survival rates. The enhanced recovery after surgery (ERAS) concept, implemented through multidisciplinary perioperative 
+nutrition management, has been proven to shorten hospital stays and decrease complications. However, there remains a lack of 
+specialized consensus on perioperative nutrition management for HCC patients within the ERAS framework. This consensus 
+integrated evidence-based findings with multidisciplinary clinical experience, focusing on three core aspects: nutritional 
+screening and assessment methods, perioperative nutrition protocols, and multidisciplinary collaboration pathways. It established 
+a standardized nutrition management model, including dynamic perioperative nutritional status screening and assessment, staged 
+nutritional support, exercise and psychological intervention, and precise multidisciplinary collaboration strategies. The aim was 
+to standardize clinical practice, improve nutritional status, and enhance outcomes for HCC patients. This consensus was intended 
+for hepatobiliary oncology departments and community hospitals, providing a scientific and personalized perioperative nutrition 
+management plan under the ERAS concept for patients with liver cancer.
+【Key words】　Liver neoplasms; Enhanced recovery after surgery; Perioperative management; Nutritional intervention; 
+Multidisciplinary collaboration
+基金项目：国家自然科学基金创新研究群体项目（82021002）；国家重点研发计划项目（2018YFC2002300）；上海市加强公共卫生体
+系建设三年行动计划重点学科建设项目（GWVI-11.1-27）
+引用本文：中国康复医学会社区康复工作委员会. 基于加速康复外科理念的肝癌围术期营养管理专家共识 (2025 版)[J]. 中国全科医学, 
+2026, 29(8): 953-964. DOI: 10.12114/j.issn.1007-9572.2025.0378.[www.chinagp.net]
+Chinese Rehabilitation Medicine Association Community Rehabilitation Working Committee. Expert consensus on perioperative nutritional 
+management for liver cancer based on the enhanced recovery after surgery concept (2025)[J]. Chinese General Practice, 2026, 29(8): 953-964.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·954· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+原发性肝癌（primary liver cancer, PLC）作为全球第
+六大常见癌症及第三大癌症相关死亡原因
+［1］，预计至
+2040 年中国年新发及死亡病例将分别达59.1 万和57.2
+万例
+［2］。肝癌患者因肝功能损伤、肿瘤消耗及治疗毒
+副作用等因素更易出现营养问题
+［3］。研究显示肝癌患
+者的营养不良发生率高达29.4%~86.6%
+［4-6］，而营养不
+良会显著增加术后并发症发生风险，降低患者生存率
+［7］，
+因此亟须制订针对肝癌围术期患者的规范化营养管理
+方案。近年来，加速康复外科（enhanced recovery after 
+surgery, ERAS）理念通过多学科协作的围术期管理策
+略，已被证实可缩短肝脏手术患者住院时间并减少并发
+症
+［8］。营养管理作为ERAS 的重要组成部分，其贯穿
+术前、术中及术后全周期，对促进肝癌患者康复具有关
+键作用
+［9］。然而，目前在国内外虽然已发布肿瘤及肝
+病营养相关的指南
+［10-12］，但缺乏针对基于ERAS 理念
+的肝癌患者围术期营养管理的专家共识，导致研究与实
+践标准不统一、干预效果参差不齐。因此，本共识旨在
+整合循证证据、推动多学科协作并统一管理标准，以规
+范肝癌围术期营养管理，改善肝癌患者预后。
+1　编写说明
+1.1　成立编写工作组
+本共识由中国康复医学会社区康复工作委员会联合
+复旦大学附属华山医院康复医学科于2025 年5 月发起，
+并于2025 年7 月正式启动制订。共识工作组包括专家
+委员会、制订小组和秘书组，成员由肝胆肿瘤外科、肝
+胆肿瘤内科、康复医学科、营养科以及相关领域的多学
+科专家组成。在本共识启动前，工作组已完成计划书的
+撰写及上传工作，并完成国际实践指南注册与透明化平
+台的注册（注册号：PREPARE-2025CN1558）。
+1.2　确定共识内容
+共识专家组通过开放式讨论的方式提出基于ERAS
+理念的肝癌患者围术期营养管理的一系列问题，在全面
+评鉴国内外文献、共识、指南和专家临床经验的基础上，
+结合基于ERAS 理念的肝癌患者围术期营养管理现状，
+形成共识初稿。经过多轮专家讨论和修改，最终确定了
+本共识关注的3 个维度的内容。本共识的使用者是肝胆
+肿瘤外科、肝胆肿瘤内科、消化道肿瘤科、康复医学科
+和社区医院等相关科室，应用目标人群为肝癌围术期
+患者。
+1.3　证据总结
+主要检索词：加速康复外科/Enhanced Recovery 
+After Surgery、肝癌/hepatocellular carcinoma、围术期/ 
+perioperative period、营养管理/nutritional support 等。
+检索数据库：英文数据库（PubMed、Web of Science、
+Embase、Ovid、Cochrane Library、Scopus）、中文数据库（中
+国知网、万方数据知识服务平台、维普网、中国生物医
+学文献服务系统）、美国国立指南库、苏格兰校际指南
+网、美国肿瘤护理学会官网、Joanna Briggs Institute 循
+证卫生保健中心网站、UpToDate、BMJ Best Practice 以
+及医脉通等。文献纳入类型包括随机对照试验、系统评
+价、Meta 分析、回顾性系统研究、临床病例系列研究、
+病例报告、指南和专家意见。通过阅读文献摘要筛选与
+基于ERAS 理念的肝癌围术期营养管理有关的文献，对
+纳入的文献进行评价，将支持共识形成的重要文献证据
+整理到证据汇总表。专家组通过对研究证据公开讨论形
+成共识初稿，依据评价结果及专家提出的意见，对共识
+草案进行完善，并经过多轮讨论与修改，形成本专家
+共识。
+1.4　文献质量评价
+使用指南评价工具Ⅱ（Appraisal of Guidelines for 
+Research and Evaluation Ⅱ, AGREE Ⅱ）对检索纳入的
+指南进行质量评价，采用AMSTAR（A Measurement Tool 
+to Assess Systematic Reviews）评价清单对纳入的系统评
+价进行质量评价，采用澳大利亚乔安娜布里格斯研究所
+（Joanna Briggs Institute, JBI）循证卫生保健中心专家共
+识评价工具对纳入的专家共识进行质量评价，采用JBI
+循证卫生保健中心随机对照试验评价标准（2016）对纳
+入的随机对照试验研究进行评价，通过追溯证据所依据
+的原始文献，对临床决策、证据总结等文献的质量根据
+其类型选择相应的评价标准进行评价
+［13-14］。
+1.5　共识传播、实施、更新
+本共识将通过学术交流、解读、新媒体推文、学术
+期刊等多种途径传播，促进本共识在肝脏肿瘤相关科室
+及社区医院实施。专家组成员将定期评估最新研究证据
+和临床需求，必要时对共识内容进行更新。
+2　共识内容
+肝癌患者常因代谢紊乱、摄入减少及肿瘤消耗等
+因素，导致较高的营养不良发生率
+［15-16］。研究指出，
+肝癌患者营养不良是术后并发症与死亡的独立危险因
+素
+［17-19］。精准的营养筛查和评估对指导围术期营养管
+理至关重要，可显著降低感染风险、促进伤口愈合、缩
+短住院时间并改善临床结局
+［20-21］。
+2.1　营养风险的筛查
+肝癌患者营养风险筛查能够帮助临床快速识别需要
+进一步营养评估与支持的对象，所有肝癌患者应在入院
+后24 h 内完成初次筛查
+［22-23］。对于筛查结果阳性的患
+者，需要进行进一步的营养评估
+［24］。
+筛查工具：现有多种有效工具可用于肝癌患者的营
+
+·955·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+养风险筛查，根据其特点可分为通用工具和肝病专用工
+具。（1）营养风险筛查2002（NRS 2002）：此通用工
+具在预测营养相关并发症方面具有较高灵敏度，总分
+≥3 分即提示存在营养风险
+［25-27］。然而，其计算BMI
+的条件使其不适用于存在腹腔积液、肝性脑病或无法站
+立的肝癌患者
+［28-29］。（2）简化版微型营养评估量表
+（MNA-SF）：此通用工具适用于老年患者，评估内容
+涵盖体质量变化、膳食摄入量、活动能力以及心理状态
+等
+［30-31］。（3）皇家自由医院营养优先工具（RFH-NPT）：
+此肝病专用工具被欧洲临床营养与代谢学会（ESPEN）
+指南推荐为首选的肝病营养风险筛查工具
+［32-33］，其专
+门纳入了体质量变化因素并考虑了对液体潴留状态下患
+者的评估校正，该工具对于肝病特别是肝癌、肝硬化患
+者的营养风险识别灵敏度优于NRS 2002
+［34］。（4）肝
+病营养不良筛查工具（LDUST）：该工具能够快速筛查
+肝病患者中常见的肌肉/ 脂肪损耗以及液体潴留问题，
+对肝癌、肝硬化等肝病相关营养不良的检出率较高
+［35-36］。
+需注意的是，晚期癌症患者及65 岁以上的老年患
+者在使用部分筛查工具时存在较高的假阴性风险
+［37-38］。
+因此，无论筛查结果如何，这两类患者均需进行更详细
+的营养评估。
+【推荐意见】　所有新入院肝癌患者须在24 h 内
+由护士主导完成营养风险筛查，首选NRS 2002 或肝病
+专用的RFH-NPT 或LDUST，初筛阳性者直接进入营养
+评估流程；癌症晚期及≥65 岁老年患者无论初筛结果
+如何均应进行常规营养评估。
+2.2　营养状况的评估
+针对营养风险筛查阳性或存在高危因素（如癌症晚
+期、年龄≥65 岁、危重症）的肝癌患者，需由临床医
+师或营养师在入院48 h 内完成系统的营养状况评估，
+以精准指导营养干预
+［39-40］。
+评估量表：推荐对肝癌患者采用结构化量表进行营
+养状况评估。（1）主观整体评估量表（SGA）：作为
+营养评估量表的金标准，该量表操作简单，涵盖体质量
+变化、膳食摄入、症状、功能状态及体格检查等条目，
+并且不易受患者水钠潴留的干扰，尤其适用于肝硬化
+及肝癌患者
+［41-42］；（2）患者主观整体评估量表（PG-
+SGA 量表）：该量表是肿瘤患者首选的营养状况评估工
+具，通过结合患者自评与医护评估进行定量评分，评分
+为0~1 分提示无需干预、2~3 分需进行营养干预、≥4
+分需营养师介入辅助干预，该量表能够指导临床医护
+人员进行精准分级干预，具有较高的灵敏度
+［27，43-44］；
+（3）皇家自由医院改良SGA 量表（RFH-SGA）：这是
+专为终末期肝病患者设计的营养评估量表，在传统SGA
+量表的基础上引入上臂围（MAC）、肱三头肌皮褶厚度
+（TSF）及上臂肌围（MAMC）等评估维度，其公式为
+MAMC=MAC-3.14×TSF，MAMC< 第5 百分位时提示患
+者存在营养不良
+［34，45］；（4）全球营养不良标准（GLIM）：
+能够通过表型指标，如体质量下降、低BMI 和肌肉减
+少等，结合病因及实验室检查指标，实现对营养不良的
+快速诊断，但在实际使用时需要结合患者肌肉量进行实
+测验证
+［46-48］。
+针对存在水钠潴留的肝癌患者，建议增加额外的营
+养评估指标以获得更加全面、准确的营养评估结果
+［49］，
+包括：（1）动态非优势手握力（HGS）：该指标灵敏
+度可达81%，能直接反映肌肉功能衰退情况及营养相关
+并发症发生风险，显著优于传统握力测量方法
+［50］；（2）
+小腿围（CC）、TSF 及MAC：患者肌肉或脂肪等身体
+组织的流失程度可直接反映营养损耗程度，能够有效规
+避液体潴留对营养状况评估的影响
+［51-52］。
+【推荐意见】　营养风险阳性或高危肝癌患者须由
+营养师/ 医师在入院48 h 内完成结构化评估：首选SGA
+或PG-SGA 量表评估（肝癌患者必须行PG-SGA 量表
+评估，评分≥4 分即需营养师介入进行营养干预），通
+过观察HGS 及CC 等指标进一步完善患者的营养状况
+评估。
+2.3　营养状况的诊断
+针对营养风险高危的肝癌患者，需通过多维度整合
+评估实现精准的营养诊断，为个体化干预及预后改善提
+供依据。实现营养诊断的手段包含功能评估、实验室检
+查、影像学检查。
+2.3.1　功能评估
+综合评估患者生理功能及心理状态是营养诊断的基
+础。（1）Karnofsky 功能状态评分：可用于临床系统量
+化患者日常活动能力与自理程度
+［53］。（2）医院焦虑
+抑郁量表（HADS）：能够重点筛查抑郁症状及老年认
+知功能障碍，尤其适用于合并心理应激的高龄患者
+［54-55］。
+（3）体能测试：通过客观指标反映机体功能储备，包
+括6 min 步行试验、30 s 座椅站立测试和单腿站立测试，
+可分别反映患者心肺耐力水平、下肢肌群耐力以及静态
+平衡能力
+［56-57］。
+2.3.2　实验室检查
+通过多维度整合实验室检查结果可以辅助营养诊
+断，主要包括以下几项检查指标。（1）营养预测指标：
+包括炎症与预后指标［C 反应蛋白（CRP）］和格拉斯
+哥预后评分（GPS）。CRP 水平升高对肝癌患者营养预
+后的预测价值显著优于白蛋白
+［58-59］；GPS 评分1~2 分
+是肝切除术后生存率下降的独立危险因素，但需排除非
+特异性炎症干扰
+［60］。（2）蛋白质代谢指标：包括肌酐
+身高指数和前白蛋白。肌酐身高指数通过连续收集患者
+
+·956· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+3 d 的尿液，计算平均肌酐值，并将其与相同性别和身
+高人群的标准肌酐值进行比较，得出百分比，<60% 提
+示重度蛋白质缺乏，且不受水钠潴留影响，但要求被测
+患者肾功能正常且无急性感染
+［61］；前白蛋白t1/2 仅1.9 d，
+因此对营养变化的灵敏度优于白蛋白，但仍受肝功能异
+常及液体负荷干扰
+［62-63］。另外需注意因肝癌患者普遍
+存在低白蛋白血症，白蛋白单独诊断的价值有限，需结
+合其他参数
+［64］。（3）免疫营养指标：包括预后营养
+指数（PNI）。PNI 通过公式［白蛋白（g/L）+5× 淋巴
+细胞计数（×10
+9/L）］计算，低数值与术后生存期缩短
+有关
+［65-66］，但因淋巴细胞易受脾功能亢进或感染抑制
+而可能使其准确度下降
+［67］。（4）身体成分与细胞功
+能指标：如生物电阻抗分析（BIA）。BIA 可同步获取
+肌肉量、脂肪量及相位角数据，其中相位角能够直接反
+映细胞膜完整性，术前低相位角患者术后感染率及死亡
+率显著升高，其营养状况及生存预测效力超越传统白蛋
+白指标
+［68-70］。
+2.3.3　影像学检查
+（1）双能X 线吸收测量法（DXA）：可精确定量
+全身肌肉组织与脂肪分布
+［71］。（2）腹部CT 或MRI：
+通过第三腰椎水平骨骼肌横截面积测量实现对患者肌肉
+量的标准化评估。此类技术是患者身体成分分析和营养
+诊断的金标准，但成本较高、操作复杂且具有辐射暴露
+风险
+［72-75］。
+【推荐意见】　对于接受营养诊断的肝癌患者，应
+完成基础评估组合，包括：（1）通过术前常规影像检查（如
+CT 或MRI）量化骨骼肌含量；（2）标准化体能状态评
+分Karnofsky 测试和抑郁风险筛查量表HADS。此外，
+对于常规实验室检查需优先选择与肝癌预后强相关的核
+心指标，包括CRP 检测、前白蛋白、BIA 相位角。资
+源受限时，应确保至少完成CT 影像学肌肉量分析、前
+白蛋白及CRP 检测。
+3　基于ERAS 理念的肝癌围术期营养管理
+肝癌患者的围术期营养管理应基于ERAS 理念，贯
+穿术前、术中、术后及出院后的管理延续阶段。通过动
+态营养筛查与评估对患者的营养状况进行诊断，为患者
+的个性化营养支持方案提供依据，减少术后并发症、加
+速康复并改善预后。基于ERAS 理念的肝癌围术期营养
+管理路径如图1。
+3.1　术前管理
+院前预康复：对于门诊经营养风险筛查呈阳性的肝
+癌患者，应在入院前实施为期7 d 的家庭营养预康复方
+案，可每日于早、中、晚3 个固定时段口服营养补充剂
+注：RFH-NPT= 皇家自由医院营养优先工具，NRS 2002= 营养风险筛查2002，SGA= 主观整体评估量表，PG-SGA= 患者主观整体评估量表，
+HADS= 医院焦虑抑郁量表，CRP=C 反应蛋白，BIA= 生物电阻抗分析。
+图1　基于ERAS 理念的肝癌围术期营养管理路径
+Figure 1　Perioperative nutrition pathway for liver cancer based on ERAS
+
+·957·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+进行营养补充，每次摄入剂量为250~300 mL，并同步
+开展每日线上随访评估，动态监测患者执行情况与营养
+状况
+［75-77］。
+营养筛查：动态营养筛查可早期识别营养不良风险，
+降低术后并发症发生率
+［78］。在肝癌患者入院后采用
+NRS 2002 或RFH-NPT 完成营养风险筛查，快速评估肝
+癌患者的营养状况，指导后续的营养管理措施
+［12，79］。
+通过“筛查- 评估- 诊断”的3 级营养诊断模型，可以
+早期识别营养不良高风险患者
+［17，80］。
+营养支持：存在营养不良的患者，应在术前接受口
+服营养补充，严重吞咽功能障碍或胃肠功能障碍者可改
+用管饲肠内营养或肠外营养
+［17，80-82］。有研究显示，术
+前1 周开始每日400~600 kcal 高蛋白/ 免疫营养口服营
+养补充剂，可改善患者术后营养状况
+［83-84］；术前5 d
+补充精氨酸及ω-3 脂肪酸可降低感染风险
+［85-86］；术
+前3 d 添加肠内营养混悬剂（TP-MCT）进行营养补充
+（500~1 000 mL/d，含蛋白质≥25 g），可显著缩短肝
+切除患者术后首次排气时间
+［84，87］；术前1 晚口服支链
+氨基酸（BCAA）能预防肝切除术患者术后白蛋白水平
+降低，改善患者血氨水平
+［88-89］。对于合并糖尿病的肝
+癌患者，推荐在术前3 d 改用胰岛素替代药物治疗以优
+化血糖控制
+［90-91］。
+运动指导：术前建议由多学科团队定制运动训练方
+案，方案可以吹气球等呼吸心肺训练为核心，2~3 次/d，
+15 min/ 次，增强心肺功能储备，预防术后肺部并发
+症
+［92-94］。
+心理护理：由临床护士主导，与患者建立互信的护
+患关系
+［95-96］。耐心倾听并正视患者焦虑，为患者提供
+清晰、真实且明了的手术信息和预期，解释术前准备和
+术后康复要点，提升患者术前心理准备度。关注患者睡
+眠与疼痛情况，出现失眠障碍或疼痛时及时处理
+［97］。
+【推荐意见】　肝癌患者术前营养管理应以营养风
+险筛查为先导，同步执行运动指导和心理护理。营养风
+险动态筛查：在门诊和入院后均采用量表对患者进行营
+养状况筛查，对门诊筛查的营养不良高风险人群，启动
+7 d 家庭营养预康复：3 次/d 口服营养补充剂，250~300 
+mL/ 次；对入院后筛查的营养不良高风险人群，需在
+术前3 d 补充肠内营养制剂，500 mL/d，术前1 晚口服
+50 g 支链氨基酸。对于合并糖尿病的患者，需提前3 d
+改用胰岛素控制血糖。
+3.2　术中管理
+建立营养通路：术中建立专门用于营养液输注的
+静脉通路，做好管路维护，为术后肠外营养做准备
+［81，
+98］。对于严重吞咽功能障碍，出现恶心、呕吐、腹胀
+等胃肠道功能障碍等无法经口进行营养补充的患者，术
+中可将鼻肠营养管精准放置于Treitz 韧带远端20 cm 空
+肠处，避免留置胃管（如放置则在麻醉清醒前拔除），
+为术后肠内营养早期启动提供安全通路
+［78，99］。
+维持生理稳态：严格限制术中静脉滴注总量在
+2 000 mL内，避免液体过量
+［100-101］。全程对患者主动保温，
+术前调高手术室温度，非手术区域覆盖保温毯，静脉滴
+注液体及腹腔冲洗液加温至37.5 ℃
+［102-103］。维持患者
+血流动力学稳定，降低低体温相关凝血功能障碍发生率
+及术后感染风险
+［104］。
+心理护理：患者进入手术室后，对其进行环境介绍
+与心理安抚，缓解患者的紧张情绪，最大限度减少其生
+理应激反应，为术后快速康复奠定基础
+［78］。
+【推荐意见】　肝癌术中需同步建立营养通路及维
+持生理稳态（限液+ 保温），同时辅以心理干预，以共
+同维持内环境稳定，减轻手术应激反应，为术后加速康
+复提供保障。
+3.3　术后管理
+营养支持：对于术后一般情况良好、营养不良风险
+较低（NRS 2002 评分<3 分、PG-SGA 量表评分<2 分、
+前白蛋白水平正常）的患者，推荐早期经口进食
+［105-
+106］。术后经口进食推荐按“清流质→流质→半流质→
+软食→普食”顺序分阶段推进。术后当天在清醒后试饮
+温水10 mL/ 次并逐渐过渡到200 mL，若无不适则予高
+热量清流质
+［107］；术后第1 天予清流质，如藕粉、米汤
+等，日总量≤500 mL
+［84］；术后第2 天予流质50~100 
+mL/2~3 h，联合高蛋白/ 免疫营养配方的口服营养制剂
+（ONS）
+［108］；术后第3 天予半流质饮食，如小米粥、
+蛋羹，辅以ONS 200 mL/ 次，3 次/d；术后第4 天起予
+软食持续至术后1 个月，餐间可补充ONS
+［109］。此流程
+可减少胃肠刺激，保障营养摄入
+［83］，ONS 可显著改善
+患者的营养状态，促进其肠道功能恢复
+［79］。对于存在
+营养不良风险的患者，建议根据患者情况，在有或无经
+口进食的基础上补充肠外、肠内营养
+［81，110］。可遵循“肠
+外营养→肠内外联合→肠内营养”的阶梯式过渡原则，
+对于无明显口服禁忌证的患者，推荐将口服营养补充作
+为肠内营养的首选方式
+［82，110］。无法进行口服营养补充
+的患者可经鼻肠管滴注10%葡萄糖注射液500 mL/12 h，
+随后逐步滴注肠内营养乳剂，从250 mL/12 h 递增
+［111］。
+有研究推荐肝癌患者术后第1 天给予100% 肠外营养；
+术后2~3 d 调整为50% 肠内营养+50% 肠外营养；术后
+4~5 d 过渡至70% 肠内营养+30% 肠外营养；术后6~
+7 d 实现100% 肠内营养。此方案可满足肝癌患者术后
+不同恢复阶段的能量与蛋白质需求，加速肠道功能恢复，
+降低并发症风险
+［90，112］。
+早期活动：术后6 h 可指导患者进行床上活动，如
+
+·958· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+踝泵运动、翻身等；术后第1 天视患者恢复情况可协助
+其下床活动，>3 次/d，15~20 min/ 次；术后第2 天起循
+序渐进增加活动量，如行走训练、抗阻运动等
+［113-114］。
+早期下床活动可加速胃肠蠕动，缩短首次排气时间，降
+低并发症发生风险
+［92］。
+胃肠道功能调节：术后6 h 起可口服乳果糖10~15 
+mL/ 次，1~2 次/d，联合益生菌，如双歧杆菌三联活菌
+制剂、乳杆菌或混合酸奶服用，直至排气排便，可修复
+肠道菌群失衡。此外，有研究指出术后第1 天咀嚼口香
+糖、按摩足三里穴，可协同改善胃肠动力，预防肠麻痹
+［107，
+114-117］。
+【推荐意见】　术后营养管理推荐把握2 大核心：
+（1）阶梯式营养过渡——对于营养不良低风险患者，
+术后24 h 内从清流质逐步过渡至半流质、普食，24 h
+后可同步补充口服营养制剂（3 次/d，200 mL/ 次）；
+对于存在营养不良风险的患者，术后24 h 内启动肠外
+营养，7 d 内从肠外营养逐步过渡至全肠内营养。（2）
+胃肠道功能恢复——术后6 h 起可联合乳果糖与益生菌
+调节肠道菌群，24 h 内协助患者下床活动。该策略可满
+足肝癌患者术后不同恢复阶段的能量与蛋白质需求，缩
+短首次排气时间，提升白蛋白水平，加速康复进程。
+3.4　出院后管理和随访
+营养支持延续：出院时对患者进行营养风险复筛，
+对高风险人群延续ONS 干预：3 次/d（9：30、15：00、
+21：30），250~300 mL/ 次高蛋白配方，持续补充至术
+后1 个月。此措施可巩固住院期营养改善效果，提升白
+蛋白水平，降低再入院风险
+［74，118-119］。
+动态监测与管理：建立基于线上平台的远程营养随
+访体系，记录患者每日饮食的食物种类、摄入量及不良
+反应，给予个性化营养调整建议，如热量分配方案、蛋
+白质补充方案等，能够显著提高患者依从性，预防营养
+状况恶化
+［74，120］。
+门诊复诊营养评估：出院后2 周安排门诊复诊，全
+面评估营养指标（体质量、白蛋白、前白蛋白）、胃肠
+功能恢复及并发症发生情况，根据评估结果调整营养管
+理方案
+［121-122］。对于营养状况达标者，可逐渐转为常
+规饮食指导；对于营养状况未达标者，延长其ONS 使
+用周期或升级至管饲/ 肠外营养支持。通过动态营养管
+理方案调整，可实现个体化康复目标
+［74］。
+【推荐意见】　肝癌患者出院后需实施风险分层
+营养管理。对于出院时复筛为营养高风险的患者，需
+要延续高蛋白口服营养补充至术后1 个月，3 次/d，
+250~300 mL/ 次；同步开展远程饮食监测及血糖追踪。
+此外，所有患者出院2 周后进行复诊评估营养指标（体
+质量、白蛋白、前白蛋白），动态调整营养管理方案，
+降低患者再入院风险。
+4　多学科协作模式
+通过组建包括营养师、临床医师、专科护士、康复
+师、麻醉师等多学科团队，根据营养师营养评估结果制
+订个体化营养管理方案，由专科护士执行营养支持计划，
+康复师指导运动，可显著改善肝癌患者的预后和营养恢
+复情况
+［74，123］。
+4.1　多学科团队构建与角色分工
+肝癌围术期营养管理多学科协作团队通常由临床营
+养师、肝胆外科医师、专科护士、康复治疗师和麻醉科
+医师组成，各角色分工明确。
+临床营养师：负责全程营养管理，包括术前采用营
+养评估和筛查工具对肝癌患者进行营养风险评估；术中
+指导营养通路成功建立；术后设计分阶段营养管理方案，
+并联合康复治疗师调整运动量及蛋白质摄入量
+［32，124］。
+肝胆外科医师：作为核心决策者，主导围术期整体
+治疗方案，评估手术可行性，制订术中液体管理策略，
+并与麻醉师协作维持患者术中血糖稳定。通过控制中心
+静脉以减少患者术中出血量，降低术后并发症发生风
+险
+［125-126］。
+专科护士：执行营养支持操作，包括对肠外营养、以
+ONS 为核心的肠内营养及营养剂的剂量进行调整等；监
+测并发症发生情况，如腹胀、腹泻、腹腔积液、血糖波动
+等；落实ERAS 营养管理方案的相关措施，指导并协助
+患者记录饮食，确保营养管理方案精准落地
+［12，127-128］。
+康复治疗师：设计并执行患者术前和术后的运动康
+复计划，加速患者术后康复
+［129-130］。
+麻醉科医生：术中实施以目的为导向的液体管
+理以及联合保温措施，降低患者术后低体温症发生
+率
+［102，131］。
+【推荐意见】　肝癌患者围术期需建立以肝胆外科
+医师为主导、临床营养师为纽带、专科护士为执行核心
+的多学科协作体系：外科医师统筹手术方案与液体管理；
+营养师把握贯穿全周期的营养调控；护士精准执行营养
+支持与并发症防控；康复师定制围术期运动方案促进患
+者功能恢复；麻醉师维持患者术中生理稳态。该模式通
+过角色互补与流程耦合，能够显著降低术后并发症发生
+率，加速患者康复进程。
+4.2　协作流程与标准化营养管理路径
+术前阶段：（1）营养师与外科医师共同筛查营养
+不良高危患者，制订术前营养强化等预康复方案；（2）
+护士与营养师协作开展健康教育，指导患者围术期的营
+养支持相关知识和措施；（3）康复师、外科医师根据
+患者情况联合制订术前运动康复方案，专科护士协助指
+
+·959·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+导患者按照计划进行术前运动康复
+［32，93，132-133］。
+术中阶段：麻醉师与外科医师联合控制术中血糖，
+进行液体管理，落实术中保温措施
+［102］。
+术后阶段：（1）康复师制订术后运动康复计划，
+专科护士协助指导患者按照计划进行术后运动康复；（2）
+营养师根据患者营养评估情况对患者调整相应的营养支
+持方案并与专科护士一同执行
+［12，124，130］。
+出院后管理：专科护士和营养师在术后对患者进行
+电话或网络随访，对居家饮食及营养剂补充提供专业指
+导
+［74，133］。
+【推荐意见】　肝癌患者围术期营养管理需构建并
+执行贯穿术前、术中、术后及出院后居家阶段的多学科
+闭环协作路径。术前由营养师与外科医师联合筛查高危
+患者并启动预康复，护士落实健康教育；术中麻醉师与
+外科医师协同实施血糖调控、限制性静脉滴注及体温维
+持，同步建立营养通路；术后康复师制订阶梯运动计划，
+营养师动态调整营养支持方案，护士执行；患者出院后
+由护士及营养师通过线上平台对患者进行远程营养监测
+与指导。
+5　小结
+针对肝癌患者营养不良风险和发生率高的现实问题
+而拟订的基于ERAS 理念的肝癌患者围术期营养管理方
+案，可显著改善肝癌患者术后营养状态，降低并发症发
+生率，缩短住院时间。其核心价值体现在建立动态监测
+和干预体系，采用不同的营养评估工具在围术期的不同
+时间节点进行营养筛查和评估，实施覆盖术前、术中、
+术后及出院后居家阶段的全周期营养干预。通过构建以
+外科医师为主导、营养师全程调控、护士精准执行、康
+复师运动指导、麻醉科术中稳态维持的多学科协作框架，
+形成标准化闭环路径。综上，本共识通过证据整合和全
+国33 位专家的多轮论证，形成适用于医院标准化管理
+的肝癌患者围术期营养管理框架，为改善肝癌患者预后
+提供了科学依据。本共识将推动基于ERAS 理念的营养
+管理方案在临床实践中的规范化应用，并通过持续更新
+保持循证先进性。
+《基于加速康复外科理念的肝癌围术期营养管理
+专家共识（2025 版）》制订专家组成员
+主审专家：贾杰（复旦大学附属华山医院）
+执笔专家：温湘祥（复旦大学附属华山医院）；贾
+守梅（复旦大学护理学院）；殷保兵（复旦大学附属华
+山医院）
+制定专家（按姓氏笔画排名）：于惠秋（吉林大学
+中日联谊医院）；王俊（上海市仙霞街道社区卫生服务
+中心）；付亏杰（河南医药大学第一附属医院）；叶珊
+珊（福州市晋安区医院）；叶桦（福州市晋安区医院）；
+达瓦次仁（西藏自治区藏医院）；李娟（复旦大学附属
+华山医院）；许雅芳（复旦大学附属华山医院）；刘晓
+丹（上海中医药大学）；刘玉琪（福建医科大学附属第
+二医院）；吕云（国药同煤总医院）；吕颖葵（大连西
+岗白云民运社区卫生服务中心）；许雷雷（河南省洛阳
+市中心医院康复科）；杜国英（河北省第二荣军优抚医
+院）；邱纪方（浙江康复医疗中心）；吴建贤（安徽医
+科大学第二附属医院）；吴雨梅（深圳平乐骨伤科医院）；
+杨芳（浙江中医药大学）；杨延辉（陕西省康复医院）；
+杨雪捷（广西中医药大学）；余锦寿（祥云县人民医院）；
+张舸（洛阳市中心医院）；张为民（长春中医药大学附
+属第三临床医院）；郁海琦（邻家康养健康养老服务合
+伙企业）；侯迪（复旦大学附属华山医院国家老年疾病
+临床医学研究中心）；姚黎清（昆明医科大学第二附属
+医院）；赵盛惠（重庆市沙坪坝区陈家桥医院）；赵月
+华（复旦大学附属华山医院静安分院）；倪隽（福建医
+科大学附属第一医院康复科）；徐燕忠（远东宏信集团
+首席专家）；梁天佳（广西医科大学附属第二医院）；
+蒋柳雅（复旦大学附属华山医院静安分院）；魏新萍（上
+海市闵行区梅陇社区卫生服务中心）
+本文无利益冲突。
+参考文献
+［1］LI Q R, DING C, CAO M M, et al. Global epidemiology of liver cancer 
+2022: an emphasis on geographic disparities[J]. Chin Med J(Engl), 
+2024, 137(19): 2334-2342. DOI: 10.1097/CM9.0000000000003264. 
+［2］曹梦迪, 王红, 石菊芳, 等. 中国人群肝癌疾病负担: 多数据源
+证据更新整合分析[J]. 中华流行病学杂志, 2020, 41(11): 1848-
+1858. DOI: 10.3760/cma.j.cn112338-20200306-00271. 
+［3］WANG L, WANG X Y, WANG X J. The effectiveness of enteral 
+nutrition for patients with primary liver cancer: a randomized 
+controlled study protocol[J]. Medicine(Baltimore), 2021, 100(3): 
+e23973. DOI: 10.1097/MD.0000000000023973. 
+［4］WIE G A, CHO Y A, KIM S Y, et al. Prevalence and risk factors of 
+malnutrition among cancer patients according to tumor location and 
+stage in the National Cancer Center in Korea[J]. Nutrition, 2010, 26(3): 
+263-268. DOI: 10.1016/j.nut.2009.04.013. 
+［5］ABDELFATAH D, ALLAM R, MONEER M, et al. Nutritional 
+assessment of Egyptian adults with hepatic and gastrointestinal 
+malignancies: cross sectional study[J]. Egypt J Community Med, 2022. 
+DOI: 10.21608/ejcm.2021.83418.1180.
+［6］刘萍, 宋春华. NRS 2002 及MNA 在原发性肝癌患者中应用的适
+用性比较[J]. 中国实用护理杂志, 2014, 30(11): 44-46.
+［7］LEE D U, WANG E, FAN G H, et al. Malnutrition as a risk factor 
+of adverse postoperative outcomes in patients undergoing hepatic 
+
+·960· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+resection: analysis of US hospitals[J]. Br J Nutr, 2022, 128(4): 675-
+683. DOI: 10.1017/S0007114521003809. 
+［8］NOBA L, RODGERS S, CHANDLER C, et al. Enhanced recovery after 
+surgery(ERAS)reduces hospital costs and improve clinical outcomes in 
+liver surgery: a systematic review and meta-analysis[J]. J Gastrointest 
+Surg, 2020, 24(4): 918-932. DOI: 10.1007/s11605-019-04499-0. 
+［9］LJUNGQVIST O, SCOTT M, FEARON K C. Enhanced recovery 
+after surgery: a review[J]. JAMA Surg, 2017, 152(3): 292-298. DOI: 
+10.1001/jamasurg.2016.4952. 
+［10］REMINGTON J H, BARGEN J A, PEMBERTON J D. Nutritional 
+rehabilitation of surgical patients[J]. Ann Surg, 1947, 125(1): 115-
+118. 
+［11］余恺涛, 贾杰. 全周期康复视角下的肝癌相关指南及专家共识
+解读[J]. 中国医刊, 2022, 57(1): 18-21. 
+［12］KAIBORI M, MATSUI K, SHIMADA M, et al. Update on 
+perioperative management of patients undergoing surgery for liver 
+cancer[J]. Ann Gastroenterol Surg, 2021, 6(3): 344-354. DOI: 
+10.1002/ags3.12529. 
+［13］LI X Y, YUAN Q, GENG L R, et al. Quality assessment of the 
+clinical practice guidelines of ostomy care based on the AGREE Ⅱ 
+instrument[J]. Front Public Health, 2022, 10: 856325. DOI: 10.3389/
+fpubh.2022.856325. 
+［14］SHEA B J, GRIMSHAW J M, WELLS G A, et al. Development of 
+AMSTAR: a measurement tool to assess the methodological quality 
+of systematic reviews[J]. BMC Med Res Methodol, 2007, 7: 10. DOI: 
+10.1186/1471-2288-7-10. 
+［15］ZHENG J L, ZHAO L G, DONG J W, et al. The role of dietary 
+factors in nonalcoholic fatty liver disease to hepatocellular carcinoma 
+progression: a systematic review[J]. Clin Nutr, 2022, 41(10): 2295-
+2307. DOI: 10.1016/j.clnu.2022.08.018. 
+［16］GEORGE E S, SOOD S, BROUGHTON A, et al. The association 
+between diet and hepatocellular carcinoma: a systematic review[J]. 
+Nutrients, 2021, 13(1): 172. DOI: 10.3390/nu13010172. 
+［17］HUANG T H, HSIEH C C, KUO L M, et al. Malnutrition associated 
+with an increased risk of postoperative complications following 
+hepatectomy in patients with hepatocellular carcinoma[J]. HPB: 
+Oxford, 2019, 21(9): 1150-1155. DOI: 10.1016/j.hpb.2019.01.003. 
+［18］JIN W Q, JIANG S M, CHEN A K, et al. Effect of preoperative 
+malnutrition based on albumin and BMI on hepatocellular carcinoma 
+surgery and prediction of risk factors of complications[J]. J 
+Gastrointest Cancer, 2024, 55(2): 511-518. DOI: 10.1007/s12029-
+023-01008-0. 
+［19］OMIYA S, URADE T, KOMATSU S, et al. Impact of GLIM criteria-
+based malnutrition diagnosis on outcomes following liver resection for 
+hepatocellular carcinoma[J]. HPB: Oxford, 2023, 25(12): 1555-1565. 
+DOI: 10.1016/j.hpb.2023.08.012. 
+［20］MARTÍNEZ-ORTEGA A J, PIÑAR-GUTIÉRREZ A, SERRANO-
+AGUAYO P, et al. Perioperative nutritional support: a review of 
+current literature[J]. Nutrients, 2022, 14(8): 1601. DOI: 10.3390/
+nu14081601. 
+［21］吕倩, 谢海英, 苏虹虹, 等. 肝癌病人术前营养支持的研究进展
+[J]. 循证护理, 2022, 8(11): 1481-1484. 
+［22］REBER E, SCHÖNENBERGER K A, VASILOGLOU M F, et al. 
+Nutritional risk screening in cancer patients: the first step toward 
+better clinical outcome[J]. Front Nutr, 2021, 8: 603936. DOI: 
+10.3389/fnut.2021.603936. 
+［23］REBER E, GOMES F, VASILOGLOU M F, et al. Nutritional risk 
+screening and assessment[J]. J Clin Med, 2019, 8(7): 1065. DOI: 
+10.3390/jcm8071065. 
+［24］YU J X, SOH K L, HE L P, et al. Development of a short-term 
+nutritional risk prediction model for hepatocellular carcinoma 
+patients: a retrospective cohort study[J]. Sci Rep, 2024, 14(1): 3921. 
+DOI: 10.1038/s41598-024-54456-4. 
+［25］WANG P P, TAN Y M, SOH K L, et al. Nutrition risk screening 
+2002 for adult cancer patients: a systematic review and 
+meta-analysis[J]. Nutr Cancer, 2024, 76(7): 573-583. DOI: 
+10.1080/01635581.2024.2352901. 
+［26］HUANG S L, WANG S J, XIE Y K, et al. Application of NRS 2002 in 
+preoperative nutritional screening for patients with liver cancer[J]. J 
+Oncol, 2021, 2021: 8943353. DOI: 10.1155/2021/8943353. 
+［27］CRESTANI M S, GRASSI T, STEEMBURGO T. Methods of 
+nutritional assessment and functional capacity in the identification of 
+unfavorable clinical outcomes in hospitalized patients with cancer: a 
+systematic review[J]. Nutr Rev, 2022, 80(4): 786-811. DOI: 10.1093/
+nutrit/nuab090. 
+［28］XIE L, WANG S, ZHOU L Y, et al. Preoperative nutritional 
+evaluation of patients with hepatic alveolar echinococcosis[J]. PLoS 
+One, 2020, 15(2): e0229396. DOI: 10.1371/journal.pone.0229396. 
+［29］TAN S Q, JIANG J, QIU L L, et al. Prevalence of malnutrition 
+in patients with hepatocellular carcinoma: a comparative study 
+of GLIM criteria, NRS 2002, and PG-SGA, and identification of 
+independent risk factors[J]. Nutr Cancer, 2024, 76(4): 335-344. DOI: 
+10.1080/01635581.2024.2314317. 
+［30］GIL-ANDRÉS D, CABAÑAS-ALITE L. A narrative review 
+comparing nutritional screening tools in outpatient management 
+of cancer patients[J]. Nutrients, 2024, 16(5): 752. DOI: 10.3390/
+nu16050752. 
+［31］TORBAHN G, STRAUSS T, SIEBER C C, et al. Nutritional status 
+according to the mini nutritional assessment(MNA)® as potential 
+prognostic factor for health and treatment outcomes in patients with 
+cancer - a systematic review[J]. BMC Cancer, 2020, 20(1): 594. DOI: 
+10.1186/s12885-020-07052-4. 
+［32］PLAUTH M, BERNAL W, DASARATHY S, et al. ESPEN guideline 
+on clinical nutrition in liver disease[J]. Clin Nutr, 2019, 38(2): 485-
+521. DOI: 10.1016/j.clnu.2018.12.022. 
+［33］WU Y C, ZHU Y G, FENG Y L, et al. Royal Free Hospital-
+Nutritional Prioritizing Tool improves the prediction of malnutrition 
+risk outcomes in liver cirrhosis patients compared with Nutritional 
+Risk Screening 2002[J]. Br J Nutr, 2020, 124(12): 1293-1302. DOI: 
+10.1017/S0007114520002366. 
+
+·961·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+［34］HE Y M, WANG Z M, WU S Y, et al. Screening and assessment of 
+malnutrition in patients with liver cirrhosis[J]. Front Nutr, 2024, 11: 
+1398690. DOI: 10.3389/fnut.2024.1398690. 
+［35］MCFARLANE M, HAMMOND C, ROPER T, et al. Comparing 
+assessment tools for detecting undernutrition in patients with liver 
+cirrhosis[J]. Clin Nutr ESPEN, 2018, 23: 156-161. DOI: 10.1016/
+j.clnesp.2017.10.009. 
+［36］WANG R Z, HUANG L H, XU M, et al. Comparison of different 
+nutritional screening tools in nutritional screening of patients with 
+cirrhosis: a cross-sectional observational study[J]. Heliyon, 2024, 
+10(10): e30339. DOI: 10.1016/j.heliyon.2024.e30339. 
+［37］MOHILE S G, DALE W, SOMERFIELD M R, et al. Practical 
+assessment and management of vulnerabilities in older patients 
+receiving chemotherapy: ASCO guideline for geriatric oncology 
+summary[J]. J Oncol Pract, 2018, 14(7): 442-446. DOI: 10.1200/
+JOP.18.00180. 
+［38］DECOSTER L, PUYVELDE K V, MOHILE S, et al. Screening 
+tools for multidimensional health problems warranting a 
+geriatric assessment in older cancer patients: an update on SIOG 
+recommendations[J]. Ann Oncol, 2015, 26(2): 288-300. DOI: 
+10.1093/annonc/mdu210. 
+［39］RAVASCO P. Nutrition in cancer patients[J]. J Clin Med, 2019, 8(8): 
+1211. DOI: 10.3390/jcm8081211. 
+［40］ZHOU H J, DENG L J, WANG T, et al. Clinical practice guidelines 
+for the nutritional risk screening and assessment of cancer patients: 
+a systematic quality appraisal using the AGREE Ⅱ instrument[J]. 
+Support Care Cancer, 2021, 29(6): 2885-2893. DOI: 10.1007/
+s00520-021-06094-z. 
+［41］MIWA T K, HANAI T, NISHIMURA K, et al. Nutritional assessment 
+using subjective global assessment identifies energy malnutrition and 
+predicts mortality in patients with liver cirrhosis[J]. Sci Rep, 2025, 
+15(1): 4831. DOI: 10.1038/s41598-025-89803-6. 
+［42］PENTIUK N, MOTSIUK V. Evaluation of nutritional status in patients 
+with liver cirrhosis. Validity and prognostic value of the Patient-
+Generated Subjective Global Assessment[J]. Prz Gastroenterol, 2023, 
+18(3): 327-333. DOI: 10.5114/pg.2022.119964. 
+［43］JAGER-WITTENAAR H, OTTERY F D. Assessing nutritional 
+status in cancer: role of the patient-generated subjective global 
+assessment[J]. Curr Opin Clin Nutr Metab Care, 2017, 20(5): 322-
+329. DOI: 10.1097/MCO.0000000000000389. 
+［44］CHONMAITREE P, SUDCHAROEN A, POONYAM P, et al. 
+Comparison of Patient-Generated Subjective Global Assessment(PG-
+SGA)and Mini Nutritional Assessment(MNA)for nutritional 
+assessment in hepatocellular carcinoma patients[J]. Support Care 
+Cancer, 2025, 33(2): 116. DOI: 10.1007/s00520-025-09176-4. 
+［45］ALDANA LEDESMA J M, VÁZQUEZ RODRÍGUEZ D, LAZCANO 
+BECERRA M, et al. Comparison of different tools for the evaluation 
+of malnutrition and sarcopenia in patients with liver cirrhosis[J]. Nutr 
+Hosp, 2023, 40(2): 340-346. DOI: 10.20960/nh.03837. 
+［46］BARAZZONI R, JENSEN G L, CORREIA M I T D, et al. Guidance 
+for assessment of the muscle mass phenotypic criterion for the 
+Global Leadership Initiative on Malnutrition(GLIM)diagnosis of 
+malnutrition[J]. Clin Nutr, 2022, 41(6): 1425-1433. DOI: 10.1016/
+j.clnu.2022.02.001. 
+［47］CEDERHOLM T, JENSEN G L, CORREIA M D, et al. GLIM criteria 
+for the diagnosis of malnutrition - a consensus report from the global 
+clinical nutrition community[J]. J Cachexia Sarcopenia Muscle, 2019, 
+10(1): 207-217. DOI: 10.1002/jcsm.12383. 
+［48］CEDERHOLM T, JENSEN G L, CORREIA M I T D, et al. The GLIM 
+consensus approach to diagnosis of malnutrition: a 5-year update[J]. 
+Clin Nutr, 2025, 49: 11-20. DOI: 10.1016/j.clnu.2025.03.018. 
+［49］SCHÜTTE K, TIPPELT B, SCHULZ C, et al. Malnutrition is a 
+prognostic factor in patients with hepatocellular carcinoma(HCC)
+[J]. Clin Nutr, 2015, 34(6): 1122-1127. DOI: 10.1016/
+j.clnu.2014.11.007. 
+［50］CORTEZ A F, DE ALMEIDA V P, CORRÊA B B, et al. Nutritional 
+assessment, handgrip strength and adductor pollicis muscle thickness 
+in patients with chronic viral hepatitis[J]. Clin Nutr Exp, 2020, 29: 
+49-61. DOI: 10.1016/j.yclnex.2019.11.002. 
+［51］PEDRO J, MARTUCCI R, MONTEIRO G, et al. Mid-upper arm 
+circumference in hospitalized pediatric patients with cancer: is there 
+an association with malnutrition?[J]. Nutr Clin Pract, 2023, 38(5): 
+1133-1141. DOI: 10.1002/ncp.11039. 
+［52］GORT-VAN DIJK D, WEERINK L B M, MILOVANOVIC M, et al. 
+Bioelectrical impedance analysis and mid-upper arm muscle 
+circumference can be used to detect low muscle mass in clinical 
+practice[J]. Nutrients, 2021, 13(7): 2350. DOI: 10.3390/nu13072350. 
+［53］KELLY C M, SHAHROKNI A. Moving beyond karnofsky and ECOG 
+performance status assessments with new technologies[J]. J Oncol, 
+2016, 2016: 6186543. DOI: 10.1155/2016/6186543. 
+［54］LI T, LI B, TAN L, et al. Reminiscence therapy as a potential 
+method to improve psychological health and quality of life in elderly 
+hepatocellular carcinoma patients: a randomized, controlled trial[J]. 
+Front Surg, 2022, 9: 873843. DOI: 10.3389/fsurg.2022.873843. 
+［55］WONDIE Y, MEHNERT A, HINZ A. The Hospital Anxiety and 
+Depression Scale(HADS) applied to Ethiopian cancer patients[J]. 
+PLoS One, 2020, 15(12): e0243357. DOI: 10.1371/journal.
+pone.0243357. 
+［56］LAI J C, VOLK M L, STRASBURG D, et al. Performance-based 
+measures associate with frailty in patients with end-stage liver 
+disease[J]. Transplantation, 2016, 100(12): 2656-2660. DOI: 
+10.1097/TP.0000000000001433. 
+［57］YEE X S, NG Y S, ALLEN J C, et al. Performance on sit-to-stand 
+tests in relation to measures of functional fitness and sarcopenia 
+diagnosis in community-dwelling older adults[J]. Eur Rev Aging 
+Phys Act, 2021, 18(1): 1. DOI: 10.1186/s11556-020-00255-5. 
+［58］FANG E H, WANG X L, FENG J X, et al. The prognostic role of 
+Glasgow prognostic score and C-reactive protein to albumin ratio for 
+sarcoma: a system review and meta-analysis[J]. Dis Markers, 2020, 
+2020: 8736509. DOI: 10.1155/2020/8736509. 
+
+·962· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+［59］廖建洲. 肝癌病患中, C- 反应蛋白在存活率及预后结果的分析
+[D]. 台中: 中山医学大学医学研究所, 2016: 1-44.
+［60］ZHANG J, ZHANG C B, LI Q X, et al. C-reactive protein/albumin 
+ratio is an independent prognostic predictor of survival in advanced 
+cancer patients receiving palliative care[J]. J Palliat Med, 2019, 
+22(12): 1536-1545. DOI: 10.1089/jpm.2019.0102. 
+［61］MEDHAT A S, AHMED A O, AHMED F T, et al. Creatinine height 
+index as a predictor of nutritional status among patients with liver 
+cirrhosis[J]. J Public Health Epidemiol, 2016, 8(10): 220-228. DOI: 
+10.5897/jphe2016.0850. 
+［62］LI J D, XU X F, HAN J, et al. Preoperative prealbumin level as an 
+independent predictor of long-term prognosis after liver resection for 
+hepatocellular carcinoma: a multi-institutional study[J]. HPB(Oxford), 
+2019, 21(2): 157-166. DOI: 10.1016/j.hpb.2018.06.1803. 
+［63］LI J D, DIAO Y K, LI J, et al. Association between preoperative 
+prealbumin level and postoperative mortality and morbidity after 
+hepatic resection for hepatocellular carcinoma: a multicenter study 
+from a HBV-endemic area[J]. Am J Surg, 2021, 221(5): 1024-1032. 
+DOI: 10.1016/j.amjsurg.2020.08.036. 
+［64］BRETSCHER C, BUERGIN M, GURZELER G, et al. Association 
+between prealbumin, all-cause mortality, and response to nutrition 
+treatment in patients at nutrition risk: Secondary analysis of a 
+randomized controlled trial[J]. JPEN J Parenter Enteral Nutr, 2023, 
+47(3): 408-419. DOI: 10.1002/jpen.2470. 
+［65］ZHANG H Y, LI D, LI J. Prognostic significance of preoperative 
+prognostic nutritional index in hepatocellular carcinoma after curative 
+hepatectomy: a meta-analysis and systemic review[J]. Front Nutr, 
+2024, 11: 1433528. DOI: 10.3389/fnut.2024.1433528. 
+［66］YAN L, NAKAMURA T, CASADEI-GARDINI A, et al. Long-term 
+and short-term prognostic value of the prognostic nutritional index 
+in cancer: a narrative review[J]. Ann Transl Med, 2021, 9(21): 1630. 
+DOI: 10.21037/atm-21-4528. 
+［67］FAN X X, CHEN G Q, LI Y R, et al. The preoperative 
+prognostic nutritional index in hepatocellular carcinoma 
+after curative hepatectomy: a retrospective cohort study and 
+meta-analysis[J]. J Invest Surg, 2021, 34(8): 826-833. DOI: 
+10.1080/08941939.2019.1698679. 
+［68］FARIAS C L, CAMPOS D J, BONFIN C M, et al. Phase angle from 
+BIA as a prognostic and nutritional status tool for children and 
+adolescents undergoing hematopoietic stem cell transplantation[J]. 
+Clin Nutr, 2013, 32(3): 420-425. DOI: 10.1016/j.clnu.2012.09.003. 
+［69］PAN J Y, CHEN S C, TIAN G, et al. Preoperative albumin-bilirubin 
+grade with prognostic nutritional index predicts the outcome of 
+patients with early-stage hepatocellular carcinoma after percutaneous 
+radiofrequency ablation[J]. Front Med(Lausanne), 2020, 7: 584871. 
+DOI: 10.3389/fmed.2020.584871. 
+［70］GENTON L, HERRMANN F R, SPÖRRI A, et al. Association 
+of mortality and phase angle measured by different bioelectrical 
+impedance analysis(BIA) devices[J]. Clin Nutr, 2018, 37(3): 1066-
+1069. DOI: 10.1016/j.clnu.2017.03.023. 
+［71］LINDQVIST C, BRISMAR T B, MAJEED A, et al. Assessment of 
+muscle mass depletion in chronic liver disease: Dual-energy X-ray 
+absorptiometry compared with computed tomography[J]. Nutrition, 
+2019, 61: 93-98. DOI: 10.1016/j.nut.2018.10.031. 
+［72］VANGELOV B, BAUER J, KOTEVSKI D, et al. The use of alternate 
+vertebral levels to L3 in computed tomography scans for skeletal 
+muscle mass evaluation and sarcopenia assessment in patients with 
+cancer: a systematic review[J]. Br J Nutr, 2022, 127(5): 722-735. 
+DOI: 10.1017/S0007114521001446. 
+［73］KAZEMI-BAJESTANI S M R, MAZURAK V C, BARACOS V. 
+Computed tomography-defined muscle and fat wasting are associated 
+with cancer clinical outcomes[J]. Semin Cell Dev Biol, 2016, 54: 
+2-10. DOI: 10.1016/j.semcdb.2015.09.001. 
+［74］ZHAO R N, HOU X H, NIU Y S, et al. Effect of the Home to Hospital 
+to Home nutrition management program on postoperative liver 
+cancer patients: a single-center randomized controlled study[J]. 
+Medicine(Baltimore), 2023, 102(49): e36648. DOI: 10.1097/
+MD.0000000000036648. 
+［75］SÁNCHEZ-TORRALVO F J, RUIZ-GARCÍA I, CONTRERAS-
+BOLÍVAR V, et al. CT-determined sarcopenia in GLIM-
+defined malnutrition and prediction of 6-month mortality in 
+cancer inpatients[J]. Nutrients, 2021, 13(8): 2647. DOI: 10.3390/
+nu13082647. 
+［76］LAMBERT J E, HAYES L D, KEEGAN T J, et al. The impact of 
+prehabilitation on patient outcomes in hepatobiliary, colorectal, 
+and upper gastrointestinal cancer surgery: a PRISMA-accordant 
+meta-analysis[J]. Ann Surg, 2021, 274(1): 70-77. DOI: 10.1097/
+SLA.0000000000004527. 
+［77］GILLIS C, DAVIES S J, CARLI F, et al. Current landscape of 
+nutrition within prehabilitation oncology research: a scoping review[J]. 
+Front Nutr, 2021, 8: 644723. DOI: 10.3389/fnut.2021.644723. 
+［78］刘敏艳, 杨秀琴, 何业萍, 等. 加速康复外科肝癌切除术患者
+全程胃肠道管理方案的构建及应用[J]. 医学理论与实践, 2023, 
+36(5): 862-864. DOI: 10.19381/j.issn.1001-7585.2023.05.055. 
+［79］石梅. 基于营养支持的加速康复外科护理在肝癌患者围手术期
+中的应用[J]. 婚育与健康, 2024(2): 154-156. 
+［80］LI X Q, LIANG Y, HUANG C F, et al. Advancements in nutritional 
+diagnosis and support strategies during the perioperative period for 
+patients with liver cancer[J]. World J Gastrointest Surg, 2024, 16(8): 
+2409-2425. DOI: 10.4240/wjgs.v16.i8.2409. 
+［81］BERLANA D. Parenteral nutrition overview[J]. Nutrients, 2022, 
+14(21): 4480. DOI: 10.3390/nu14214480. 
+［82］张坤, 朱锦德, 吕昕亮, 等. 补充性肠外营养在加速康复外科
+肝癌患者术后的应用[J]. 中华普通外科杂志, 2019, 34(8): 693-
+695. DOI: 10.3670.cma.j.issn.1007-631X.2019.00.013. 
+［83］郑惊雷, 王在国, 陈刘镇, 等. 肝癌手术患者应用快速康复外科
+措施的效果分析[J]. 中华临床医师杂志( 电子版), 2016, 10(1): 
+16-19.
+［84］YAN X P, LIU L X, ZHANG Y M, et al. Perioperative enteral 
+nutrition improves postoperative recovery for patients with primary 
+
+·963·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年3月  第29卷  第8期
+中国全科医学
+liver cancer: a randomized controlled clinical trial[J]. Nutr Cancer, 
+2021, 73(10): 1924-1932. DOI: 10.1080/01635581.2020.1814824. 
+［85］CHALLINE A, RIVES-LANGE C, DANOUSSOU D, et al. Impact 
+of oral immunonutrition on postoperative morbidity in digestive 
+oncologic surgery: a nation-wide cohort study[J]. Ann Surg, 2021, 
+273(4): 725-731. DOI: 10.1097/SLA.0000000000003282. 
+［86］CIACIO O, VORON T, PITTAU G, et al. Interest of preoperative 
+immunonutrition in liver resection for cancer: study protocol of the 
+PROPILS trial, a multicenter randomized controlled phase Ⅳ trial[J]. 
+BMC Cancer, 2014, 14: 980. DOI: 10.1186/1471-2407-14-980. 
+［87］XU Y, WEI F X. A retrospective study of enteral nutrition on 
+immune and inflammatory factors after liver cancer surgery[J]. 
+Medicine(Baltimore), 2021, 100(44): e27718. DOI: 10.1097/
+MD.0000000000027718. 
+［88］TAKESHITA S, ICHIKAWA T, NAKAO K, et al. A snack enriched 
+with oral branched-chain amino acids prevents a fall in albumin 
+in patients with liver cirrhosis undergoing chemoembolization for 
+hepatocellular carcinoma[J]. Nutr Res, 2009, 29(2): 89-93. DOI: 
+10.1016/j.nutres.2008.12.005. 
+［89］KIKUCHI Y, HIROSHIMA Y, MATSUO K, et al. A randomized 
+clinical trial of preoperative administration of branched-chain amino 
+acids to prevent postoperative ascites in patients with liver resection 
+for hepatocellular carcinoma[J]. Ann Surg Oncol, 2016, 23(11): 
+3727-3735. DOI: 10.1245/s10434-016-5348-3. 
+［90］陈桂香, 胡燊. 基于快速康复外科(ERAS) 理念的运动—营养管
+理模式在原发性肝癌( 肝癌) 合并糖尿病患者围手术期护理中
+的应用效果观察[J]. 糖尿病新世界, 2020, 23(1): 126-127, 130. 
+DOI: 10.16658/j.cnki.1672-4062.2020.01.126.
+［91］PLAZ TORRES M C, JAFFE A, PERRY R, et al. Diabetes 
+medications and risk of HCC[J]. Hepatology, 2022, 76(6): 1880-
+1897. DOI: 10.1002/hep.32439. 
+［92］冯霞, 夏燕, 卞红艳, 等. 微生态调节对乙型肝炎病毒相关肝
+细胞癌术后早期肠功能恢复的研究[J]. 中华临床感染病杂志, 
+2018, 11(1): 47-50. 
+［93］CHRISTOPHER C N, KANG D W, WILSON R L, et al. Exercise 
+and nutrition interventions for prehabilitation in hepato-pancreato-
+biliary cancers: a narrative review[J]. Nutrients, 2023, 15(24): 5044. 
+DOI: 10.3390/nu15245044. 
+［94］WALCOTT-SAPP S, BILLINGSLEY K G. Preoperative optimization 
+for major hepatic resection[J]. Langenbecks Arch Surg, 2018, 403(1): 
+23-35. DOI: 10.1007/s00423-017-1638-x. 
+［95］黄帅, 陆丽华. 强化心理干预对肝癌患者心理状态和生存质量
+的影响[J]. 中西医结合护理, 2023, 9(3): 156-160. DOI: 10.55111/
+j.issn2709-1961.202209014.
+［96］FANG X, FU L X, HE Y, et al. Improving liver cancer care: the 
+effects of perma-based psychological and nutritional interventions[J]. 
+Curr Top Nutraceutical Res, 2024, 22(2): 531-537. DOI: 10.37290/
+ctnr2641-452x.22: 531-537. 
+［97］ZHANG H R, LI S X, YUAN M M, et al. Exploring early 
+postoperative core symptoms in Chinese patients with primary liver 
+cancer: a cross-sectional and longitudinal network analysis[J]. 
+Support Care Cancer, 2025, 33(2): 104. DOI: 10.1007/s00520-024-
+09141-7. 
+［98］COTOGNI P, BOZZETTI F, GOLDWASSER F, et al. Supplemental 
+parenteral nutrition in cancer care: why, who, when[J]. Ther 
+Adv Med Oncol, 2022, 14: 17588359221113691. DOI: 
+10.1177/17588359221113691. 
+［99］YUAN Y, ZHONG W, GAO H M, et al. Blind nasoenteric tube 
+placement risks: a case report of misplacement into the pleural 
+cavity[J]. Medicine(Baltimore), 2025, 104(2): e41101. DOI: 10.1097/
+MD.0000000000041101. 
+［100］HOETER K, HEINRICH S, WOLLSCHLÄGER D, et al. The 
+optimal fluid strategy matters in liver surgery: a retrospective single 
+centre analysis of 666 consecutive liver resections[J]. J Clin Med, 
+2023, 12(12): 3962. DOI: 10.3390/jcm12123962. 
+［101］HU Y J, ZHANG X X, LIANG S Q, et al. Goal-directed fluid 
+therapy during hepatectomy a systematic review and meta-
+analysis[J]. SSRN Journal, 2021. DOI: 10.2139/ssrn.3984082. 
+［102］CAMPBELL G, ALDERSON P, SMITH A F, et al. Warming 
+of intravenous and irrigation fluids for preventing inadvertent 
+perioperative hypothermia[J]. Cochrane Database Syst Rev, 2015, 
+2015(4): CD009891. DOI: 10.1002/14651858.CD009891.pub2. 
+［103］TANDON M, KARNA S T, PANDEY C K, et al. Multimodal 
+temperature management during donor hepatectomy under 
+combined general anaesthesia and neuraxial analgesia: 
+Retrospective analysis[J]. Indian J Anaesth, 2018, 62(6): 431-435. 
+DOI: 10.4103/ija.IJA_123_18. 
+［104］YI N X, WANG Z L, CUI R. Warming with a composite warming 
+strategy reduces intraoperative hypothermia in patients undergoing 
+open hepatectomy for liver cancer: a randomized controlled study[J]. 
+Medicine(Baltimore), 2025, 104(8): e41616. DOI: 10.1097/
+MD.0000000000041616. 
+［105］WEIMANN A, BRAGA M, CARLI F, et al. ESPEN practical 
+guideline: Clinical nutrition in surgery[J]. Clin Nutr, 2021, 40(7): 
+4745-4761. DOI: 10.1016/j.clnu.2021.03.031. 
+［106］WEIMANN A, BRAGA M, CARLI F, et al. ESPEN guideline: 
+Clinical nutrition in surgery[J]. Clin Nutr, 2017, 36(3): 623-650. 
+DOI: 10.1016/j.clnu.2017.02.013. 
+［107］乔晓斐, 荚卫东, 韩梅, 等. 口服营养补充在肝癌肝切除患者
+术后加速康复中的应用[J]. 中华肝脏外科手术学电子杂志, 
+2019, 8(4): 315-319.
+［108］WANG L, WANG X Y, WANG X J. The effectiveness of enteral 
+nutrition for patients with primary liver cancer[J]. Medicine, 2021, 
+100(3): e23973. DOI: 10.1097/md.0000000000023973. 
+［109］QIU J J, WANG Y H. Effect of accelerated rehabilitation combined 
+with enteral nutrition on gastrointestinal function recovery after 
+hepatectomy[J]. Support Care Cancer, 2022, 30(11): 8927-8933. 
+DOI: 10.1007/s00520-022-07290-1. 
+［110］GAO L B, TIAN H, WANG X G, et al. Early enteral and parenteral 
+nutritional support after hepatectomy in patients with hepatic 
+
+·964· https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+March 2026，Vol.29 No.8
+Chinese General Practice
+carcinoma: a systematic review and meta-analysis[J]. Onco Targets 
+Ther, 2015, 8: 623-631. DOI: 10.2147/OTT.S73275. 
+［111］BLUMENSTEIN I, SHASTRI Y M, STEIN J. Gastroenteric 
+tube feeding: techniques, problems and solutions[J]. World J 
+Gastroenterol, 2014, 20(26): 8505-8524. DOI: 10.3748/wjg.v20.
+i26.8505. 
+［112］段飞, 李学民, 陈靓, 等. 肝细胞癌精准肝切除术后早期
+肠内营养与联合营养支持治疗的前瞻性研究[J]. 中华消
+化外科杂志, 2017, 16(12): 1191-1198. DOI: 10.3760/cma.
+j.issn.1673-9752.2017.12.006.
+［113］HUANG H, ZHOU P, LI J, et al. Enhanced recovery after surgery in 
+primary liver cancer patients undergoing hepatectomy: experience 
+from a large tertiary hospital in China[J]. BMC Surg, 2023, 23(1): 
+185. DOI: 10.1186/s12893-023-02040-4. 
+［114］骆鹏飞, 荚卫东, 许戈良, 等. 加速康复外科理念在原发
+性肝癌患者肝切除围手术期中的应用[J]. 中华普通外科
+杂
+志, 2015, 30(11): 862-865. DOI: 10.3760/cma.j.issn.1007-
+631X.2015.11.007.
+［115］EMILE S H, HORESH N, GAROUFALIA Z, et al. Strategies to 
+reduce ileus after colorectal surgery: a qualitative umbrella review 
+of the collective evidence[J]. Surgery, 2024, 175(2): 280-288. DOI: 
+10.1016/j.surg.2023.10.005. 
+［116］PAN W Y, CAI S N, LATOUR J M, et al. External use of Mirabilite 
+combined with Lactulose improves postoperative gastrointestinal 
+mobility among older patients undergoing abdominal surgery[J]. J 
+Adv Nurs, 2021, 77(2): 755-762. DOI: 10.1111/jan.14640. 
+［117］SARMIENTO-ALTAMIRANO D, ARCE-JARA D, BALAREZO-
+GUERRERO P, et al. Reduction of postoperative ileus in 
+gastrointestinal surgery: systematic review and meta-analysis[J]. 
+J Gastrointest Surg, 2025, 29(3): 101960. DOI: 10.1016/
+j.gassur.2025.101960. 
+［118］TAN S J, MENG Q Y, JIANG Y, et al. Impact of oral nutritional 
+supplements in post-discharge patients at nutritional risk following 
+colorectal cancer surgery: a randomised clinical trial[J]. Clin Nutr, 
+2021, 40(1): 47-53. DOI: 10.1016/j.clnu.2020.05.038. 
+［119］ROWLEY A, ADIAMAH A, KUSHAIRI A, et al. The effect 
+of post-discharge oral nutritional supplements on outcomes 
+after gastrointestinal surgery: a systematic review and meta-
+analysis[J]. Clin Nutr, 2023, 42(7): 1189-1201. DOI: 10.1016/
+j.clnu.2023.04.028. 
+［120］NUNTHANAWANICH P, WICHANSAWAKUN S, LUANGJINDA 
+C, et al. Effectiveness of web applications on improving nutritional 
+status of patients with colorectal cancer[J]. Nutrients, 2024, 16(3): 
+408. DOI: 10.3390/nu16030408. 
+［121］MUNK T, SVENDSEN J A, KNUDSEN A W, et al. A multimodal 
+nutritional intervention after discharge improves quality of life 
+and physical function in older patients-a randomized controlled 
+trial[J]. Clin Nutr, 2021, 40(11): 5500-5510. DOI: 10.1016/
+j.clnu.2021.09.029. 
+［122］TERP R, JACOBSEN K O, KANNEGAARD P, et al. A nutritional 
+intervention program improves the nutritional status of geriatric 
+patients at nutritional risk-a randomized controlled trial[J]. Clin 
+Rehabil, 2018, 32(7): 930-941. DOI: 10.1177/0269215518765912. 
+［123］李艺, 范俊雅, 陈丽. 基于快速康复外科理念的运动- 营养管
+理模式干预对原发性肝癌合并糖尿病病人营养、免疫及生活
+质量的影响[J]. 全科护理, 2022, 20(9): 1236-1240. 
+［124］TAN Y P, LI J Q, LIU X X, et al. Advances in multidisciplinary 
+team-based collaborative care models in the nutritional management 
+of patients with hepatocellular carcinoma[J]. Acad J Med Health 
+Sci, 2023, 4(1): 1-6. DOI: 10.25236/ajmhs.2023.040101.
+［125］GUNASEKARAN G, BEKKI Y, LOURDUSAMY V, et al. Surgical 
+treatments of hepatobiliary cancers[J]. Hepatology, 2021, 73(Suppl 
+1): 128-136. DOI: 10.1002/hep.31325. 
+［126］MUNGROOP T H, GEERTS B F, VEELO D P, et al. Fluid and 
+pain management in liver surgery(MILESTONE): a worldwide study 
+among surgeons and anesthesiologists[J]. Surgery, 2019, 165(2): 
+337-344. DOI: 10.1016/j.surg.2018.08.013. 
+［127］ZHANG X L, MA H Y. Comprehensive influence of individualized 
+nutrition support and nursing strategy on rehabilitation of patients 
+with liver cancer after operation[J]. World J Gastrointest Surg, 2025, 
+17(2): 101297. DOI: 10.4240/wjgs.v17.i2.101297. 
+［128］OBUKHOVA O, KURMUKOV I, YUNAEV G S. The role of 
+nutritional support in the treatment of liver malignancies[J]. Clinical 
+Nutrition and Metabolism, 2020, 1(3): 117-126.
+［129］GAO B X, ZHAO W W, SU W, et al. Exercise prehabilitation 
+for patients with end-stage liver disease: a best practice 
+implementation project[J]. JBI Evid Implement, 2023, 21(2): 128-
+137. DOI: 10.1097/XEB.0000000000000372. 
+［130］CHEN H Y, LU H X, ZHOU H M, et al. Modular multimodal 
+hospital-home chain physical activity rehabilitation 
+programme(3M2H-PARP) in liver cancer: a protocol for a 
+randomised controlled trial[J]. BMJ Open, 2024, 14(5): e083228. 
+DOI: 10.1136/bmjopen-2023-083228. 
+［131］RAUCH S, MILLER C, BRÄUER A, et al. Perioperative 
+hypothermia-a narrative review[J]. Int J Environ Res Public Health, 
+2021, 18(16): 8749. DOI: 10.3390/ijerph18168749. 
+［132］WILLIAMS D G A, VILLALTA E, ARONSON S, et al. Tutorial: 
+development and implementation of a multidisciplinary preoperative 
+nutrition optimization clinic[J]. JPEN J Parenter Enteral Nutr, 2020, 
+44(7): 1185-1196. DOI: 10.1002/jpen.1824. 
+［133］YINUSA G, SCAMMELL J, MURPHY J, et al. Multidisciplinary 
+provision of food and nutritional care to hospitalized adult in-
+patients: a scoping review[J]. J Multidiscip Healthc, 2021, 14: 459-
+491. DOI: 10.2147/JMDH.S255256. 
+（收稿日期：2025-11-10；修回日期：2025-12-10）
+（本文编辑：毛亚敏）

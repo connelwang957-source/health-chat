@@ -1,0 +1,1054 @@
+标题: 《儿童姑息治疗中睡眠问题的国际共识：铺平道路》解读
+期刊: 中国全科医学 2026 第29卷 第28期
+DOI: 10.12114/j.issn.1007-9572.2025.0387
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2025.0387
+
+
+·4047·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+·指南·共识·
+【编者按】　儿童姑息治疗（PPC）以改善生命限制性疾病患儿的生活质量为核心目标，而睡眠问题作为其常见
+的共患症状，发生率高达50%~80%，却在临床实践中长期被低估，且国内尚缺乏系统性的指导规范。由沈碧玉等撰
+写的《〈儿童姑息治疗中睡眠问题的国际共识：铺平道路〉解读》一文，对全球首部针对PPC 睡眠管理领域的国际共
+识进行了系统解读。该共识由国际儿科睡眠与姑息治疗专家组牵头，联合18 个国家72 名跨学科专家，通过两轮德尔
+菲法形成53 项建议，涵盖睡眠问题的定义、评估与治疗三大主题。本文依据《指南解读类文献报告规范的制订指南》
+（RIGHT for INT），对共识核心要点逐条解读，并结合中国PPC 临床实践现状，从评估工具本土化、多学科协作分层
+构建、认知行为疗法分龄简化、药物安全管理及照护者睡眠支持等维度提出适配建议，同时分析了共识在证据分级、
+疾病亚群差异化及中低收入国家适用性等方面的局限性。该文为我国PPC 领域睡眠管理的规范化提供了循证参考，对
+未来制订本土化指南、推动多学科协作模式具有启示意义。
+《儿童姑息治疗中睡眠问题的国际共识：
+铺平道路》解读
+沈碧玉
+1 ，路佳慧
+1，李馨
+2，李惠玲
+3，李春波
+4，
+樊盼玉
+1，凡帆
+1，马晨欢
+5，王广海
+5，6，7，8*
+1.200127 上海市，上海交通大学医学院附属上海儿童医学中心护理部
+2.999077 香港特别行政区，香港大学心理学系
+3.215006 江苏省苏州市，苏州大学医学院护理学院
+4.200127 上海市，上海交通大学医学院附属精神卫生中心
+5.200127 上海市，上海交通大学医学院附属上海儿童医学中心儿科转化医学研究所
+6.200127 上海市，上海交通大学医学院附属上海儿童医学中心发育行为儿科
+7.200127 上海市，上海交通大学医学院附属上海儿童医学中心上海市儿童脑智发育重点实验室
+8.201602 上海市，上海脑科学与类脑研究中心
+* 通信作者：王广海，研究员；E-mail：wang-guanghai@163.com
+【摘要】　在儿童姑息治疗（PPC）领域，睡眠问题作为常见的症状之一，却因关注不足而未得到妥善处理。当前，
+相关临床指导方针与规范的缺失问题亟待解决，以填补这一领域在睡眠问题管理上的空白。基于此，国际儿童睡眠与
+姑息治疗专家组制订了全球首个《儿童姑息治疗中睡眠问题的国际共识：铺平道路》。该共识通过对相关研究进行系
+统评价和Meta 分析，聚焦PPC 中睡眠问题的定义、评估/ 测量、治疗三大主题，经过两轮德尔菲法汇总形成了53 项
+共识建议，但该共识在覆盖所有异质性患儿群体及在中低收入国家的适用性上仍有所欠缺。本文就形成的全部共识进
+行解读并提出建议，以期为未来制订中国本土化的循证指南提供参考，提高中国PPC 中睡眠问题管理的规范化水平。
+【关键词】　睡眠障碍；睡眠问题；姑息疗法；儿童姑息治疗；专家共识；解读
+【中图分类号】　R 47　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2025.0387
+Interpretation of International Consensus on Sleep Problems in Pediatric Palliative Care: Paving 
+the Way
+SHEN Biyu
+1, LU Jiahui
+1, LI Xin
+2, LI Huiling
+3, LI Chunbo
+4, FAN Panyu
+1, FAN Fan
+1, MA Chenhuan
+5, WANG Guanghai
+5, 6, 7, 8*
+基金项目：国家自然科学基金面上项目（82071493，82073568）；上海市卫生健康委员会卫生健康学科带头人项目（2022XD056）；上
+海申康医院发展中心管理研究项目（2024SKMR-29）
+引用本文：沈碧玉, 路佳慧, 李馨, 等. 《儿童姑息治疗中睡眠问题的国际共识：铺平道路》解读[J]. 中国全科医学, 2026, 29(28): 4047-
+4057. DOI: 10.12114/j.issn.1007-9572.2025.0387. [www.chinagp.net]
+Shen B Y, Lu J H, Li X, et al. Interpretation of International Consensus on Sleep Problems in Pediatric Palliative Care: Paving the Way[J]. Chinese 
+General Practice, 2026, 29(28): 4047-4057.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看附件
+
+·4048·
+October 2026, Vol.29 No.28 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+1　共识解读背景
+儿童姑息治疗（pediatric palliative care, PPC）以改
+善生命限制性疾病患儿的生活质量为核心目标，而睡
+眠问题作为其常见的症状之一，在临床实践中却长期
+被低估
+［1］。研究显示，PPC 患儿睡眠问题发生率高达
+50%~80%
+［2］，表现为失眠、昼夜节律紊乱、夜醒等多
+种形式，严重影响患儿的免疫功能、情绪稳定性及疾病
+应对能力，甚至加速病情恶化。然而，现有普通儿科
+睡眠管理建议难以适配PPC 患儿的多维挑战：疾病异
+质性（如肿瘤、神经退行性疾病）、治疗复杂性（如
+阿片类药物引发的呼吸抑制）、临终阶段特殊性（如环
+境适应障碍）等，导致临床实践缺乏规范指导
+［3］。中
+国PPC 领域针对睡眠问题的系统性研究较少，临床干
+预仍以经验性操作为主，缺乏统一的标准化流程支撑，
+与“儿童友好医院”建设所强调的全面关怀理念存在一
+定差距。在此背景下，《儿童姑息治疗中睡眠问题的国
+际共识：铺平道路》
+［4］（以下简称共识）作为全球首
+部专门针对PPC 睡眠管理领域的专项文件，其核心内
+容对我国临床实践具有重要参考价值，开展系统性解读
+具有现实意义。该共识由国际儿科睡眠与姑息治疗专家
+组（Pediatric Sleep and Palliative Care Group）牵头，基
+于系统评价结果，联合全球18 个国家的72 名跨学科专
+家，通过两轮德尔菲法共同制订，涵盖睡眠问题定义、
+评估与治疗三大主题，为填补国际实践空白、推动我
+国本土化指南研发提供了关键科学依据。本文按照中
+国《指南解读类文献报告规范的制订指南（RIGHT for 
+INT）》
+［5］对该共识进行解读，由多学科临床团队联合
+循证医学研究者共同完成，作者团队兼具PPC 临床实
+践经验与指南方法学背景，且无任何与共识相关的利益
+冲突，未参与相关评估工具的开发或专利持有，无任何
+可能影响解读的经济或学术利益关联。本文解读的核心
+目标读者明确为三类群体：一是PPC 临床一线人员，
+包括综合医院儿科、儿童专科医院姑息治疗科的医师与
+护理人员，为其提供睡眠评估工具选择、干预方案制订
+的实操参考；二是PPC 多学科协作（MDT）团队成员，
+涵盖睡眠医学专科医师、儿童心理治疗师、康复治疗师，
+助力其明确在睡眠问题干预中的协作分工；三是PPC
+领域政策制定者与指南研究者，为本土化指南研制、专
+科资源配置提供循证依据，同时为高校儿科护理、姑息
+治疗相关专业教学提供参考。
+1.Department of Nursing, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, Shanghai 
+200127, China
+2.Department of Psychology, the University of Hong Kong, Hong Kong 999077, China
+3.School of Nursing, Suzhou Medical College of Soochou University, Suzhou 215006, China
+4.Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 200127, China
+5.Institute of Pediatric Translational Medicine, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of 
+Medicine, Shanghai 200127, China
+6.Department of Developmental and Behavioral Pediatrics, Shanghai Children's Medical Center, Shanghai Jiao Tong University 
+School of Medicine, Shanghai 200127, China
+7.Shanghai Key Laboratory of Child Brain and Development, Shanghai Children's Medical Center, Shanghai Jiao Tong University 
+School of Medicine, Shanghai 200127, China
+8.Shanghai Center for Brain Science and Brain-Inspired Technology, Shanghai 201602, China
+*Corresponding author: WANG Guanghai, Professor; E-mail: wang-guanghai@163.com
+【Abstract】　Sleep problems, as a prevalent symptom burden in pediatric palliative care (PPC), remain inadequately 
+addressed due to insufficient clinical attention. The current lack of standardized clinical guidelines and protocols urgently demands 
+resolution to bridge the gap in sleep-related symptom management within this field. In response, the International Expert Panel 
+on Pediatric Sleep and Palliative Care developed the inaugural global consensus, International Consensus on Sleep Problems in 
+Pediatric Palliative Care: Paving the Way. This consensus employed systematic reviews and meta-analyses of existing evidence, 
+focusing on three core themes: definition, assessment/measurement, and therapeutic interventions for sleep disturbances in PPC. 
+Through a two-round Delphi process, 53 consensus recommendations were formulated. However, limitations persist regarding the 
+applicability of these recommendations across heterogeneous pediatric populations and in low- and middle-income countries. This 
+article provides a critical interpretation and suggestion of the consensus, aiming to inform the development of evidence-based, 
+culturally adapted guidelines in China and enhance the standardization of sleep disturbance management within Chinese PPC 
+practice.
+【Key words】　Sleep disorders; Sleep problems; Palliative care; Pediatric palliative care; Expert consensus; Interpretation
+
+·4049·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+2　共识制订背景
+共识由国际儿童睡眠与姑息治疗专家组主导，目标
+人群为生命限制性疾病（涵盖肿瘤、遗传代谢病、严重
+神经肌肉疾病等）患儿及其照护者，适用场景广泛，包
+括综合医院姑息病房、家庭临终关怀及基层医疗卫生机
+构等。
+鉴于PPC 领域疾病异质性显著（如肿瘤化疗相关
+失眠与神经退行性昼夜节律失调的机制差异），现有普
+通儿科指南缺乏针对性解决方案，且全球研究呈现碎片
+化特征，多局限于单一症状或特定人群，缺乏系统性分
+析。同时，临床实践中睡眠管理涉及疼痛控制、心理支
+持等多环节，但因专业壁垒导致跨学科整合困难
+［6］。
+为此，该共识构建了PPC 睡眠管理的标准化框架，并
+通过跨国协作模式为后续研究提供方法论范式。共识制
+订无专项经费支持，参与者均未获取报酬。共识制订过
+程中，全体成员已完成利益冲突声明，存在冲突者已被
+排除，现参与人员均无利益冲突。
+3　共识制订方法
+该共识以循证医学为基础，通过系统评价、Meta
+分析结合改良德尔菲法制订完成。由10 名权威专家组
+成指导委员会，系统检索PubMed、Cochrane Library 等
+数据库，聚焦睡眠问题的定义、评估和治疗三大核心主
+题。遴选全球18 个国家、具备5 年以上临床经验的72
+名跨学科专家组成德尔菲函询专家小组。该批专家既是
+共识制订的核心参与主体，也是两轮盲法投票的函询对
+象。首轮针对61 条陈述采用Likert 5 级量表投票（共识
+阈值≥75%），次轮优化争议条目后复投（65 名专家
+参与，回复率90.2%），最终达成53 项共识建议。共
+识以系统评价证据与72名专家的临床经验为双重支撑，
+保障了循证基础与跨文化适应性。共识采用“≥75%
+专家同意”作为统一共识判定标准，未进一步划分“强
+推荐”“弱推荐”等级，这一设计与PPC 患儿疾病异
+质性强、临床场景复杂的特点相契合，且部分建议依赖
+专家临床经验补充，统一判定标准可避免推荐等级划分
+带来的临床应用歧义，上述流程（专家资质审核、盲法
+投票、高回复率等）增强了共识形成过程的透明度与可
+追溯性，从而提高建议的可信度。
+4　共识解读及建议
+本文就形成的53 项共识建议进行解读，以期提高
+PPC 中睡眠问题管理的规范化水平，为未来制订中国本
+土化的循证指南提供参考。
+4.1　PPC 中睡眠问题的核心特征与影响因素
+4.1.1　PPC 患儿睡眠问题的多因素影响与共病特征
+共识基于高度一致性证据（多因素影响一致性
+99%、共病特征一致性90%），明确PPC 患儿睡眠问题
+由生理（疾病症状、治疗副作用）、心理（焦虑情绪）、
+环境（病房声光刺激、医疗干扰）多维度因素交互引发，
+且常形成“共病簇”，如肿瘤患儿并发化疗相关性失眠
+与阿片类呼吸抑制，而共病也会显著加重疲劳与生活质
+量损害
+［7］。
+从国内临床实践来看，仅约12% 的基层医院能够
+实现对所有门诊和住院患儿的疼痛评估全覆盖，约60%
+的科室未进行常规疼痛评估，导致疼痛动态监测主要依
+赖患儿主诉
+［8］。与此同时，儿童专用的心理评估工具
+在医疗机构中的配备率不足三成，许多机构仍使用成人
+量表进行简化评估。住院环境方面，噪声、光照和不规
+律的护理流程被证实是干扰儿童睡眠的主要因素，夜间
+噪声常超过60 dB，光照难以控制在适宜水平，显著削
+弱睡眠质量
+［9］。
+基于此，针对国内PPC 患儿，推荐构建生理、心
+理和环境三维评估体系，整合疼痛行为观察量表、儿童
+焦虑性情绪障碍筛查表及病房声光监测记录，以识别共
+病现象；在干预层面制订个体化方案，环境优化可采用
+发放隔音耳塞、安装可调节柔光灯具等低成本措施，
+MDT 通过远程会诊引入睡眠专家参与管理
+［10］。该推荐
+意见有助于针对国内现有单一症状评估、环境干预缺失
+的现状，从评估维度、干预措施及资源整合三方面构建
+管理路径，最终实现适配国内医疗资源条件的PPC 患
+儿睡眠问题精准管理。
+4.1.2　锚定疼痛对PPC 患儿睡眠问题的核心影响，构
+建基础疾病与伴随药物对睡眠问题影响的未共识领域临
+床应对框架
+基于95% 一致性循证证据，共识明确疼痛是PPC
+患儿睡眠问题的核心诱因。晚期癌症患儿中75% 存在
+疼痛，超过50% 的睡眠问题由疼痛直接引发，且两者
+形成由睡眠问题到内源性阿片系统紊乱，再到疼痛敏感
+性升高的恶性循环，加剧患儿功能损害与生活质量下
+降
+［11-12］。同时，共识指出原发性基础疾病与伴随药物
+对睡眠的影响缺乏共识，受疾病异质性、儿童研究伦理
+限制及结果时效性不足制约
+［13］。 
+结合国内临床实践现状，当前医疗机构在疼痛与睡
+眠的协同评估方面，存在评估维度单一、动态监测频率
+不足的共性问题；针对基础疾病与伴随药物睡眠影响的
+评估，尚未形成覆盖疾病进展、用药监测和睡眠反馈的
+全流程标准化路径
+［14］；国内儿科睡眠专科资源相对不
+足，难以完全满足全域精细化管理的需求。
+基于此，共识可为国内临床提供有益参考，构建疼
+痛量化评估与睡眠质量多维度评估的协同体系，通过定
+期动态监测捕捉两者关联变化，填补单一评估局限；建
+立基础疾病阶段记录，伴随药物使用台账和家长协助的
+
+·4050·
+October 2026, Vol.29 No.28 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+睡眠日志的综合评估链，以多源数据支撑未共识领域的
+临床决策；在疼痛干预方案调整或伴随药物更换后1~2
+周开展复评，通过MDT、多中心技术辐射等模式，提
+升睡眠管理的专业支撑能力，确保共识指导与国内PPC
+患儿睡眠管理的实际需求深度适配。
+4.1.3　PPC 患儿嗜睡与药物相互作用、焦虑、恐惧致失
+眠关键作用的未共识要点
+共识指出，PPC 患儿睡眠管理存在两大未共识问题：
+一是嗜睡与药物相互作用、镇静药物镇痛的关联，因儿
+童药物代谢酶发育不成熟、个体差异显著，且疼痛评估
+难度大，难以区分嗜睡源于疼痛缓解、药物特性或多药
+协同作用
+［15］；二是焦虑与恐惧是否为失眠最关键的心
+理因素，受儿童情绪表达隐匿、低龄患儿行为替代言语
+表述及家庭社会支持双重影响，两者关联难以界定
+［13］。
+当前国内医疗机构中，对药物、嗜睡和疼痛三者之
+间的关联关注仍显不足。现行的儿童姑息护理结果测量
+框架主要覆盖躯体、心理、环境和社会四大领域的症状
+评估，并未将药代动力学监测列为必需项目；即便在个
+体化的护理计划中也仅记录药物使用情况，而缺乏对血
+药浓度或其对睡眠、疼痛影响的专门追踪
+［16］。这使得
+临床本就难以区分嗜睡源于药物协同作用、药物本身特
+性还是疼痛缓解，进一步放大了决策难度，易出现盲目
+减药、维持无效剂量等问题，既可能影响疼痛控制，也
+可能忽视药物过量风险。而针对“焦虑与恐惧是否为失
+眠最关键的心理因素未共识”，国内儿童专用心理评估
+工具配备不足，情绪评估多依赖简化量表，难以精准识
+别焦虑与恐惧对失眠的影响程度，导致临床干预更易陷
+入“广谱化”困境。例如，单纯使用助眠药物而忽视情
+绪问题，过度聚焦心理干预而延误疼痛、环境干扰等其
+他病因的处理，最终降低干预效果。
+4.1.4　医护程序、骨骼变化及体位需求对PPC 患儿睡
+眠的干扰及应对
+共识明确，医护程序（一致性77%）、骨骼变化（一
+致性86%）及体位需求（一致性88%）是PPC 患儿夜
+间觉醒和睡眠问题的常见诱因。PPC 情境下，生命体征
+监测、给药等医疗操作会频繁打断患儿睡眠；神经肌肉
+疾病引发的骨骼关节变形、疼痛，同时伴随被动体位导
+致的局部受压、血液循环障碍（麻木、胀痛），会显著
+降低睡眠质量与持续时间，进而影响疾病恢复与症状控
+制。共识给出针对性应对原则，医护程序干扰方面，建
+议优化护理操作时序以减少夜间睡眠中断。骨骼变化相
+关睡眠障碍，则强调早期识别与疼痛控制的协同干预。
+体位需求上，推荐采用个体化体位管理策略以提升睡眠
+舒适度。
+结合国内临床资源与实践现状，儿科病房护理人力
+配置普遍为每床护士比1∶2.5，夜间护理操作集中时段
+易形成“操作高峰- 睡眠中断”叠加效应；神经肌肉疾
+病患儿骨骼异常早期识别依赖影像学检查，导致早期识
+别率较低。体位管理中，适配儿童体型的定制减压床垫
+等辅助器具覆盖率仅25%，多采用成人器具替代
+［17］。
+基于此，针对国内PPC 患儿，建议推行集中护理模
+式，将夜间必要操作集中在30 min 内完成
+［18］；通过体
+格检查和简易肌力评估量表组合提升骨骼异常早期识别
+率；开发并推广儿童体位辅助包工具，并结合每2 h 家
+属参与翻身计划。从操作流程、评估手段、辅助器具三
+方面形成适配国内资源的管理路径，切实改善PPC 患
+儿睡眠干扰问题。
+4.1.5　阿片类药物导致的呼吸改变及糖皮质激素应用对
+PPC 患儿睡眠的影响与应对
+共识指出，睡眠中断与阿片类药物引起的呼吸改变
+相关（一致性78%），糖皮质激素使用与昼夜节律紊乱
+有关（一致性79%）。在国内PPC 患儿中，药物联合
+使用较为常见。已有调查显示，超过一半的患儿在治疗
+过程中会同时使用两种药物以应对疼痛、焦虑、失眠等
+多重症状，而夜间血氧饱和度监测作为识别呼吸改变的
+关键手段，其整体覆盖率较低，导致阿片类药物相关睡
+眠中断难以被及时捕捉
+［19］。在糖皮质激素用药管理中，
+虽已普遍认可早晨给药的合理性，但针对患儿睡眠- 觉
+醒周期的动态监测手段仍较单一，且儿科睡眠专科资源
+紧张，难以满足个体化睡眠监测与干预的需求
+［20］。
+针对这一现状，在阿片类药物用药场景中，可将夜
+间血氧饱和度监测纳入重症及呼吸功能不全PPC 患儿
+的常规护理，提升呼吸改变相关睡眠中断的识别率
+［21］；
+在糖皮质激素用药场景中，可强化早晨给药方案和家属
+协助的睡眠模式记录联合管理，通过标准化睡眠日志（记
+录入睡潜伏期、夜间觉醒次数）辅助监测昼夜节律变化；
+同时，强化PPC 团队与睡眠专科的协作机制，针对多
+药联用患儿开展专项指导，在保障治疗效果的同时，降
+低药物对睡眠的负面影响。
+4.1.6　PPC 患儿睡眠质量与疼痛、情绪及照护者负担的
+双向关联
+共识明确，睡眠质量与多项健康结局密切相关：睡
+眠质量欠佳与疼痛、疲劳、生活质量降低（97%）、抑郁、
+绝望情绪（87%）双向影响；睡眠剥夺升高患者及照护
+者焦虑（91%），睡眠问题加重疾病负担（90%）。具
+体而言，PPC 患儿的睡眠问题与疼痛形成恶性循环——
+疾病引发疲劳与失眠，夜间症状发作加剧睡眠碎片化，
+反过来加重疲劳、焦虑；睡眠差还可多维度损害生活质
+量，对儿童认知功能发展不利，且增加抑郁风险；患儿
+睡眠问题同时增加照护者压力，增加其焦虑并降低照护
+质量。
+从国内临床实践来看，PPC 患儿中睡眠问题与疼痛
+
+·4051·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+共现情况较普遍，但“睡眠- 疼痛- 情绪”多维度联合
+评估仍不足；针对疲劳相关失眠的诱因排查手段有限，
+照护者的焦虑筛查与支持服务也有待完善
+［22］。
+临床可从两方面优化：（1）患儿层面，将睡眠模式、
+疼痛程度、情绪状态纳入常规评估，有条件时排查失眠
+诱因，在使用糖皮质激素期间动态关注睡眠与疲劳变化；
+（2）照护者层面，同步评估其心理状态，提供照护技
+能指导与心理支持。同时强化MDT，制订患儿和照护
+者综合方案，在改善患儿睡眠、疼痛与情绪的同时减轻
+照护者负担，适配国内临床需求。
+4.1.7　PPC 患儿照护者的睡眠问题及成因：基于意外离
+世担忧的影响与应对
+共识明确，多数接受PPC 患儿的父母/ 照护者普遍
+存在睡眠问题，核心成因可能是对患儿睡眠期间发生意
+外离世的担忧（一致性82%）。从照护逻辑来看，PPC
+强调对患儿及其家庭的整体照护，而患儿长期处于治疗
+过程中，照护者不仅需承担繁重的护理任务与经济压力，
+还易陷入焦虑、抑郁等负面情绪，这些心理状态既会直
+接影响自身睡眠质量，还可能通过情绪传导间接干扰患
+儿睡眠与疾病管理。研究进一步证实，照护者身心健康
+与患儿预后密切相关，当照护者出现失眠、疲劳等躯体
+症状时，照护质量会显著下降，形成照护者睡眠问题、
+照护质量降低和患儿病情加重的潜在连锁反应。
+从国内临床实践来看，当前PPC 服务多聚焦于患
+儿诊疗，针对照护者的睡眠问题筛查与干预仍较薄弱，
+“以家庭为中心”的照护理念在基层实践中落地不足，
+照护者可获取的心理支持资源与护理指导服务有限
+［23］。
+因此，临床上可将照护者睡眠问题与心理状态评估
+纳入PPC 常规诊疗流程，同步评估其对患儿意外离世
+的担忧程度；加强“以家庭为中心”的照护干预，通过
+专题讲座、一对一咨询等形式，为照护者提供患儿夜间
+安全护理技巧指导，缓解其担忧情绪；可以联动心理科、
+社工部资源，为存在睡眠问题的照护者提供针对性心理
+支持与睡眠干预建议，减轻其身心负担
+［24］。通过上述
+措施，在保障患儿治疗的同时，改善照护者睡眠质量与
+身心健康，进而提升整体照护效果。
+4.2　PPC 患儿睡眠问题的评估与监测
+4.2.1　PPC 中睡眠问题的重要性认知及患儿睡眠问题的
+早期评估建议
+在PPC 领域，睡眠问题对治疗计划制订的重要性
+与必要性获得广泛共识（一致性92%），国际专家明确
+其为患儿症状负担的重要组成，会加剧疲劳、疼痛并降
+低患儿及家庭生活质量，故需将睡眠评估纳入PPC 常
+规诊疗并强调早期识别；同时专家高度认同（一致性
+98%）患儿综合评估阶段需考量睡眠问题伴发可能性并
+全面评估各类睡眠障碍，以构建个性化干预策略
+［25］。
+中国PPC 患儿面临恶性疾病（如儿童肿瘤）与非
+恶性疾病（如神经肌肉疾病，因卧床、并发症多致睡眠
+问题发生风险升高），但基层医疗卫生机构对非恶性疾
+病相关睡眠问题认知不足。资源层面，中国PPC 服务
+体系尚未成熟，基层医疗卫生机构缺乏专业评估人员与
+工具，故早期评估需优先在三级甲等医院PPC 专科设
+置初筛机制，借远程医疗向基层医疗卫生机构传递评估
+流程
+［26］。
+在本土化上，可将睡眠评估纳入中国PPC诊疗规范，
+要求专科门诊可进行快速问卷初筛，关注入睡困难等关
+键症状；为基层医疗卫生机构开发“口袋指南”，培训
+全科医生识别高危信号，疑似病例及时转诊，构建基层
+初筛和上级诊疗模式。
+4.2.2　PPC 中基于标准化睡眠问卷与父母睡眠日记的患
+儿睡眠精准评估方式及价值
+共识明确，标准化睡眠问卷与睡眠日记是PPC 患
+儿睡眠评估的核心工具，87% 专家认可前者快速获取整
+体睡眠状况的作用，97% 专家支持后者动态记录睡眠细
+节的价值，二者结合可提升评估精准度。
+从可及工具看，国际常用的儿童睡眠习惯问卷
+（Children's Sleep Habits Questionnaire, CSHQ）、儿科睡
+眠问卷（Pediatric Sleep Questionnaire，PSQ）等基于西
+方儿童样本开发，部分条目与中国家庭育儿文化不匹
+配
+［27］；且国际强调的父母每日记录的要求，与中国双
+职工家庭家长时间精力有限的现状存在冲突，易导致日
+记完成依从性低。国内有研究对CSHQ 进行本土化修订，
+可作为PPC 患儿专项标准化问卷进行推广应用
+［28］。
+因此，可以优先选用适配本土文化的简明问卷，并
+配套设计仅含核心条目的简化睡眠日记，通过数字化工
+具提升完成度；三级甲等医院PPC 专科门诊可建立问
+卷和日记评估档案并联动电子病历系统，基层医疗卫生
+机构可与上级医院建立联系，平衡评估质量与资源消耗。
+4.2.3　PPC 患儿睡眠问题关联心理状况的临床评估与干
+预策略
+共识指出，PPC 患儿睡眠问题常与焦虑、抑郁等心
+理状况相关，80% 专家认同评估睡眠时需同步调查心理
+状态，87% 专家确认睡眠与抑郁/ 绝望感存在双向关联，
+因此，干预需兼顾睡眠改善与心理支持
+［29］。
+从人群心理特征看，中国PPC 患儿心理问题表现
+具有特殊性，即恶性疾病患儿易产生医疗操作相关焦虑，
+而非恶性疾病患儿则普遍存在自我价值感低下的问题。
+这一挑战因家长认知不足和专业心理干预接受率低而加
+剧，同时PPC 领域专业儿童心理干预人员稀缺，具备
+姑息治疗经验者不足
+［30］。
+为应对此现状，建议构建一个多层次的干预体系。
+
+·4052·
+October 2026, Vol.29 No.28 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+在评估层面，采用家长报告和医护观察的双维模式；在
+干预层面，依据家庭接受度实施分层策略，从嵌入式心
+理支持到简式认知行为治疗；在资源层面，整合互联网
+平台并培训专科护士担任心理支持联络员，以提升服务
+可及性。
+4.2.4　PPC 中无法清晰表达感受患儿睡眠障碍的间接指
+标与潜在因素综合评估策略
+共识明确，对脑性瘫痪、严重神经发育障碍等无法
+清晰表达的PPC 患儿，需结合间接指标（哭闹、生理
+指标改变）与潜在因素（疼痛、药物不良反应）综合评
+估睡眠障碍，相关同意率达80%~100%，且93% 专家
+强调疼痛监测的核心地位；同时提及糖皮质激素与昼夜
+节律紊乱相关，79% 专家对此达成共识。
+因此可通过便携设备监测生理指标，结合行为观察
+量表进行筛查；同时规范评估疼痛与药物影响。在实
+施层面，可借鉴国外经验成立姑息治疗质量合作组织
+（Palliative Care Quality Collaborative）、儿科姑息治疗
+改善网络（Pediatric Palliative Improvement Network）等，
+通过开展多中心质量合作项目对评估工具进行验证并不
+断完善和修订，从而构建全面、科学的质量评价体系
+［31］。
+4.2.5　PPC 中患儿睡眠行为特征与作息规律的系统评估
+及临床价值
+共识强调，系统评估PPC 患儿睡眠行为特征（如
+入睡潜伏期、睡眠维持时间）与作息规律（如固定入睡
+/ 觉醒时间）是睡眠干预的基础，且该评估对改善睡眠
+质量具有重要临床价值
+［32］。
+在我国，PPC 患儿可采用“PPC 患儿睡眠行为评估
+表”记录入睡潜伏期、睡眠维持时间与睡眠效率，并结
+合父母日记与医护观察连续评估；同时使用“作息时间
+轴”量化作息波动，识别入睡时间标准差>30 min 等不
+规律表现。在干预层面，建议分层实施：三级甲等医院
+可将评估结果纳入个体化治疗，对入睡潜伏期>30 min
+者制订固定睡前程序，对作息波动大者采用逐步调整法；
+基层机构则可开展“家庭作息指导项目”，结合家长实
+际安排制订可行作息表，并通过线上打卡群强化依从性。
+4.2.6　PPC 中睡眠研究转诊的适应证限定与活动记录
+仪、视频监测的应用争议及临床建议
+共识明确，PPC 患儿睡眠研究（如多导睡眠图）转
+诊仅限定于明确治疗目标的情况（如怀疑睡眠呼吸暂停
+综合征），94% 的专家对此达成共识；而活动记录仪、
+视频监测的应用未形成共识。
+在中国，儿童专用多导睡眠监测设备资源有限，而
+既往研究中PPC 人群中睡眠呼吸暂停并不少见，亟须
+将其列为转诊优先适应证。活动记录仪因其价格优势适
+用于长期监测，但视频监测受限于家长接受度低与基层
+分析能力不足，应用范围较窄，但有研究表明其能有效
+提供可靠的监测数据
+［33］。
+因此，睡眠研究转诊应严格限定于中重度睡眠呼吸
+暂停等适应证，基层通过“转诊清单”初筛后经绿色通
+道转诊；活动记录仪推荐用于药物调整期间的长期效果
+评估
+［34］；视频监测则宜限于医院环境，并需严格遵循
+知情同意与数据安全管理规范。
+4.2.7　PPC 患儿睡眠的动态评估策略、纵向研究价值及
+无创通气（NIV）患儿专项评估建议
+共识提出，需动态评估PPC 患儿睡眠问题（如病
+情变化时重新评估），90% 的专家认可该策略；同时
+强调纵向研究对明确睡眠问题演变的价值，并建议长期
+NIV 患儿需常规评估睡眠呼吸状况。
+中国PPC 患儿主要依赖门诊随访，但动态评估体
+系面临随访间隔不规律、基层评估工具缺失以及纵向
+证据不足等挑战。现有小规模研究提示，患儿睡眠呼
+吸事件随病程进展可能加重，但国内NIV 设备普及率
+低，基层医疗卫生机构专项评估能力薄弱，难以实现
+有效监测
+［35］。
+为此，建议构建分层动态评估体系。病情稳定者定
+期采用问卷与睡眠日记评估，病情变化时则需在48 h
+内启动紧急评估，并借助数字化工具与门诊和家庭联动
+机制提升监测效率。同时，可依托区域医疗中心设立
+专项评估中心，加强对基层人员的技术培训，规范NIV
+使用后的评估频率与参数调整标准。
+4.2.8　PPC 中患儿睡眠状况改变相关的父母睡眠问题调
+查及家庭支持干预策略
+共识强调，PPC 患儿睡眠问题易致父母睡眠不足，
+专家建议需调查父母睡眠状况并提供家庭支持干预，且
+82% 的专家指出父母对患儿夜间病情的担忧是其睡眠问
+题主因
+［36］。
+中国PPC 患儿父母对患儿病情十分担忧并承担繁
+重的夜间护理任务，且家庭支持系统薄弱，仅少部分
+可获得祖辈协助，社区支持覆盖率低，专业资源严重
+不足
+［37］。
+基于此，本土化实践应聚焦三个层面：（1）评估方面，
+采用信效度验证的PPC 患儿父母睡眠质量问卷进行基
+线及月度动态评估
+［38］；（2）干预方面，构建包含病
+情担忧缓解、护理任务分担及心理支持的综合支持体系；
+（3）资源保障方面，建议将家庭睡眠支持纳入儿童福
+利政策框架，明确医保支持路径，并鼓励社会力量参与，
+以提升服务的可及性与可持续性。
+4.3　PPC 患儿睡眠问题治疗
+4.3.1　PPC 中基于MDT 模式的患儿睡眠问题干预策略
+及MDT 价值
+共识明确，PPC患儿睡眠问题需通过MDT模式干预，
+整合PPC、睡眠医学、心理学、护理学等专业力量制订
+
+·4053·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+非药物和药物结合的个体化方案。90% 以上专家认可该
+模式对提升干预精准度、应对多因素病因（疼痛、药物
+不良反应、心理焦虑等）的核心价值，可弥补单一学科
+的局限性
+［39］。
+中国PPC 患儿疾病谱以神经肌肉疾病与儿童肿瘤
+为主，病因构成复杂。然而，多学科诊疗资源分布不均，
+少数三级甲等医院设有PPC 专科MDT 团队，且普遍缺
+乏睡眠医学专家参与。基层医疗卫生机构更因没有PPC
+医生导致面对PPC 患儿睡眠相关症状时，常缺乏专业
+识别与初步干预能力，导致部分患者延误转诊等问题。
+因此，MDT 团队需分层构建，三级甲等医院应明
+确PPC 医生牵头、多学科成员分工，制订分层方案。
+基层医疗卫生机构可以建立“1+N”远程联动模式，以
+基层医疗卫生机构儿科医生为对接核心，通过区域医疗
+协作平台链接三级甲等医院PPC 多学科团队，同时开
+通急诊病例绿色通道，为基层医疗卫生机构遇到的PPC
+患儿睡眠问题提供即时专业指导。
+4.3.2　PPC患儿失眠的认知行为疗法（CBT-I）干预策略、
+睡眠习惯优化及个体化药物治疗建议
+共识明确，CBT-I 是PPC 患儿失眠一线非药物干预
+手段，86% 的专家认可其通过调整睡眠认知，从睡前行
+为改善失眠的效果；同时强调睡眠习惯优化（固定作息、
+营造睡眠环境）是基础，97% 的专家同意CBT-I 效果
+不佳时，需结合患儿年龄、基础疾病及药物相互作用制
+订个体化用药方案
+［40］。
+中国PPC 患儿失眠管理面临的本土化挑战在于国
+际标准CBT-I 模式因耗时较长与双职工家庭时间冲突，
+且低龄患儿对认知干预接受度有限；同时，独立入睡
+训练也与我国近半数患儿同床睡眠的现状存在文化冲
+突
+［41］。国内研究显示，简化版家庭CBT-I 可达到相
+近疗效且家长接受度更高
+［13］。药物治疗方面，虽常用
+唑吡坦与褪黑素，但缺乏PPC 患儿专用药代动力学数
+据
+［42］。
+基于此，建议采取以下本土化方案。CBT-I 实施应
+分龄简化，通过游戏化方式面向低龄儿童，任务式打卡
+面向学龄儿童，可将周期适当压缩；睡眠习惯优化采用
+渐进式分床策略。药物治疗需建立分层方案，按失眠程
+度选择单用或联用药物，基层医疗卫生机构需严格执行
+用药备案与监测制度，确保用药安全。
+4.3.3　PPC 中补充与替代疗法的作用机制、临床应用及
+MDT 模式下的个性化干预建议
+共识指出，音乐治疗可作为PPC 患儿睡眠问题的
+辅助干预手段，78% 的专家认可其通过调节自主神经、
+缓解焦虑间接改善睡眠的作用，强调需由认证治疗师操
+作且纳入MDT 评估安全性，同时禁止使用中药补充剂
+等缺乏证据的疗法
+［43］。
+中国家长对补充与替代医学接受度地域差异显著，
+但认证治疗师稀缺，尤其是基层医疗卫生机构专业力量
+更为薄弱。研究显示，中医推拿可提升患儿睡眠效率、
+降低焦虑评分
+［44］。
+本土化实施时，需要明确清单内容。推荐中医推拿、
+民乐音乐治疗，禁止使用未备案中药。MDT 需提前评
+估适用性（如凝血异常禁用推拿），建立效果监测表，
+无改善则再及时调整方案。
+4.3.4　PPC 中苯二氮䓬类与抗组胺类药物用于睡眠干预
+的药理特点、争议及临床应用建议
+共识明确，苯二氮䓬类（如地西泮）与抗组胺类（如
+氯苯那敏）因依赖性、认知功能损害等不良反应需严格
+限制，84% 的专家同意仅在其他干预无效时短期使用，
+需排除呼吸抑制等禁忌证，仔细考量“疗效- 风险比”
+（短期有效但长期加重功能损害）。
+在中国PPC 患儿中，苯二氮䓬类药物使用率较高，
+且常被基层单位便捷使用；同时，抗组胺药因误用率高
+导致不良反应频发
+［45］。研究证实，长期使用地西泮会
+导致认知功能下降及戒断反应，而氯苯那敏虽能缩短入
+睡时间，但日间嗜睡不良反应突出。
+为此，建议实施严格的用药管控。苯二氮䓬类仅
+限于急性失眠短期应急使用，并优先采用褪黑素联合
+CBT-I 进行替代；抗组胺药严禁常规助眠，仅可在明确
+适应证下短期应用。风险管控层面，应推行双人处方核
+对制度，建立基层医疗卫生机构用药实时上报系统，并
+由市级中心定期发布风险预警。
+4.3.5　PPC 中褪黑素用于睡眠干预的生理功能、个体化
+选择策略及用药安全建议
+共识强调，褪黑素通过调节昼夜节律、缩短入睡
+潜伏期改善PPC 患儿睡眠，97% 的专家同意需按睡眠
+模式（如入睡困难型），建议给药途径选择个体化制
+剂；同时75% 的专家关注制剂纯度，美国需经美国药
+典（USP）认证的品类，其他国家优先选有药品许可资
+质的药品。
+中国褪黑素市场存在管理模糊问题，超过半数家长
+混淆保健食品与药品，且缺乏儿童专用剂型导致用药剂
+量不标准
+［46］。
+基于此，建议实施个体化用药方案。按睡眠问题类
+型选择相应制剂，特殊患儿需调整剂量。所有用药应坚
+持药品优先原则，通过官方平台验证，并建立定期评估
+与多学科审核的全程监管机制。
+4.3.6　PPC 中加巴喷丁用于患儿睡眠干预的机制、个体
+化用药策略及其他潜在干预手段与照护者睡眠关注
+共识提出，加巴喷丁通过抑制神经元过度兴奋、缓
+解神经病理性疼痛改善PPC 患儿（尤其合并神经兴奋
+性增高者）睡眠，87% 的专家认可其为“疼痛- 睡眠共
+
+·4054·
+October 2026, Vol.29 No.28 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+病”辅助药；同时91% 的专家强调需同步干预照护者
+睡眠
+［47］。
+中国PPC 患儿使用加巴喷丁时可能存在剂量不规
+范问题，且基层医疗卫生机构用药不良反应率高。规范
+使用加巴喷丁可显著改善患儿睡眠，而提供睡眠指导与
+喘息服务能有效延长家长睡眠时间。
+因此，建议实施加巴喷丁按症状严重程度的分层给
+药方案，并严格监测肝肾功能。同时，应建立多层面支
+持体系，为患儿提供非药物干预，为家长整合社区喘息
+服务与提供专业睡眠指导，全面改善家庭睡眠状况。
+5　讨论
+在PPC 领域，睡眠问题长期隐匿为一大棘手难题，
+其严重危及患儿身心健康与生活质量，却未获得妥善处
+置，全球也缺乏有效的指导准则。在定义维度，该共识
+精准且深入地揭示了PPC 睡眠问题的本质特性，明确
+指出其多因素交织的复杂成因。在评估监测维度，该共
+识着重强调早期全面评估的关键意义。而在治疗范畴，
+该共识指出MDT 构筑改善睡眠困境的核心架构。该共
+识填补了此前指导方针缺失的空白，为医护人员呈上清
+晰、明确、具有高度实操性的行动指南，令其在应对
+PPC 患儿睡眠问题时能精准诊断、科学评估、高效治疗。
+借助MDT、动态评估及个性化干预策略，有望提升临
+床治疗精准度与成效，切实缓解患儿痛苦，为生命质量
+改善筑牢根基。
+针对我国PPC 的实践情境，切实贯彻该国际共识
+意义深远，但面临重重挑战。在《健康儿童行动提升计
+划（2021—2025 年）》
+［48］的政策框架支持下，系统推
+进儿童友好型姑息治疗服务体系建设具有现实必要性与
+政策可行性。儿童友好型医院是指从儿童的角度来规划
+和建设医院，尊重和满足儿童的权利和需要，拥有保障
+儿童安全就医的物质和人文环境，体现了提供便捷的高
+质量服务、给予弱势患儿群体关爱、消除就医歧视等特
+点
+［49］。该建设理念在PPC 睡眠管理方面优势显著。病
+房布局基于儿童身心特点精心设计，通过柔和色彩、温
+暖光线与童趣元素的融合，营造出温馨宁静的氛围，既
+能缓解患儿紧张情绪、减轻就医压力，又为睡眠创造了
+良好环境基础。安静舒适且富有童趣的空间使患儿心理
+更易放松，从而提升入睡速度与质量。例如淡蓝色墙面
+如宁静天空，暖黄灯光似柔和月光，搭配卡通贴纸点缀，
+让患儿仿佛置身童话世界，更易摆脱对疾病和陌生环境
+的恐惧，安然入睡。
+人文关怀制度融入医疗全程，组建专业心理疏导
+团队，为患儿及家属提供心理咨询、情绪安抚和压力
+缓解服务。针对姑息治疗中的儿童睡眠问题，团队能
+及时识别因疾病痛苦或治疗担忧引发的睡眠障碍，通
+过游戏治疗、故事引导等儿童适宜方式，帮助患儿缓
+解负面情绪，改善睡眠质量。建立医患深度沟通机制，
+通过定期沟通会和多渠道反馈平台，确保信息畅通，
+增强家属参与度与信任感，为睡眠管理提供支持。家
+属在充分了解治疗进展后，能更有效地陪伴患儿，如
+进行睡前安抚或放松活动，营造规律安心的睡眠环境，
+从而优化睡眠管理效果。
+与此同时，以往儿童睡眠的研究多聚焦于睡眠问题，
+且多探究单一睡眠维度与特定临床结局之间的关系。积
+极引入前沿睡眠健康理念，突破传统诊疗思维局限，多
+维度考量睡眠状况，聚焦睡眠质量深度提升、昼夜节律
+悉心维护及身心整体和谐调适具有重要意义。2014 年，
+Buysse
+［50］提出了睡眠健康的定义，从健康促进的视角
+出发，强调睡眠健康是一种多维度的睡眠- 清醒模式，
+适应个人、社会和环境需求。Buysse
+［50］构建了多维度
+的SATED 睡眠健康模型，包括睡眠满意度（satisfaction）、
+睡眠警觉度（alertness）、睡眠时机（timing）、睡眠效
+率（efficiency）、睡眠时长（duration），用于评估个
+体、人群、临床护理和研究中的睡眠健康状况，之后
+增加了睡眠规律性（regularity）维度，拓展到更为常用
+的RU-SATED 模型。但Buysse
+［50］定义的睡眠健康主
+要针对成年人，而儿童生活在复杂动态的系统中，可能
+无法控制睡眠。因此，Meltzer 等
+［51］在2021 年进一步
+探讨了Buysse 提出的睡眠健康模型在儿科中的应用，
+并提出包含6 个维度的Peds B-SATED 儿童睡眠健康模
+型，将规律性调适为更符合儿童睡眠情况的睡眠相关行
+为（behaviors）这一维度。考虑了儿童生活的社会生态
+系统的影响，以及对支持或阻碍睡眠健康至关重要的睡
+眠相关行为。为儿童睡眠评估与管理提供了更精准的指
+导和建议。在PPC 中乃至更广泛人群的睡眠管理中，
+融入睡眠健康理念，可突破传统诊疗思维。基于Peds 
+B-SATED 模型全面评估儿童睡眠健康，能更精准地识
+别睡眠问题根源，更好地管理睡眠问题，促进儿童健康。
+PPC 中的睡眠健康管理需立足本土化特点，构建多
+维度、全周期的照护体系。首先，应研发契合我国文化
+背景、家庭教养模式及生活环境（如噪声、光照、作息
+规律）的多维睡眠评估量表，精准识别患儿睡眠风险因
+素，为临床干预提供科学依据。其次，建立“家庭- 社
+区- 医院”三级协同管理网络：家庭端重点加强家长的
+健康教育与护理能力培养；在社区层面整合资源，提供
+临时照护支持与辅助设施；医院则发挥专业优势，实施
+精准诊断、个性化干预和长期随访，确保患儿睡眠健康
+管理的连续性与协同性。
+然而，当前仍面临专业人才短缺、资源分配不均及
+家长认知不足等挑战。为此，需加快跨学科人才培养，
+在高校及职业院校设置专项课程，培育兼具医学、心理
+
+·4055·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+学及护理学知识的复合型人才，并完善人才激励政策。
+同时，针对不同家庭背景，通过线上讲座、线下工作坊
+等多元化方式提升家长对睡眠问题的认知与护理能力，
+形成多方合力，为PPC 患儿提供更温暖、更科学的睡
+眠健康支持，点亮生命末期的希望之光。
+6　共识的优势和局限性
+6.1　共识的优势
+方法学层面，共识以系统评价与Meta 分析为核心
+循证基础，通过系统检索权威数据库筛选高质量证据，
+同时采用改良德尔菲法开展两轮全球跨学科专家咨询，
+涵盖18 个国家具备丰富临床经验的专家团队，经过盲
+法投票与争议条目优化，最终形成53 项共识建议，有
+效整合了循证医学证据与全球临床实践经验，避免了单
+一证据来源或地域视角的局限性，确保了共识的可靠性
+与广泛代表性。
+内容层面，作为全球首部聚焦PPC 睡眠问题的专
+项共识，其首次构建了“定义- 评估- 治疗”三位一
+体的标准化框架，清晰界定了PPC 睡眠问题的多因素
+致病特征、核心影响因素及双向关联效应（如睡眠与情
+绪、照护者负担的相互作用），填补了该领域长期缺乏
+系统指导的空白。同时，共识秉持PPC“以家庭为中心”
+的整体照护理念，将照护者的睡眠问题纳入管理范畴，
+明确照护者睡眠障碍的核心诱因及对患儿照护质量的影
+响，拓展了睡眠管理的覆盖维度。此外，共识注重临床
+实操性，明确了睡眠评估的核心工具与流程、MDT 干
+预模式的核心价值及药物与非药物干预的关键方向，为
+临床实践提供了可落地的操作指引。
+6.2　共识的局限性和挑战
+该共识虽为PPC 领域睡眠管理提供了重要指导，
+但在细节完善与本土化适配方面仍有提升空间，需结合
+PPC 临床实际灵活调整。方法学层面，共识以专家投票
+百分比作为达成标准，未对建议进行推荐强度分级与证
+据级别界定，针对PPC 患儿病情复杂、治疗需求多元
+的特点，一定程度降低其在不同病情患儿中应用的灵活
+性；同时，专家构成与证据来源虽覆盖多国，但对中低
+收入国家PPC 医疗体系特点与资源可及性考量不足，
+部分依赖高资源条件的建议在资源有限地区PPC 实践
+中的适配性需要优化。内容层面，PPC 患儿疾病类型多
+样且异质性显著，共识虽提及睡眠问题与疼痛、药物不
+良反应的共性、共患关联，但未针对不同疾病亚群制订
+差异化策略，对特定疾病睡眠问题的针对性指导稍显不
+足，且部分干预内容细节支撑有待补充，如PPC 患儿
+常用药物联用方案、终末期患儿简化非药物干预流程等
+未明确，可能导致不同PPC 机构实施存在差异，此类
+差异可通过本土PPC 临床经验与后续研究完善。
+结合中国PPC 临床实践，共识落地需应对部分适配
+挑战以释放指导价值：（1）制度层面，PPC 领域MDT
+模式缺乏专项政策支撑，“睡眠- 疼痛- 情绪”协同管
+理未纳入PPC服务质量考核，制约MDT常规化推进；（2）
+资源层面，儿科睡眠专科医师资源有限，基层医疗卫生
+机构缺乏PPC 患儿专用睡眠评估工具与干预设备，影
+响共识推荐措施落地效率；（3）文化层面，中国PPC
+患儿家庭以父母为主要照护者，双职工家庭对长期睡眠
+监测依从性有待提升，家长认知与国际评估工具适配性
+需优化。针对上述挑战，可通过完善PPC 的MDT 政策、
+加强基层医疗卫生机构培训与远程资源辐射、开发本
+土化评估工具及干预方案等路径，提升共识在中国PPC
+临床实践中的适用性，推动PPC 睡眠管理规范化发展。
+7　小结
+在PPC 领域，睡眠问题作为常见且影响患儿身心
+状态、家庭照护质量的症状，在研究与临床实践中未获
+充分关注，其与患儿疼痛、情绪障碍的双向关联及对
+照护者焦虑与疾病负担的交互影响，尚未系统纳入PPC
+综合管理框架，而科学干预睡眠问题是提升患儿生活质
+量、保障照护连续性的关键环节，在全球范围内亟需权
+威指导方针填补该领域空白。本研究依据《指南解读类
+文献报告规范的制订指南（RIGHT for INT）》，对《儿
+童姑息治疗中睡眠问题的国际共识：铺平道路》展开系
+统解读，提炼出共识中关于睡眠问题定义、评估、治疗
+的核心要点，为中国PPC 医护及多学科团队提供循证
+诊疗参考，可依托共识框架，结合国内PPC 服务资源
+分布特点、专科医师配置现状，推动本土化睡眠管理指
+南研制以解决仅依靠临床经验性操作的困境，围绕共识
+未充分覆盖的本土需求方向开展针对性研究以补充本土
+证据；后续需通过分层推进传播与实施工作，针对不同
+层级医疗机构开展专项培训、提供适配工具与资源支持，
+向家庭普及睡眠照护知识，推动睡眠管理纳入PPC 服
+务质量考核，完善相关资源保障，确保共识建议转化为
+临床实践，切实提升PPC 服务质量，改善患儿及家庭
+生活质量，助力中国PPC 睡眠健康领域的规范化发展。
+作者贡献：沈碧玉、李馨、李惠玲、李春波、王广
+海提出研究思路，指导、设计研究方案，搭建论文框架；
+沈碧玉、路佳慧、凡帆、樊盼玉、马晨欢负责论文初稿
+撰写，完成文献检索与标注；沈碧玉、王广海负责论文
+终稿修订，对论文质量负责。
+本文无利益冲突。
+沈碧玉
+https://orcid.org/0000-0002-1991-8968
+王广海
+https://orcid.org/0000-0003-3271-772X
+
+·4056·
+October 2026, Vol.29 No.28 
+Chinese General Practice
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+参考文献
+［1］World Health Organization. Integrating palliative care and symptom 
+relief into pediatrics: a WHO guide for health care planners, 
+implementers and managers[EB/OL]. (2018-05-09)[2025-09-03]. 
+https://www.who.int/publications/i/item/integrating-palliative-care-
+and-symptom-relief-into-pediatrics.
+［2］Zernikow B. Standards pädiatrischer Palliativversorgung in Europa–
+Empfehlungen der IMPaCCT-Gruppe [Standards in pediatric 
+palliative care in Europe–recommendations of the IMPaCCT group][J]. 
+Kinderkrankenschwester, 2008, 27(6): 228-232.
+［3］Avagnina I, Giacomelli L, Mercante A, et al. International project 
+on troublesome symptoms in paediatric palliative care will focus on 
+neuro-irritability, dystonia and sleep disorders[J]. Acta Paediatr, 2023, 
+112(3): 569-570. DOI: 10.1111/apa.16663. 
+［4］Mercante A, Owens J, Bruni O, et al. International consensus on sleep 
+problems in pediatric palliative care: Paving the way[J]. Sleep Med, 
+2024, 119: 574-583. DOI: 10.1016/j.sleep.2024.05.042. 
+［5］周奇, 邢丹, 李沁原, 等. 指南解读类文献报告规范的制订指南
+（RIGHT for INT）[J]. 中国循证医学杂志, 2022, 22(5): 497-507. 
+DOI: 10.7507/1672-2531.202201137.
+［6］Spruyt K, Curfs L M G. Non-pharmacological management of 
+problematic sleeping in children with developmental disabilities[J]. 
+Develop Med Child Neuro, 2015, 57(2): 120-136. DOI: 10.1111/
+dmcn.12623. 
+［7］Denlinger C S, Sanft T, Baker K S, et al. Survivorship, version 2.2018, 
+NCCN clinical practice guidelines in oncology[J]. J Natl Compr Canc 
+Netw, 2018, 16(10): 1216-1247. DOI: 10.6004/jnccn.2018.0078. 
+［8］沈巧, 郑显兰, 林紫, 等. 66家医疗机构儿童疼痛管理现状调查[J]. 
+中国护理管理, 2019, 19(2): 187-193.
+［9］Fidler A L, Voorhees S, Zhou E S, et al. A systematic review and 
+proposed conceptual model of sleep disturbances during pediatric 
+hospitalizations[J]. Sleep, 2022, 45(5): zsac038. DOI: 10.1093/sleep/
+zsac038. 
+［10］Pedraza E C, Raguindin P F, Hendriks M J, et al. Palliative care 
+services in paediatric oncology centres across Europe: a cross-
+sectional survey[J]. EJC Paediatr Oncol, 2023, 2: 100125. DOI: 
+10.1016/j.ejcped.2023.100125. 
+［11］Sommer A, Grothus S, Claus B B, et al. The effect of pain treatment 
+on fatigue and sleep quality in children and adolescents—a 
+longitudinal study[J]. Clin J Pain, 2025, 41(7): e1288. DOI: 10.1097/
+ajp.0000000000001288. 
+［12］Mercadante S, Adile C, Ferrera P, et al. Sleep disturbances in 
+advanced cancer patients admitted to a supportive/palliative care 
+unit[J]. Support Care Cancer, 2017, 25(4): 1301-1306. DOI: 10.1007/
+s00520-016-3524-4. 
+［13］陈贵海, 邓丽影, 杜懿杰, 等. 特定人群失眠诊断与治疗专家共
+识[J]. 中国临床药理学与治疗学, 2024, 29(8): 841-852.
+［14］苏晓雨, 王青青, 刘风侠. 肿瘤患者症状群生物学机制的研究
+进展[J]. 癌症进展, 2022, 20(6): 555-558, 572.
+［15］雷丽君, 吴至凤, 李骁, 等. 儿童睡眠障碍的常见症状及其发病
+机制[J]. 中国儿童保健杂志, 2018, 26(2): 167-170.
+［16］Harding R, Chambers L, Bluebond-Langner M. Advancing the 
+science of outcome measurement in paediatric palliative care[J]. Int J 
+Palliat Nurs, 2019, 25(2): 72-79. DOI: 10.12968/ijpn.2019.25.2.72. 
+［17］Zhang Y X, Liu L X, Hu J, et al. Assessing nursing quality in 
+paediatric intensive care units: a cross-sectional study in China[J]. 
+Nurs Crit Care, 2017, 22(6): 355-361. DOI: 10.1111/nicc.12246. 
+［18］海峡两岸医药卫生交流协会全科医学分会. 姑息治疗与安宁疗
+护基本用药指南[J]. 中国全科医学, 2021, 24(14): 1717-1734.
+［19］Hassinger A B, Afzal S, Rauth M, et al. Pediatric Intensive 
+Care Unit related Sleep and Circadian Dysregulation: a focused 
+review[J]. Semin Pediatr Neurol, 2023, 48: 101077. DOI: 10.1016/
+j.spen.2023.101077. 
+［20］Yoo H W. Diverse etiologies, diagnostic approach, and management 
+of primary adrenal insufficiency in pediatric age[J]. Ann Pediatr 
+Endocrinol Metab, 2021, 26(3): 149-157. DOI: 10.6065/
+apem.2142150.075. 
+［21］Bitterfeld L, Mathias J, Waldron B P, et al. Understanding the effects 
+of overnight vital signs monitoring on sleep duration and disruptions 
+in hospitalized children: a scoping review[J]. J Pediatr Nurs, 2023, 
+73: e10-e18. DOI: 10.1016/j.pedn.2023.07.002. 
+［22］苏明霞, 蓝丽云. 隐患管理和睡眠护理在儿童血液肿瘤护理的
+应用效果观察[J]. 世界睡眠医学杂志, 2023, 10(7): 1582-1584.
+［23］Cano-Crespo A, Moreno-García I, Servera M, et al. Cognitive 
+disengagement syndrome and child sleep problems in ADHD, anxiety 
+and depression[J]. Healthcare, 2023, 11(14): 2022. DOI: 10.3390/
+healthcare11142022. 
+［24］Perepezko K, Shaffer K, Beach S, et al. Effects of caregiver sleep 
+disturbances on relationship quality with their care recipient[J]. J 
+Gerontol Ser B, 2024, 79: gbad137. DOI: 10.1093/geronb/gbad137. 
+［25］Mercante A, Owens J, Bruni O, et al. International consensus on 
+sleep problems in pediatric palliative care: Paving the way[J]. Sleep 
+Med, 2024, 119: 574-583. DOI: 10.1016/j.sleep.2024.05.042. 
+［26］Cai S Y, Guo Q H, Wang X J, et al. Development levels of pediatric 
+palliative care teams and the extent of palliative care understanding 
+and implementation among pediatric oncologists in China[J]. Pediatr 
+Investig, 2021, 5(4): 265-270. DOI: 10.1002/ped4.12291. 
+［27］Li H B, Li Z, Zhao J, et al. Investigation of factors influencing 
+sleep status in Beijing children aged 3 to 14 years[J]. Ann 
+Otol Rhinol Laryngol, 2023, 132(11): 1336-1340. DOI: 
+10.1177/00034894231152754. 
+［28］Deng Y J, Lin T, Li W, et al. Reliability and validity of the revised 
+Chinese version of the Children´s Sleep Habits Questionnaire 
+(CSHQ-CH-R)[J]. World J Pediatr, 2025, 21(11): 1163-1174. DOI: 
+10.1007/s12519-025-00915-5.
+［29］Harputluoğlu N, Onur D, Çubukçu D, et al. Sleep quality of children 
+and caregivers in pediatric palliative care: a single-center cross-
+
+·4057·
+2026年10月  第29卷  第28期
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+中国全科医学
+sectional study[J]. J Palliat Care, 2026, 41(2): 139-150. DOI: 
+10.1177/08258597251380349. 
+［30］Siden H. Pediatric palliative care for children with progressive non-
+malignant diseases[J]. Children, 2018, 5(2): 28. DOI: 10.3390/
+children5020028. 
+［31］Boyden J Y, Bogetz J F, Johnston E E, et al. Measuring pediatric 
+palliative care quality: challenges and opportunities[J]. J Pain 
+Symptom Manag, 2023, 65(5): e483-e495. DOI: 10.1016/
+j.jpainsymman.2023.01.021. 
+［32］Currow D C, Davis W, Connolly A, et al. Sleeping-related 
+distress in a palliative care population: a national, prospective, 
+consecutive cohort[J]. Palliat Med, 2021, 35(9): 1663-1670. DOI: 
+10.1177/0269216321998558. 
+［33］Kubek L A, Kutz P, Roll C, et al. Applicability of actigraphy for 
+assessing sleep behaviour in children with palliative care needs 
+benchmarked against the gold standard polysomnography[J]. J Clin 
+Med, 2022, 11(23): 7107. DOI: 10.3390/jcm11237107. 
+［34］Kubek L A, Claus B, Zernikow B, et al. Comparison of actigraphy 
+with a sleep protocol maintained by professional caregivers and 
+questionnaire-based parental judgment in children and adolescents 
+with life-limiting conditions[J]. BMC Palliat Care, 2024, 23(1): 52. 
+DOI: 10.1186/s12904-024-01394-7. 
+［35］Lélis A L P A, Cardoso M V L M, Hall W A. Sleep disorders in 
+children with cerebral palsy: an integrative review[J]. Sleep Med Rev, 
+2016, 30: 63-71. DOI: 10.1016/j.smrv.2015.11.008. 
+［36］Dreier L A, Wager J, Blankenburg M, et al. The unfavorable alliance 
+of pain and poor sleep in children with life-limiting conditions and 
+severe psychomotor impairment[J]. Children, 2018, 5(7): 82. DOI: 
+10.3390/children5070082. 
+［37］吴静, 张先红, 魏璐, 等. 国外癌症儿童安宁疗护质量评估的研
+究现状[J]. 中国医学伦理学, 2025, 38(3): 275-280.
+［38］Gill F J, Hashem Z, Stegmann R, et al. The support needs of parent 
+caregivers of children with a life-limiting illness and approaches 
+used to meet their needs: a scoping review[J]. Palliat Med, 2021, 
+35(1): 76-96. DOI: 10.1177/0269216320967593. 
+［39］Petersen S, Reddihough D S, Lima S, et al. Barriers and facilitators to 
+seeking sleep solutions for children with cerebral palsy: a qualitative 
+study[J]. Front Psychiatry, 2021, 12: 729386. DOI: 10.3389/
+fpsyt.2021.729386. 
+［40］Dewald-Kaufmann J, De Bruin E, Michael G. Cognitive behavioral 
+therapy for insomnia (CBT-I) in school-aged children and 
+adolescents[J]. Sleep Med Clin, 2019, 14(2): 155-165. DOI: 10.1016/
+j.jsmc.2019.02.002. 
+［41］杨璐璐, 康尹之, 张菀凌, 等. 网络化认知行为治疗在失眠障碍
+中的应用和研究进展[J]. 南方医科大学学报, 2020, 40(1): 142-
+146.
+［42］Rolling J, Rabot J, Schroder C M. Melatonin treatment for pediatric 
+patients with insomnia: is there a place for it?[J]. Nat Sci Sleep, 2022, 
+14: 1927-1944. DOI: 10.2147/nss.s340944. 
+［43］Shafto K, Gouda S, Catrine K, et al. Integrative approaches in 
+pediatric palliative care[J]. Children, 2018, 5(6): 75. DOI: 10.3390/
+children5060075. 
+［44］Liu M Q, Li Y Y, Xian J, et al. Pediatric Tuina (massage) for primary 
+monosymptomatic nocturnal enuresis: a protocol for systematic 
+review and meta-analysis[J]. Medicine, 2020, 99(51): e23738. DOI: 
+10.1097/md.0000000000023738. 
+［45］Klick J C, Hauer J. Pediatric palliative care[J]. Curr Probl Pediatr 
+Adolesc Health Care, 2010, 40(6): 120-151. DOI: 10.1016/
+j.cppeds.2010.05.001. 
+［46］Erland L A E, Saxena P K. Melatonin natural health products and 
+supplements: presence of serotonin and significant variability of 
+melatonin content[J]. J Clin Sleep Med, 2017, 13(2): 275-281. DOI: 
+10.5664/jcsm.6462. 
+［47］Sanderson C, Quinn S J, Agar M, et al. Pharmacovigilance in hospice/
+palliative care: net effect of gabapentin for neuropathic pain[J]. 
+BMJ Support Palliat Care, 2015, 5(3): 273-280. DOI: 10.1136/
+bmjspcare-2014-000699. 
+［48］国家卫生健康委关于印发健康儿童行动提升计划(2021—2025
+年) 的通知[J]. 中华人民共和国国家卫生健康委员会公报, 
+2021(10): 28-32.
+［49］符晓婷, 夏琳, 张侃, 等. 儿科医学人文教育创新模式探索与实
+践[J]. 中国医学人文, 2023, 9(12): 34-37.
+［50］Buysse D J. Sleep health: can we define it? does it matter?[J]. Sleep, 
+2014, 37(1): 9-17. DOI: 10.5665/sleep.3298. 
+［51］Meltzer L J, Williamson A A, Mindell J A. Pediatric sleep health: it 
+matters, and so does how we define it[J]. Sleep Med Rev, 2021, 57: 
+101425. DOI: 10.1016/j.smrv.2021.101425. 
+（收稿日期：2025-11-19；修回日期：2026-01-13）
+（本文编辑：康艳辉）

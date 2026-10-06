@@ -1,0 +1,1407 @@
+标题: 中国老年人糖尿病患病率：一项系统综述和Meta分析
+期刊: 中国全科医学 2026 第29卷 第24期
+DOI: 10.12114/j.issn.1007-9572.2025.0426
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2025.0426
+
+
+·3500· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+August 2026，Vol.29 No.24
+Chinese General Practice
+·论著·医学循证·
+中国老年人糖尿病患病率：一项系统综述和Meta 分析
+王睿
+1，罗说明
+1*，杨靓
+2，王鹏
+3，赵洋
+4，王淇
+5，周智广
+1
+1.410011 湖南省长沙市，中南大学湘雅二医院代谢内分泌科 糖尿病免疫学教育部重点实验室
+内分泌与代谢性疾病国家临床医学研究中心
+2.322000 浙江省义乌市，浙江大学医学院附属第四医院整形外科
+3.410011 湖南省长沙市，中南大学湘雅二医院消化内科
+4.411100 湖南省湘潭市健康教育所
+5.410011 湖南省长沙市，中南大学湘雅二医院乳腺外科
+* 通信作者：罗说明，副主任医师/ 副教授；E-mail：shuomingluo@csu.edu.cn
+【摘要】　背景　在中国人口老龄化与糖尿病患病率持续上升的背景下，老年糖尿病所带来的健康和社会经济负
+担不断加剧。尽管我国已有多项研究报道老年人群糖尿病患病率，但相关证据分散，尚缺乏系统评价和Meta 分析对其
+流行状况进行综合量化。全面了解该人群的糖尿病流行状况，是推动针对性防控措施、优化卫生资源布局的重要前提。
+目的　按照系统评价与Meta 分析规范，系统检索中英文数据库，纳入2000—2023 年发表的我国老年人（≥60 岁）糖
+尿病患病率研究，并采用Meta 分析方法对患病率进行合并估计及亚组分析。方法　系统检索中英文数据库（包括中国
+知网、万方数据知识服务平台、PubMed、Embase、Web of Science、Scopus 数据库），收集2000—2023 年发表的与我国
+老年糖尿病患病率相关的研究文献。采用Stata 软件进行Meta 分析，使用I
+2 评估异质性，并根据结果选择固定效应模
+型或随机效应模型，合并计算总体及亚组患病率。结果　本研究纳入20 篇文献，包括872 633 名受试者，涵盖31 个省
+（自治区、直辖市）的老年人群。Meta 分析结果显示，中国老年人糖尿病患病率为18.67%（95%CI=15.86%~21.47%），
+剔除标化率后的粗患病率为19.22%（95%CI=16.15%~22.30%）。男性患病率为18.20%（95%CI=14.74%~21.66%），女
+性患病率为19.06%（95%CI=15.98%~22.13%）。按年龄分层，60~69岁人群糖尿病患病率为17.6%（95%CI=13.73%~21.47%），
+70~79 岁为19.62%（95%CI=13.51%~25.73%），≥80 岁为19.52%（95%CI=15.41%~23.63%）。城市老年人糖尿病
+患病率为16.85%（95%CI=11.21%~22.50%），高于农村居民的14.20%（95%CI=8.97%~19.42%）。按受教育水平分
+层，初中及以上学历人群为18.58%（95%CI=15.84%~21.31%），小学及以下为13.93%（95%CI=9.18%~18.68%）。
+按BMI 分层，BMI<18.5 kg/m
+2、18.5~23.9 kg/m
+2、24.0~27.9 kg/m
+2、≥28.0 kg/m
+2 人群的糖尿病患病率分别为14.46%
+（95%CI=5.75%~23.16%）、17.73%（95%CI=14.60%~20.86%）、29.15%（95%CI=17.40%~40.90%）
+和31.74%
+（95%CI=22.65%~40.83%）。敏感性分析结果稳定，未发现明显发表偏倚。结论　2000—2023 年间中国老年人群糖尿
+病患病率高达18.67%。不同性别、年龄、城乡、受教育水平及 BMI 亚组间糖尿病患病率存在差异。总体上，女性患病
+率略高于男性，患病率随年龄增长呈上升趋势；城市老年人患病率高于农村人群，受教育水平较高者患病率高于受教
+育水平较低者。不同 BMI 亚组间差异尤为显著，超重及肥胖老年人群糖尿病患病率明显高于体质量正常及偏低人群。
+【关键词】　老年人；糖尿病；患病率；系统综述；Meta 分析；流行病学
+【中图分类号】　R 339.34　R 587.1　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2025.0426
+Diabetes Prevalence among Older Adults in China: a Systematic Review and Meta-analysis 
+WANG Rui
+1, LUO Shuoming
+1*, YANG Liang
+2, WANG Peng
+3, ZHAO Yang
+4, WANG Qi
+5, ZHOU Zhiguang
+1
+1.Department of Metabolism and Endocrinology, the Second Xiangya Hospital of Central South University/Key Laboratory of 
+Diabetes Immunology, Ministry of Education/National Clinical Research Center for Endocrine and Metabolic Diseases, Changsha 
+410011, China
+2.Department of Plastic Surgery, the Fourth Affiliated Hospital, Zhejiang University School of Medicine, Yiwu 322000, China
+基金项目：国家重点研发计划（2022YFC3603000）；湖南省卫生健康高层次人才重大科研专项（R2023044）
+引用本文：王睿, 罗说明, 杨靓, 等. 中国老年人糖尿病患病率: 一项系统综述和Meta 分析.[J]. 中国全科医学, 2026, 29(24): 3500-3508. 
+DOI: 10.12114/j.issn.1007-9572.2025.0426.[www.chinagp.net]
+Wang R, Luo S M,Yang L, et al. Diabetes prevalence among older adults in China: a systematic review and meta-analysis[J]. Chinese General Practice, 
+2026, 29(24): 3500-3508.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·3501·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年8月  第29卷  第24期
+中国全科医学
+糖尿病是以慢性高血糖为特征的代谢性疾病，其并
+发症涵盖心脑血管疾病、视网膜病变、肾脏病变等，严
+重威胁患者的生活质量和生存率
+［1］。根据国际糖尿病
+联盟（IDF）2025年的报告，全球糖尿病患者人数已达5.89
+亿，预计到2050 年将增至8.53 亿
+［2］。中国糖尿病患
+者人数从1980 年的不足2 000 万增至如今的约1.41 亿，
+居全球首位
+［3］。
+随着中国老龄化进程的加快，老年群体（通常定义
+为≥60 岁）的糖尿病问题日益突出。老年人糖尿病不
+仅具有更复杂的临床表现，如多病共存、低血糖风险增
+加等，还涉及认知功能障碍、衰弱综合征等问题，给患
+者的健康管理带来严峻挑战
+［4-5］。因此，明确我国老年
+人糖尿病患病率，不仅有助于反映该群体的健康状况，
+也为公共卫生政策制定、医疗资源配置及精准防控提供
+依据，特别是在老年人共病多、依赖医疗资源高的背景
+下，具有重要现实意义。
+目前关于中国老年糖尿病患病率的研究存在显著异
+质性。一方面，随着糖尿病诊断标准的不断演变，早期
+多以空腹血糖（FPG）和口服葡萄糖耐量试验（OGTT）
+为主要依据。2011 年，WHO 正式将糖化血红蛋白（HbA1c）
+≥6.5% 纳入糖尿病的诊断标准，作为与血糖检测并列
+的替代指标
+［6］。这一变化提高了诊断的便利性和一致性，
+3.Department of Gastroenterology, the Second Xiangya Hospital of Central South University, Changsha 410011, China
+4.Xiangtan Institute of Health Education, Xiangtan 411100, China
+5.Department of Breast Surgery, the Second Xiangya Hospital of Central South University, Changsha 410011, China
+*Corresponding author: LUO Shuoming, Associate chief physician/Associate professor; E-mail: shuomingluo@csu.edu.cn
+【Abstract】　Background　Against the backdrop of China's ageing population and persistently rising diabetes 
+prevalence, the health and socio-economic burden posed by diabetes among the elderly continues to intensify. Although multiple 
+studies in China have reported diabetes prevalence among older adults, the evidence remains fragmented, lacking systematic 
+reviews and meta-analyses to comprehensively quantify its epidemiological status. A thorough understanding of diabetes 
+prevalence in this population is a crucial prerequisite for advancing targeted prevention and control measures and optimising the 
+allocation of healthcare resources. Objective　In accordance with systematic review and meta-analysis protocols, a systematic 
+search of Chinese and English databases was conducted to identify studies published between 2000 and 2023 investigating diabetes 
+prevalence among Chinese older adults ( ≥60 years). A meta-analysis was performed to synthesise prevalence estimates and 
+conduct subgroup analyses. Methods　A systematic search of Chinese and English databases (including CNKI, Wanfang Data, 
+PubMed, Embase, Web of Science, and Scopus) was conducted to collect research literature published between 2000 and 2023 
+concerning the prevalence of diabetes among elderly individuals in China. Meta-analysis was performed using Stata software, with I
+2 
+used to assess heterogeneity. Based on the results, either a fixed-effect model or random-effects model was selected to combine and 
+calculate the overall prevalence and prevalence within subgroups. Results　This study included 20 publications, encompassing 
+872 633 participants from elderly populations across 31 provinces. Meta-analysis results indicated that the prevalence of 
+diabetes among Chinese older adults was 18.67% (95%CI=15.86%-21.47%). After excluding standardised rates, the crude 
+prevalence was 19.22% (95%CI=16.15%-22.30%). The prevalence rate was 18.20% (95%CI=14.74%-21.66%) among males 
+and 19.06% (95%CI=15.98%-22.13%) among females. By age group, the prevalence among those aged 60-69 years was 17.60% 
+(95%CI=13.73%-21.47%), 19.62% (95%CI=13.51%-25.73%) among those aged 70-79 years, and 19.52% (95%CI=15.41%-
+23.63%) among those aged ≥80 years. The prevalence among urban elderly residents was 16.85% (95%CI=11.21%-22.50%), 
+higher than that among rural residents at 14.20% (95%CI=8.97%-19.42%). By educational attainment, the prevalence was 18.58% 
+(95%CI=15.84%-21.31%) among those with junior secondary education or above, and 13.93% (95%CI=9.18%-18.68%) among 
+those with primary education or below. Stratified by BMI, the prevalence rates among individuals with BMI <18.5 kg/m
+2, 18.5-
+23.9 kg/m
+2, 24.0-27.9 kg/m
+2, and ≥28.0 kg/m
+2 were 14.46% (95%CI=5.75%-23.16%), 17.73% (95%CI=14.60%-20.86%), 
+29.15% (95%CI=17.40%-40.90%), and 31.74% (95%CI=22.65%-40.83%), respectively. Sensitivity analyses yielded stable 
+results, with no evidence of significant publication bias. Conclusion　The prevalence of diabetes among the elderly population 
+in China reached 18.67% between 2000 and 2023. Differences in diabetes prevalence were observed across gender, age, urban-
+rural location, educational attainment, and BMI subgroups. Overall, the prevalence was slightly higher among women than men, 
+and increased with advancing age. Urban elderly individuals exhibited higher prevalence than their rural counterparts, while those 
+with higher educational attainment had higher rates than those with lower educational attainment. Differences were particularly 
+pronounced across BMI subgroups, with significantly higher diabetes prevalence among overweight and obese elderly individuals 
+compared to those of normal or underweight status.
+【Key words】　Aged; Diabetes mellitus; Prevalence; Systematic review; Meta-analysis; Epidemiology
+
+·3502· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+August 2026，Vol.29 No.24
+Chinese General Practice
+但也可能对不同时期研究的患病率估计产生一定影响。
+另一方面，城乡经济差异、饮食习惯变化及健康观念更
+新，进一步加剧了老年糖尿病患病状况的复杂性
+［3］。尽
+管已有多项地区性研究揭示中国老年糖尿病患病率逐年
+上升，但尚缺乏全国范围内的系统整合分析，这对全面
+了解老年糖尿病的流行现状及其影响因素形成了阻碍。
+Meta 分析作为一种量化整合数据的系统性方法，
+能够有效解决单一研究样本量不足、异质性高的问题，
+并揭示不同时空、不同亚组中的患病率特征
+［7］。基于此，
+本研究通过系统检索2000—2023 年中国老年人糖尿病
+患病率的相关文献，采用Meta 分析评估该群体的总体
+患病率，以及性别、城乡区域等亚组差异。需特别指出
+的是，多数社区流行病学研究并未区分糖尿病类型，中
+国老年人群中的糖尿病以2 型糖尿病（T2DM）为主，
+因此其报告结果主要反映老年T2DM 的流行水平。
+1　资料与方法
+1.1　文献检索
+系统检索2000—2023 年发表的中英文文献，收集
+中国老年人糖尿病患病率的相关研究数据。在中文数
+据库中，通过“糖尿病”“流行”“患病”“老年”
+等主题词检索中国知网、万方数据知识服务平台。在
+英文数据库中，通过“China or Chinese”“diabetes or 
+diabetes mellitus”“prevalence”“elderly or aged”等检
+索PubMed、Embase、Web of Science、Scopus 数据库。
+此外，还通过查阅纳入研究的参考文献，对其引用文献
+进行追溯，补充可能遗漏的符合纳入标准的文献，以确
+保资料的全面性与完整性。需要指出的是，本研究的检
+索时间范围为2000—2023 年，但纳入文献的调查时间
+可能早于其发表时间。因此，研究结果反映的是“2000—
+2023 年发表文献报道的老年人糖尿病患病率”。纳入
+的社区流行病学调查均未专门研究1 型糖尿病，而老年
+人群中T2DM 占绝大多数，因此本研究所合并的糖尿病
+患病率主要代表老年T2DM。
+1.2　文献筛选
+纳入标准：（1）研究对象为≥60 岁的老年人；（2）
+有效样本量≥500例；（3）研究对象在该地区居住≥5年；
+（4）纳入文献基础资料完整；（5）有明确的抽样方法；
+（6）研究类型为横断面调查；（7）研究结果包含糖尿
+病患病率，或提供可用于计算糖尿病患病率的数据。本
+研究仅涉及二次文献数据分析，无机构伦理审查。
+排除标准：（1）仅关注妊娠糖尿病、1 型糖尿病
+或成年人隐匿性自身免疫性糖尿病；（2）仅集中在某
+个特定年龄组如≥18 岁的成年人；（3）以医院为基础
+的病例对照研究；（4）随机对照试验；（5）社论、信
+件和评论性文章、会议摘要及未发表数据；（6）同一
+研究重复发表的，仅保留质量较高者，优先国际期刊。
+1.3　数据提取
+文献筛选与数据提取：由2 名研究者（独立且互盲）
+分别执行，首先通过阅读文献标题与摘要进行初筛，符
+合纳入标准者进一步阅读全文以决定最终是否纳入。文
+献筛选严格依据预设的纳入与排除标准执行，并对入选
+文献进行质量评估。所有纳入文献的数据提取工作亦由
+2 名研究者分别独立完成，最终结果经交叉核对。如在
+筛选或数据提取过程中出现意见分歧，则通过第3 名研
+究者进行讨论裁定，以确保分析的一致性与准确性。对
+于文献中缺失或不完整的数据，研究团队将尽可能联系
+原作者以补全所需信息。提取的信息包括：第一作者、
+出版年份、调查地区、调查年份、地区（城市和农村）、
+年龄、性别、年龄段（60~69 岁、70~79 岁及≥80 岁）、
+受教育水平（小学及以下、初中及以上）、BMI（<18.5 
+kg/m
+2、18.5~23.9 kg/m
+2、24.0~27.9 kg/m
+2 与
+≥28.0 
+kg/m
+2）以及糖尿病诊断标准。鉴于部分原始研究对教
+育水平分类不一致，为减少数据丢失过多，本研究根据
+大多数文献分类方式统一为“小学及以下”与“初中及
+以上”。为实现跨研究的比较与合并，年龄被统一划分
+为3 组（60~69 岁、70~79 岁及≥80 岁），并首先在各
+研究中对同一年龄组内的子样本进行合并，随后再进行
+多研究间的数据整合分析。本研究在进行性别、年龄、
+文化程度及BMI 等亚组分析时，尝试提取各研究的分
+层样本量。但由于部分原始调查未报告具体亚组的受试
+者人数，且无法可靠推算，因此仅对其公布的患病率进
+行合并，研究权重则基于患病率及其标准误自动计算。
+1.4　文献质量评价
+采用美国卫生保健质量和研究机构（AHRQ）推荐
+的横断面研究质量评价表对纳入文献进行质量评分，并
+交叉核对。AHRQ 共包括11 个条目，每个条目均采用
+“是”“否”“不清楚”进行评价，计分方式为“是”
+计1 分、“否”或“不清楚”计0 分，各条目得分相加
+为总分（0~11 分）。设定评分0~3 分为低质量，4~7 分
+为中等质量，8~11 分为高质量。最终纳入中等、高质
+量文献。
+1.5　统计学方法
+本研究使用Stata 17.0 和R 软件（版本4.3.1）进
+行统计分析。首先对纳入研究进行异质性检验，采用
+Cochran's Q 检验和异质性指标I
+2 评估研究间的差异程
+度。若P<0.05 且I
+2>50%，则认为研究间存在显著异质
+性，采用随机效应模型；反之，则视为同质性较好，
+采用固定效应模型进行合并分析；计算合并患病率及其
+95%CI。通过逐步单项研究剔除（leave-one-out）法进
+行敏感性分析，以评估各单项研究对合并结果的影响，
+验证研究结果的稳健性。为评估发表偏倚的可能性，绘
+制漏斗图并采用Egger's 回归检验进行统计学检验。
+为进一步探讨研究间异质性的潜在来源，进行Meta
+
+·3503·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年8月  第29卷  第24期
+中国全科医学
+回归分析。在初步数据整理阶段，因其无法反推实际
+患病人数，排除3 项仅报告年龄标化患病率的研究。此
+外，原计划将研究对象的平均年龄纳入Meta 回归模型，
+但部分文献未报告该信息，故最终未将其纳入主模型。
+Meta 回归最终纳入的协变量包括：调查年份、诊断方式、
+男性比例及样本量。其中，诊断方式作为二分类变量，
+自报诊断赋值为1，非自报诊断赋值为0。Meta 回归使
+用 R 软件中的metafor 包（版本4.8.0）实现，采用残差
+最大似然法（REML）估计模型参数，并报告各协变量
+的回归系数及其统计显著性。所有统计检验均为双侧检
+验，显著性水平设为P<0.05。图形绘制采用ggplot2 包（版
+本3.5.2）完成。
+2　结果
+2.1　文献检索与筛选结果
+共检索得到文献2 545 篇，经过筛选标题、摘要以
+及进一步阅读全文后，最终纳入20 篇文献
+［8-27］，共涉
+及872 633 名受试者，覆盖全国31 省份老年人群（表1）。
+对纳入的研究进行文献质量评价，结果显示为中等、高
+质量文献（表2）。文献筛选流程见图1。
+2.2　Meta 分析结果
+2.2.1　中国老年人糖尿病总患病率
+纳入研究
+［8-27］均报告了中国老年人糖尿病总患病
+率，异质性检验显示I
+2 ＝99.9%（P<0.001），采用随
+机效应模型进行分析。对中国老年人糖尿病患病率进
+行加权合并，结果显示中国老年人糖尿病总患病率为
+18.67%（95%CI=15.86%~21.47%）。
+2.2.2　不同性别糖尿病患病率比较
+共18 篇研究
+［8-22，24-26］报告了中国老年男性和女性
+糖尿病患病率，异质性检验显示男性和女性人群研究
+的I
+２值分别为99.9% 和99.8%（P<0.001），采用随机
+效应模型分析。结果显示，中国老年男性糖尿病患病率
+为18.20%（95%CI=14.74%~21.66%），女性为19.06% 
+（95%CI=15.98%~22.13%）。
+表1　2000—2023 年中国老年人糖尿病患病率特征表
+Table 1　Characteristics of diabetes prevalence among older adults in China, 2000-2023
+第一作者
+调查时间（年）
+调查地区
+检验标准
+样本量（例）年龄（岁）患病率（%）
+张晗
+［8］
+2015
+北京市、上海市、湖北省、四川省、
+云南省、广西壮族自治区
+WHO
+23 718
+≥60
+18.25
+刘依婷
+［9］
+2019
+南京市
+自报糖尿病
+1 552
+≥60
+21.52
+Liu
+［10］
+2001
+北京市
+WHO
+2 277
+≥60
+21.40
+Liu
+［10］
+2010
+北京市
+WHO
+2 102
+≥60
+24.80
+Feng
+［11］
+2020
+广东省中山市
+自报糖尿病
+9 519
+≥60
+15.50
+Liang
+［12］
+2015—2016
+四川省成都市
+WHO
+1 326
+≥80
+27.40
+Wang
+［13］
+2009—2010
+北京市
+WHO
+2 102
+≥60
+24.80
+Zhao
+［14］
+2015—2016
+海南省海口市
+自报糖尿病
+9 371
+≥60
+8.00
+Hu
+［15］
+2015
+466 个县（区）
+WHO
+215 041
+≥60
+8.70
+Yan
+［16］
+2018
+武汉市
+WHO
+376 702
+≥65
+18.80
+Sun
+［17］
+2018
+广东省深圳市
+WHO
+124 007
+≥65
+22.50
+Zhao
+［18］
+2019
+云南省昆明市
+WHO
+3 225
+≥60
+17.90
+刘淼
+［19］
+2014—2016
+海南省
+WHO
+1 002
+≥100
+9.50
+吕金芳
+［20］
+2019
+海南省
+WHO
+12 582
+≥60
+30.52
+卢泰旭
+［21］
+2019—2021
+吉林省
+WHO
+559
+≥65
+30.60
+任福荣
+［22］
+2015
+上海市
+WHO
+4 769
+≥60
+20.80
+王瑶
+［23］
+2011
+天津市
+WHO
+6 404
+>60
+19.07
+王瑶
+［23］
+2012
+天津市
+WHO
+7 299
+>60
+21.32
+王瑶
+［23］
+2013
+天津市
+WHO
+7 077
+>60
+25.28
+张黎明
+［24］
+2005
+吉林省长春市
+自报糖尿病
+862
+≥60
+10.70
+付萍
+［25］
+2002
+31 个省（自治区、直辖市）132
+个调查点
+WHO
+9 925
+≥60
+6.83
+王丽敏
+［26］
+2016
+31 个省（自治区、直辖市）298
+个县（区）
+WHO
+51 383
+≥60
+19.40
+“珠海市人口老龄化现况调
+查及对策研究”课题组
+［27］
+2013—2014
+广东省珠海市
+WHO
+1 109
+>60
+10.40
+“珠海市人口老龄化现况调
+查及对策研究”课题组
+［27］
+2009—2010
+吉林省
+WHO
+1 945
+>60
+15.00
+
+·3504· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+August 2026，Vol.29 No.24
+Chinese General Practice
+图1　文献筛选流程图
+Figure 1　Flow diagram of the literature selection process
+2.2.3　不同年龄段人群糖尿病患病率比较
+共7 篇研究
+［14-18，20，22］报告了不同年龄段人群
+糖尿病患病率，异质性检验显示60~69 岁、70~79 岁
+及≥80 岁人群研究的I
+2 值分别为99.7%、99.6% 和
+99.0%（P<0.001），采用随机效应模型分析。结果
+显示，3 个年龄段人群糖尿病患病率分别为17.6%
+（95%CI=13.73%~21.47%）、19.62%（95%CI= 
+13.51%~25.73%）与19.52%（95%CI=15.41%~23.63%）。
+2.2.4　城市与农村地区糖尿病患病率比较
+共6 篇研究
+［14-15，18，20，25-26］报告了城市与农村地区
+糖尿病患病率，异质性检验显示城市和农村人群研究的
+I
+2 值分别为99.6% 和99.8%（P<0.001），采用随机效应
+模型进行分析。结果显示，城市与农村居民糖尿病患病
+率分别为16.85%（95%CI=11.21%~22.50%）与14.20%
+（95%CI=8.97%~19.42%）。
+2.2.5　不同受教育水平人群糖尿病患病率比较
+共7 篇研究
+［11，14-18，26］报告了不同受教育水平糖尿
+病患病率，异质性检验显示初中及以上、小学及以下人
+表2　2000—2023 年中国老年人糖尿病患病率横断面研究的偏倚风险评价结果
+Table 2　Risk of bias assessment of cross-sectional studies reporting diabetes prevalence among older adults in China, 2000-2023
+第一作者
+刊出年份
+（年）
+条目
+总分
+（分）
+①
+②
+③
+④
+⑤
+⑥
+⑦
+⑧
+⑨
+⑩
+11
+张晗
+［8］
+2019
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+刘依婷
+［9］
+2022
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+Liu
+［10］
+2016
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+Feng
+［11］
+2023
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+Liang
+［12］
+2020
+Y
+Y
+Y
+Y
+N
+N
+Y
+Y
+N
+Y
+N
+7
+Wang
+［13］
+2016
+Y
+Y
+Y
+Y
+N
+N
+Y
+N
+N
+Y
+N
+6
+Zhao
+［14］
+2018
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+Hu
+［15］
+2022
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+Yan
+［16］
+2022
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+Sun
+［17］
+2020
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+Zhao
+［18］
+2023
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+刘淼
+［19］
+2021
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+Y
+N
+8
+吕金芳
+［20］
+2022
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+卢泰旭
+［21］
+2022
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+任福荣
+［22］
+2017
+Y
+Y
+Y
+Y
+N
+N
+Y
+N
+N
+Y
+N
+6
+王瑶
+［23］
+2015
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+张黎明
+［24］
+2007
+Y
+Y
+Y
+Y
+N
+N
+Y
+N
+N
+Y
+N
+6
+付萍
+［25］
+2007
+Y
+Y
+Y
+Y
+N
+N
+Y
+N
+N
+Y
+N
+6
+王丽敏
+［26］
+2019
+Y
+Y
+Y
+Y
+N
+Y
+Y
+N
+N
+Y
+N
+7
+“珠海市人口老龄化现况调查及对
+策研究”课题组
+［27］
+2016
+Y
+Y
+Y
+N
+N
+Y
+N
+Y
+N
+Y
+N
+6
+注：Y= 是，N= 否/ 不清楚；①为是否明确了资料的来源（调查或文献回顾），②是否列出了暴露组和非暴露组（病例和对照）的纳入及排
+除标准或参考以往的出版物，③为是否给出了鉴别患者的时间阶段，④为如果不是人群来源的话，研究对象是否连续，⑤为评价者的主观因素
+是否掩盖了研究对象其他方面情况，⑥为是否描述了任何为保证质量而进行的评估（如对主要结局指标的检测/ 再检测），⑦为解释了排除分
+析的任何患者的理由，⑧为描述了如何评价和（或）控制混杂因素的措施，⑨为如果可能，解释了分析中是如何处理丢失数据的，⑩为总结了
+患者的应答率及数据收集的完整性，11为如果有随访，查明预期患者不完整数据所占的百分比或随访结果。
+数据库（n=2 545）：Web of Science（n=1 218）、
+PubMed（n=46）、Embase（n=63）、Scopus（n=112）、
+万方数据知识服务平台（n=967）、中国知网（n=139）
+通过其他来
+源识别的附
+加记录（n=0）
+阅读全文（n=56）
+阅读标题和摘要（n=1 415）
+最终纳入文献（n=20）
+剔除出重复文献（n=1 130）
+识
+别
+筛
+选
+纳
+入
+排除（n=1 359）：
+（1）研究对象不符合（n=252）
+（2）研究主题不相关（n=691）
+（3）文献类型不符合（n=416）
+排除（n=36）：
+（1）无法提取完整数据（n=17）
+（2）样本量不足（n=19）
+
+·3505·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年8月  第29卷  第24期
+中国全科医学
+群研究的I
+2 值分别为97.1% 和99.9%（P<0.001），采
+用随机效应模型分析。结果显示，初中及以上学历者糖
+尿病患病率为18.58%（95%CI=15.84%~21.31%），小
+学及以下者为13.93%（95%CI=9.18%~18.68%）。
+2.2.6　不同BMI 人群糖尿病患病率比较
+共4 篇研究
+［11，17，20，22］报告了不同BMI 人群的糖
+尿病患病率比较，异质性检验显示BMI<18.5 kg/m
+2、
+18.5~23.9 kg/m
+2、24.0~27.9 kg/m
+2、≥28.0 kg/m
+2 人群
+研究的I
+2 值分别为96.7%、98.4%、99.7% 与98.3%
+（P<0.001），采用随机效应模型分析。结果显示，上
+述不同BMI 组糖尿病患病率分别为14.46%（95%CI= 
+5.75%~23.16%）、17.73%（95%CI=14.60%~20.86%）、
+29.15%（95%CI=17.40%~40.90%）与31.74%（95%CI= 
+22.65%~40.83%）。
+2.2.7　不同检验标准的糖尿病患病率比较
+按诊断方式进行亚组分析，采用WHO 诊断标准
+的研究共涉及16 篇文献
+［8，10，12-13，15-23，25-27］，其中
+部分研究报告了不同调查年份独立患病率数据，最终
+纳入20 个效应量；采用自报糖尿病标准的研究共4
+篇
+［9，11，14，24］，纳入4 个效应量，I
+2 值分别为99.9%
+和99.2%（P<0.001），采用随机效应模型分析。结果
+显示，采用WHO 检测标准的研究中，老年人糖尿病
+患病率为19.62%（95%CI=16.49%~22.75%）；而采
+用自报方式的研究中老年人糖尿病患病率为13.89%
+（95%CI=8.45%~19.34%），见表3。
+2.3　敏感性分析
+本研究对存在异质性的结果采用逐一剔除文献的方
+法进行敏感性分析。结果显示，剔除文献前后，研究结
+果均未发生明显的改变，提示本研究结果较稳定。
+2.4　发表偏倚分析
+对20 篇文献进行发表偏倚分析，绘制漏斗图，结
+果显示漏斗图呈不完全对称，但进一步进行Egger's 检
+验显示不存在发表偏倚（P>0.05）。
+2.5　Meta 回归分析
+Meta 回归分析结果显示（图2），所建立模型可解
+释31.49% 的研究间异质性（R
+2=31.49%），残余异质性
+τ
+2 为0.167。在纳入的协变量中，诊断方式与老年人糖
+尿病患病率相关（P=0.001），男性比例与老年人糖尿
+病患病率相关（P=0.016）。样本量与患病率的相关性
+未达到统计学显著水平（P=0.063），调查年份与患病
+率无相关关系（P=0.293）。由于部分研究未报告平均
+年龄，平均年龄变量未纳入本次Meta 回归模型。
+3　讨论
+本研究发现2000—2023 年中国老年人糖尿病总
+体患病率达18.67%，显著高于《中国糖尿病防治指南
+（2024 版）》公布的20~79 岁成年人糖尿病总体患病
+率为11.2%
+［28］。这一差异揭示了糖尿病发病的年龄梯
+度特征：随着衰老进程中β 细胞功能衰退、肌肉量减
+少及胰岛素抵抗加重，老年群体已成为糖尿病防控的“重
+灾区”。值得注意的是，与欧美国家老年糖尿病患病率
+（22%~25%）相比
+［29-30］，虽然我国老年人糖尿病总体
+患病率数值略低，但考虑到人口基数效应，我国老年糖
+尿病患者绝对数量已突破4 500 万，居世界前列，相当
+于全球老年糖尿病患者的1/4。本研究聚焦于糖尿病患
+病率，而糖尿病对老年人群健康的威胁不仅在于高血糖
+本身，更在于其严重的并发症负担。高患病率意味着有
+数量庞大的老年糖尿病患者面临着极高的并发症或合并
+表3　不同亚组间老年糖尿病患病率情况
+Table 3　Diabetes prevalence in older adults by subgroup
+特征
+文献
+数
+患病
+率（%）95%CI（%）
+异质性检验
+I
+2（%）
+P 值
+性别
+男
+17
+18.20 
+14.74~21.66
+99.9 
+<0.001
+女
+19
+19.06 
+15.98~22.13
+99.8 
+<0.001 
+年龄
+60~69 岁
+7
+17.60 
+13.73~21.47
+99.7 
+<0.001
+70~79 岁
+7
+19.62 
+13.51~25.73
+99.5 
+<0.001
+≥80 岁
+8
+19.52 
+15.41~23.63
+99.0 
+<0.001
+居住地
+城市
+6
+16.85 
+11.21~22.50
+99.6 
+<0.001
+农村
+6
+14.20 
+8.97~19.42
+99.8 
+<0.001
+受教育水平
+小学及以下
+7
+13.93
+9.18~18.68
+99.9 
+<0.001 
+初中及以上
+7
+18.58
+15.84~21.31
+97.1 
+<0.001 
+BMI
+<18.5 kg/m
+2
+4
+14.46
+5.75~23.16
+96.8 
+<0.001 
+18.5~23.9 kg/m
+2
+4
+17.73
+14.60~20.86
+98.4 
+<0.001
+24.0~27.9 kg/m
+2
+4
+29.15
+17.40~40.90
+99.7 
+<0.001
+≥28.0 kg/m
+2
+4
+31.74
+22.65~40.83
+98.3 
+<0.001
+检验标准
+WHO
+20
+19.62
+16.49~22.75
+99.9
+<0.001
+自报糖尿病
+4
+13.89
+8.45~19.34
+99.2
+<0.001
+表示1×10
+5
+表示2×10
+5
+表示3×10
+5
+标准诊断
+样本量
+诊断方式
+自报诊断
+男性比例（%）
+-0.8
+-1.6
+-2.4
+-1.2
+-2.0
+-2.8
+20
+40
+30
+50
+logit（患病率）
+图2　Meta 回归图
+Figure 2　Meta-regression plot
+
+·3506· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+August 2026，Vol.29 No.24
+Chinese General Practice
+症风险。因此，在制订老年糖尿病干预策略时，须同时
+考虑这些并发症负担。
+国内鲜圆圆等
+［31］研究报告我国老年人糖尿病前期
+患病率为32.0%，本研究聚焦于确诊糖尿病，更能直接
+反映实际疾病负担。闫彬源等
+［32］对1996—2016 年中
+国≥20 岁人群T2DM 的Meta 分析显示，总体患病率为
+9.1%（95%CI=8.3%~10.0%），远低于本研究老年人群
+的数据，凸显“老龄”作为糖尿病发生的重要风险因素。
+值得一提的是，最新一项系统评价纳入2002—2022 年
+中国多地人群研究，分析了≥18 岁人群的多重疾病模
+式与患病率，结果显示，在各类共病组合中，糖尿病是
+常见疾病之一，尤其在老年人群中占比显著增加
+［33］。
+这侧面强调了糖尿病是我国老年群体慢性病负担的核心
+组成部分。
+本研究性别分层分析显示老年男性和女性人群的糖
+尿病患病率间无明显差异（18.20% 与19.06%）。这一
+结果与既往部分研究一致
+［34-35］，但也与某些研究结果
+存在差异
+［36］。在老年人群中，糖尿病患病率性别差异
+趋于减弱，其可能原因包括: 首先，随着年龄增长，性
+激素水平的变化（如女性绝经后雌激素保护作用的减弱）
+可能使男女在胰岛素抵抗和糖代谢方面的生理差异趋于
+一致；其次，老年人共同面临的生活方式因素（如运动
+减少、饮食结构不合理等）和慢性病共病的增加，可能
+对糖尿病的发生起到了更主要的作用，掩盖了性别本身
+的影响。此外，不同研究中性别比例、样本代表性及诊
+断标准的异质性，也可能在一定程度上影响了性别差异
+的统计效应。
+本研究年龄分层分析显示60~69 岁、70~79 岁和
+≥80 岁年龄组的糖尿病患病率分别为17.6%、19.62%
+和19.52%。从数值分布上看，70~79 岁组患病率较
+60~69 岁组有所升高，而≥80 岁组患病率与70~79 岁
+组水平相近，未呈现随年龄持续递增的模式。这一结果
+与通常认为的年龄增长与胰岛素抵抗及代谢功能障碍相
+关的观点并不完全一致。高龄老年人中，健康状况相对
+较好的人更容易存活下来，因此≥80 岁组患病率未必
+较70~79 岁组更高。此外，≥80 岁人群样本量可能偏少，
+这会影响估计的稳定性和显著性检验的效能。
+本研究城市和农村地区老年人群糖尿病患病率分别
+为16.85% 和14.20%，提示城乡老年人糖尿病患病风险
+在总体上比较接近。该结果与既往研究
+［35，37］中城市患
+病率显著高于农村的结论不完全一致，可能反映出近年
+来随着城镇化进程推进、医疗服务覆盖面扩大以及农村
+居民生活方式逐渐城市化，城乡之间在饮食结构、体力
+活动和健康意识方面的差距有所缩小，从而导致糖尿病
+患病率的城乡差异逐步减弱。此外，农村地区的筛查覆
+盖率不足及医疗条件有限，可能导致糖尿病的诊断率偏
+低，从而在一定程度上低估了实际患病水平，而不一定
+代表其真实疾病风险较低。城乡老年人糖尿病患病率差
+异的统计不显著，并不意味着两者在健康风险或干预需
+求上的相同，仍需因地制宜地制定差异化的公共卫生策
+略，提升基层筛查能力和健康教育覆盖，特别是在农村
+地区加强老年糖尿病的早诊早治。
+通常认为受教育水平较高有助于提升健康素养和疾
+病预防能力，但研究结果显示，初中及以上学历者的糖
+尿病患病率（18.58%）高于小学及以下学历者（13.93%）。
+这一现象与传统认知中“高教育水平有助于降低疾病风
+险”的观点相悖，可能由多重因素共同作用所致。一种
+可能的解释是，受教育水平较高人群通常具有更强的健
+康意识和更便捷的医疗资源获取途径，导致其糖尿病筛
+查率和诊断率更高，从而在患病率统计中更充分地体现
+真实情况。此外，受教育水平较高者常从事脑力劳动且
+久坐时间长，运动不足，工作压力大，可能成为糖尿病
+发病的重要风险因素。因此，糖尿病防控策略应在提高
+全民健康意识的基础上，进一步关注高学历人群中潜在
+的生活方式风险因素，推动更具针对性的健康干预措施。
+本研究未进一步细化教育水平的分层，主要因原始数据
+限制所致。未来研究应进一步明确和统一教育分类标准，
+以提升分析的精确性。
+本研究显示，BMI 24.0~27.9 kg/m
+2、≥ 28.0 kg/m
+2 的
+老年人糖尿病患病率分别达到29.15% 与31.74%，远高
+于BMI<18.5 kg/m
+2（17.73%）和18.5~23.9 kg/m
+2（14.46%）
+老年人。本研究结果与既往研究一致，证实超重与肥胖
+是老年糖尿病发病的重要危险因素
+［37-38］。高BMI 不仅
+反映脂肪堆积增加，尤其是腹型肥胖，还伴随胰岛素抵
+抗、慢性炎症反应等病理过程，加速糖尿病的发生与发
+展
+［39］。需要注意的是，随着年龄增长，老年人体成分
+改变（如肌肉减少、脂肪相对增加）也可能加剧代谢异
+常的风险。因此，在政策层面应将老年人体质量监测与
+肥胖筛查纳入糖尿病防控体系中，推动在社区和基层医
+疗机构开展BMI 常规测量、腹型肥胖评估与高危个体
+早期干预工作。对于超重及肥胖的老年群体需制订个性
+化管理方案，以实现糖尿病防控“关口前移”。
+本研究进一步通过Meta 回归分析探讨了研究层面
+协变量对老年人糖尿病患病率估计的影响。结果显示，
+诊断方式是解释研究间异质性的显著因素，采用自报方
+式的研究报告有较低的患病率，这一现象在既往流行病
+学研究中亦有所体现，提示自报方式可能因认知不足、
+漏诊或医疗可及性差异而低估真实患病水平。男性比例
+与患病率之间的统计学相关性，更多反映了不同研究样
+本性别构成差异对总体估计的影响，而非性别本身决定
+患病风险。样本量与调查年份在Meta 回归中未显示显
+著影响，提示在现有证据条件下，老年糖尿病患病率的
+
+·3507·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年8月  第29卷  第24期
+中国全科医学
+差异主要来源于研究设计和诊断方式，而非时间变化或
+样本规模因素。然而，由于纳入研究在调查年份和变量
+报告方面分布不均，时间趋势相关结论仍需谨慎解读。
+本研究存在一定局限性，尽管本研究覆盖了我国的
+31 个省（自治区、直辖市），但由于原始文献大多未
+提供细化的地域分层结果，且样本分布集中于部分东部
+发达城市，导致无法开展系统的地域差异分析。因此，
+研究结果更能代表总体水平，而非不同区域的患病率特
+征。此外，研究纳入的文献
+［8，10，13，23］中约1/3 样本来
+自北京和天津地区，显示出样本来源相对集中于经济较
+发达地区。这可能限制了研究结果的代表性，因为不同
+地区在医疗水平、生活方式和社会经济状况上存在差异。
+因此，本研究的城乡分析反映的是全国层面的总体城乡
+差异，而不能替代更细化的区域代表性。未来亟须在全
+国不同地区开展多中心调查，并统一报告地域分层结果，
+以便更好揭示中国老年糖尿病患病率的地理分布规律。
+本研究尝试基于调查年份进行时间趋势分析。尽管
+检索至2023 年12 月，但多数纳入研究的调查时间集中
+在2010—2019 年，2020 年后研究较少，可能与部分大
+型调查未发表或新冠疫情限制有关，难以形成稳定的分
+段估计。因此，本研究结果主要反映2020 年前老年人
+群的患病情况，未能揭示明确时间趋势，但结合我国既
+往多轮全国性监测和多地流行病学研究可见，2000 年
+以来我国老年人群T2DM 患病率整体呈上升态势，仍需
+依赖更长期、连续且覆盖广泛的流行病学研究进一步加
+以验证和量化。
+本研究纳入的大部分原始文献仅报告了老年人糖尿
+病的总体患病率，未对糖尿病类型或共病状况进行明确
+区分。因此，在当前数据条件下，难以进一步开展分型
+或共病相关的亚组分析。另外，本研究中有4 项采用自
+报方式，该方式依赖患者回忆与认知能力，可能存在漏
+诊或信息偏倚，尤其在认知功能下降的老年群体中更为
+突出。为提升未来研究结果的准确性，应尽可能统一实
+验室诊断标准，以提高患病率估计的科学性。
+本研究提示需强化老年糖尿病的分层筛查与个体化
+防控。未来防控体系应注重区域与人群差异，结合年龄
+（≥70 岁）、BMI（超重及肥胖）、城乡与教育水平差异，
+以及高血压、血脂异常等合并危险因素，实施精准筛查
+和针对性干预，从而降低疾病负担与并发症风险。
+综上所述，本研究揭示了中国老年糖尿病防控所面
+临的严峻挑战：从整体患病率远高于普通成年人，到城
+乡、性别和不同教育水平的多维比较，再到BMI 升高
+显著增加患病风险，这些发现不仅反映了老年群体糖尿
+病负担的复杂性，也强调了精准防控策略的迫切需求。
+4　小结
+本研究系统分析了2000—2023 年中国老年糖尿病
+患病情况，结果显示其总体患病率达18.67%，疾病负
+担较为严重。超重和肥胖人群的患病风险显著升高，城
+市高于农村，较高学历者也呈现更高患病率，提示应重
+点关注该类人群并推进针对性防控。目前针对老年糖尿
+病仍缺乏更细化的危险分层和筛查策略，建议今后开展
+更高质量的大规模研究，完善老年糖尿病早期筛查和干
+预体系，为制定精准防治策略提供依据。受纳入研究数
+量与质量的限制，本研究结论仍需更多高质量证据进一
+步验证。
+作者贡献：王睿和罗说明负责研究的构思与设计；
+王睿完成文献检索、筛选、数据提取与统计分析，并撰
+写论文初稿；杨靓、王鹏独立进行文献筛选与数据提取；
+赵洋、王淇参与数据核对、偏倚风险评价及结果解释；
+周智广对论文的重要学术内容进行了关键性修改，并对
+研究整体进行指导。所有作者阅读并同意论文最终稿。
+本文无利益冲突。
+参考文献
+［1］Antar S A, Ashour N A, Sharaky M, et al. Diabetes mellitus: classification, 
+mediators, and complications; A gate to identify potential targets for the 
+development of new effective treatments[J]. Biomed Pharmacother, 2023, 
+168: 115734. DOI: 10.1016/j.biopha.2023.115734. 
+［2］International Diabetes Federation. IDF Diabetes Atlas, 11th ed[EB/OL]. 
+Brussels: International Diabetes Federation, 2025.[2025-04-13]. https://
+diabetesatlas.org/.
+［3］Xu Y, Wang L M, He J, et al. Prevalence and control of diabetes in 
+Chinese adults[J]. JAMA, 2013, 310(9): 948-959. DOI: 10.1001/
+jama.2013.168118. 
+［4］Cristello Sarteau A, Ercolino G, Muthukkumar R, et al. Nutritional status, 
+dietary intake, and nutrition-related interventions among older adults with 
+type 1 diabetes: a systematic review and call for more evidence toward 
+clinical guidelines[J]. Diabetes Care, 2024, 47(9): 1468-1488. DOI: 
+10.2337/dci23-0099. 
+［5］Sinclair A, Morley J E, Rodriguez-Mañas L, et al. Diabetes mellitus in 
+older people: position statement on behalf of the International Association of 
+Gerontology and Geriatrics (IAGG), the European Diabetes Working Party 
+for Older People (EDWPOP), and the International Task Force of Experts 
+in Diabetes[J]. J Am Med Dir Assoc, 2012, 13(6): 497-502. DOI: 10.1016/
+j.jamda.2012.04.012. 
+［6］World Health Organization. Use of glycated haemoglobin (HbA1c) 
+in the diagnosis of diabetes mellitus: abbreviated report of a WHO 
+consultation[M]. Geneva: World Health Organization, 2011.
+［7］Moher D, Cook D J, Eastwood S, et al. Improving the quality of reports of 
+meta-analyses of randomised controlled trials: the QUOROM statement. 
+Quality of Reporting of Meta-analyses[J]. Lancet, 1999, 354(9193): 1896-
+1900. DOI: 10.1016/s0140-6736(99)04149-5. 
+［8］张晗, 齐士格, 李志新, 等. 2015 年六省市社区老年人常见慢性
+
+·3508· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+August 2026，Vol.29 No.24
+Chinese General Practice
+病共病现状[J]. 首都公共卫生, 2019, 13(3): 122-125. DOI: 10.16760/
+j.cnki.sdggws.2019.03.002.
+［9］刘依婷, 巢健茜, 吴雪雨, 等. 2019 年南京市老年人多重慢性病患
+病现状及影响因素分析[J]. 中国预防医学杂志, 2022, 23(9): 646-
+651. DOI: 10.16506/j.1009-6639.2022.09.002.
+［10］Liu M, Wang J H, He Y, et al. Awareness, treatment and control of type 2 
+diabetes among Chinese elderly and its changing trend for past decade[J]. 
+BMC Public Health, 2016, 16: 278. DOI: 10.1186/s12889-016-2874-7. 
+［11］Feng X Y, Wang J Y, Wang S P, et al. Correlation analysis of 
+anthropometric indices and type 2 diabetes mellitus in residents aged 
+60 years and older[J]. Front Public Health, 2023, 11: 1122509. DOI: 
+10.3389/fpubh.2023.1122509. 
+［12］Liang B, Tang W W, Zhang W Q, et al. Prevalence and associated factors 
+of diabetes mellitus in a very elderly Chinese population: a cross-sectional 
+study[J]. Biomed Environ Sci, 2020, 33(5): 315-322. DOI: 10.3967/
+bes2020.043. 
+［13］Wang J H, Zheng H L, Liu M, et al. Prevalence and control status of 
+diabetes in elderly community residents and risk factors[J]. Zhonghua 
+Liuxingbingxue Zazhi, 2016, 37(9): 1220-1222. 
+［14］Zhao C J, Wong L, Zhu Q, et al. Prevalence and correlates of chronic 
+diseases in an elderly population: a community-based survey in 
+Haikou[J]. PLoS One, 2018, 13(6): e0199006. DOI: 10.1371/journal.
+pone.0199006. 
+［15］Hu X, Meng L B, Wei Z M, et al. Prevalence and potential risk factors of 
+self-reported diabetes among elderly people in China: a national cross-
+sectional study of 224, 142 adults[J]. Front Public Health, 2022, 10: 
+1051445. DOI: 10.3389/fpubh.2022.1051445. 
+［16］Yan Y Q, Wu T T, Zhang M, et al. Prevalence, awareness and control of 
+type 2 diabetes mellitus and risk factors in Chinese elderly population[J]. 
+BMC Public Health, 2022, 22(1): 1382. DOI: 10.1186/s12889-022-
+13759-9. 
+［17］Sun Y Y, Ni W Q, Yuan X L, et al. Prevalence, treatment, control of type 
+2 diabetes and the risk factors among elderly people in Shenzhen: results 
+from the urban Chinese population[J]. BMC Public Health, 2020, 20(1): 
+998. DOI: 10.1186/s12889-020-09045-1. 
+［18］Zhao Y, Li H F, Wu X, et al. Rural-urban differentials of prevalence and 
+lifestyle determinants of pre-diabetes and diabetes among the elderly in 
+southwest China[J]. BMC Public Health, 2023, 23(1): 603. DOI: 10.1186/
+s12889-023-15527-9. 
+［19］刘淼, 杨姗姗, 王盛书, 等. 海南百岁老人糖尿病的患病率及影响
+因素分析[J]. 中华流行病学杂志, 2021, 42(1): 68-72. 
+［20］吕金芳, 李文霞, 黎美兰, 等. 海南省西部地区60 岁及以上老年
+人群2 型糖尿病的患病率及其影响因素分析[J]. 疾病监测, 2022, 
+37(7): 972-976.
+［21］卢泰旭, 刘东明, 秦迪, 等. 吉林省某社区老年人高血压及糖尿
+病现状调查与影响因素分析[J]. 中国实验诊断学, 2022, 26(12): 
+1797-1800. DOI: 10.3969/j.issn.1007-4287.2022.12.015.
+［22］任福荣, 杨郗. 上海市某社区60 岁及以上老年人高血压、糖尿
+病及高脂血症的患病情况[J]. 上海预防医学, 2017, 29(7): 569-572. 
+DOI: 10.3969/j.issn.1004-9231.2017.07.017.
+［23］王瑶, 曹璐佳, 赵丰廷, 等. 天津市北辰区社区老年人高血压和糖
+尿病及血脂异常患病情况分析[J]. 中国慢性病预防与控制, 2015, 
+23(3): 161-163. DOI: 10.16386/j.cjpccd.issn.1004-6194.2015.03.012.
+［24］张黎明, 李玲, 吕晓萍. 长春市东煤社区862 名老年人慢性病
+患病情况调查[J]. 吉林医学, 2007, 28(7): 945-946. DOI: 10.3969/
+j.issn.1004-0412.2007.07.040.
+［25］付萍, 满青青, 张坚, 等. 中国60 岁及以上人群空腹血糖分布及
+糖尿病流行特征[J]. 卫生研究, 2007, 36(5): 542-544. 
+［26］王丽敏, 陈志华, 张梅, 等. 中国老年人群慢性病患病状况和疾
+病负担研究[J]. 中华流行病学杂志, 2019, 40(3): 277-283. DOI: 
+10.3760/cma.j.issn.0254-6450.2019.03.005.
+［27］“珠海市人口老龄化现况调查及对策研究”课题组, “中国老龄
+人口健康问题与对策研究”课题组, 李鸿雁, 等. 中国南北方老
+年人健康状况调查与分析——以广东省珠海市和吉林省长春、
+四平两市为例[J]. 人口学刊, 2016, 38(1): 77-87. DOI: 10.16405/
+j.cnki.1004-129X.2016.01.008.
+［28］ 中华医学会糖尿病学分会. 中国糖尿病防治指南(2024 版)[J]. 中
+华糖尿病杂志, 2025, 17(1): 16-139. DOI: 10.3760/cma.j.cn115791-
+20241203-00705.
+［29］Barbiellini Amidei C, Fayosse A, Dumurgier J, et al. Association between 
+age at diabetes onset and subsequent risk of dementia[J]. JAMA, 2021, 
+325(16): 1640-1649. DOI: 10.1001/jama.2021.4001. 
+［30］Frías J P, Davies M J, Rosenstock J, et al. Tirzepatide versus semaglutide 
+once weekly in patients with type 2 diabetes[J]. N Engl J Med, 2021, 
+385(6): 503-515. DOI: 10.1056/NEJMoa2107519. 
+［31］鲜圆圆, 高静, 柏丁兮, 等. 中国老年人糖尿病前期患病率的
+Meta 分析[J]. 军事护理, 2022, 39(12): 62-65, 100. DOI: 10.3969/
+j.issn.2097-1826.2022.12.016.
+［32］闫彬源, 张维璐, 田敏, 等. 1996—2016 年中国≥20 岁成年人2
+型糖尿病患病率meta 分析[J]. 中华老年多器官疾病杂志, 2018, 
+17(11): 814-819. DOI: 10.11915/j.issn.1671-5403.2018.11.187.
+［33］Hu Y D, Wang Z X, He H J, et al. Prevalence and patterns of 
+multimorbidity in China during 2002-2022: a systematic review and 
+meta-analysis[J]. Ageing Res Rev, 2024, 93: 102165. DOI: 10.1016/
+j.arr.2023.102165. 
+［34］Kautzky-Willer A, Leutner M, Harreiter J. Sex differences in type 2 
+diabetes[J]. Diabetologia, 2023, 66(6): 986-1002. DOI: 10.1007/s00125-
+023-05891-x. 
+［35］Wang L M, Gao P, Zhang M, et al. Prevalence and ethnic pattern of 
+diabetes and prediabetes in China in 2013[J]. JAMA, 2017, 317(24): 
+2515-2523. DOI: 10.1001/jama.2017.7596. 
+［36］Hadaegh F, Abdi A, Kohansal K, et al. Gender differences in the impact 
+of 3-year status changes of metabolic syndrome and its components on 
+incident type 2 diabetes mellitus: a decade of follow-up in the Tehran 
+Lipid and Glucose Study[J]. Front Endocrinol, 2023, 14: 1164771. DOI: 
+10.3389/fendo.2023.1164771. 
+［37］Yang W Y, Lu J M, Weng J P, et al. Prevalence of diabetes among men 
+and women in China[J]. N Engl J Med, 2010, 362(12): 1090-1101. DOI: 
+10.1056/NEJMoa0908292. 
+［38］Ojima T, Namba S, Suzuki K, et al. Body mass index stratification 
+optimizes polygenic prediction of type 2 diabetes in cross-biobank 
+analyses[J]. Nat Genet, 2024, 56(6): 1100-1109. DOI: 10.1038/s41588-
+024-01782-y. 
+［39］Kahn S E, Hull R L, Utzschneider K M. Mechanisms linking obesity to 
+insulin resistance and type 2 diabetes[J]. Nature, 2006, 444(7121): 840-
+846. DOI: 10.1038/nature05482. 
+（收稿日期：2025-09-10；修回日期：2025-12-20）
+（本文编辑：赵跃翠）

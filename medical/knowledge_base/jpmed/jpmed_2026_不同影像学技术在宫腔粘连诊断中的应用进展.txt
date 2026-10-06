@@ -1,0 +1,514 @@
+标题: 不同影像学技术在宫腔粘连诊断中的应用进展
+作者: 于晓川, 石丽娟, 张雅婷, 陈淇, 王化丽
+期刊: 精准医学杂志 2026 第41卷 第1期
+DOI: 10.13362/j.jpmed.202641007
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202641007
+
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+doi:10.
+13362/j.
+jpmed.
+202641007  文章编号:2096-529X(2026)01-0083-05
+[收稿日期]2025-03-04; [修订日期]2025-09-20
+[基金项目]大连市科技创新基金项目(2022JJ13SN086)
+[通信作者]王化丽,Email:wanghl_dl@126.
+com
+不同影像学技术在宫腔粘连诊断中的应用进展
+于晓川1 石丽娟2 张雅婷2 陈淇2 王化丽1
+(1 大连市妇女儿童医疗中心(集团)妇科,辽宁大连 116051; 2 大连医科大学研究生院)
+[摘要] 宫腔粘连(intrauterineadhesions,IUA)是一种妇科常见疾病,严重影响女性生殖健康。超声、磁共振
+成像(MRI)和子宫输卵管造影(HSG)等影像学检查是IUA 的主要诊断方法。其中,超声具有无创、便捷的优势,
+被广泛用于IUA 的初步筛查;MRI在复杂和中重度IUA 的评估方面具有更高的准确度和特异度;HSG 作为IUA
+的传统检查手段,在其初步筛查和形态学评估中发挥着关键作用。多种影像学技术的联合使用可实现优势互补,
+大幅提高IUA 诊断的准确度和特异度。本文对上述三种影像学技术在IUA 诊断中的应用、优势与局限性以及不
+同影像学技术的联合应用进行系统性回顾,旨在为临床医生提供全面的诊断参考,以促进IUA 的精准诊疗。
+[关键词] 宫腔粘连;多模态成像;超声检查;磁共振成像;子宫输卵管造影术;综述
+[中图分类号] R711.
+74;R445    [文献标志码] A
+Advancesintheapplicationofvariousimagingtechniquesinthediagnosisofintrauterineadhesions
+YU Xiaochuan,SHILijuan,ZHANGYating,CHEN Qi,WANG Huali (DepartmentofGynaecology,Dalian Womenand
+Children’sMedicalCenter(Group),Dalian116051,China)
+[ABSTRACT] Intrauterineadhesions(IUA)isacommongynaecologicalconditionthatsignificantlyimpactsfemalereproduc-
+tivehealth.Radiologicalexaminations,suchasultrasound,magneticresonanceimaging (MRI),and hysterosalpingography
+(HSG),arethemainmethodsforthediagnosisofIUA.Ultrasoundhastheadvantagesofnoninvasivenessandconvenienceandis
+widelyusedforthepreliminaryscreeningforIUA;MRIshowshigheraccuracyandspecificityintheevaluationofcomplexand
+moderate-to-severeIUA;HSG,asatraditionaldiagnostictoolforIUA,playsakeyroleinthepreliminaryscreeningandmorpho-
+logicalassessmentofIUA.Thecombineduseofmultipleimagingtechniquescanachievecomplementaryadvantagesandthussig-
+nificantlyimprovetheaccuracyandspecificityofIUAdiagnosis.Thisarticlesystematicallyreviewstheapplication,advantages,
+andlimitationsoftheaforementionedimagingmodalitiesinthediagnosisofIUA,aswellasthecombineduseofdifferentimaging
+techniques,inordertoprovideacomprehensivereferenceforcliniciansandpromotetheprecisediagnosisandtreatmentofIUA.
+[KEY WORDS] Intrauterineadhesion;Multimodalimaging;Ultrasonography;Magneticresonanceimaging;Hysterosalpin-
+gography;Review
+  宫腔粘连(intrauterineadhesions,IUA),亦称Asher-
+man综合征,是因子宫内膜基底层受损,继而引发纤维组织
+增生,致使宫腔内出现粘连的一种疾病。IUA 在育龄女性
+中较为常见,其发病率在我国居高不下,并且随着宫腔手术
+的增加呈逐年增高的趋势。多次人工流产、刮宫从而引发
+IUA 的概率为25%~30%,已成为女性月经量减少和继发
+性不孕的主要原因[1]。此外,IUA 还可能导致反复流产和
+闭经等问题,严重影响女性的生殖能力和身心健康。因此,
+准确的IUA 诊断对于恢复子宫形态、促进内膜修复及改善
+生育预后具有重要意义。
+超声、MRI和子宫输卵管造影(HSG)等影像学检查是
+IUA 的主要诊断方法[2-3]。其中,超声操作简单、成本低廉,
+但在粘连的精确评估上存在一定的局限性;MRI能够提供
+高分辨率图像,适合进行深入诊断,但费用相对较高;HSG
+主要用于检查宫腔情况,但患者可能会由于疼痛造成局部肌
+肉痉挛,导致假阳性结果的出现[4]。本文旨在分析比较上述
+三种影像学技术在IUA 诊断中的优缺点,以期探讨最佳的
+IUA 诊断方案。
+1 三种影像学技术在IUA诊断中的应用
+1.
+1 超声在IUA 诊断中的应用
+IUA 在超声下通常表现为子宫壁增厚、不规则的回声
+或子宫形态的扭曲,使用高频超声探头能够精确观察子宫腔
+内的粘连状况,对于评估粘连的严重程度至关重要[4]。常见
+的超声技术包括二维超声(2DUS)、三维超声(3DUS)、三维
+超声自由解剖成像技术(OmniView)、断层超声成像(TUI)
+和三维多普勒超声(3D-PDU)[4]。这些技术可对患者子宫形
+态、粘连部位和液体分布进行观察,并提供高分辨率的子宫
+腔图像,是评估IUA 严重程度的首选工具[1]。
+在2D US检查中,通过纵横向扫描能够对子宫腔进行
+观察,揭示IUA 患者子宫内膜形态及粘连情况,常见表现包
+括内膜变薄或回声不均,严重时可出现子宫腔部分或完全闭
+塞[5]。然而,2D US对不同粘连程度IUA 患者的检查准确
+率存在差异。研究表明,2D US对轻度、中度和重度IUA 患
+者的检查准确率分别约为56.
+7%、76.
+9% 和88.
+9%
+[6],提示
+其对重度粘连的检测准确性较高,而对轻度粘连的检测准确
+性相对较低。相比之下,3D US能够通过冠状面图像展示更
+详细的子宫形态变化,并能更清楚地识别粘连区域[7]。研究
+表明,3D US对轻度、中度和重度IUA 患者的检测准确率分
+·
+3
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+别约为93.
+33%、89.
+47%和96.
+15%
+[8-9]。3D US对不同粘连
+程度IUA 患者的检测准确率均高于2D US,尤其是在检测
+轻度粘连方面,3D US的准确率显著高于2D US,弥补了2D
+US的不足。
+基于3D US的影像学特征,IUA 可以被划分为4种类
+型[10-13]:Ⅰ型为内膜结构清晰,但部分区域存在低回声带,粘
+连不超过子宫腔长度的一半;Ⅱ型为子宫腔轻度分离,分离
+直径不超过1cm,前后壁出现轻微回声带连接;Ⅲ型为内膜
+变薄,回声不清晰,多个不规则低回声区域覆盖较大范围;Ⅳ
+型为子宫腔完全分离,且分离直径大于1cm,可能出现血
+肿。这种分类方法为IUA 的临床诊断和治疗方案的选择提
+供了重要的参考依据。
+三维超声OmniView 和TUI通过多角度成像和分层显
+示,可进一步提高超声检测的敏感度,其中三维超声Omni-
+View 对IUA 患者的检查准确率高达97.95%
+[14-15]。3D-
+PDU 在子宫内膜血流状态的评估方面具有突出优势,尤其
+对IUA 患者的子宫血流变化具有较高的诊断价值[16]。IUA
+患者通常存在子宫内膜血流灌注减少的情况,这可能与内膜
+损伤和纤维化有关[17]。3D-PDU 检查结果中的血管化指数
+(VI)、血流指数(FI)和血管化-血流指数(VFI)等血流参数能
+够定量评估子宫内膜的血流灌注情况,从而评估IUA 的严
+重程度[18-19]。VI、FI和VFI的变化可以检测治疗效果,并对
+治疗后的妊娠率进行评估[10-20]。研究表明,正常妇女子宫内
+膜VI、FI和VFI显著高于不明原因不孕妇女,其中FI预测
+子宫内膜容受性的灵敏度为93.
+8%,特异度为83.
+1%
+[21]。
+1.
+2 MRI在IUA 诊断中的应用
+MRI在IUA 诊断过程中,特别是在对超声成像模糊病
+例的检查中,有着不可或缺的地位。研究表明,相比于其他
+影像学方法,MRI能够准确判定子宫粘连边界并有效反映
+子宫形态变化,且结果与宫腔镜检查(金标准)高度一致,在
+中、重度IUA 的检测中显示出更为优越的诊断性能[22]。此
+外,MRI还能够为IUA 患者术后妊娠预后的评估提供有价
+值的参考[23]。MRIT1和T2加权成像能够清晰地显示IUA
+患者宫腔形态,提供粘连范围和病变性质方面的详细信
+息[22]。其中,T2加权成像中的高信号区域常常指示宫腔壁
+的纤维化与瘢痕组织,可有效识别IUA 患者子宫腔内因粘
+连导致的异常信号;T1加权成像的信号强度与纤维组织密
+度相关,可提供粘连密度和程度的评估数据,从而反映患者
+子宫腔内粘连的严重性[24]。
+随着影像学技术的发展,MRI增强扫描和三维MRI等
+新技术逐渐应用于IUA 诊断,使IUA 的检出率显著提高。
+这些新技术可提供更精确的宫腔结构图像,尤其对超声检查
+结果不清晰的复杂病例具有重要的辅助检查作用[25]。MRI
+增强扫描可以显著提升宫腔与子宫肌层的分辨率,从而更好
+地展示粘连区域的影像特征[23,25-26]。三维MRI能够直观展
+示IUA 患者宫腔的立体结构,精确评估粘连的空间分布和
+程度,可在宫腔解剖形态变化的评估方面提供更为可靠的诊
+断依据[27]。
+1.
+3 HSG 在IUA 诊断中的应用
+HSG 是一项成熟且应用广泛的影像学检查方法,并且
+是目前IUA 诊断的重要工具之一[10]。生理情况下,女性子
+宫腔呈光滑的倒三角形状,宫腔内无充盈缺损,造影剂能够
+均匀通过并填充整个宫腔。然而,IUA 患者子宫腔内存在
+粘连带,宫腔形态出现狭窄、变形甚至完全闭塞[10],在HSG
+检查时常出现充盈缺损[28]。HSG 可通过观察充盈缺损的
+形态、大小以及分布,有效评估IUA 患者宫腔的粘连程度与
+位置,帮助临床医生作出准确诊断和治疗决策[28-29]。此外,
+HSG 能够清晰地显示宫腔内偏心回声区域,这通常提示宫
+腔内可能存在粘连和瘢痕[30]。
+2 三种影像学技术在IUA诊断中的优势与局限性
+在IUA 诊断中,超声的优势是无创、操作简便,适合快
+速筛查。然而,超声检查结果受操作者主观影响较大,存在
+一定的误诊或漏诊情况。特别是对于轻度IUA 患者,超声
+诊断的敏感度较低。2D US与3D US联合使用可提高IUA
+检测的准确率[17]。3D US在子宫形态和内膜变化的显示效
+果方面优于2D US,但其对子宫血流方向的显示能力较弱,
+因此常常需要结合2D US以提高血流检测的敏感度。
+MRI的优势主要在于高分辨率和多平面成像能力,能
+够清晰展示IUA 患者宫腔及其周围组织的结构[23]。与超
+声相比,MRI的软组织对比度更加优越,尤其在评估子宫壁
+纤维化和瘢痕形成时,显得尤为重要。此外,MRI是一种非
+侵入性检查方法,不会使患者暴露于电离辐射中,尤其适合
+需要频繁检查的患者。尽管MRI具有众多优势,但也存在
+一定的局限性:①与超声检查相比,MRI检查通常需要较长
+时间的扫描,在需要紧急结果的临床情况下可能会带来不
+便;②MRI对操作人员的技术要求较高,且费用较高,可能
+限制其在资源有限地区的应用;③部分患者(如体内有金属
+植入物或起搏器的患者)可能无法接受MRI检查;④对于轻
+度IUA,尤其是局部小范围的子宫壁粘连,MRI的检测灵敏
+度较低,在早期小范围粘连的诊断灵敏度方面可能不及宫腔
+镜[22,24]。
+尽管HSG 作为一项成熟且应用广泛的影像学检查方
+法,是目前IUA 诊断的重要工具之一,但也存在一定的局限
+性。首先,HSG 检查主要依赖X 射线和造影剂,可能会给患
+者带来一定的辐射风险,对于需要多次检查的患者风险更
+高;其次,HSG 对轻度IUA 的诊断灵敏度较差,无法有效显
+示其细微病理变化;此外,HSG 的诊断结果容易受到IUA
+患者宫腔内形态变化、造影剂分布不均等因素的影响,可能
+导致假阴性或假阳性结果[31-32]。
+3 不同影像学技术在IUA诊断中的联合应用
+在IUA 的诊断中,多种影像学技术的联合应用已成为
+提高诊断准确性的关键手段。超声与MRI联合检查可以将
+超声的便捷性和MRI的高分辨率进行结合,提高IUA 诊断
+的准确性[27]。超声与HSG 联合检查可以使造影剂充盈宫
+·
+4
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+腔,超声下直观显示宫腔的形态和粘连部位,提高对轻、中度
+IUA 诊断的准确性[33]。MRI与HSG 联合检查能够更全面
+地评估IUA 患者的宫腔情况,尤其在复杂病例中,能够提供
+更准确的诊断依据[34]。超声与宫腔镜检查联合能够更加准
+确地反映IUA 患者子宫腔内粘连的性质和部位,显著提高
+IUA 诊断的准确性[35]。2D US与3D US联合可结合两者
+的优点,显著地提高对不同粘连程度IUA 患者诊断的准确
+性[36-38]。三维子宫输卵管超声造影(TVS3D-HyCoSy)与盐
+水灌注超声联合检查对IUA 诊断的灵敏度和阴性预测值均
+显著高于传统的二维经阴道超声(2D-TVS)检查[39-41],且三
+维成像能够提供更为清晰的宫腔视图,对于显示宫腔边界的
+不规则性、子宫内膜回声的不均匀性以及粘连带的低回声表
+现有显著优势[42]。
+随着医学的不断发展,多种影像学技术的联合应用在
+IUA 的诊断中愈发普遍。在临床应用过程中,可根据IUA
+患者的具体情况和临床需求选择合适的联合诊断方法。例
+如,对于轻度和中度IUA 患者的初步筛查,可选择超声与
+HSG 联合检查;对于复杂病例的高精度评估,可选择超声与
+MRI联合检查;对于复杂病例的全面评估,可选择MRI与
+HSG 联合检查。
+4 总结与展望
+在IUA 诊断中,超声、MRI和HSG 检查各具优势和局
+限性。超声具有非侵入性、低成本、操作简便等优势,广泛应
+用于IUA 的初筛和评估;MRI在复杂和中重度IUA 的评估
+方面具有更高的准确性和特异性;HSG 作为IUA 的传统检
+查手段,在其初步筛查和形态学评估中发挥着关键作用。多
+种影像学技术的联合使用可实现优势互补,大幅提高IUA
+诊断的精确度和效率。
+未来应注重开发具有高成本效益和高度特异性的IUA
+诊断工具,以弥补现有影像学技术诊断的不足。AI和大数
+据分析的整合有望为IUA 的影像学诊断提供重要的支持。
+相关的研究表明,MRI检查结合深度学习和神经网络等AI
+算法能够自动识别IUA 患者子宫腔内的细微的变化,进一
+步提高诊断的灵敏度以及准确度[43-44]。基于深度学习算法
+和Grad-CAM 技术的宫腔镜IUA 诊断模型在子宫内膜病变
+的诊断方面具有较高的准确度、灵敏度和特异度[45]。在临
+床应用中,AI辅助的影像学分析不仅能够提升放射科医生
+诊断的效率,还可以实现疾病的早期检测和实时监控,进而
+为患者提供个性化治疗方案。未来可建立大型IUA 影像数
+据库用于AI模型训练,以提高其对IUA 诊断的辅助效果。
+此外,新兴技术如纳米技术和生物传感器技术也为新型
+IUA 诊断工具的开发提供了可能路径[46-47]。这些技术可以
+与现有的影像学技术相结合,进一步提高IUA 诊断的准确
+度和灵敏度。例如,纳米技术可用于开发更小尺寸的成像探
+针,从而实现更深层次的组织成像;生物传感器技术则可用
+于实时监测子宫内膜的生理和病理变化,为IUA 的早期诊
+断提供新方法。
+作者声明:于晓川、王化丽参与了研究设计;于晓川、石丽娟、张雅婷、
+陈淇、王化丽参与了论文的写作和修改。所有作者均阅读并同意发
+表该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] GHARIBEH N,AGHEBATI-MALEKIL,MADANIJ,etal.
+Cell-basedtherapyinthinendometrium and Ashermansyn-
+drome[J].Stem CellResTher,2022,13(1):33.
+[2] SANTAMARIA X,ROSONB,PEREZ-MORAGA R,etal.
+DecodingtheendometrialnicheofAsherman’sSyndromeat
+single-cellresolution[J].NatCommun,2023,14(1):5890.
+[3] WANGPH,YANGST,CHANG W H,etal.Intrauterine
+adhesion[J].TaiwanJObstetGynecol,2024,63(3):312-319.
+[4] ZHAOXP,LIU M Q,WUSS,etal.Artificialintelligence
+diagnosisofintrauterineadhesionby3Dultrasoundimaging:
+Aprospectivestudy[J].QuantImaging MedSurg,2023,13
+(4):2314-2327.
+[5] DINGC,WEIW,DINGF,etal.Ultrasounddiagnosticofin-
+trauterineadhesions:Systematicreviewandmeta-analysis[J].
+JObstetGynaecolRes,2024,50(9):1681-1686.
+[6] SHEN M H,DUAN H,CHANG Y N,etal.Prevalenceand
+riskfactorsofintrauterineadhesionsinwomenwithaseptate
+uterus:Aretrospectivecohortstudy[J].ReprodBioMedicine
+Online,2022,44(5):881-887.
+[7] KOULF,JIANG X,XIAOSY,etal.Therapeuticoptions
+anddrugdeliverystrategiesforthepreventionofintrauterine
+adhesions[J].JControlRelease,2020,318:25-37.
+[8] HUANGR,HUANGX W,LISJ,etal.Valueof2Dultra-
+sonographyinthediagnosisandevaluationofintrauterinead-
+hesions-aprospectivestudy[J].ReprodBioMedicine Online,
+2024,49(2):103771.
+[9] HUANGR,LISJ,ZHAO Y T,etal.Aprospectivestudy
+examiningthevalueofthree-dimensionaltransvaginalultra-
+sonographyduringthediagnosisandevaluationofAsherman
+syndrome[J].Reprod BioMedicine Online,2024,49(6):
+104404.
+[10]URMAN B,YAKIN K,ERTASS,etal.Fertilityandana-
+tomicaloutcomesfollowinghysteroscopicadhesiolysis:An11-
+yearretrospectivecohortstudytovalidateanewclassification
+systemforintrauterineadhesions(Urman-VitaleClassification
+System)[J].IntJGynecolObstet,2024,165(2):644-654.
+[11]DISPIEZIOSARDOA,CAMPOR,ZIZOLFIB,etal.Long-
+termreproductiveoutcomesafterhysteroscopictreatmentof
+dysmorphicuteriinwomenwithreproductivefailure:AnEu-
+ropeanmulticenterstudy[J].JMinimInvasiveGynecol,2020,
+27(3):755-762.
+[12]CHEONG M L,LAI T H, WU W B.Connectivetissue
+growthfactormediatestransforminggrowthfactorβ-induced
+collagenexpressionin humanendometrialstromalcells[J].
+PLoSOne,2019,14(1):e0210765.
+[13]PAŠALIĈ E, TAMBUWALA M
+M, HROMIĈ-JAHJE-
+FENDIĈ A.Endometriosis:Classification,pathophysiology,
+·
+5
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+andtreatment options[J].Pathol Res Pract,2023,251:
+154847.
+[14]SUND,YISJ,ZENGF,etal.Developingandvalidatinga
+predictionmodeloflivebirthinpatientswithmoderate-to-se-
+vereintrauterineadhesions:Anewapproachwithendometrial
+morphologymeasurementby3Dtransvaginalultrasound[J].
+QuantImagingMedSurg,2024,14(1):995-1009.
+[15]YAN L, WANG A M,BAI R F,etal.Application of
+SonoVuecombinedwiththree-dimensionalcolorpowerangiog-
+raphyinthediagnosisandprognosisevaluationofintrauterine
+adhesion[J].EurJObstetGynecolReprodBiol,2016,198:68-72.
+[16]CHEN L M,ZHANG H W,WANG Q,etal.Reproductive
+outcomesinpatientswithintrauterineadhesionsfollowinghys-
+teroscopicadhesiolysis:Experiencefromthelargestwomen’s
+hospitalinChina[J].JMinimInvasiveGynecol,2017,24(2):
+299-304.
+[17]HANXS,NING CP,SUN L T,etal.Three-dimensional
+transvaginaltomographicultrasoundimagingforcervicalcan-
+cerstaging[J].UltrasoundMedBiol,2015,41(9):2303-2309.
+[18]DISPIEZIO-SARDOA,DEANGELISMC,DIMITRIOSK,
+etal.Restoringfertilityofpatientswithsevereasherman’s
+syndromeintheofficesetting:Astep-by-steprecipeforsuc-
+cess[J].JMinimInvasiveGynecol,2023,30(5):355-356.
+[19]MCCORMACKCD,FURNESSDL,DEKKER G A,etal.
+3DultrasoundfindingsinwomenattendingaSouthAustralian
+recurrentmiscarriageclinic[J].AustralasJUltrasound Med,
+2016,19(4):142-146.
+[20]NIJ,HANBB,LIANGJB,etal.Three-dimensional3Dul-
+trasoundcombinedwithpowerDopplerforthedifferentialdi-
+agnosisofendometriallesionsamonginfertilewomen[J].IntJ
+GynecolObstet,2019,145(2):212-218.
+[21]WANGL,LVS,MAO W,etal.Assessmentofendometrial
+receptivityduringimplantationwindowinwomenwithunex-
+plainedinfertility[J].GynecolEndocrinol,2020,36(10):917-
+921.
+[22]BABA A,KURIHARAS,FUKUDA T,etal.Non-echopla-
+nardiffusion weighedimagingand T1-weightedimagingfor
+cholesteatoma mastoidextension[J].Auris Nasus Larynx,
+2021,48(5):846-851.
+[23]KANG K,WANG A M,WU H R.MRIfordiagnosingint-
+rauterineadhesions[J].JObstetGynaecolCan,2023,45(10):
+102168.
+[24]MEYERHJ,SCHOBS,MÜNCHB,etal.Histogramanaly-
+sisofT1-weighted,T2-weighted,andpostcontrastT1-weigh-
+tedimagesinprimaryCNSlymphoma:Correlationswithhis-
+topathologicalfindings:Apreliminarystudy[J].MolImagBi-
+ol,2018,20(2):318-323.
+[25]于洋,邹凌霄,李外星,等.宫腔粘连好发和相对严重部位的临
+床特征[J].中南大学学报(医学版),2022,47(11):1568-1574.
+[26]ZHAO G F,HU Y L.Mechanisticinsightsintointrauterine
+adhesions[J].SeminImmunopathol,2024,47(1):3.
+[27]王嫦华,高白,王岩青,等.经阴道三维超声联合MRI对先天性
+子宫畸形的诊断价值[J].海南医学,2022,33(13):1713-1716.
+[28]CANDAY M,YURTKALA,KIRATS.Evaluationandper-
+spectivesonhysterosalpingography(HSG)procedureininfer-
+tility:A comprehensivestudy[J].EurRev MedPharmacol
+Sci,2023,27(15):7107-7117.
+[29]DILBAZB,MERTSA,DIKTASE G,etal.Theeffectof
+hysteroscopic metroplasty on fertilityin T-shaped and Y-
+shapeddysmorphicuterus[J].EurJContraceptReprodHealth
+Care,2022,27(5):384-389.
+[30]AHMADIF,SIAHBAZIS,AKHBARIF,etal.Hysterosal-
+pingographyfindinginintrauterineadhesion (asherman’s
+syndrome):A pictorialessay[J].IntJFertilSteril,2013,7
+(3):155-160.
+[31]WU M,GUX,HAOJ,etal.Efficacyof4-dimensionalhyste-
+rosalpingo-contrastsonographyandX-rayhysterosalpingogra-
+phyininfertility[J].PakJMedSci,2025,41(1):151-156.
+[32]WANGL,CHENX,HE M,etal.Evaluationoftubalpaten-
+cybasedonpeakinjectionpressureinfour-dimensionalhyste-
+rosalpingo-contrastsonography amonginfertilefemales: A
+preliminarystudy[J].QuantImagingMedSurg,2024,14(5):
+3461-3472.
+[33]杨栋云,叶玲红,陈方红,改良经阴道实时三维子宫输卵管超
+声造影技术联合宫腔水造影评估不孕症患者宫腔粘连价值
+[J].中国计划生育学杂志,2020.28(12):2113-2115,2119.
+[34]丁小青,谢洁林.MRI与HSG造影在先天性子宫发育异常的诊
+断中的应用[J].生物医学工程学进展,2020,41(3):144-146.
+[35]AMER MIM,OMARO H,ELSHERBINY HAMED M,et
+al.Subendometrialbloodflowchangesby3-dimensionalpower
+Dopplerultrasoundafterhysteroscopiclysisofsevereintrau-
+terineadhesions:Preliminarystudy[J].JMinimInvasiveGy-
+necol,2015,22(3):495-500.
+[36]CARRERAS N,DE GUIRIOR C,MUNMANY M,etal.
+Diagnosisandsurgicaltreatmentofuterineisthmusatresia:A
+casereportandreviewoftheliterature[J].J MinimInvasive
+Gynecol,2021,28(1):137-141.
+[37]ZHANG H X,CHENSQ,JIANG H Y,etal.Laparoscopic
+uterineanastomosisfortraumaticseparationofthecervixfrom
+theuterinecorpuscausedbyclosedpelvicfracture:Casereport
+andliteraturereview[J].JMinimInvasiveGynecol,2013,20
+(2):244-247.
+[38]UGBOAJAJO,OGUEJIOFORCB,IGWEGBEA O.Clini-
+co-hysteroscopic analysis of severe intrauterine adhesions
+amongNigerianinfertilewomen[J].Pan Afr MedJ,2017,
+28:226.
+[39]GRIGOVICH M,KACHARIA VS,BHARWANIN,etal.
+Evaluatingfallopiantubepatency:Whattheradiologistneeds
+toknow[J].Radiographics,2021,41(6):1876-18961.
+[40]CHENLS,ZHUZQ,LIJ,etal.Hysterosalpingo-contrast-
+sonographyvs.magneticresonance-hysterosalpingographyfor
+diagnosingfallopiantubalpatency:A systematicreview and
+meta-analysis[J].EurJRadiol,2020,125:108891.
+(下转第91页)
+·
+6
+8
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+betweenunilateralextrapedicularapproachandbilateraltrans-
+pedicularapproachusingvoxel-basedmorphometry[J].Neuro-
+spine,2023,20(4):1287-1302.
+[32]SCHUPFNER R,KONIARIKOVA K,PFEIFER C,etal.
+Ananatomicalstudyoftranspedicularvs.extrapedicularap-
+proachforkyphoplastyandvertebroplastyinthethoracicspine
+[J].Injury,2021,52(Suppl5):S63-S69.
+[33]WU T,QIN H,NICOLASYS M,etal.Isunilateraltrans-
+verseprocess-pediclepercutaneouskyphoplastyabetterchoice
+forosteoporoticthoracolumbarfracturesintheoldpatients?
+[J].BMCSurg,2021,21(1):252.
+[34]YANL,JIANGR Q,HEBR,etal.Acomparisonbetween
+unilateraltransverse process-pedicle and bilateral puncture
+techniquesinpercutaneouskyphoplasty[J].Spine (PhilaPa
+1976),2014,39(26SpecNo.):B19-B26.
+[35]ZHUOYY,LIULH,WANG H M,etal.A modifiedtrans-
+verseprocess-pedicleapproachappliedtounilateralextrapedi-
+cularpercutaneousvertebroplasty[J].PainResManag,2021,
+2021:6493712.
+[36]GIORDANO A V,ARRIGONIF,BRUNO F,etal.Inter-
+ventionalradiology managementofarupturedlumbarartery
+pseudoaneurysm aftercryoablation and vertebroplasty ofa
+lumbarmetastasis[J].CardiovascInterventRadiol,2017,40
+(5):776-779.
+[37]LIU L H,CHENG S M,WANG Q,etal.Ananatomical
+studyonlumbararteriesrelatedtotheextrapedicularapproach
+appliedduringlumbarPVP (PKP)[J].PLoS One,2019,14
+(3):e0213164.
+[38]LIULH,LIN,WANGQ,etal.Iatrogeniclumbararteryin-
+juryinspinesurgery:Aliteraturereview[J].World Neuro-
+surg,2019,122:266-271.
+[39]XU H T,ZHENGS,KANG M Y,etal.Anovelcomputer
+navigationmodelguidedunilateralpercutaneousvertebroplasty
+forvertebralcompressionfracture:Acasereport[J].Medi-
+cine,2020,99(44):e22468.
+[40]LIJ,ZHANG H,LIQ,etal.Treatinglumbarfractureusing
+themixedrealitytechnique[J].BiomedResInt,2021,2021:
+6620746.
+[41]HEG H,YU QL,YANG K N,etal.Clinicalapplicationof
+percutaneouskyphoplastyundertheguidanceofDynaCTinthe
+treatmentofcompressionfracturesofthoracolumbar[J].J
+MusculoskeletNeuronalInteract,2019,19(2):229-233.
+[42]AULOGE P,CAZZATO R L,RAMAMURTHY N,etal.
+Augmentedrealityandartificialintelligence-basednavigation
+duringpercutaneousvertebroplasty:Apilotrandomisedclini-
+caltrial[J].EurSpineJ,2020,29(7):1580-1589.
+[43]YANGJ,NIPH,ZHANGLN,etal.Clinicalapplicationof
+a3D-printedpositioning moduleandnavigationtemplatefor
+percutaneousvertebroplasty[J].SurgInnov,2022,29(6):760-
+768.
+(本文编辑 耿波)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第86页)
+[41]BISOGNIFA,GALANTIF,RICCIOS,etal.4D-HyCoSy
+performedinareproductivecenter:Retrospectiveanalysisof
+painperception,complicationsandspontaneouspregnancyrate
+afterthetechnique[J].EurRevMedPharmacolSci,2021,25
+(23):7468-7475.
+[42]HOSSEINIF,PAHLAVANF,AHMADIF.Thecategoriza-
+tionofopaquepathologiesoutsideofcontrastmediainhystero-
+salpingographywhichfacilitateinterpretation:A pictorialre-
+view[J].IntJReprodBiomed,2024,22(3):191-202.
+[43]HAUSMANN D,LERCH A,HITZIGER S,etal.AI-sup-
+portedautonomousuterusreconstructions:Firstapplicationin
+MRIusing3DSPACE withiterativedenoising[J].AcadRa-
+diol,2024,31(4):1400-1409.
+[44]TSUBOYAMAT,YANAGAWA M,FUJIOKAT,etal.Re-
+centtrendsinAIapplicationsforpelvic MRI:Acomprehen-
+sivereview[J].RadiolMed,2024,129(9):1275-1287.
+[45] WANG ZC,HU Y,CAIJ,etal.Potentialvalueofnovel
+multiparametricMRIradiomicsforpreoperativepredictionof
+microsatelliteinstabilityand Ki-67expressioninendometrial
+cancer[J].SciRep,2025,15(1):3226.
+[46]李宛如,陈光锋,杨婷,等.68Ga标记的磁性铁氧体纳米颗粒
+PET/MRI双模态显像探针的制备及研究[J].中山大学学报
+(医学科学版),2022,43(3):430-436.
+[47]SHIN M,LIMJ,PARK Y,etal.Carbon-basednanocompo-
+sitesforbiomedicalapplications[J].RSC Adv,2024,14(10):
+7142-7156.
+(本文编辑 李京蔓 厉建强)
+作者书写论文分类号须知
+为便于论文分类索引,本刊增设论文分类号。按《中国图书馆分类法》(第5版)标注,一般只标注1个即可,若一篇论文涉及多个学科,在
+主分类号之后还可以标注1~3个相关学科的分类号。论文分类号放在中文关键词的下方,单独起行,不需标注英文分类号。例如:“骨质疏松
+病人腰背痛情况的临床调查”一文,在关键词下方标注:中图分类号 R681.55。请作者来稿时遵照执行。
+·
+1
+9
+·

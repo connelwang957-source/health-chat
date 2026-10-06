@@ -1,0 +1,677 @@
+标题: BMJ基于心肾事件预防与体质量管理的2型糖尿病治疗药物动态临床实践指南解读
+期刊: 中国全科医学 2026 第29卷 第27期
+DOI: 10.12114/j.issn.1007-9572.2026.0097
+来源URL: https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2026.0097
+
+
+·3873·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年9月  第29卷  第27期
+中国全科医学
+·指南·共识·解读·
+BMJ 基于心肾事件预防与体质量管理的2 型糖尿病治疗
+药物动态临床实践指南解读
+瞿芙容
+1 ，金佳琪
+2 ，薛桂君
+3 ，吕庆国
+4 ，李治鹏
+1 ，李静
+4* ，李舍予
+4，5*
+1.610041 四川省成都市，四川大学华西医院全科医学科
+2.610041 四川省成都市，四川大学华西临床医学院/ 华西医院
+3.610041 四川省成都市，四川大学华西医院全科医学科健康管理中心
+4.610041 四川省成都市，四川大学华西医院内分泌代谢科
+5.610041 四川省成都市，四川大学华西医院循证医学中心循证评价与快速指南研究室 中国Cochrane 中心 中国MAGIC 中心
+* 通信作者：李静，副主任医师；E-mail：lijingcd@hotmail.com
+李舍予，主任医师；E-mail：lisheyu@gmail.com
+【摘要】　BMJ 于2025 年8 月发布了《2 型糖尿病治疗药物对心肾结局及体质量管理作用：动态更新的临床实践
+指南》。与2021 年版本相比，此次更新的部分内容值得基层全科医生关注：指南改为动态临床实践指南，推荐将随
+新证据持续迭代；新增非奈利酮和替尔泊肽，其中非奈利酮的纳入提示2 型糖尿病药物治疗不应仅限于降糖，而应以
+心肾结局、体质量长期预后等患者重要终点为导向；风险分层由5 层简化为3 层，并将肥胖纳入决策维度。指南配套
+的可视化证据总结和多方案比较决策支持工具（MATCH-IT），可帮助全科医生将不同药物的绝对获益与风险和治疗
+负担直观地呈现于患者。本文结合我国基层医疗场景，重点解读动态指南的临床价值、非奈利酮被纳入糖尿病指南的
+理论依据，以及新版风险分层在全科门诊中的理解与应用。
+【关键词】　钠- 葡萄糖共转运蛋白2 抑制剂；胰高血糖素样肽1 受体激动剂；非奈利酮；替尔泊肽；糖尿病, 2
+型；风险分层；动态临床实践指南；医患共同决策
+【中图分类号】　R 587.1　【文献标识码】　A　DOI：10.12114/j.issn.1007-9572.2026.0097
+Interpretation of the BMJ Living Clinical Practice Guideline on Pharmacological Management of 
+Type 2 Diabetes Based on Cardiovascular-renal Event Prevention and Weight Management
+QU Furong
+1, JIN Jiaqi
+2, XUE Guijun
+3, LYU Qingguo
+4, LI Zhipeng
+1, LI Jing
+4*, LI Sheyu
+4, 5*
+1. Department of General Practice, West China Hospital, Sichuan University, Chengdu 610041, China
+2. West China School of Clinical Medicine/West China Hospital, Sichuan University, Chengdu, Sichuan Province, Chengdu 610041, 
+China
+3. Health Management Center, General Practice Medical Center, West China Hospital, Sichuan University, Chengdu 610041, China
+4. Department of Endocrinology and Metabolism, West China Hospital, Sichuan University, Chengdu 610041, China
+5. Evidence-Based Evaluation and Rapid Guideline Research Laboratory, Center for Evidence-based Medicine, West China Hospital, 
+Sichuan University/China Cochrane Center/China MAGIC Center, Chengdu 610041, China
+*Corresponding authors: LI Jing, Associate chief physician; E-mail: lijingcd@hotmail.com
+LI Sheyu, Chief physician, E-mail: lisheyu@gmail.com; 
+【Abstract】　In August 2025, the BMJ published the Living Clinical Practice Guideline on the Effects of Pharmacological 
+Agents for Type 2 Diabetes on Cardiorenal Outcomes and Weight Management. Compared with the 2021 version, three changes 
+matter most for general practitioners: the guideline has become living and will be iteratively updated; finerenone and tirzepatide 
+基金项目：癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项（2024ZD0532000, 2024ZD0532003）；川渝科技创新合作计
+划（2024YFHZ0069）；四川省重点研发项目（2023YFS0260）
+引用本文：瞿芙容, 金佳琪, 薛桂君, 等. BMJ 基于心肾事件预防与体质量管理的2 型糖尿病治疗药物动态临床实践指南解读[J]. 中国全
+科医学, 2026, 29(27): 3873-3878, 3887. DOI: 10.12114/j.issn.1007-9572.2026.0097. [www.chinagp.net]
+Qu F R, Jin J Q, Xue G J, et al. Interpretation of the BMJ living clinical practice guideline on pharmacological management of type 2 diabetes based on 
+cardiovascular-renal event prevention and weight management[J]. Chinese General Practice, 2026, 29(27): 3873-3878, 3887.
+© Editorial Office of Chinese General Practice. This is an open access article under the CC BY-NC-ND 4.0 license.
+扫描二维码
+查看原文
+
+·3874· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+September 2026, Vol.29 No.27
+Chinese General Practice
+2 型糖尿病是一种慢性进展性代谢性疾病，也是心
+肾疾病、失能和医疗负担的重要驱动因素
+［1-3］。我国基
+层医疗服务体系在2 型糖尿病诊疗中承担了核心作用，
+而这一过程正在从血糖达标转向改善心肾事件和体质量
+的综合管理。国家卫生健康委员会等部门2025 年印发
+的《关于做好2025 年基本公共卫生服务工作的通知》
+明确将2 型糖尿病纳入基层连续健康服务重点病种，并
+提出推进相关指导要点嵌入基层医疗卫生机构医生工作
+站或相应诊疗信息系统
+［4］。绝大多数患者长期在基层
+或社区随访，全科医生因此成为治疗路径中的重要管理
+者
+［5］。
+近年来，我国每年约有3 种或以上2 型糖尿病一类
+新药获批上市。虽然其中并非每种药物都代表全新的治
+疗类别，但其上市前后的临床试验不断丰富了2 型糖尿
+病药物治疗的证据体系。每年会有数十项大型随机对照
+试验为2 型糖尿病药物治疗提供新的循证证据
+［6-7］。
+2025 年8 月BMJ 发布的《2 型糖尿病治疗药物对心肾
+结局及体质量管理作用: 动态更新的临床实践指南》
+［8］
+（以下简称2025 年BMJ 指南）是该领域首个发布的具
+有全球视野的动态临床实践指南。其中“动态”（living）
+指证据将保持实时更新，通过及时整合新发布的证据，
+对推荐意见进行实时修订，从而支持全球全科医生的临
+床实践。本文结合我国基本情况，对其核心推荐建议及
+在我国基层社区卫生医疗服务中的应用进行解读。
+1　心肾结局及体质量管理导向下的2 型糖尿病药
+物治疗理念转向
+2021 年BMJ 快速推荐已经将2 型糖尿病药物治疗
+的决策重心由关注降糖幅度转向依据心血管和肾脏风
+险评估下的重要临床结局绝对获益。钠- 葡萄糖共转
+运蛋白2（sodium-glucose co-transporter-2, SGLT-2）
+抑制剂和胰高血糖素样肽1 受体激动剂（glucagon-like 
+peptide-1 receptor agonists, GLP-1RAs）的临床定位，
+已不再主要依据其降糖能力，而更多取决于其减少心
+血管和肾脏事件风险的能力；且其相关获益在很大程
+度上独立于降糖作用。随后2023 年欧洲心脏病学会
+（European Society of Cardiology, ESC）指南、2024 年
+改善全球肾脏疾病预后组织（Kidney Disease: Improving 
+Global Outcomes, KDIGO）指南和2025 年美国糖尿病协
+会（American Diabetes Association, ADA）指南标准均已
+把心血管、肾脏和体质量因素纳入治疗决策核心
+［9-11］。
+2025 年BMJ 指南在这一思路的基础上，新增对非
+奈利酮和替尔泊肽临床应用的推荐。其中非奈利酮并无
+明确降糖作用，却因能够改善合并慢性肾脏病的2 型糖
+尿病患者的肾脏结局、降低心力衰竭住院风险和可能改
+善部分心血管结局，而进入2 型糖尿病的治疗决策体系。
+因此糖尿病治疗药物的价值不能仅由血糖指标界定，更
+应回归死亡、住院、肾功能持续恶化和终末期肾病等患
+者切实承担的临床结局负担。
+替尔泊肽在推荐体系上体现了体质量与心肾结局并
+列考量的治疗维度。2025 年BMJ 指南对合并肥胖的成
+人提出跨风险分层的弱推荐，主要依据是其较大的减重
+效应，而非已经充分确立的心血管和肾脏保护证据；在
+该指南发布时，替尔泊肽心肾获益的证据仍存在不确定
+性。对于合并肥胖的2 型糖尿病患者，体质量下降本身
+就是治疗目标的一部分，药物排序不能仅看降糖幅度，
+还应兼顾减重获益。2025 年BMJ 指南并未否定血糖控
+制的意义，而是将其放回个体化决策之中，更适合作为
+长期综合用药排序的依据，并与以血糖管理为主线的其
+他指南互补使用。
+2　指南对药物使用的核心推荐意见
+2.1　2 型糖尿病药物使用原则
+2025 年BMJ 指南沿用推荐分级的评估、制订与评
+价（Grading of Recommendations Assessment, Development 
+and Evaluation, GRADE）证据到决策框架，药物推荐以
+对患者重要的风险与获益为核心，兼顾证据确定性、患
+者价值观与偏好、治疗负担、可接受性、资源占用和实
+施可行性
+［12］。在2 型糖尿病治疗中，死亡、心肌梗死、
+卒中、心力衰竭住院、肾功能持续下降和透析等心肾事
+件，是患者最为关心的临床终点，直接关系到长期生存
+和生活质量，也是治疗价值最直接的体现。血糖指标虽
+have been added; and risk stratification has been simplified from five to three strata with obesity incorporated into decision making. 
+Importantly, the inclusion of finerenone indicates that treatment decisions in type 2 diabetes should focus on patient-important 
+cardiovascular, kidney, and weight outcomes rather than glucose lowering alone. The accompanying visual evidence summaries and 
+the Multiple and Treatment Comparison Health Intervention Tool (MATCH-IT) can help general practitioners intuitively present 
+the absolute benefits, absolute risks, and treatment burden of different drugs to patients. Focusing on the primary care setting 
+in China, this article interprets the clinical value of the living guideline, the rationale for incorporating finerenone into diabetes 
+management guidelines, and the understanding and application of the new risk stratification in general practice outpatient settings.
+【Key words】　Sodium-glucose transporter 2 inhibitors; Glucagon-like peptide-1 receptor agonists; Finerenone; 
+Tirzepatide; Diabetes mellitus, type 2; Risk stratification; Living clinical practice guideline; Shared decision making
+
+·3875·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年9月  第29卷  第27期
+中国全科医学
+是评估2 型糖尿病远期并发症风险的常用替代指标，但
+其对并发症的预测价值是间接的，存在一定局限性。 
+因此，当心肾获益证据能充分支撑药物选择时，血糖数
+值的改变则显得相对次要。SGLT-2 抑制剂在降低心力
+衰竭住院和延缓肾病进展方面优势最为明显，且证据确
+切
+［6］；GLP-1RAs在动脉粥样硬化性事件，尤其预防卒中、
+减重方面具有优势；非奈利酮主要适用于合并慢性肾脏
+病者，保护肾脏并减少心力衰竭相关事件
+［6，13］；替尔
+泊肽能带来更多的体质量下降，但其心肾硬终点获益仍
+有待长期随访数据进一步验证
+［6，14-17］。
+与此同时，患者的用药偏好，例如是否接受注射、
+给药频次能否长期坚持、费用与随访负担能否承受，也
+是指南推荐的核心考量。2021 年BMJ 快速推荐制订时，
+GLP-1RAs 以1 次/d 或2 次/d 皮下注射剂型为主。相
+关系统评价与定性研究显示，在初次进行注射的患者中，
+77% 倾向于选择每周1 次的方案，而在有注射经验者中，
+该比例为78.6%，上述结果提示，大多患者难以接受每
+日注射的治疗方式
+［18］。而指南制订团队中的患者代表
+也特别强调，每日注射药物对生活的影响可能远大于未
+来的心血管及肾脏疾病的影响。因此在2021 年指南中
+虽然GLP-1RAs 与SGLT-2 抑制剂相比综合获益并无太
+大差异，但其推荐强度为弱推荐
+［19］。其核心考量为需
+要临床医生在决策时关注患者对注射类药物的偏好与顾
+虑。而到2025 年，大多数GLP-1RAs 已是每周注射1
+次甚至口服给药，因此高风险人群中GLP-1RAs 的推荐
+强度调整为强推荐
+［8］。这一调整不仅是临床获益证据
+的累积，也是给药方式的改变带来的患者接受程度的转
+变。对基层医生来说，循证医学与人文关怀并不是两条
+平行线，指南的推荐强度本身就包含患者的价值观与偏
+好，以及向以患者为中心的医疗服务价值的回归。
+临床实践中需区分患者的整体价值观与偏好，以及
+与患者对某一具体药物的用药诉求。前者是患者对不同
+健康结局、治疗负担和生活影响的需求考量。既可以是
+患者通过避免心肾事件、降低不良反应风险、减少注射
+频次、减轻体质量等方面获得生活质量提升的需求，也
+包括基于自身或家庭情况，在健康与非健康因素之间进
+行权衡和取舍的决策。这些考量本身并无对错或优劣的
+价值观判断，其重要性取决于患者在整体情境下的理性
+权衡，并在决策过程中作为重要依据之一
+［20］。而对于
+具体药物的诉求属于实际决策层面的表达，通常受到既
+往用药经验、亲友建议、网络信息甚至商业宣传等多种
+因素的影响。当患者提出明确用药偏好时，全科医生宜
+进一步追问其判断依据，辨别其认知中哪些基于充分知
+情，哪些可能来自片面或失真的信息，以及哪些反映了
+尚未明确表达的真实需求
+［21］。例如，若患者因注射可
+能影响旅行而产生顾虑，该考虑是合理且可理解的；但
+若将注射与药物依赖简单等同，则可能属于不恰当的认
+知，需要临床医生用适当方法予以澄清和纠正。
+2.2　风险分层的形成
+SGLT-2 抑制剂和GLP-1RAs 在不同人群中的相对
+效应大体相近，二者降低心肾事件和死亡风险的相对比
+例基本一致。真正决定用药优先级的是患者未来发生
+心肌梗死、卒中、心力衰竭住院和肾功能恶化的基线风
+险。开展风险分层，是为了把临床试验中的相对效应转
+化为用药决策所需的绝对获益。风险越高，药物带来的
+绝对获益越大，在不良反应风险相似的情况下更倾向于
+使用该药物。2021 年BMJ 指南据此划分5 个风险层级，
+2025 年BMJ 指南简化为低、中、高3 个风险层级，并
+将肥胖单列为跨层级的决策维度
+［8，12，19］。
+在2025 年BMJ 指南中，低风险患者通常既无明确
+心血管疾病、慢性肾脏病或心力衰竭，心血管危险因素
+亦较少，代表了心肾风险最低的2 型糖尿病患者；2025
+年BMJ 年指南将其界定为无确诊心血管疾病或慢性肾
+脏病且危险因素不超过3 项。中风险患者常见两种情形：
+尚未出现明确心肾并发症，但危险因素已经积累至较高
+水平，未来事件风险显著增加；或已合并心血管疾病、
+慢性肾脏病，当前再发风险仍相对可控。这些患者应优
+先管控心肾风险，但并非所有患者需立即干预。高风险
+患者则代表了心肾风险已经非常高，无论持有什么样价
+值观或处于何种复杂状况的患者，均应优先开展防治措
+施，通常是那些已确诊心血管疾病或慢性肾脏病且再发
+风险较高，以及既往或当前存在心力衰竭的患者。将心
+力衰竭单列至高风险层级主要基于这类患者因心力衰竭
+住院风险显著高于其他人的考虑，SGLT-2 抑制剂对于
+这些患者存在额外获益。肥胖一旦成为需要单独处理的
+治疗目标，体质量获益也应同步进入药物排序。
+这一新的风险分层体系体现了与药物使用适应证的
+一致性。例如对于SGLT-2 抑制剂和GLP-1RAs 而言，
+2025 年BMJ 指南中的高风险意味着优先使用，中风险
+意味着考虑使用，而低风险则是替代性使用。在真实临
+床诊疗中患者资料并不总是完整，部分社区医院仍在测
+量尿白蛋白浓度和血肌酐，而非尿白蛋白肌酐比或用血
+肌酐计算估算肾小球滤过率，但全科医生一旦理解这些
+原则，仍可利用已知有限信息对患者进行定性判断，从
+而给出合理的用药建议。
+2.3　推荐意见
+2025年BMJ指南适用于伴或不伴心血管危险因素、
+心血管疾病和/ 或慢性肾脏病的成年2 型糖尿病患者；
+不适用于接受肾脏替代治疗或肾移植的患者、多囊肾病
+及其他罕见肾脏疾病患者，以及估算肾小球滤过率低于
+候选药物安全使用阈值的患者
+［8］。
+在确认风险分层后，本指南分别给出了6条推荐意见：
+
+·3876· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+September 2026, Vol.29 No.27
+Chinese General Practice
+建议1：对于心血管和肾脏并发症低风险的成年
+2 型糖尿病患者，不建议使用SGLT-2 抑制剂或GLP-
+1RAs（弱反对）。
+建议2：对于心血管和肾脏并发症中风险的成年2
+型糖尿病患者，可以考虑使用SGLT-2 抑制剂或GLP-
+1RAs（弱推荐）。
+建议3：对于合并慢性肾脏病且心血管和肾脏并发
+症中风险的成年2 型糖尿病患者，不建议使用非奈利酮
+（弱反对）。
+建议4：对于心血管和肾脏并发症高风险的成年2
+型糖尿病患者，推荐使用SGLT-2 抑制剂或GLP-1RAs
+（强推荐）。
+建议5：对于合并慢性肾脏病且心血管和肾脏并发
+症高风险的成年2 型糖尿病患者，可以考虑使用非奈利
+酮（弱推荐）。
+建议6：对于合并肥胖症的成年2 型糖尿病患者，
+可以考虑使用替尔泊肽（弱推荐）。
+其中，强推荐通常意味着大多数符合条件的患者会
+做出相同选择，临床上可直接把其作为默认方案；弱推
+荐则提示不同患者会因获益大小、风险、费用、给药方
+式、体质量变化和治疗负担而做出不同选择，临床上需
+要通过医患共同决策做好充分沟通和个体化决策
+［22］。
+3　临床应用要点及注意事项
+3.1　2 型糖尿病药物的联合使用
+2 型糖尿病的药物联用是基层全科医生核心关切的
+问题之一。但该指南并未进行深入讨论和具体推荐。处
+理联合用药时，首先仍需避开明确禁忌与不合理配伍，
+其次是在安全前提下，用尽量少的药物种类获得尽量大
+的净获益。从指南所强调的心肾获益角度理解，联合用
+药宜采用阶梯式强化，而非一步到位的药物叠加。联合
+用药并非简单地将有效药物尽数叠加，而是在剩余风险、
+治疗负担、费用承受能力和长期依从性之间取得平衡。
+起始治疗时，宜优先选择已有明确终点获益证据的药物；
+用药后若整体风险已明显下降，再加第2 种药物的额外
+收益则相对有限；起始即处于高风险、治疗后仍残留较
+高心肾风险者，则更有理由继续加用下一类具有心肾
+获益的药物
+［23］。现有证据中，SGLT-2 抑制剂与GLP-
+1RAs 的联用相对成熟。既往队列研究显示，该组合较
+单用任一类药物，与更低的主要心血管不良事件和严重
+肾脏事件风险相关
+［24］。
+此外，全科医生应特别注意，2 型糖尿病患者的心
+肾保护并不局限于本指南讨论的4 类药物，也不局限于
+降糖药。血脂管理、血压控制、合并白蛋白尿时的血
+管紧张素转化酶抑制剂（angiotensin-converting enzyme 
+inhibitors, ACEI）或血管紧张素Ⅱ受体拮抗剂（angiotensin 
+ii receptor blockers, ARB）治疗，以及在已有动脉粥样硬
+化性心血管疾病等明确适应证下的抗血小板治疗，是降
+低总体心肾疾病风险的重要组成部分。全科医生应警惕
+“看病不看人”的误区，围绕患者整体情况开展综合风
+险管理，这也是体现全科医学优势的真实实践基础。
+3.2　2 型糖尿病综合管理中的血糖管理及价值
+2025 年BMJ 指南以2 型糖尿病患者心血管、肾脏
+和体质量等临床结局作为推荐的核心依据，但并非否认
+血糖本身在糖尿病管理中的作用。对随机血糖持续达
+到16.7 mmol/L 及以上，尤其合并多饮、多尿、乏力、
+体质量下降、恶心呕吐、腹痛、呼吸深快或意识改变的
+2 型糖尿病患者，应高度警惕酮症酸中毒或高渗高血糖
+状态等糖尿病急性并发症的风险，并尽快完善进一步检
+查，必要时予胰岛素、补液等预防或治疗措施，防止病
+情进展。2024 年ADA/ 欧洲糖尿病研究协会（European 
+Association for the Study of Diabetes, EASD）高血糖危
+象共识将糖尿病酮症酸中毒的高血糖要素界定为血糖
+≥11.1 mmol/L 或既往糖尿病史，将高渗高血糖状态界
+定为血糖≥33.3 mmol/L
+［25］。对于正在使用SGLT-2 抑
+制剂的2 型糖尿病患者，特别是近期出现进食不足、严
+重腹泻呕吐等情况但血糖不太高的患者，也应高度警惕
+血糖正常的酮症酸中毒
+［26］。这些急性并发症的处理一
+旦延误，可能导致患者在短时间内出现严重事件甚至死
+亡，其预防的优先级远高于慢性并发症的处置。
+2025 年BMJ 指南强调心血管及肾脏并发症是2 型
+糖尿病患者的核心疾病负担来源，需要优先管控。但糖
+尿病视网膜病变、周围神经病变等微血管和神经并发症
+虽严重程度次于心肾疾病，但同样构成2 型糖尿病患者
+生活质量下降的重要疾病负担来源。由于证据不足，该
+指南的用药推荐并未参考视网膜及神经并发症风险。
+而英国前瞻性糖尿病研究（United Kingdom Prospective 
+Diabetes Study, UKPDS）和糖尿病与血管疾病行动（Action 
+in Diabetes and Vascular Disease, ADVANCE）等研究证
+实强化降糖可有效减少2 型糖尿病微血管和神经并发症
+风险
+［27-28］。ADA 指南也将改善血糖控制视为降低微血
+管并发症的重要手段，特别是病程较短、预期寿命较长、
+低血糖风险可控的2 型糖尿病患者，血糖控制的获益更
+为关键；而病程较长、合并多种高危因素、低血糖风险
+较高患者的血糖控制则应适当放宽要求
+［23，27］。对于心
+肾风险得到充分管控的2 型糖尿病患者，血糖的长期管
+理仍然是需要考虑的因素之一。
+3.3　2 型糖尿病患者的体质量管理与心肾风险管理
+的平衡
+肥胖作为2025 年版BMJ 指南新增的独立维度，意
+味着体质量管理已经与心肾风险一起进入药物排序。
+2025 年BMJ 指南指出，约90% 的2 型糖尿病成人合并
+
+·3877·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年9月  第29卷  第27期
+中国全科医学
+超重或肥胖，并在各风险层级的肥胖成人中对替尔泊肽
+给出弱推荐。这一调整背后，既有肥胖对2 型糖尿病病
+程、功能状态和生活质量的持续影响，也有现有减重证
+据主要集中于超重或肥胖人群这一证据基础。替尔泊
+肽的关键试验纳入了 BMI ≥27 kg/m
+2 的2 型糖尿病患
+者
+［16］；对合并超重或肥胖的2 型糖尿病患者，ADA 同
+样将体质量管理列为与血糖管理并行的重要治疗目标。
+对于已合并动脉粥样硬化性心血管疾病、心力衰竭或慢
+性肾脏病的2 型糖尿病患者，药物选择时仍应以心肾风
+险管控为核心，兼顾体质量获益；而对尚无突出心肾并
+发症，而肥胖本身已成为当前疾病负担重要来源的2 型
+糖尿病患者，则相对优先考虑减重作用更强的方案
+［29］。
+3.4　特殊人群中药物不良反应风险的考虑
+指南和系统综述提供的是总体人群中的平均净获
+益，而在临床上，某一具体患者的实际获益和发生不良
+反应的风险是各不相同的。该指南提供了区分心肾获益
+的风险分层体系。而在同一风险分层中，虽然不良反应
+在大多数患者中相似，但临床医生应识别那些不良反应
+特别高的人群，并进行个体化诊治。
+例如生殖道感染、酮症酸中毒和下肢截肢事件是
+SGLT-2 抑制剂的核心潜在不良反应
+［30］。对反复霉菌
+性阴道炎或龟头炎患者，以及合并其他生殖道疾病的患
+者，生殖道感染的不良反应应更着重考虑。虽然系统评
+价显示，SGLT-2 抑制剂并不系统性增加尿路感染的风
+险
+［6］，但对于无症状菌尿患者，考虑到此类患者基线
+菌尿状态可能增加症状性感染风险，临床启用时应高度
+谨慎。对于长期禁食、极低碳水饮食、严重感染、脱水、
+严重营养不良的患者，更应警惕正常血糖的酮症酸中毒
+风险
+［23，31］。若患者合并糖尿病足溃疡、明确外周动脉
+病变、下肢动脉狭窄或间歇性跛行，下肢缺血与截肢风
+险也应进入评估
+［6，32］。对于相同心肾获益的患者，上
+述不良反应风险明显增加的患者在启用SGLT-2 抑制剂
+时应重新评估个体化的风险与获益。
+高钾血症是非奈利酮的主要不良反应
+［6］。药品说
+明书要求在起始用药前检测血钾和估算肾小球滤过率，
+血钾>5.0 mmol/L 时不建议启动，起始或调量后约4 周
+需要复查。对老年、肾功能下降、基础血钾偏高、同时
+使用其他可能引发高钾血症药物的患者，全科医生应更
+关注长期的监测，对随访条件不足或依从性较差的患者，
+应谨慎使用该药物。
+GLP-1RAs 和替尔泊肽的安全性问题主要体现在胃
+肠道耐受性方面，而这一不良反应与体质量下降密切相
+关
+［6，33-34］。因此在临床上启用这些药物时，应同时强
+调饮食管理，争取更大的获益。当然，严重胃轻瘫患者
+和营养不良患者应谨慎使用。
+4　动态临床实践指南：面向全科医生的指南模式
+创新
+2025 年BMJ 指南更具方法学意义的创新，在于依
+托动态证据体系建立动态临床实践指南。这里的“动态”
+不仅仅指更新周期的缩短，更是证据更新、证据确定性
+评估与推荐修订保持联动的系统工程，从而缩短新证据
+向临床实践转化的时间。对于治疗选项众多、患者异质
+性显著的基层2 型糖尿病门诊，这一模式有助于提升全
+科医生日常决策与最新循证依据的一致性。与指南配
+套的多方案比较决策支持工具（Multiple and Treatment 
+Comparison Health Intervention Tool, MATCH-IT）是基于
+GRADE 框架和网状Meta 分析开发的多方案比较决策支
+持工具，可分层呈现患者重要结局、绝对风险差异、证
+据确定性以及费用、给药方式和治疗负担等实践信息，
+为医患共同决策提供结构化支持，目前已在荷兰、比利
+时、挪威等国家应用于社区卫生服务中心，并获得积极
+反馈
+［35］。为适应我国医疗体系中，医院信息系统（hospital 
+information system, HIS）无法直接连接互联网的局限性，
+研究团队开发的离线版互动式决策工具，采用MATCH-
+IT 的呈现方式可直接嵌入HIS，一键调用该指南覆盖治
+疗选项的心肾获益、不良反应与治疗负担，实现门诊内
+即时、个体化的决策支持。该工具可快速更新所依赖的
+证据，以确保决策支持信息的及时性。基层医生无需在
+临床工作之余重复检索、甄别和更新证据，相关时间投
+入有望显著降低，基层诊疗决策的同质性与患者对治疗
+获益、风险及负担的理解和参与度亦可同步提高，进而
+增强基层2 型糖尿病长期管理的治理能力，推动患者参
+与型医疗模式从理念走向常规实践。
+5　总结
+2025 年BMJ 针对成人2 型糖尿病患者的动态临床
+实践指南为我国基层全科实践提供了一套实时更新的完
+整证据体系和决策框架。SGLT-2 抑制剂、GLP-1RAs
+和非奈利酮可以有效降低成人2 型糖尿病患者的心肾风
+险。考虑到不良反应风险在人群中的相对一致性，高心
+肾风险人群应更积极考虑这些药物。替尔泊肽因其减重
+获益，更适用于合并肥胖的2 型糖尿病患者。该指南同
+时提供的网页版可视化总结和MATCH-IT 交互式工具，
+将复杂循证医学证据以更易理解和调用的方式呈现给临
+床医生和患者，其可直接嵌入HIS 的离线版本可进一步
+促使全科医生在尊重患者价值观与偏好的前提下，促进
+医患共同决策落地，共同推动基层糖尿病诊疗的整体治理。
+作者贡献：李舍予负责文章的构思及文章修订，对
+文章整体负责；瞿芙容撰写文章；金佳琪、薛桂君、吕
+庆国、李治鹏协助查阅文献；李静负责文章的修订；所
+
+·3878· https://www.chinagp.net　E-mail: zgqkyx@chinagp.net.cn
+September 2026, Vol.29 No.27
+Chinese General Practice
+有作者对论文最终版本进行了确认。
+本文无利益冲突。
+瞿芙容
+https://orcid.org/0000-0002-7811-7706
+金佳琪
+https://orcid.org/0009-0005-8439-9972
+薛桂君
+https://orcid.org/0009-0003-0894-0398
+吕庆国
+https://orcid.org/0009-0003-4044-9507
+李治鹏
+https://orcid.org/0000-0002-1365-3620
+李静
+https://orcid.org/0000-0002-5381-4716
+李舍予
+https://orcid.org/0000-0003-0060-0287
+参考文献
+［1］Chen K, Zhang H J, Wu N W, et al. Global risk factors, epidemiology, 
+and disease burden of type 2 diabetes[J]. Sci China Life Sci, 2026, 
+69(2): 384-395. DOI: 10.1007/s11427-024-3036-4. 
+［2］Zhang H J, Jia Q Y, Song P G, et al. Incidence, prevalence, and 
+burden of type 2 diabetes in China: trend and projection from 1990 
+to 2050[J]. Chin Med J, 2025, 138(12): 1447-1455. DOI: 10.1097/
+cm9.0000000000003536. 
+［3］Force L M, Kocarnik J M, May M L, et al. The global, regional, and 
+national burden of cancer, 1990—2023, with forecasts to 2050: a 
+systematic analysis for the Global Burden of Disease Study 2023[J]. 
+Lancet, 2025, 406(10512): 1565-1586. DOI: 10.1016/S0140-
+6736(25)01635-6. 
+［4］国家卫生健康委，财政部，国家中医药局，国家疾控局. 关于
+做好2025 年基本公共卫生服务工作的通知：国卫基层发〔2025〕
+7 号[EB/OL]. (2025-06-26)[2026-06-16]. https://cdcp.gd.gov.cn/
+zwfw/ggwsfw/content/post_4734329.html.
+［5］Renders C M, Valk G D, Griffin S J, et al. Interventions to improve the 
+management of diabetes in primary care, outpatient, and community 
+settings: a systematic review[J]. Diabetes Care, 2001, 24(10): 1821-
+1833. DOI: 10.2337/diacare.24.10.1821.
+［6］Nong K L, Jeppesen B T, Shi Q Y, et al. Medications for adults 
+with type 2 diabetes: a living systematic review and network meta-
+analysis[J]. BMJ, 2025, 390: e083039. DOI: 10.1136/bmj-2024-
+083039.
+［7］Ma Z Q, Zhao X, Lin Y, et al. From past to present: tracing the trends 
+of diabetes drug trials in mainland China[J]. Front Endocrinol, 2024, 
+15: 1427148. DOI: 10.3389/fendo.2024.1427148.
+［8］Agarwal A, Mustafa R, Manja V, et al. Cardiovascular, kidney 
+related, and weight loss effects of therapeutics for type 2 diabetes: a 
+living clinical practice guideline[J]. BMJ, 2025, 390: e082071. DOI: 
+10.1136/bmj-2024-082071.
+［9］Marx N, Federici M, Schütt K, et al. 2023 ESC Guidelines for the 
+management of cardiovascular disease in patients with diabetes[J]. Eur 
+Heart J, 2023, 44(39): 4043-4140. DOI: 10.1093/eurheartj/ehad192.
+［10］American Diabetes Association Professional Practice Committee. 10. 
+Cardiovascular disease and risk management: standards of care in 
+diabetes-2024[J]. Diabetes Care, 2024, 47(Suppl 1): S179-S218.
+［11］Stevens P E, Ahmed S B, Carrero J J, et al. KDIGO 2024 clinical 
+practice guideline for the evaluation and management of chronic 
+kidney disease[J]. Kidney Int, 2024, 105(4): S117-S314. DOI: 
+10.1016/j.kint.2023.10.018.
+［12］范沁琳, 袁驰, 靳英辉, 等. 基于RIGHT 和ACCORD 清单的专
+家共识规范化报告[J]. 中国胸心血管外科临床杂志, 2025, 32(7): 
+930-939. DOI: 10.7507/1007-4848.202502049.
+［13］Filippatos G, Anker S D, Agarwal R, et al. Finerenone reduces 
+risk of incident heart failure in patients with chronic kidney 
+disease and type 2 diabetes: analyses from the FIGARO-DKD 
+trial[J]. Circulation, 2022, 145(6): 437-447. DOI: 10.1161/
+CIRCULATIONAHA.121.057983.
+［14］Aronne L J, Horn D B, le Roux C W, et al. Tirzepatide as compared 
+with semaglutide for the treatment of obesity[J]. N Engl J Med, 2025, 
+393(1): 26-36. DOI: 10.1056/NEJMoa2416394.
+［15］Jastreboff A M, le Roux C W, Stefanski A, et al. Tirzepatide for 
+obesity treatment and diabetes prevention[J]. N Engl J Med, 2025, 
+392(10): 958-971. DOI: 10.1056/nejmoa2410819.
+［16］Zhao L, Cheng Z F, Lu Y B, et al. Tirzepatide for weight reduction 
+in Chinese adults with obesity: the SURMOUNT-CN randomized 
+clinical trial[J]. JAMA, 2024, 332(7): 551-560. DOI: 10.1001/
+jama.2024.9217.
+［17］Kadowaki T, Kiyosue A, Shingaki T, et al. Efficacy and safety of 
+once-weekly tirzepatide in Japanese patients with obesity disease 
+(SURMOUNT-J): a multicentre, randomised, double-blind, placebo-
+controlled phase 3 trial[J]. Lancet Diabetes Endocrinol, 2025, 13(5): 
+384-396. DOI: 10.1016/S2213-8587(24)00377-2.
+［18］Hansen R M R, Olesen S H R, Christensen M B, et al. Values, 
+preferences and burden of treatment for the initiation of GLP-1 
+receptor agonists and SGLT-2 inhibitors in adult patients with type 
+2 diabetes: a systematic review[J]. BMJ Open, 2021, 11(7): e049130. 
+DOI: 10.1136/bmjopen-2021-049130.
+［19］Li S Y, Vandvik P O, Lytvyn L, et al. SGLT-2 inhibitors or GLP-1 
+receptor agonists for adults with type 2 diabetes: a clinical practice 
+guideline[J]. Bmj, 2021: n1091. DOI: 10.1136/bmj.n1091. 
+［20］李胜含, 杜和越, 安康, 等. 心血管疾病一级和二级预防患者
+用药习惯的价值观与偏好: 一项探索式混合方法研究[J]. 中国
+全科医学, 2024, 27(27): 3336-3343. DOI: 10.12114/j.issn. 1007-
+9572.2024.0056.
+［21］薛丽佳, 聂颖, 王伟, 等. 大学生流感疫苗接种知信行调查及实
+施探索[J]. 医学新知, 2025, 35(11): 1249-1255. DOI: 10.12173/
+j.issn.1004-5511.202501136.
+［22］Barry M J, Edgman-Levitan S. Shared decision making—pinnacle of 
+patient-centered care[J]. N Engl J Med, 2012, 366(9): 780-781. DOI: 
+10.1056/NEJMp1109283. 
+［23］李芸, 李舍予. 中国老年糖尿病患者的诊治策略[J]. 老年医学与
+保健, 2025, 31(2): 312-316. DOI: 10.3969/j.issn.1008-8296.2025. 
+02.003.
+［24］Simms-Williams N, Treves N, Yin H, et al. Effect of combination 
+treatment with glucagon-like peptide-1 receptor agonists and 
+sodium-glucose cotransporter-2 inhibitors on incidence of 
+cardiovascular and serious renal events: population based cohort 
+study[J]. BMJ, 2024, 385: e078242. DOI: 10.1136/bmj-2023-
+078242. 
+（下转第3887 页）
+
+·3887·
+https://www.chinagp.net　E-mail:zgqkyx@chinagp.net.cn
+2026年9月  第29卷  第27期
+中国全科医学
+2019, 6: 2333794X19831297. DOI: 10.1177/2333794X19831297. 
+［37］Cao L N, Wang Y Y, Hou X Y, et al. New insights on the association 
+of weight loss with the reduction in carotid intima-media thickness 
+among patients with obesity: an updated systematic review and meta-
+analysis[J]. Public Health, 2024, 226: 248-254. DOI: 10.1016/
+j.puhe.2023.11.013. 
+［38］Gallardo-Escribano C, Vargas-Candela A, Vilches-Perez A, et al. 
+Lifestyle modification improves insulin resistance and carotid intima-
+media thickness in a metabolically healthy obese prepubescent 
+population[J]. J Pediatr Gastroenterol Nutr, 2021, 72(1): 127-134. 
+DOI: 10.1097/MPG.0000000000002901. 
+［39］Cheng Y, Sun Z J, Ya X D, et al. Effect of exercise training on arterial 
+stiffness in obese and overweight children: a meta-analysis[J]. Eur 
+J Pediatr, 2022, 181(7): 2633-2642. DOI: 10.1007/s00431-022-
+04489-6. 
+［40］Nair N, Kalra R, Chandra Bhatt G, et al. The effect and prevalence 
+of comorbidities in adolescents with CKD and obesity[J]. Adv 
+Chronic Kidney Dis, 2022, 29(3): 251-262. DOI: 10.1053/
+j.ackd.2022.03.003. 
+［41］Tsur A M, Akavian I, Derazne E, et al. Adolescent blood 
+pressure and the risk for early kidney damage in young 
+adulthood[J]. Hypertension, 2022, 79(5): 974-983. DOI: 10.1161/
+HYPERTENSIONAHA.121.18748. 
+［42］Correia-Costa L, Azevedo A, Caldas Afonso A. Childhood obesity 
+and impact on the kidney[J]. Nephron, 2019, 143(1): 8-11. DOI: 
+10.1159/000492826. 
+［43］Mangat G, Nair N, Barat O, et al. Obesity-related glomerulopathy in 
+children: connecting pathophysiology to clinical care[J]. Clin Kidney 
+J, 2022, 16(4): 611-618. DOI: 10.1093/ckj/sfac233. 
+［44］郑冬梅, 梁学军, 靳景璐, 等. 中国儿童肥胖的评估、治疗和
+预防指南[J]. 中国妇幼健康研究, 2021, 32(12): 1716-1722. DOI: 
+10.3969/j.issn.1673-5293.2021.12.001.
+［45］中华人民共和国国家卫生健康委员会医政司. 肥胖症诊疗指南
+(2024 年版)[J]. 中华消化外科杂志, 2024(10): 1237-1260. DOI: 
+10.3760/cma.j.cn115610-20241017-00455.
+［46］王存川, 张鹏, 杨景哥, 等. 中国儿童和青少年肥胖症外科治疗
+指南(2019 版)[J]. 中华肥胖与代谢病电子杂志, 2019, 5(1): 3-9. 
+DOI: 10.3877/cma.j.issn.2095-9605.2019.01.001.
+（收稿日期：2025-05-14；修回日期：2025-08-03）
+（本文编辑：康艳辉）
+［25］Umpierrez G E, Davis G M, ElSayed N A, et al. Hyperglycaemic 
+crises in adults with diabetes: a consensus report[J]. Diabetologia, 
+2024, 67(8): 1455-1479. DOI: 10.1007/s00125-024-06183-8. 
+［26］Wen L Y. Management of SGLT2i-associated perioperative 
+ketoacidosis (SAPKA)/euglycemic diabetic ketoacidosis 
+(EDKA)[J]. J Clin Anesth, 2025, 105: 111854. DOI: 10.1016/
+j.jclinane.2025.111854. 
+［27］Patel A, Macmahon S, Chalmers J, et al. Intensive blood glucose 
+control and vascular outcomes in patients with type 2 diabetes[J]. 
+N Engl J Med, 2008, 358(24): 2560-2572. DOI: 10.1056/
+nejmoa0802987. 
+［28］Intensive blood-glucose control with sulphonylureas or insulin 
+compared with conventional treatment and risk of complications 
+in patients with type 2 diabetes (UKPDS 33)[J]. Lancet, 1998, 
+352(9131): 837-853. DOI: 10.1016/S0140-6736(98)07019-6. 
+［29］Bajaj M, McCoy R G, Balapattabi K, et al. 9. Pharmacologic 
+approaches to glycemic treatment: standards of care in diabetes—
+2026[J]. Diabetes Care, 2026, 49(Supplement_1): S183-S215. DOI: 
+10.2337/dc26-s009. 
+［30］瞿芙容, 赵黎君, 曾筱茜, 等. BMJ《SGLT-2 抑制剂用于成人
+慢性肾脏病患者临床实践指南》解读[J]. 中国全科医学, 2026, 
+29(22): 3079-3085. DOI: 10.12114/j.issn.1007-9572.2026.0006.
+［31］张成慧, 邬云红, 王溯源, 等. 糖代谢对高原环境的适应与疾
+病[J]. 四川大学学报( 医学版), 2024, 55(6): 1460-1468. DOI: 
+10.12182/20241160604.
+［32］Yuan Z, De Falco F J, Ryan P B, et al. Risk of lower extremity 
+amputations in people with type 2 diabetes mellitus treated 
+with sodium-glucose co-transporter-2 inhibitors in the USA: a 
+retrospective cohort study[J]. Diabetes Obes Metab, 2018, 20(3): 
+582-589. DOI: 10.1111/dom.13115. 
+［33］Rosenstock J, Wysham C, Frías J P, et al. Efficacy and safety of a 
+novel dual GIP and GLP-1 receptor agonist tirzepatide in patients 
+with type 2 diabetes (SURPASS-1): a double-blind, randomised, 
+phase 3 trial[J]. Lancet, 2021, 398(10295): 143-155. DOI: 10.1016/
+S0140-6736(21)01324-6. 
+［34］Sodhi M, Rezaeianzadeh R, Kezouh A, et al. Risk of gastrointestinal 
+adverse events associated with glucagon-like peptide-1 receptor 
+agonists for weight loss[J]. JAMA, 2023, 330(18): 1795-1797. DOI: 
+10.1001/jama.2023.19574. 
+［35］Løvsletten P O, Hunskaar B S, Heen A F, et al. Physicians found 
+an interactive tool displaying structured evidence summaries for 
+multiple comparisons understandable and useful: a qualitative user 
+testing study[J]. J Clin Epidemiol, 2024, 172: 111399. DOI: 10.1016/
+j.jclinepi.2024.111399. 
+（收稿日期：2026-04-25；修回日期：2026-06-20）
+（本文编辑：赵跃翠）
+（上接第3878 页）

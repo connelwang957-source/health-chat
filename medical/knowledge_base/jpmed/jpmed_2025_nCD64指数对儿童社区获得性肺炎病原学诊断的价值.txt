@@ -1,0 +1,673 @@
+标题: nCD64指数对儿童社区获得性肺炎病原学诊断的价值
+作者: 徐雷, 刘晓萌, 孙彩虹, 张梦雪, 曲政海
+期刊: 精准医学杂志 2025 第40卷 第1期
+DOI: 10.13362/j.jpmed.202540002
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202540002
+
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+doi:10.
+13362/j.
+jpmed.
+202540002  文章编号:2096-529X(2025)01-0073-04
+[收稿日期]2024-05-27; [修订日期]2024-08-31
+[基金项目]青岛市科技惠民示范引导专项项目(20-4-1-5-nsh)
+[通信作者]曲政海,Email:quzhenghai@163.
+com
+nCD64指数对儿童社区获得性肺炎病原学诊断的价值
+徐雷1 刘晓萌2 孙彩虹3 张梦雪1 曲政海1
+(1 青岛大学附属医院儿童医学中心,山东青岛 266003;
+2 青岛大学附属医院医院感染管理部; 3 滨州医学院烟台附属医院小儿内科)
+[摘要] 目的 探讨中性粒细胞CD64(nCD64)指数对儿童社区获得性肺炎(communityacquiredpneumonia,
+CAP)病原学诊断的价值。方法 选择2018年11月—2019年7月于我院住院的CAP患儿108例,依据病原学检
+测结果分为细菌组(57例)、病毒组(31例)和支原体组(20例)。收集并比较各组患儿入院24h内的nCD64指数、
+全血白细胞(WBC)计数、全血红细胞沉降率(ESR)及全血C反应蛋白(CRP)、血浆D-二聚体(D-D)、血浆降钙素原
+(PCT)水平等炎症指标;绘制nCD64指数及其他炎症指标诊断细菌性CAP的受试者工作特征(ROC)曲线,并计算
+曲线下面积(AUC)、截断值以及诊断的灵敏度、特异度及准确度。结果 三组患儿nCD64指数及其他炎症指标比
+较均有显著性差异(F=6.
+489~74.
+681,P<0.
+05);与其他两组相比,细菌性肺炎组患儿的nCD64指数、全血WBC
+计数、全血ESR、全血CRP水平及血浆D-D、PCT 水平均明显升高(
+t=15.
+139~58.
+371,P<0.
+05)。ROC 曲线显示
+nCD64指数单独诊断细菌性CAP 的灵敏度94.
+7%,特异度92.
+2%,准确度93.
+5%。nCD64 指数+ 全血CRP 水
+平+血浆PCT 水平联合诊断细菌性CAP的灵敏度为96.
+5%,特异度为100%,准确度为98.
+1%。结论 nCD64指
+数诊断儿童细菌性CAP的灵敏度、特异度和准确度较高,在CAP的病原学诊断中具有较高的价值。
+[关键词] 中性白细胞;社区获得性感染;肺炎,细菌性;灵敏性与特异性;儿童
+[中图分类号] R725.
+631    [文献标志码] A
+ValueofneutrophilCD64indexintheetiologicaldiagnosisofcommunity-acquiredpneumoniainchil-
+dren XULei,LIU Xiaomeng,SUN Caihong,ZHANG Mengxue,QUZhenghai (Children’sMedicalCenter,TheAffilia-
+tedHospitalofQingdaoUniversity,Qingdao266003,China)
+[ABSTRACT] Objective ToinvestigatethevalueofneutrophilCD64(nCD64)indexintheetiologicaldiagnosisofcommu-
+nityacquiredpneumonia(CAP)inchildren. Methods Atotalof108childrenwithCAPwhowerehospitalizedinourhospital
+from November2018toJuly2019wereenrolled,andaccordingtoetiologydetectionresults,theyweredividedintobacterialgroup
+with57children,viralgroupwith31children,andmycoplasmagroupwith20children.Relatedinflammatorymarkerswerecol-
+lectedandcomparedbetweengroups,includingnCD64index,wholebloodwhitebloodcellcount(WBC),wholeblooderythrocyte
+sedimentationrate(ESR),wholebloodC-reactiveprotein(CRP),plasmaD-dimer(D-D),andplasmaprocalcitonin(PCT)within
+24hafteradmission.Thereceiveroperatingcharacteristic(ROC)curvewasplottedfornCD64indexandotherinflammatorymar-
+kersinthediagnosisofbacterialCAP,andtheareaundertheROCcurve(AUC),cut-offvalue,andthesensitivity,specificity,
+andaccuracyofdiagnosiswerecalculated. Results ThereweresignificantdifferencesinnCD64indexandotherinflammatory
+markersbetweenthethreegroups(F=6.
+489-74.
+681,P<0.
+05),andcomparedwiththeviralgroupandthemycoplasmagroup,
+thebacterialgrouphadsignificantincreasesinnCD64index,wholebloodWBC,wholebloodESR,wholebloodCRP,plasmaD-D,
+andplasmaPCT (
+t=15.
+139-58.
+371,P<0.
+05).TheROCcurveanalysisshowedthatnCD64indexalonehadasensitivityof
+94.
+7%,aspecificityof92.
+2%,andanaccuracyof93.
+5%inthediagnosisofbacterialCAP,andthecombinationofnCD64index,
+wholebloodCRP,andplasmaPCThadasensitivityof96.
+5%,aspecificityof100%,andanaccuracyof98.
+1%inthediagnosisof
+bacterialCAP. Conclusion ThenCD64indexhasrelativelyhighsensitivity,specificity,andaccuracyinthediagnosisofbacte-
+rialCAPinchildren,andtherefore,ithasahighvalueintheetiologicaldiagnosisofCAP.
+[KEY WORDS] Neutrophils;Community-acquiredinfections;Pneumonia,bacterial;Sensitivityandspecificity;Child
+  儿童社区获得性肺炎(communityacquired
+pneumonia,CAP)是小儿内科住院患儿中常见的呼
+吸道疾病[1]。2018年全球疾病负担分析表明,儿童
+CAP为5岁以下婴幼儿因疾病死亡原因之首,其中
+贫穷落后地区的小儿占90%以上[2-3]。临床早期病
+原学诊断和合理用药是CAP 治疗成功以及预防其
+严重并发症的关键,患儿的临床表现、传统炎症指标
+和胸部CT 结果是经验性诊断的重要依据[4]。临床
+常用的炎症指标,例如WBC 计数、红细胞沉降率
+(ESR)、C-反应蛋白(CRP)、PCT 和D-二聚体等,均
+可为儿童CAP的病原学诊断提供一定参考依据[5],
+但目前临床仍不能单凭任何一种的指标异常对儿童
+CAP进行明确病原学诊断[6]。CD64是免疫球蛋白
+G(IgG)Fc段受体,具有高亲和力的特点[7],细菌感
+染时血浆中中性粒细胞指数(nCD64)呈现高水平表
+·
+3
+7
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+达[8]。nCD64指数是通过测量血浆中性粒细胞和
+淋巴细胞表面CD64的免疫平均荧光强度(MFI)比
+值确定的,研究表明该指数可作为评估细菌感染的
+有效生物标志物,在脓毒血症和感染性疾病的诊断
+中具有良好应用前景[9]。本研究旨在分析nCD64
+指数在儿童CAP病原学诊断中的应用价值。
+1 资料与方法
+1.
+1 一般资料
+选择2018年11月—2019年7月于青岛大学
+附属医院儿科住院的CAP患儿共108例,患儿均符
+合《儿童社区获得性肺炎诊疗规范(2019年版)》
+[10]
+中CAP诊断标准。排除标准:①合并有儿童支气管
+哮喘、肺结核、支气管扩张等其他肺部疾病者,存在
+胸廓畸形或气管、支气管、肺发育异常者;②有免疫
+系统、血液系统疾病病史者,或近6周内有糖皮质激
+素及免疫抑制剂治疗史者;③精神、智力或思维异常
+无法配合治疗者;④伴有心血管功能或凝血功能异
+常疾病,或长期使用抗凝药物者;⑤已在外院或门诊
+规范使用抗生素治疗者;⑥同时感染两种或者两种
+以上病原体的混合感染患儿。依据上述诊断标准中
+儿童CAP病原学诊断标准[10],将108例患儿按照
+病原学检测结果分为细菌组(57例)、病毒组(31例)
+和支原体组(20例)。
+1.
+2 指标收集
+收集所有患儿入院之后第一天的炎症指标(包
+括全血WBC计数、全血ESR、全血CRP水平、血浆
+PCT 水平及血浆D-D 水平)、病原学抗体检测结果
+(包括肺炎支原体抗体滴度和呼吸道病毒抗原检测
+结果)及静脉血培养和深部痰培养结果。
+1.
+3 nCD64指数测定
+患儿入院后第一天采集肘静脉血,留取抗凝血
+样本50μL,使用流式细胞仪(FACSCantoⅡ,美国
+BD 公司)测定中性粒细胞以及淋巴细胞表面CD64
+的免疫MFI,并以此计算nCD64 指数。nCD64 指
+数=MFI中性粒细胞CD64/MFI淋巴细胞CD64。
+1.
+4 统计学方法
+使用SPSS24.
+0统计软件进行统计学分析。符
+合正态分布的计量资料以􀭺
+x±s 表示,多组间比较
+采用单因素方差分析,两两比较采用t 检验。绘制
+受试者工作特征(ROC)曲线,并且计算曲线下面积
+(AUC)、截断值以及诊断的灵敏度、特异度和准确
+度,分析nCD64 指数对细菌性CAP 的诊断效能。
+以P<0.
+05为差异有统计学意义。
+2 结  果
+2.
+1 各组患儿nCD64指数及其他炎症指标比较
+本研究纳入108例患儿中男62例,女46例;年
+龄1~14岁,中位年龄6岁。方差分析结果显示,三
+组患儿的nCD64指数及其他炎症指标比较均有显
+著差异(F=6.
+489~74.
+681,P<0.
+05);细菌组患儿
+nCD64指数、全血WBC 计数、全血ESR、全血CRP
+水平及血浆D-D、PCT 水平均明显高于病毒组、支
+原体组(
+t=15.
+139~58.
+371,P<0.
+05)。见表1。
+2.
+2 临床炎症指标在诊断细菌性CAP的效能
+绘制临床炎症指标诊断细菌性CAP的ROC曲
+线(联合诊断采用数学模型),根据AUC 结果确定
+最佳截断值,即以nCD64指数≥2.
+14、全血WBC计
+数≥9.
+49×10
+9/L、全血ESR 水平≥16.
+60mm/1h、
+全血CRP 水平≥6.51 mg/L、血浆D-D 水平≥
+391.
+00mg/L 及血浆PCT 水平≥0.
+55 mg/L 为阳
+性,计算得出各炎症指标诊断的灵敏度、特异度及准
+确度。ROC曲线显示,nCD64指数单独诊断细菌性
+CAP的灵敏度为94.
+7%,特异度为92.
+2%,准确度
+为93.
+5%。见表2、3。
+3 讨  论
+儿童CAP是小儿内科住院患儿常见的呼吸道
+疾病,该病如不及时诊断及合理治疗,往往会引起呼
+吸及心力衰竭等严重并发症,进而影响儿童健康发
+育,长此以往可能会遗留肺功能下降、慢性咳嗽等相
+关并发症。儿童CAP的感染病原菌在不同年龄阶
+表1 三组患儿的nCD64指数及其他炎症指标比较(􀭵
+x±s)
+指标
+细菌组(n=57)
+病毒组(n=31)
+支原体组(n=20)
+F
+P
+全血WBC计数(
+ccell/×109·L-1)
+13.
+69±4.
+95ab
+ 7.
+15±2.
+87
+ 9.
+65±4.
+22a
+24.
+000
+<0.
+05
+全血ESR(mm/1h)
+27.
+43±10.
+24ab
+17.
+61±5.
+23
+20.
+54±6.
+71a
+14.
+178
+<0.
+05
+全血CRP水平(ρ/mg·L-1)
+24.
+35±19.
+22ab
+ 3.
+54±1.
+86
+12.
+10±6.
+03a
+23.
+144
+<0.
+05
+血浆D-D水平(ρ/mg·L-1)
+453.
+81±259.
+95ab
+292.
+19±135.
+81
+447.
+20±208.
+07a
+6.
+489
+<0.
+05
+血浆PCT 水平(ρ/μg·L-1)
+ 1.
+59±1.
+43ab
+ 0.
+08±0.
+05
+ 0.
+53±0.
+31a
+22.
+680
+<0.
+05
+血浆nCD64指数
+ 6.
+42±2.
+83ab
+ 1.
+16±0.
+39
+ 1.
+66±1.
+04a
+74.
+681
+<0.
+05
+  a表示与病毒组比较P<0.
+05,b表示与支原体组比较P<0.
+05
+·
+4
+7
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+表2 常见炎症指标诊断细菌性CAPROC曲线分析结果
+变量
+AUC
+SE
+95%CI
+P
+全血WBC计数
+0.
+832 0.
+0390.
+756~0.
+909<0.
+05
+全血ESR
+0.
+767 0.
+0450.
+679~0.
+854<0.
+05
+全血CRP水平
+0.
+866 0.
+0330.
+801~0.
+931<0.
+05
+血浆D-D水平
+0.
+603 0.
+0540.
+496~0.
+7100.
+066
+血浆PCT 水平
+0.
+944 0.
+0210.
+902~0.
+986<0.
+05
+血浆nCD64指数
+0.
+982 0.
+0090.
+965~1.
+000<0.
+05
+全血WBC计数+全血ESR
+0.
+844 0.
+0370.
+771~0.
+918<0.
+05
+全血CRP水平+血浆PCT 水平0.
+945 0.
+0210.
+904~0.
+986<0.
+05
+nCD64指数+全血CRP水平
+0.
+987 0.
+0070.
+973~1.
+000<0.
+05
+nCD64指数+血浆PCT 水平
+0.
+997 0.
+0030.
+991~1.
+000<0.
+05
+血浆PCT 水平+全血CRP水
+平+nCD64指数
+0.
+997 0.
+0030.
+991~1.
+000<0.
+05
+表3 常见炎症指标诊断细菌性CAP的效能
+变量
+截断值
+灵敏度
+(χ/%)
+特异度
+(χ/%)
+准确度
+(χ/%)
+全血WBC计数
+ 9.
+49
+80.
+7
+74.
+5
+77.
+8
+全血ESR
+16.
+60
+75.
+4
+68.
+6
+73.
+1
+全血CRP水平
+ 6.
+51
+86.
+0
+72.
+5
+79.
+6
+血浆D-D水平
+391.
+00
+42.
+1
+76.
+5
+58.
+3
+血浆PCT 水平
+ 0.
+55
+93.
+0
+84.
+3
+88.
+9
+血浆nCD64指数
+ 2.
+14
+94.
+7
+92.
+2
+93.
+5
+全血WBC计数+全血ESR
+-
+80.
+7
+78.
+4
+79.
+6
+全血CRP水平+血浆PCT 水平
+-
+96.
+5
+80.
+4
+88.
+9
+nCD64指数+全血CRP水平
+-
+98.
+2
+92.
+2
+95.
+4
+nCD64指数+血浆PCT 水平
+-
+96.
+5
+100.
+0
+98.
+1
+血浆PCT 水平+全血CRP水
+平+nCD64指数
+-
+96.
+5
+100.
+0
+98.
+1
+段、月份、区域分布等方面具有较大差别,致使临床
+诊断及治疗上存在误诊及治疗延误的可能性,因此
+在临床上应早期识别其相关致病病原菌。病原菌检
+查细菌培养是儿童细菌性CAP检测的金标准,但是
+细菌培养所需时间较长[11],由此导致的患儿治疗不
+及时或者产生的并发症,可使本病发展成为重症肺
+炎[12]。因此临床上要做到及时诊断,应尽早明确致
+病病原体,这对CAP治疗意义重大。
+近年来,临床上常用流式细胞术检测CAP患儿
+外周血中nCD64分子的表达水平,该方法对明确患
+儿的病原学诊断具有一定作用。CD64属于免疫球
+蛋白家族一员,是IgGFc段受体,具有高亲和力的
+特点[13]。其与IgG Fc段受体结合后,在细胞免疫
+方面发挥促进作用[14],在人体健康生理情况下于中
+性粒细胞表面少量表达,且表达量无男女差别[15]。
+细菌感染时,在LPS、IL-12 等炎性因子的刺激下,
+血浆中nCD64被迅速激活,致使在短短4~6h内
+表达量迅速上升,20h左右达到最高点。当细菌感
+染控制48h后,nCD64 表达量迅速下降,大约7d
+恢复到正常水平[16]。
+  本研究中,与病毒组、支原体组相比,细菌组患
+儿的nCD64指数、全血WBC 计数、全血ESR、全血
+CRP水平及血浆D-D、PCT 水平均明显升高。虽然
+目前临床多采用WBC计数、CRP和PCT 等传统炎
+症指标预测病原学诊断及评估病情,但其预测的灵
+敏度、特异度均不高[17-18]。经临床研究发现,全血
+WBC计数、全血CRP水平及血浆PCT 水平的高低
+与炎症的严重程度存在一定关联,高于正常范围的
+炎症指标提示可能存在临床上的细菌感染[19]。但
+在某些特殊情况下,如剧烈运动、妊娠或急性外伤等
+时,上述指标也可能出现不同程度的升高。研究发
+现当CAP患儿血浆PCT 水平大于20mg/L 时,临
+床多诊断为细菌性肺炎[20],其诊断的特异度虽然为
+100%,但灵敏度仅为21%,准确度为58.
+3%,仍有
+漏诊及误诊的风险[21]。
+nCD64指数是一项早期诊断全身感染性疾病
+的标志物,在儿童及成年人细菌感染诊断中的灵敏
+度达90%以上,特异度为90%~100%
+[22]。国外有
+研究对脓毒症住院患者的nCD64指数、全血WBC
+计数、全血CRP水平及血浆PCT 水平进行检测,结
+果表明nCD64指数诊断脓毒症的灵敏度及特异度
+优于全血WBC 计数、全血CRP 水平及血浆PCT
+水平[23]。国内研究显示nCD64 指数在CAP 病原
+学鉴别诊断中具有重要临床意义[24],该研究显示血
+浆nCD64指数、全血WBC计数及CRP水平对细菌
+感染诊断的灵敏度分别为87.
+8%、75.
+6%、70.
+7%,
+特异度分别为89.
+7%、74.
+1%以及81.
+0%;并且血浆
+nCD64指数较全血WBC 计数及CRP 水平均明显
+增高。一项有关新生儿败血症的研究发现,nCD64
+指数与细菌感染败血症病情危重程度有一定关联,
+并与危重新生儿感染死亡率呈正相关性[25]。
+为进一步研究nCD64指数在CAP病原菌诊断
+中的作用,本研究根据ROC 曲线确定单项或多项
+炎症指标诊断细菌性CAP 的最佳截断值、灵敏度、
+特异度及准确度。本研究发现nCD64指数在细菌
+性CAP诊断中灵敏度、特异度及准确度较高(均>
+90%),好于单一炎症指标的诊断效能;而nCD64指
+数+全血CRP水平+血浆PCT 水平联合诊断细菌
+性CAP的灵敏度、特异度以及准确度更高(均>
+95%)。
+综上所述,nCD64 指数诊断儿童细菌性CAP
+的灵敏度、特异度和准确度较高,在CAP 的病原学
+诊断中具有较高的价值。同时,多项炎症指标联合
+检测有助于提高CAP患儿病原学诊断的准确性。
+·
+5
+7
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+伦理批准和知情同意:本研究涉及的所有试验均已通过青岛大学附
+属医院医学伦理委员会的审核批准(文件号QYFYWZLL27697)。
+所有试验过程均遵照《人体医学研究的伦理准则》的条例进行。受试
+对象或其亲属已经签署知情同意书。
+作者声明:曲政海、徐雷参与了研究设计;徐雷、刘晓萌、孙彩虹、张梦
+雪、曲政海参与了论文的写作和修改。所有作者均阅读并同意发表
+该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] SMITH DK,KUCKELDP,RECIDORO A M.Community-
+acquiredpneumoniainchildren:Rapidevidencereview[J].Am
+FamPhysician,2021,104(6):618-625.
+[2] WANGX,LIY,DELORIA-KNOLL M,etal.Globalburden
+ofacutelowerrespiratoryinfection associated with human
+parainfluenzavirusinchildrenyoungerthan5yearsfor2018:
+A systematic review and meta-analysis[J].Lancet Glob
+Health,2021,9(8):e1077-e1087.
+[3] DEBENEDICTIS F M,KEREM E,CHANG A B,etal.
+Complicatedpneumoniain children[J].Lancet,2020,396
+(10253):786-798.
+[4] WONGSURAKIAT P,CHITWARAKORN N.Severecom-
+munity-acquiredpneumoniaingeneral medical wards:Out-
+comesandimpactofinitialantibioticselection[J].BMCPulm
+Med,2019,19(1):179.
+[5] FLORIN T A,AMBROGGIO L,BROKAMPC,etal.Bio-
+markersanddiseaseseverityinchildren withcommunity-ac-
+quiredpneumonia[J].Pediatrics,2020,145(6):e20193728.
+[6] ITO A,ISHIDA T.Diagnostic markersforcommunity-ac-
+quiredpneumonia[J].AnnTranslMed,2020,8(9):609.
+[7] MEGHRAOUI-KHEDDAR A,CHOUSTERMANBG,GUI-
+LLOU N,etal.Twonewneutrophilsubsetsdefineadiscrimi-
+natingsepsissignature[J].AmJRespirCritCareMed,2022,
+205(1):46-59.
+[8] TANG Y H,JENG MJ,WANG H H,etal.Riskfactorsand
+predictivemarkersforearlyandlate-onsetneonatalbacteremic
+sepsisinpreterm andterminfants[J].JChin Med Assoc,
+2022,85(4):507-513.
+[9] CONGS,MATG,DIX,etal.Diagnosticvalueofneutrophil
+CD64,procalcitonin,andinterleukin-6insepsis:A meta-ana-
+lysis[J].BMCInfectDis,2021,21(1):384.
+[10]中华人民共和国国家健康委员会,国家中医药局.儿童社区获
+得性肺炎诊疗规范(2019 年版)[J].中华临床感染病杂志,
+2019,12(1):6-13.
+[11]LAMYB,SUNDQVIST M,IDELEVICH E A.Bloodstream
+infections———Standardandprogressin pathogendiagnostics
+[J].ClinMicrobiolInfect,2020,26(2):142-150.
+[12]LANCKOHRC,BRACHT H.Antimicrobialstewardship[J].
+CurrOpinCritCare,2022,28(5):551-556.
+[13]HASHEM H E,ABDEL HALIM R M,EL MASRYSA,et
+al.TheutilityofneutrophilCD64andpresepsinasdiagnostic,
+prognostic,andmonitoringbiomarkersinneonatalsepsis[J].
+IntJMicrobiol,2020,2020:8814892.
+[14]PATNAIKR,AZIM A,AGARWAL V.NeutrophilCD64a
+diagnosticandprognosticmarkerofsepsisinadultcriticallyill
+patients:Abriefreview[J].IndianJCritCareMed,2020,24
+(12):1242-1250.
+[15]YANG AP,LIUJ,YUEL H,etal.NeutrophilCD64com-
+binedwithPCT,CRPand WBCimprovesthesensitivityfor
+theearlydiagnosisofneonatalsepsis[J].ClinChemLabMed,
+2016,54(2):345-351.
+[16]LIANGJB,XUJY,YOUL,etal.NeutrophilCD64:Apo-
+tentialbiomarkerforthediagnosisofinfectioninpatientswith
+haematologicalmalignancies[J].Hematology,2021,26(1):
+970-975.
+[17]袁江,德桂荣.炎性指标和胸部影像动态监测在小儿支原体肺
+炎临床诊治中的意义[J].中国妇幼保健,2019,34(10):2297-
+2300.
+[18]KUPPERMANNN,MAHAJANP,DAYANPS.Fever,ab-
+soluteneutrophilcount,procalcitonin,andtheAAPfebrilein-
+fantguidelines[J].Pediatrics,2023,151(2):e2022059862.
+[19]GARCÍA-SALIDO A,DE AZAGRA-GARDE A M,GAR-
+CÍA-TERESA M A,etal.AccuracyofCD64expressionon
+neutrophilsand monocytesinbacterialinfectiondiagnosisat
+pediatricintensivecareadmission[J].EurJClin MicrobiolIn-
+fectDis,2019,38(6):1079-1085.
+[20]BASSETTIM,RUSSO A,RIGHIE,etal.Roleofprocalci-
+toninin predicting etiologyin bacteremic patients:Report
+from alarge single-center experience[J].JInfect Public
+Health,2020,13(1):40-45.
+[21]LIY, MIN L F,ZHANG X.Usefulnessofprocalcitonin
+(PCT),C-reactive protein (CRP),and white blood cell
+(WBC)levelsinthedifferentialdiagnosisofacutebacterial,
+viral,andmycoplasmalrespiratorytractinfectionsinchildren
+[J].BMCPulm Med,2021,21(1):386.
+[22]HASHEM H E,EL MASRYSA,MOKHTAR A M,etal.
+ValuableroleofneutrophilCD64andhighlysensitiveCRPbio-
+markersfordiagnostic,monitoring,andprognosticevalua-
+tionsofsepsispatientsinneonatalICUs[J].BiomedResInt,
+2020,2020:6214363.
+[23]LIU Q Q,GAO Y,YANG T,etal.nCD64indexasanovel
+inflammatoryindicatorfortheearlypredictionofprognosisin
+infectiousandnon-infectiousinflammatorydiseases:Anobser-
+vationalstudyoffebrilepatients[J].FrontImmunol,2022,
+13:905060.
+[24]刘光华,赖乾坤,叶红,等.外周血中性粒细胞CD64表达在儿
+童社区获得性肺炎早期病原学鉴别诊断中的应用价值[J].中
+国小儿急救医学,2016,23(7):476-479.
+[25] MWESIGYEP,RIZWAN F,ALASSAF N,etal.Therole
+andvalidity ofdiagnosticbiomarkersinlate-onsetneonatal
+sepsis[J].Cureus,2021,13(8):e17065.
+(本文编辑 范睿心 厉建强)
+·
+6
+7
+·

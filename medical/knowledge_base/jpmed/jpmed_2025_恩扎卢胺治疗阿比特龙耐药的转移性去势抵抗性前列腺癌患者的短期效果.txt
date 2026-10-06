@@ -1,0 +1,669 @@
+标题: 恩扎卢胺治疗阿比特龙耐药的转移性去势抵抗性前列腺癌患者的短期效果
+作者: 梅景昌, 苏晓楠, 姚榆, 官丰菊, 张桂铭
+期刊: 精准医学杂志 2025 第40卷 第1期
+DOI: 10.13362/j.jpmed.202540035
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202540035
+
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+doi:10.
+13362/j.
+jpmed.
+202540035  文章编号:2096-529X(2025)01-0030-05
+[收稿日期]2024-10-20; [修订日期]2025-01-09
+[基金项目]山东省自然科学基金项目(ZR2021MH354)
+[通信作者]张桂铭,Email:Zhangguiming9@126.
+com
+恩扎卢胺治疗阿比特龙耐药的转移性去势抵抗性
+前列腺癌患者的短期效果
+梅景昌1 苏晓楠2 姚榆1 官丰菊1 张桂铭1
+(1 青岛大学附属医院泌尿外科,山东青岛 266003; 2 邹城市人民医院泌尿外科)
+[摘要] 目的 探讨恩扎卢胺治疗阿比特龙耐药的转移性去势抵抗性前列腺癌(mCRPC)患者的短期效果和
+安全性。方法 选取2020年12月—2022年4月就诊于青岛大学附属医院阿比特龙耐药的31例mCRPC 患者为
+研究对象,均为阿比特龙耐药后再经恩扎卢胺继续治疗者。收集患者恩扎卢胺治疗前阿比特龙反应、阿比特龙抵
+抗情况,以及恩扎卢胺治疗后患者的前列腺特异性抗原(PSA)基线水平、PSA 反应、PSA 进展时间、影像学进展及
+不良反应发生情况。使用单因素及多因素Cox回归分析筛选患者恩扎卢胺治疗后发生PSA 进展的相关危险因
+素。结果 随访期间31例患者中,PSA 有反应者12例(38.
+7%),PSA 稳定者4例(12.
+9%),PSA 无反应者15例
+(48.
+4%);PSA 进展者22例(71.
+0%);影像学进展者20例(64.
+5%);28例(90.
+3%)患者出现不良反应,主要包括乏
+力和厌食,2例(6.
+5%)患者因不良反应停药;7例(22.
+5%)患者出现肿瘤相关死亡事件。单因素Cox分析表明,与
+确诊时血清PSA 水平≤20μg/L者相比,血清PSA 水平>20μg/L者发生PSA 进展的风险更高,多因素Cox分析
+显示,确诊前列腺癌时更高的血清PSA 水平是患者预后的独立危险因素。结论 恩扎卢胺在部分阿比特龙耐药
+的mCRPC患者中显示出一定的短期疗效,多数患者仍面临疾病进展的风险,疲乏和厌食是常见不良反应,但不良
+反应相对较轻,多数患者可以耐受。
+[关键词] 前列腺肿瘤,去势难治性;阿比特龙;抗药性,肿瘤;恩扎卢胺;前列腺特异抗原;雄激素拮抗药;治
+疗结果
+[中图分类号] R737.
+25    [文献标志码] A
+Short-termefficacyofenzalutamideintreatmentofpatientswithabiraterone-resistantmetastatic
+castration-resistantprostatecancer MEIJingchang,SU Xiaonan,YAO Yu,GUAN Fengju,ZHANG Guiming
+(DepartmentofUrology,TheAffiliatedHospitalofQingdaoUniversity,Qingdao266003,China)
+[ABSTRACT] Objective Toinvestigatetheshort-termefficacyandsafetyofenzalutamideinthetreatmentofpatientswith
+abiraterone-resistantmetastaticcastration-resistantprostatecancer(mCRPC). Methods Atotalof31patientswithabiraterone-
+resistantmCRPCwhoattendedTheAffiliatedHospitalofQingdaoUniversityfrom December2020toApril2022wereenrolledas
+subjects,andallthesepatientsreceivedtreatmentwithenzalutamideafterdevelopingresistancetoabiraterone.Relateddatawere
+collected,includingtheresponseorresistancetoabirateronebeforeenzalutamidetreatment,prostate-specificantigen(PSA)level
+atbaseline,PSAresponse,timetoPSAprogression,radiographicprogression,andadversereactionsafterenzalutamidetreatment.
+TheunivariateandmultivariateCoxregressionanalyseswereusedtoidentifytheriskfactorsforPSAprogressionafterenzalu-
+tamidetreatment. Results Amongthe31patientsduringfollow-up,12 (38.
+7%)hadPSAresponse,4 (12.
+9%)hadstable
+PSA,and15(48.
+4%)hadnoresponsetoPSA.Therewere22patients(71.
+0%)withPSAprogressionand20(64.
+5%)withradio-
+graphicprogression.Ofallpatients,28 (90.
+3%)experiencedadversereactions,mainlyweaknessandanorexia,and2patients
+(6.
+5%)withdrewfromdrugtherapyduetoadversereactions;7patients(22.
+5%)experiencedtumor-relateddeath.Theunivariate
+CoxanalysisshowedthatcomparedwiththepatientswithaserumPSAlevelof≤20μg/Latthetimeofdiagnosis,thepatients
+withaserumPSAlevelof>20μg/LhadahigherriskofPSAprogression,andthemultivariateCoxregressionanalysisshowed
+thatahigherserumPSAlevelatthetimeofaconfirmeddiagnosisofprostatecancerwasanindependentriskfactorfortheprogno-
+sisofpatients. Conclusion Enzalutamidehasacertainshort-termefficacyinsomemCRPCpatientsresistanttoabiraterone,but
+themajorityofpatientsstillfacetheriskofdiseaseprogression.Weaknessandanorexiaarecommonadversereactions,butmost
+adversereactionsarerelativelymildandcanbetoleratedbymostpatients.
+[KEY WORDS] Prostaticneoplasms,castration-resistant;Abiraterone;Drugresistance,neoplasm;Enzalutamide;Prostate-
+specificantigen;Androgenantagonists;Treatmentoutcome
+  近年来前列腺癌(prostatecancer,PCa)在国内
+的发病率呈明显上升趋势,多数非局限性PCa患者
+在经内分泌治疗以后会发展成为转移性去势抵抗性
+PCa(metastaticcastration-resistantprostatecan-
+cer,mCRPC),预后极差[1]。阿比特龙作为一种新
+·
+0
+3
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+型雄激素生物合成抑制剂,常用于治疗mCRPC 患
+者,可有效改善mCRPC患者预后,但临床上也常有
+患者在使用一段时间后出现阿比特龙耐药[2-4]。对
+于阿比特龙耐药的mCRPC 患者,后续药物的选择
+是临床较为棘手的问题[5]。恩扎卢胺是另外一种新
+型内分泌药物,可用于治疗阿比特龙耐药的患者,但
+目前其疗效和安全性方面的研究报道较少[6-8]。本
+研究对31例阿比特龙耐药的mCRPC 患者经恩扎
+卢胺治疗后的临床数据进行回顾性分析,探讨其疗
+效和安全性,旨在为该类mCRPC 患者的恩扎卢胺
+临床应用提供数据参考。
+1 资料与方法
+选取2020年12月—2022年4月就诊于青岛
+大学附属医院的mCRPC 患者31 例。纳入标准:
+①均经病理学检查确诊为PCa者;②经影像学检查
+确诊有肿瘤其他器官转移者;③符合mCPRC 的诊
+断标准者;④均为阿比特龙耐药后又经恩扎卢胺治
+疗者,阿比特龙耐药的判断标准参考前列腺癌临床
+试验工作组2(PCWG2)指南;⑤所有患者至少每个
+月或按医生要求检测1次血清前列腺特异性抗原
+(PSA),每6个月或按医生要求进行1次影像学检
+查[6-9]。收集所有患者的基本临床资料,包括确诊为
+PCa时的年龄、血清PSA 水平、格里森(Gleason)评
+分、肿瘤转移部位以及开始恩扎卢胺治疗时血清
+PSA 水平等。
+随访的开始时间为患者服用恩扎卢胺的时间,
+随访结束时间为2022年6月或恩扎卢胺治疗失败
+时。当患者死亡或治疗过程中出现PSA 进展或影
+像学进展,或患者因药物不良反应或其他原因停止
+恩扎卢胺治疗时为恩扎卢胺治疗失败。收集患者恩
+扎卢胺治疗前阿比特龙反应、阿比特龙抵抗情况,以
+及恩扎卢胺治疗后患者的PSA 基线水平、PSA 反
+应情况、PSA 进展时间、影像学进展及不良反应发
+生情况。同时收集记录患者的PCa病程和生存状
+况。PCa病程为第一次病理检查诊断为PCa到随
+访结束时间;PSA 基线水平指患者在恩扎卢胺开始
+治疗前血清PSA 水平;PSA 反应情况包括PSA 有
+反应、PSA 稳定和PSA 无反应,PSA 有反应指在恩
+扎卢胺治疗3 个月内血清PSA 水平下降≥基线
+30%,PSA 稳定指血清PSA 水平下降<基线30%
+或者血清PSA 水平上升<基线10%,PSA 无反应
+指在恩扎卢胺治疗3个月内血清PSA 水平升高≥
+基线10%;PSA 进展为血清PSA 水平升高≥基线
+25%,或升高≥治疗中最低点的25% 且血清PSA
+水平升高≥2μg/L;影像学进展为影像学检查结果
+显示有2处以上新的转移灶,或者原有转移灶体积
+增大超过了恩扎卢胺开始治疗时的20%;阿比特龙
+反应为阿比特龙治疗后血清PSA 水平下降≥阿比
+特龙开始治疗时血清PSA 水平的50%,阿比特龙
+抵抗为阿比特龙治疗后血清PSA 水平下降<阿比
+特龙开始治疗时血清PSA 水平的50%
+[9]。患者不
+良反应包括疲乏、厌食等,依据不良事件通用评价标
+准5.
+0(CTCAE5.
+0)对不良反应进行分级[6-8]。
+采用GraphPadPrism8和R4.
+3.
+0软件对研究
+数据进行统计分析。不符合正态分布的计量资料以
+M (P25,P75)表示,使用Mann-WhitneyU 检验分析
+各组之间的差异;计数资料以例(率)表示,两两比较
+采用Fisher检验;使用单因素及多因素Cox回归分
+析对有无PSA 进展的两组患者进行差异分析。以
+P<0.
+05为差异有统计学意义。
+2 结  果
+2.
+1 患者基本资料
+31例患者的年龄为71.
+0(64.
+0,76.
+5)岁;确诊时
+血清PSA 水平为23.
+6(7.
+2,65.
+8)μg/L;PCa病程为
+3.
+6(3.
+1,5.
+1)年;阿比特龙治疗时长为44.
+0(25.
+0,
+81.
+0)周;临床确诊时Gleason评分≥8分者20例,7
+分者10例,≤6分者1例;确诊时有其他部位肿瘤
+转移者22 例(71.
+0%),其中,单纯骨转移者20 例
+(64.
+5%),单纯软组织转移者2例(6.
+5%),骨与软
+组织均有转移者9例(29.
+0%);另外9例(29.
+0%)患
+者为阿比特龙治疗期间发生肿瘤其他部位转移;阿
+比特龙治疗期间阿比特龙反应者14例(45.
+2%),阿
+比特龙抵抗者17例(54.
+8%)。上述所有患者在接
+受恩扎卢胺治疗前均出现PSA 进展和(或)影像学
+进展。
+2.
+2 患者PSA 反应及PSA 进展情况
+所有患者随访时间2.
+0~17.
+0 个月,中位随访
+时间为8.
+0(6.
+0,15.
+0)个月。至随访结束时,患者恩
+扎卢胺治疗时长为29.
+0(22.
+0,58.
+0)周;PSA 有反应
+者12例(38.
+7%),其中血清PSA 水平下降≥基线
+90%者4例(12.
+9%),基线50%≤血清PSA 水平下
+降< 基线90% 者5 例(16.
+1%),基线30% ≤血清
+PSA 水平下降<基线50%者3例(9.
+7%);PSA 稳
+定者4例(12.
+9%),PSA 无反应者15 例(48.
+4%)。
+PSA 进展者22例(71.
+0%),中位进展时间4.
+0(3.
+0,
+12.
+5)周。
+·
+1
+3
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+2.
+3 患者影像学进展情况
+至随访结束时,影像学进展者20例(64.
+5%),
+进展时间3~16个月,中位进展时间为34.
+0(20.
+0,
+44.
+0)周;其中,出现新发骨转移者15 例(48.
+4%),
+新发内脏转移者4例(12.
+9%),新发淋巴结转移灶
+者3例(9.
+7%)。
+2.
+4 患者阿比特龙反应对恩扎卢胺治疗效果的预
+测价值
+14例阿比特龙反应的患者当中PSA 有反应者
+6例(38.
+7%),其中血清PSA 水平下降≥基线90%
+者1例(3.
+2%),基线50%≤血清PSA 水平<基线
+90%者2例(6.
+5%),基线30%≤血清PSA 水平<
+基线50%者3例(9.
+7%);PSA 稳定或者无反应者8
+例(25.
+8%)。17例阿比特龙抵抗患者中PSA 有反
+应者6例(38.
+7%),其中血清PSA 水平下降≥基线
+90%者3例(9.
+7%),基线50%≤血清PSA 水平<
+基线90%者3例(9.
+7%);PSA 稳定或者无反应者9
+例(29.
+0%)。
+14例阿比特龙反应的患者中,经恩扎卢胺治疗
+后,PSA 进展者8例(57.
+1%);17例阿比特龙抵抗
+的患者中,经恩扎卢胺治疗后,PSA 进展者16 例
+(94.
+1%),阿比特龙反应与阿比特龙抵抗的患者中
+PSA 进展患者构成比差异有显著性(P<0.
+05)。
+2.
+5 患者不良反应情况
+随访期间,共有28例(90.
+3%)患者出现不良反
+应。其中出现疲乏症状者27例(87.
+0%),Ⅲ级者2
+例;厌食者19例(61.
+3%),其中Ⅰ级者9例,Ⅱ级者
+5例,Ⅲ级者1例。2例(6.
+5%)患者因不良反应不
+耐受而停止恩扎卢胺治疗。7例(22.
+5%)患者出现
+肿瘤相关死亡事件。
+2.
+6 恩扎卢胺治疗后发生PSA 进展的单因素和多
+因素Cox回归分析
+将恩扎卢胺治疗后是否发生PSA 进展以及进
+展时间作为因变量,将所有患者的临床特征(包括确
+诊时的年龄、血清PSA 水平、Gleason 评分以及药
+物治疗期间的阿比特龙反应情况、PSA 反应情况、
+影像学进展及不良反应情况)作为自变量,进行单因
+素Cox回归分析,结果显示,与确诊时血清PSA 水
+平≤20μg/L 者相比,血清PSA 水平>20μg/L 者
+发生PSA 进展的风险更高(HR=3.
+01,95%CI=
+1.
+09~8.
+30,P<0.
+05),见表1。将上述变量同时进
+行多因素Cox回归分析,结果显示,确诊时更高的
+血清PSA 水平是患者预后的独立危险因素(HR=
+5.
+11,95%CI=1.
+36~19.
+18,P<0.
+05)。
+  表1 患者经恩扎卢胺治疗后发生PSA 进展的单因素
+Cox回归分析
+参数
+回归
+系数
+标准误
+HR
+95%CI
+P
+年龄
+ <65岁
+1 
+ 65~74岁
+0.
+11
+0.
+55
+1.
+11 0.
+38~3.
+29 0.
+847
+ ≥75岁
+-0.
+25 0.
+58
+0.
+78 0.
+25~2.
+41 0.
+662
+Gleason评分
+ ≤7分
+1 
+ ≥8分
+0.
+72
+0.
+52
+2.
+06 0.
+74~5.
+76 0.
+168
+确诊时血清PSA 水平
+ ≤20.
+0μg/L
+1 
+ >20.
+0μg/L
+1.
+10
+0.
+52
+3.
+01 1.
+09~8.
+30 0.
+019
+阿比特龙反应情况
+ 否
+1 
+ 是
+-0.
+62 0.
+50
+0.
+54 0.
+20~1.
+42 0.
+211
+PSA 反应情况
+ 否
+1 
+ 是
+0.
+09
+0.
+44
+1.
+10 0.
+46~2.
+61 0.
+837
+影像学进展
+ 无
+1 
+ 有
+-0.
+31 0.
+47
+0.
+73 0.
+29~1.
+84 0.
+512
+不良反应
+ 无
+1 
+ 有
+0.
+23
+1.
+03
+1.
+26 0.
+17~9.
+61 0.
+821
+  注:阿比特龙反应情况中“否”为阿比特龙抵抗,“是”为阿比特龙
+反应;PSA 反应情况中“否”为PSA 稳定和PSA 无反应,“是”为PSA
+有反应
+3 讨  论
+随着病情的进展,大多数PCa患者最终会不可
+避免地发展为mCRPC,阿比特龙可有效抑制雄激
+素合成过程中的关键酶———17α-羟化酶/C17,20-裂
+解酶(CYP17),可显著改善mCRPC者的预后[10-12]。
+然而随着治疗时间的延长,患者常出现阿比特龙耐
+药情况,恩扎卢胺是阿比特龙耐药mCRPC 患者的
+临床替换治疗方案之一[13-16]。本研究通过回顾性分
+析探讨恩扎卢胺治疗阿比特龙耐药的mCRPC患者
+的短期效果。
+在SCHRADER 等[17]一项关于恩扎卢胺应用
+于阿比特龙治疗失败的mCRPC 患者研究中,所有
+35例患者中有10例(28.
+6%)患者出现了血清PSA
+水平下降≥基线50%的情况,18例(51.
+4%)患者出
+现过至少1次血清PSA 水平下降。国内的一项研
+究纳入了19例恩扎卢胺应用于阿比特龙治疗失败
+的mCRPC患者,有4例(21.
+05%)患者的血清PSA
+水平下降≥基线50%,7例(36.
+84%)患者血清PSA
+水平下降< 基线50%
+[18]。在本研究的31例患者
+·
+2
+3
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+中,恩扎卢胺治疗后PSA 有反应者12例(38.
+7%),
+其中包括血清PSA 水平下降≥基线90% 者4 例
+(12.
+9%),基线50% ≤血清PSA 下降水平< 基线
+90%者5例(16.
+1%),基线30%≤血清PSA 下降水
+平<基线50%者3例。以上研究结果均表明,恩扎
+卢胺对部分mCRPC 患者有一定的疗效。本研究
+中,恩扎卢胺治疗后22例(71.
+0%)患者发生了PSA
+进展,20例(64.
+5%)患者出现了影像学进展,提示
+阿比特龙耐药的mCRPC患者替换为恩扎卢胺治疗
+后,仍面临疾病进展的风险[19]。
+本研究结果显示,在14例阿比特龙反应的患者
+中,经恩扎卢胺治疗后,PSA 进展者8例(57.
+1%);
+在17例阿比特龙抵抗的患者中,经恩扎卢胺治疗
+后,PSA 进展者16例(94.
+1%),阿比特龙反应与阿
+比特龙抵抗的患者间PSA 进展存在显著差异。说
+明在阿比特龙治疗期间,阿比特龙反应的患者可能
+在后续的恩扎卢胺治疗中获得更好的短期疗效,而
+阿比特龙抵抗的患者则可能需要采取更密切的监测
+和个体化的治疗方案。同时也提示,患者阿比特龙
+治疗期间的反应情况可以作为预测恩扎卢胺疗效的
+指标,对预测PSA 进展有一定价值[20]。
+在本研究中,单因素Cox 回归分析结果显示,
+与确诊时血清PSA 水平≤20μg/L 的患者相比,血
+清PSA 水平>20μg/L 的患者发生PSA 进展的风
+险更高,即确诊为PCa时患者的血清PSA 水平对
+恩扎卢胺治疗后的PSA 进展具有显著影响。为了
+对影响因素进行更全面评估,本研究又同时进行了
+多因素Cox回归分析,结果显示,确诊为PCa时患
+者的血清PSA 水平是恩扎卢胺治疗后PSA 进展的
+独立危险因素,即确诊为PCa时血清PSA 水平>
+20μg/L的患者在服用恩扎卢胺治疗后发生PSA
+进展的风险更高。本研究结果提示确诊时的高血清
+PSA 水平可能预示着更差的预后,且在恩扎卢胺治
+疗中可能需要更积极的干预措施[21-22]。因此临床医
+生对阿比特龙耐药mCRPC患者的后续治疗方案进
+行选择时,应特别关注高血清PSA 水平患者的治疗
+反应和疾病进展[23-25]。
+本研究中,有28例(90.
+3%)患者出现不同程度
+的不良反应,疲乏和厌食是最常见的不良反应,其中
+2例因不良反应停药,与他人报道的类似研究结果
+一致[26-27]。DEBONO 等[28]研究结果也显示,在阿
+比特龙耐药的mCRPC患者服用恩扎卢胺治疗期间
+至少发生过一次不良事件的比例达到了93%。提
+示在临床实践中,需要密切监测患者的不良反应,并
+采取有效的管理措施,以提高患者的治疗耐受性和
+依从性[29-30]。未来的研究可以进一步探索不良反应
+的预防和干预策略,以改善患者的治疗体验[31-33]。
+综上所述,恩扎卢胺对于部分阿比特龙耐药的
+mCRPC 患者有一定的短期疗效,可以暂时缓解疾
+病进展,但多数患者仍面临疾病进展的风险;恩扎卢
+胺治疗期间常见的不良反应为疲乏和厌食,不良反
+应的程度相对较轻,多数患者可以耐受。本研究为
+回顾性研究,可能存在选择偏倚和信息偏倚;样本量
+较小,且随访时间较短,也限制了结果的普遍性;此
+外,由于缺乏对照组,无法直接比较恩扎卢胺与其他
+治疗方案的疗效差异。未来需要通过多中心、前瞻
+性研究,进一步深入探讨恩扎卢胺对阿比特龙耐药
+mCRPC患者的临床疗效及其安全性。
+伦理批准和知情同意:本研究涉及的所有试验均已通过青岛大学附
+属医院医学伦理委员会的审核批准(文件号QYFYWZLL28066)。
+所有试验过程均遵照《人体医学研究的伦理准则》的条例进行。受试
+对象或其亲属已经签署知情同意书。
+作者声明:梅景昌、苏晓楠、张桂铭参与了研究设计;梅景昌、姚榆、官
+丰菊、张桂铭参与了论文的写作和修改。所有作者均阅读并同意发
+表该论文,且均声明不存在利益冲突。
+[参考文献]
+[1] 李星,曾晓勇.中国前列腺癌流行病学研究进展[J].肿瘤防治
+研究,2021,48(1):98-102.
+[2] FIZAZIK,TRANN,FEINL,etal.Abirateronepluspredni-
+soneinmetastatic,castration-sensitiveprostatecancer[J].N
+EnglJMed,2017,377(4):352-360.
+[3] DEBONOJS,LOGOTHETISCJ,MOLINA A,etal.Abi-
+rateroneandincreasedsurvivalin metastaticprostatecancer
+[J].NEnglJMed,2011,364(21):1995-2005.
+[4] ALMEERIM N E,AWIES M,CONSTANTINOU C.Pros-
+tatecancer,pathophysiologyandrecentdevelopmentsin ma-
+nagement:Anarrativereview[J].CurrOncolRep,2024,26
+(11):1511-1519.
+[5] ANTONARAKISES,LUCX,WANG H,etal.AR-V7and
+resistancetoenzalutamideandabirateroneinprostatecancer
+[J].NEnglJMed,2014,371(11):1028-1038.
+[6] ARMSTRONG AJ,SZMULEWITZRZ,PETRYLAKDP,
+etal.ARCHES:Arandomized,phase Ⅲstudyofandrogen
+deprivationtherapywithenzalutamideorplaceboinmenwith
+metastatichormone-sensitiveprostatecancer[J].JClinOncol,
+2019,37(32):2974-2986.
+[7] SCHER HI,FIZAZIK,SAAD F,etal.Increasedsurvival
+withenzalutamideinprostatecancerafterchemotherapy[J].N
+EnglJMed,2012,367(13):1187-1197.
+[8] BEER T M,ARMSTRONG AJ,RATHKOPF D E,etal.
+Enzalutamideinmetastaticprostatecancerbeforechemothera-
+·
+3
+3
+·
+
+精准医学杂志2025年2月第40卷第1期 JPrecisMed,February2025,Vol.
+40,No.
+1
+py[J].NEnglJMed,2014,371(5):424-433.
+[9] BIANCHINID,LORENTED,RODRIGUEZ-VIDAA,etal.
+Antitumouractivityofenzalutamide (MDV3100)inpatients
+with metastaticcastration-resistantprostatecancer (CRPC)
+pre-treatedwithdocetaxelandabiraterone[J].EurJCancer,
+2014,50(1):78-84.
+[10]VASAITISTS,BRUNORD,NJAR VCO.CYP17inhibi-
+torsforprostatecancertherapy[J].JSteroidBiochem Mol
+Biol,2011,125(1-2):23-31.
+[11]BASTOSD A,SOARESA,SCHUTZFA B,etal.Andro-
+genreceptorpathwayinhibitortherapyforadvancedprostate
+cancer:Secondaryanalysisofarandomizedclinicaltrial[J].
+JAMA Netw Open,2025,8(1):e2454253.
+[12]SEED G,BEIJE N,YUAN W,etal.Elucidatingacquired
+PARPinhibitorresistancein advanced prostatecancer[J].
+CancerCell,2024,42(12):2113-2123.
+e4.
+[13]FANLL,ZHANGFB,XUSH,etal.Histonedemethylase
+JMJD1ApromotesalternativesplicingofARvariant7 (AR-
+V7)inprostatecancercells[J].Proc NatlAcadSciUSA,
+2018,115(20):E4584-E4593.
+[14]AURILIO G,CIMADAMORE A,MAZZUCCHELLIR,et
+al.Androgenreceptorsignalingpathwayinprostatecancer:
+Fromgeneticstoclinicalapplications[J].Cells,2020,9(12):
+2653.
+[15]BISHR M,SAAD F.Overview ofthelatesttreatmentsfor
+castration-resistantprostatecancer[J].NatRevUrol,2013,
+10(9):522-528.
+[16]CHENG H H,GULATIR,AZAD A,etal.Activityofen-
+zalutamideinmenwithmetastaticcastration-resistantprostate
+cancerisaffectedbypriortreatmentwithabirateroneand/or
+docetaxel[J].ProstateCancerProstaticDis,2015,18(2):122-
+127.
+[17]SCHRADER AJ,BOEGEMANN M,OHLMANN C H,et
+al.Enzalutamideincastration-resistantprostatecancerpatients
+progressingafterdocetaxelandabiraterone[J].Eur Urol,
+2014,65(1):30-36.
+[18]张峰波,朱熹,吉正国,等.恩扎卢胺治疗阿比特龙耐药的转移
+性去势抵抗性前列腺癌19例疗效观察[J].现代泌尿外科杂
+志,2021,26(7):574-577.
+[19]SAITO K,FUJIIY.Antitumoractivityandsafetyofenzalu-
+tamideafterabirateroneacetate:Seekingtheoptimaltreat-
+mentsequenceforcastration-resistantprostatecancerpatients
+[J].EurUrol,2018,74(1):46-47.
+[20]AL-ALIB M,EREDICS K,MADERSBACHER S,etal.
+Abirateroneacetate,enzalutamideandtheirsequenceforcas-
+tration-resistantprostatecancer:Adherence,survivalandhos-
+pitalizationanalysisofamedicalclaimsdatabase[J].WienKlin
+Wochenschr,2018,130(21-22):659-664.
+[21]BEERT M,ARMSTRONG AJ,RATHKOPFD,etal.En-
+zalutamideinmenwithchemotherapy-naïvemetastaticcastra-
+tion-resistantprostatecancer:Extendedanalysisofthephase3
+PREVAILstudy[J].EurUrol,2017,71(2):151-154.
+[22]KOBAYASHIT,TERADA N,KIMURA T,etal.Sequen-
+tialuseofandrogenreceptoraxis-targetedagentsinchemo-
+therapy-naivecastration-resistantprostatecancer:A multi-
+centerretrospectiveanalysis with3-yearfollow-up[J].Clin
+GenitourinCancer,2020,18(1):e46-e54.
+[23]CHUNGDY,KANG D H,KIMJW,etal.Comparisonof
+oncologicoutcomesbetweentwoalternativesequences with
+abirateroneacetateandenzalutamideinpatientswithmetasta-
+ticcastration-resistantprostatecancer:A systematicreview
+andmeta-analysis[J].Cancers(Basel),2019,12(1):8.
+[24]MORIK,MIURA N,MOSTAFAEI H,etal.Sequential
+therapyofabirateroneandenzalutamideincastration-resistant
+prostatecancer:A systematicreview and meta-analysis[J].
+ProstateCancerProstaticDis,2020,23(4):539-548.
+[25]HOEH B,WENZEL M,TIAN Z,etal.Tripletordoublet
+therapyin metastatichormone-sensitiveprostatecancerpa-
+tients:An updated network meta-analysisincluding ARA-
+NOTEdata[J].EurUrolFocus,2024:S2405-4569(24)00245-1.
+[26]CHOWDHURYS,OUDARDS,UEMURA H,etal.Matc-
+hing-adjustedindirectcomparisonofhealth-relatedqualityof
+lifeandadverseeventsofapalutamideversusenzalutamidein
+non-metastaticcastration-resistantprostatecancer[J].Adv
+Ther,2020,37(1):512-526.
+[27]GILLESSENS,TOMBALB,TURCO F,etal.Decreasein
+fracturerate with mandatory bone-protectingagentsinthe
+EORTC1333/PEACE-3trialcomparingradium-223combined
+withenzalutamideversusenzalutamidealone:Asafetyanaly-
+sis[J].EurUrol,2025,87(3):285-288.
+[28]DEBONOJS,CHOWDHURYS,FEYERABENDS,etal.
+Antitumouractivityandsafetyofenzalutamideinpatientswith
+metastaticcastration-resistantprostatecancerpreviouslytrea-
+tedwithabirateroneacetateplusprednisonefor≥24weeksin
+Europe[J].EurUrol,2018,74(1):37-45.
+[29]GABER C E,OKPARA E,ABDELAZIZ AI,etal.Real-
+worldeffectivenessandcardiovascularsafety ofabiraterone
+versusenzalutamideamongstolderpatientsdiagnosed with
+metastaticcastration-resistantprostatecancer[J].J Geriatr
+Oncol,2025,16(2):102148.
+[30]YANAGISAWA T,FUKUOKAYA W,HATAKEYAMAS,
+etal.Comparisonofabiraterone,enzalutamide,andapalu-
+tamidefor metastatichormone-sensitiveprostatecancer:A
+multicenterstudy[J].Prostate,2025,85(2):165-174.
+[31]唐华科,曾星,胡志全.去势抵抗前列腺癌新型内分泌治疗耐
+药的研究进展[J].肿瘤,2017,37(9):1006-1010.
+[32]SNYDERLB,NEKLESA T K,WILLARDRR,etal.Pre-
+clinicalevaluationofbavdegalutamide (ARV-110),anovel
+PROteolysisTArgetingchimeraandrogenreceptordegrader
+[J].MolCancerTher,2024.
+[33]KNUTSON TP,LUOB,KOBILKAA,etal.ARalterations
+informcirculatingtumorDNAdetectionin metastaticcastra-
+tionresistant prostatecancer patients[J].Nat Commun,
+2024,15(1):10648.
+(本文编辑 耿波)
+·
+4
+3
+·

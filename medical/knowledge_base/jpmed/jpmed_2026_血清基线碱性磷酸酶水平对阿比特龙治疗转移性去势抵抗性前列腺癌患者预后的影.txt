@@ -1,0 +1,928 @@
+标题: 血清基线碱性磷酸酶水平对阿比特龙治疗转移性去势抵抗性前列腺癌患者预后的影响
+作者: 刘田, 姚榆, 孙立江, 张桂铭
+期刊: 精准医学杂志 2026 第41卷 第1期
+DOI: 10.13362/j.jpmed.202641017
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202641017
+
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+doi:10.
+13362/j.
+jpmed.
+202641017  文章编号:2096-529X(2026)01-0062-06
+[收稿日期]2025-04-08; [修订日期]2025-10-10
+[基金项目]山东省自然科学基金项目(ZR2021MH354);青岛
+市医药卫生科研计划项目(2021-WJZD170)
+[通信作者]张桂铭,Email:zhangguiming9@126.
+com
+血清基线碱性磷酸酶水平对阿比特龙治疗转移性
+去势抵抗性前列腺癌患者预后的影响
+刘田 姚榆 孙立江 张桂铭
+(青岛大学附属医院泌尿外科,山东青岛 266003)
+[摘要] 目的 探讨血清基线碱性磷酸酶(ALP)水平与接受阿比特龙治疗的转移性去势抵抗性前列腺癌
+(mCRPC)患者预后的相关性。方法 回顾性分析55例接受阿比特龙治疗的mCRPC 患者的临床病理资料,所有
+患者均检测血清基线ALP水平,按照其正常值(125U/L)分为高ALP组和正常ALP组。通过Log-rank检验分析
+两组间临床病理特征的差异并绘制Kaplan-Meier生存分析曲线。通过Cox回归分析研究基线ALP水平与患者总
+生存期(OS)、前列腺特异性抗原无进展生存期(PSA-PFS)的相关性。结果 两组患者的一般资料(年龄、化疗人
+数、ECOG 评分、ADT 方式、Gleason评分、转移部位、血清初始PSA 水平、血中性粒细胞计数、血清白蛋白水平和血
+清乳酸脱氢酶水平)无明显差异(P>0.
+05)。Kaplan-Meier生存分析结果显示,高ALP组患者OS和PSA-PFS均
+较正常ALP组更短(χ2=8.
+91、7.
+44,P<0.
+05)。单因素和多因素Cox回归分析结果显示,较高的中性粒细胞计数
+和血清基线ALP水平与mCRPC患者较短的OS相关(HR=21.
+71、2.
+83,P<0.
+05);既往化疗史和较高的血清基线
+ALP水平与mCRPC患者较短的PSA-PFS相关(HR=3.
+11、0.
+38,P<0.
+05)。结论 ALP可能是评估阿比特龙治
+疗的mCRPC患者预后的重要指标,血清基线ALP水平较低的患者预后更好。
+[关键词] 前列腺肿瘤,去势难治性;醋酸阿比特龙;碱性磷酸酶;预后
+[中图分类号] R737.
+25    [文献标志码] A
+Theimpactofbaselineserumalkalinephosphataselevelontheprognosisofmetastaticcastration-re-
+sistantprostatecancerpatientstreatedwithabiraterone LIUTian,YAOYu,SUNLijiang,ZHANGGuiming
+(DepartmentofUrology,TheAffiliatedHospitalofQingdaoUniversity,Qingdao266003,China)
+[ABSTRACT] Objective Toinvestigatetheassociationbetweenbaselineserum alkalinephosphatase (ALP)levelsand
+prognosisinpatientswithmetastaticcastration-resistantprostatecancer(mCRPC)treatedwithabiraterone. Methods Thecli-
+nicopathologicdataof55patientswith mCRPC whoreceivedabirateronetherapywereretrospectivelyanalyzed.Baselineserum
+ALPlevelsweremeasuredbeforetreatmentandcategorizedintoahigh-ALPgroupandanormal-ALPgroupaccordingtothenor-
+malcutoff(125U/L).Differencesinclinicopathologicalcharacteristicsbetweenthetwogroupswereassessedbythelog-ranktest,
+andKaplan-Meiersurvivalcurvesweregenerated.ACoxregressionanalysiswasperformedtoevaluatetheassociationofbaseline
+serum ALPlevelwithoverallsurvival(OS)andprostate-specificantigenprogression-freesurvival(PSA-PFS). Results There
+werenosignificantdifferencesinbaselinecharacteristicsbetweenthetwogroup,includingage,numberofpatientswithprior
+chemotherapy,EasternCooperativeOncolgyGroup(ECOG)score,typeofandrogendeprivationtherapy(ADT),Gleasonscore,
+initialse-rumPSAlevel,metastaticsites,neutrophilcount,serumalbuminlevel,andlactatedehydrogenaselevel(P>0.
+05).The
+Kaplan-MeiersurvivalanalysisresultsshowedthatbothOSandPSA-PFSwereshorterinthehigh-ALPgroupthaninthenormal-
+ALPgroup(χ2=8.
+91,7.
+44,P<0.
+05).TheresultsofmultivariableCoxregressionanalysisindicatedthathighneutrophilcount
+(HR=27.
+71,P<0.
+05)andhighbaselineserum ALPlevel(HR=2.
+83,P<0.
+05)werepredictorsofshorterOS,whileprevious
+chemotherapyhistory(HR=3.
+11,P<0.
+05)andhighbaselineserum ALPlevel(HR=0.
+38,P<0.
+05)wereassociatedwithshor-
+terPSA-PFS. Conclusion Baselineserum ALPmayserveasanimportantprognosticbiomarkerformCRPCpatientsreceiving
+abirateronetherapy.Patientswithlowerbaselineserum ALPtendtohaveamorefavorableprognosis.
+[KEY WORDS] Prostateneoplasms;Castration-resistant;Abirateroneacetate;Alkalinephosphatase;Prognosis
+  前列腺癌(PCa)是男性常见恶性肿瘤之一[1]。
+转移性去势抵抗性前列腺癌(metastaticcastration-
+resistantprostatecancer,mCRPC)是一种难治性疾
+病[2]。mCRPC是PCa经过雄激素剥夺治疗后对治
+疗产生抵抗,并且发生转移的一种疾病。mCRPC
+具有非常强的侵袭性,是PCa当中最晚期的阶段。
+mCRPC患者的预估中位生存时间仅为2~3年,是
+PCa患者最常见的死亡原因之一[3-4]。雄激素剥夺
+治疗(ADT)是转移性或局部晚期PCa的常用治疗
+方法。阿比特龙作为mCRPC 的一线治疗药物,可
+显著改善mCRPC 患者的总生存期(OS)
+[5-6],但仍
+·
+2
+6
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+有部分患者在服用阿比特龙后治疗获益较低。因
+此,亟需寻找能够精准预测mCRPC 患者预后和生
+存获益的生物标志物,以制定合适的临床治疗策略。
+碱性磷酸酶(ALP)作为一种磷酸酯酶,已经被证明
+对膀胱癌患者的预后具有潜在的预测价值[7]。在
+mCRPC 患者中,阿比特龙能够促进成骨细胞分化
+和骨基质沉积,从而上调血循环中ALP水平。既往
+研究表明,ALP的动态变化在骨转移性PCa患者中
+与更长的无进展生存期(PFS)和OS 密切相关[8]。
+然而,接受阿比特龙治疗的mCRPC 患者预后与血
+清基线ALP 水平(阿比特龙治疗前患者血清ALP
+水平)之间的关系尚不明确。本研究回顾性分析我
+院接受阿比特龙治疗的mCRPC患者的临床病理资
+料,旨在探讨血清基线ALP水平与mCRPC患者预
+后的相关性。
+1 资料与方法
+选取2017年5月—2021年8月于青岛大学附
+属医院泌尿外科接受阿比特龙治疗的mCRPC患者
+共55例。患者纳入标准:①年龄≥18岁者;②经病
+理确诊为PCa患者;③经ADT 治疗后,符合去势抵
+抗标准者;④经骨扫描或CT、MRI、PET-CT 等检查
+证实肿瘤发生转移者;⑤在mCRPC 阶段接受阿比
+特龙治疗者。排除标准:①未进行ADT 治疗或经
+ADT 治疗未达到去势抵抗标准者;②接受除阿比特
+龙外其他药物治疗者;③因其他疾病(如心脏病、肺
+栓塞、脑梗死)死亡的患者。患者去势抵抗评判标
+准:PCa患者经持续ADT 后,血清中睾酮达到去势
+水平(<50μg/L或1.
+7nmol/L)的基础上出现疾病
+进展,包括前列腺特异性抗原(PSA)进展或影像学
+进展。PSA 进展:血清PSA 水平>2μg/L 且每次
+间隔一周连续2次及以上较基础值增加>50%
+[9];
+影像学进展:全身骨扫描出现≥2 处新发病灶或
+CT、MRI检查提示软组织病灶进展[9]。
+收集上述患者各项临床资料,包括患者接受阿
+比特龙治疗时的年龄、ECOG 评分、Gleason 评分、
+肿瘤转移部位、化疗史、ADT 方式,以及血清初始
+PSA、血中性粒细胞计数、血清白蛋白、血清基线
+ALP、血清乳酸脱氢酶水平,并记录阿比特龙治疗后
+血清PSA 水平动态变化及血清PSA2月内应答的
+情况。血清PSA2月内应答:患者接受治疗后的前
+2个月内血清PSA<0.
+1μg/L或者不可测。根据血
+清基线ALP的水平,将上述患者分为正常ALP 组
+(ALP≤125 U/L)、高ALP 组(ALP>125 U/L)。
+从2017年6月开始随访,截至2022年8月,每3个
+月左右收集一次数据,无论患者是否中断阿比特龙
+治疗,均随访至因mCRPC 去世或随访截止日期。
+随访内容包括患者血清PSA 水平是否升高、是否出
+现新发转移以及是否因mCRPC 死亡,并记录所有
+患者阿比特龙治疗后OS和PSA-PFS。OS为从阿
+比特龙治疗开始到患者因任何原因死亡的时间。
+PSA-PFS为从阿比特龙治疗开始到PSA 进展或死
+亡的时间,以先发生者为准。
+使用SPSS26.
+0软件对数据进行统计分析。符
+合正态分布的计量资料以􀭺
+x±s 表示,两组间比较
+采用t 检验;非正态分布的计量资料以M (P25,
+P75)表示,两组间比较采用秩和检验。计数资料以
+例(率)表示,两组间的比较采用卡方(χ2)检验。绘
+制两组患者的Kaplan-Meier生存分析曲线并进行
+Log-rank检验。采用Cox回归模型进行单因素和
+多因素分析,将单因素分析中具有统计学意义的指
+标纳入多因素分析。绘制受试者工作曲线(ROC)
+分析血清基线ALP 水平对mCRPC 患者预后的预
+测价值,并获得曲线下面积(AUC)。以P<0.
+05为
+差异有统计学意义。
+2 结  果
+2.
+1 两组患者的一般资料比较
+所纳入55例患者的年龄为53~92岁,中位年
+龄为71.
+2(63.
+0,78.
+0)岁;随访时间为3~56个月,
+中位随访时间为24.
+8(14.
+5,34.
+5)个月;其中,48例
+患者接受一线阿比特龙治疗。两组患者各项指标差
+异均无统计学意义(P>0.
+05)。见表1。
+2.
+2 两组患者的生存分析结果
+所有患者的中位OS和PSA-PFS分别为37和
+16个月;截至随访结束,3例因药物副反应而停止服
+用阿比特龙,23例因各种原因死亡,39例出现PSA
+进展。与正常ALP组患者相比,高ALP组患者的
+OS和PSA-PFS均更短(χ2=8.
+91、7.
+44,P<0.
+05)。
+见图1。
+2.
+3 mCRPC患者OS和PSA-PFS影响因素的单
+因素Cox回归分析
+以所有mCRPC 患者的基本信息作为自变量,
+OS和PSA-PFS作为因变量进行单因素Cox回归
+分析。结果显示,较高的血清初始PSA 水平、血中
+性粒细胞计数、血清基线ALP水平与mCRPC患者
+较短的OS相关(HR=3.
+32~17.
+41,P<0.
+05),既
+往化疗史和较高的血清基线ALP 水平与mCRPC
+·
+3
+6
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+患者较短的PSA-PFS相关(HR=0.
+58、0.
+39,P <
+0.
+05)。见表2。
+表1 两组患者的一般资料比较
+指标
+正常ALP组(n=40)
+高ALP组(n=15)
+t/Z/χ2
+P
+年龄(岁,􀭺
+x±s)
+71.
+60±9.
+34
+70.
+20±7.
+80
+ 0.
+52
+0.
+61
+化疗人数[例(χ/%)]
+6(15.
+0)
+3(20.
+0)
+ 0.
+44
+0.
+66
+ECOG 评分[例(χ/%)]
+ 2.
+33
+0.
+13
+  0分
+25(62.
+5)
+11(73.
+3)
+  1分
+6(15.
+0)
+2(13.
+3)
+ ≥2分
+9(22.
+5)
+2(13.
+3)
+ADT 方式[例(χ/%)]
+ 0.
+03
+0.
+87
+ 手术
+5(12.
+5)
+2(13.
+3)
+ 药物
+35(87.
+5)
+13(86.
+7)
+Gleason评分[例(χ/%)]
+<0.
+01
+0.
+96
+ <8分
+14(35.
+0)
+5(33.
+3)
+ ≥8分
+22(55.
+0)
+8(53.
+3)
+ 不详
+4(10.
+0)
+2(13.
+3)
+转移部位[例(χ/%)]
+ 0.
+03
+0.
+84
+ 骨
+40(100.
+0)
+15(100.
+0)
+ 淋巴结
+3(7.
+5)
+4(26.
+7)
+ 内脏
+2(5.
+0)
+2(13.
+3)
+血清初始PSA 水平[ρ/μg·L-1,M(P25,P75)]
+14.
+80(7.
+24,70.
+07)
+38.
+94(15.
+01,112.
+20)
+-1.
+93
+0.
+05
+血中性粒细胞计数(
+ccell/×109·L-1,􀭺
+x±s)
+3.
+95±1.
+33
+3.
+65±1.
+43
+ 0.
+74
+0.
+46
+血清白蛋白水平(ρ/g·L-1,􀭺
+x±s)
+43.
+50±4.
+30
+42.
+10±3.
+50
+ 1.
+10
+0.
+28
+血清乳酸脱氢酶水平[z/U·L-1,M(P25,P75)]
+245.
+5(196.
+25,286.
+25)
+228(167.
+75,294.
+25)
+-0.
+60
+0.
+55
+表2 mCRPC患者OS和PSA-PFS影响因素的单因素Cox回归分析
+变量
+OS
+B
+SE(B)
+HR
+P
+PSA-PFS
+B
+SE(B)
+HR
+P
+年龄
+0.
+012
+0.
+025
+1.
+01
+0.
+626
+ 0.
+004
+0.
+020
+1.
+00
+0.
+847
+ECOG 评分
+0.
+114
+0.
+243
+1.
+12
+0.
+639
+-
+-
+1.
+20
+0.
+322
+化疗
+ 是
+参考
+参考
+参考
+参考
+ 否
+-0.
+302 
+0.
+552
+0.
+74
+0.
+585
+-1.
+088
+0.
+416
+0.
+58
+0.
+009
+Gleason评分
+ ≤8分
+参考
+参考
+参考
+参考
+ >8分
+-0.
+160 
+0.
+471
+1.
+01
+0.
+991
+ 0.
+151
+0.
+360
+1.
+16
+0.
+674
+PSA2月内应答
+ 是
+参考
+参考
+参考
+参考
+ 否
+0.
+120
+0.
+439
+1.
+13
+0.
+785
+-0.
+074
+0.
+326
+0.
+93
+0.
+820
+血清初始PSA 水平
+ >10μg/L
+参考
+参考
+参考
+参考
+ ≤10μg/L
+1.
+260
+0.
+556
+3.
+53
+0.
+023
+-0.
+574
+0.
+359
+0.
+56
+0.
+110
+血中性粒细胞计数
+ >6.
+3×109/L
+参考
+参考
+参考
+参考
+ ≤6.
+3×109/L
+2.
+857
+1.
+155
+17.
+41
+0.
+013
+ 3.
+034
+6.
+769
+20.
+79
+0.
+654
+血清白蛋白水平
+ >35g/L
+参考
+参考
+参考
+参考
+ ≤35g/L
+-0.
+902 
+1.
+035
+0.
+41
+0.
+383
+-0.
+322
+1.
+016
+0.
+73
+0.
+751
+血清基线ALP水平
+ >125U/L
+参考
+参考
+参考
+参考
+ ≤125U/L
+1.
+200
+0.
+428
+3.
+32
+0.
+005
+-0.
+937
+0.
+364
+0.
+39
+0.
+010
+血清乳酸脱氢酶水平
+ ≤250U/L
+参考
+参考
+参考
+参考
+ >250U/L
+0.
+290
+0.
+485
+1.
+34
+0.
+550
+-0.
+640
+0.
+398
+0.
+53
+0.
+108
+·
+4
+6
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+图1 两组患者的Kaplan-Meier生存分析曲线
+2.
+4 mCRPC 患者OS和PFA-PFS影响因素的多
+因素Cox回归分析
+将单因素Cox回归分析中有统计学意义的指
+标作为自变量,将OS和PSA-PFS作为因变量进行
+多因素Cox回归分析。结果显示,较高中性粒细胞
+计数和血清基线ALP水平与mCRPC患者较短OS
+相关(HR=21.
+71、2.
+83,P<0.
+05),既往化疗史和较
+高血清基线ALP 水平与mCRPC 患者较短PSA-
+PFS相关(HR=3.
+11、0.
+38,P<0.
+05)。见表3。
+2.
+5 血清基线ALP水平对mCRPC 患者预后的预
+测价值
+ROC曲线分析结果显示,血清基线ALP 水平
+预测mCRPC患者OS和PSA-PFS的AUC值分别
+为0.
+668和0.
+578。见图2。
+A、B分别为血清基线ALP 水平与mCRPC 患者OS、PSA-PFS
+的ROC曲线
+图2 血清基线ALP水平对mCRPC患者预后的预测价值
+3 讨  论
+mCRPC是PCa发展的终末阶段,众多研究者
+致力于改善mCRPC 患者预后。近年来,靶向雄激
+素及其受体作用通路的新型内分泌药物层出不穷,
+极大地改善了mCRPC患者的预后。其中,阿比特
+表3 mCRPC患者OS和PSA-PFS影响因素的多因素Cox回归分析结果
+变量
+OS
+B
+SE(B)
+HR
+P
+PSA-PFS
+B
+SE(B)
+HR
+P
+化疗
+ 是
+参考
+参考
+ 否
+1.
+134
+0.
+422
+3.
+11
+0.
+007
+血清初始PSA 水平
+ >10μg/L
+参考
+参考
+ ≤10μg/L
+0.
+927
+0.
+58
+2.
+53
+0.
+110
+血中性粒细胞计数
+ >6.
+3×109/L
+参考
+参考
+ ≤6.
+3×109/L
+3.
+078
+1.
+19
+21.
+71
+0.
+010
+血清基线ALP水平
+ >125U/L
+参考
+参考
+参考
+参考
+ ≤125U/L
+1.
+040
+0.
+45
+2.
+83
+0.
+021
+-0.
+971 
+0.
+368
+0.
+38
+0.
+008
+·
+5
+6
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+龙作为一种抗雄激素合成药物,可通过抑制17α-羟
+化酶的活性抑制肾上腺、睾丸以及PCa细胞中雄激
+素的合成,已红成为治疗mCRPC的一线药物[10-12]。
+COU-AA-301 和COU-AA-302 临床试验结果证
+实,阿比特龙能显著延长化疗后和化疗前mCRPC
+患者的OS和放射学PFS
+[13-14]。然而,仍有部分患
+者对阿比特龙治疗的获益较低。mCRPC 患者预后
+评估多依赖于影像学检查和PSA 检测,均属于治疗
+后的监测指标,而治疗前的预测标志物能够更好地
+评估患者对阿比特龙反应并指导临床治疗。
+ALP是一种与质膜结合的磷酸酯酶,具有多种
+生物学功能,包括蛋白去磷酸化、骨骼和牙齿矿化
+等。此外,ALP还可作为肿瘤相关标志物分子,已
+被证实与多种癌症的预后有关[15]。有研究表明,血
+清基线ALP水平升高与乳腺癌的发生、转移和患者
+预后有关[16-17]。吴云等[18]发现血清ALP水平与原
+发性非小细胞肺癌患者肺叶切除后的肿瘤进展和生
+存率密切相关。在转移性激素敏感性PCa患者中,
+血清基线ALP水平升高与其总体死亡率和疾病进
+展风险升高有关,并且血清ALP水平与高肿瘤负荷
+和低肿瘤负荷患者的OS独立相关[19]。此外,已有
+研究表明血清基线ALP 水平可作为独立因素影响
+mCRPC患者预后[8,20]。然而,血清基线ALP 水平
+是否可作为阿比特龙治疗mCRPC患者的预后指标
+目前尚无定论。本研究通过Kaplan-Meier生存分
+析探讨了阿比特龙治疗mCRPC 患者血液中基线
+ALP水平与其预后之间的关系,结果显示正常ALP
+组患者OS 和PSA-PFS 均显著长于高ALP 组患
+者。由于ALP主要由肝细胞和骨骼细胞分泌,因此
+在PCa发生骨转移时,ALP水平升高,并且其升高
+程度与转移性骨病的严重程度密切相关[21]。这可
+能解释了高ALP组患者相较于正常ALP组患者具
+有更短OS和PSA-PFS的原因。
+中性粒细胞作为一种免疫细胞,能够通过促进
+血管生成、肿瘤细胞运动、上皮-间质转化、免疫抑制
+和形成胞外陷阱,促进肿瘤的生长、转移和耐药性的
+产生。大量研究表明,多种类型肿瘤患者的外周血
+中性粒细胞计数均有升高。PSA 作为一种由前列
+腺细胞产生的蛋白质,主要用于PCa的筛查和监
+测,并且与药物治疗反应密切相关。研究表明,血清
+初始PSA 水平与PCa患者预后呈负相关[22]。本研
+究结果显示,接受阿比特龙治疗的mCRPC 患者的
+血中性粒细胞计数和血清初始PSA 水平与其OS
+呈负相关,与先前的报道一致[23-24]。
+Gleason评分是最常用的PCa组织学分级法,
+是判定PCa生物学行为的重要指标。大量研究证
+实确诊时Gleason评分是患者PCa根治术后生化复
+发的独立危险因素[25],但是确诊时Gleason评分能
+否预测晚期PCa患者预后目前仍不明确。本研究
+结果显示,确诊时Gleason 评分与阿比特龙治疗
+mCRPC患者的预后无明显关系。其原因一方面可
+能是随着疾病进展,肿瘤细胞出现了治疗相关变异;
+另一方面可能是由于本研究纳入的患者例数较少,
+影响分析结果的准确性,有待进一步研究确认。
+化疗(如多西他赛和卡巴他赛)是mCRPC的有
+效治疗手段,可显著改善患者生存期。本研究中单
+因素和多因素Cox回归分析结果显示,既往化疗史
+对mCRPC 患者的OS 没有明显影响,但对PSA-
+PFS有显著影响。分析其原因可能是化疗会导致
+PCa组织发生相关变异,从而促进肿瘤细胞分泌更
+多的PSA。然而,本研究纳入的患者中,仅有9 例
+患者接受过化疗,化疗患者数量较少也会引起分析
+误差。
+本研究中,ROC 曲线分析结果显示,血清基线
+ALP水平与mCRPC 患者OS具有较强的相关性,
+而与mCRPC患者PSA-PFS的相关性相对较弱,提
+示血清基线ALP 水平对mCRPC 患者OS具有更
+好的预测性。考虑到两组患者样本量相差较大,推
+测这一结果可能与本研究将ALP 正常值上限作为
+截断值有关。后续需要通过进一步研究确定基线
+ALP最佳截断值,并以此作为分组依据。
+综上所述,血清基线ALP是接受阿比特龙治疗
+的mCRPC患者的潜在预后指标,其水平较低的患
+者预后更好。未来的研究需进一步探究ALP 在
+mCRPC 中的作用机制,从而为临床医生对患者制
+定个体化临床决策提供理论依据。
+伦理批准和知情同意:本研究涉及的所有试验均已通过青岛大学附
+属医院医学伦理委员会的审核批准(文件号QYFYWZLL27948)。
+所有试验过程均遵照《赫尔基宣言》的条例进行。受试对象或其亲属
+已经签署知情同意书。
+作者声明:刘田、姚榆、张桂铭和孙立江参与了研究设计;刘田、张桂
+铭参与了论文的写作和修改。所有作者均阅读并同意发表该论文,
+且均声明不存在利益冲突。
+[参考文献]
+[1] SUNG H,FERLAYJ,SIEGELRL,etal.Globalcancersta-
+tistics2020:GLOBOCANestimatesofincidenceandmortality
+worldwidefor36cancersin185countries[J].CA CancerJ
+Clin,2021,71(3):209-249.
+·
+6
+6
+·
+
+精准医学杂志2026年02月第41卷第1期 JPrecisMed,February2026,Vol.
+41,No.
+1
+[2] WUZX,ZHANGJB,LIL,etal.Biomarkersinmetastatic
+castration-resistantprostatecancerforefficiencyofimmune
+checkpointinhibitors[J].AnnMed,2025,57(1):2426755.
+[3] WILLIAMSC,INDERJEETH AJ,HONG W,etal.Treat-
+mentpatternsandoutcomesforyoungerpatientswith meta-
+staticcastration-resistantprostatecancer(mCRPC);AnAus-
+tralianprospectiveregistrystudy[J].ClinGenitourinCancer,
+2025,23(3):102345.
+[4] MEHTÄLÄJ,ZONGJH,VASSILEVZ,etal.Overallsur-
+vivalandsecondprimarymalignanciesinmenwithmetastatic
+prostatecancer[J].PLoSOne,2020,15(2):e0227552.
+[5] ZHENGX N,ZHAOX H,XU H,etal.Efficacyandsafety
+ofabirateroneandenzalutamideforcastration-resistantpros-
+tatecancer:Asystematicreviewand meta-analysisofrando-
+mizedcontrolledtrials[J].Medicine (Baltimore),2019,98
+(44):e17748.
+[6] ZHANGT,ZHUJ,GEORGEDJ,etal.Enzalutamidever-
+susabirateroneacetateforthetreatmentofmen with meta-
+staticcastration-resistantprostatecancer[J].Expert Opin
+Pharmacother,2015,16(4):473-485.
+[7] LISJ,LUSY,LIUXF,etal.Associationbetweenthepre-
+treatmentalbumin-to-alkalinephosphataseratioandclinical
+outcomesinpatientswithbladdercancertreatedwithradical
+cystectomy:Aretrospectivecohortstudy[J].FrontOncol,
+2021,11:664392.
+[8] POTESKA R,RAHBAR K,SEMJONOW A,etal.The
+prognosticpotentialofalkalinephosphataseandlacticacidde-
+hydrogenaseinbmCRPCpatientswithoutsignificantPSAre-
+sponseunderenzalutamide[J].BMC Cancer,2022,22(1):
+375.
+[9] SCHER HI,HALABIS,TANNOCKI,etal.Designand
+endpointsofclinicaltrialsforpatientswithprogressivepros-
+tatecancerandcastratelevelsoftestosterone:Recommenda-
+tionsoftheProstateCancerClinicalTrialsWorkingGroup[J].
+JClinOncol,2008,26(7):1148-1159.
+[10]GEORGE DJ,SARTOR O,MILLER K,etal.Treatment
+patternsandoutcomesinpatientswith metastaticcastration-
+resistantprostatecancerinareal-worldclinicalpracticesetting
+intheUnitedStates[J].ClinGenitourinCancer,2020,18(4):
+284-294.
+[11]VASAITISTS,BRUNORD,NJAR VCO.CYP17inhibi-
+torsforprostatecancertherapy[J].JSteroidBiochem Mol
+Biol,2011,125(1-2):23-31.
+[12]CRONA DJ,WHANG Y E.Androgenreceptor-dependent
+and-independentmechanismsinvolvedinprostatecancerthera-
+pyresistance[J].Cancers(Basel),2017,9(6):67.
+[13]FIZAZIK,SCHER HI,MOLINAA,etal.Abirateroneace-
+tatefortreatmentof metastaticcastration-resistantprostate
+cancer:Finaloverallsurvivalanalysisofthe COU-AA-301
+randomised,double-blind,placebo-controlled phase3 study
+[J].LancetOncol,2012,13(10):983-992.
+[14]RYANCJ,SMITH M R,FIZAZIK,etal.Abirateroneace-
+tateplusprednisoneversusplaceboplusprednisoneinchemo-
+therapy-naivemenwithmetastaticcastration-resistantprostate
+cancer(COU-AA-302):Finaloverallsurvivalanalysisofa
+randomised,double-blind,placebo-controlled phase3 study
+[J].LancetOncol,2015,16(2):152-160.
+[15]MAKRISK,MOUSAC,CAVALIERE.Alkalinephosphata-
+ses:Biochemistry,functions,and measurement[J].Calcif
+TissueInt,2023,112(2):233-242.
+[16]JIANGCY,HUFK,XIAXQ,etal.Prognosticvalueofal-
+kalinephosphataseandbone-specificalkalinephosphatasein
+breastcancer:Asystematicreviewandmeta-analysis[J].IntJ
+BiolMarkers,2023,38(1):25-36.
+[17]TAYUBIIA,MADARIH.Biomineralizationassociatedal-
+kalinephosphataseasapotentialmarkerofbonemetastasisin
+thepatientswithinvasivebreastcancer[J].SaudiJBiolSci,
+2022,29(8):103340.
+[18]吴云,金汉生.原发性非小细胞肺癌肺叶切除术后血清白蛋
+白、碱性磷酸酶表达与预后相关性[J].安徽医药,2022,26
+(9):1874-1878.
+[19]MORIK,JANISCH F,PARIZIM K,etal.Prognosticvalue
+ofalkalinephosphataseinhormone-sensitiveprostatecancer:
+Asystematicreviewand meta-analysis[J].IntJClin Oncol,
+2020,25(2):247-257.
+[20]YANG Y K,ZHANG W,WANLJ,etal.Constructionand
+validationofaclinicalpredictivenomogramforintraductalcar-
+cinomaoftheprostatebasedonChinese multicenterclinical
+data[J].FrontOncol,2022,12:1074478.
+[21]D’ORONZOS,BROWNJ,COLEMANR.Thevalueofbio-
+markersinbonemetastasis[J].EurJCancerCare,2017,26
+(6):e12725.
+[22]HIROSHIGE T,EGUCHIY,YOSHIZUMIO,etal.Base-
+lineprostate-specificantigenlevelsfollowingtreatmentwith
+abirateroneacetateasaprognosticfactorincastration-resistant
+prostatecancer[J].OncolLett,2018,15(5):6806-6814.
+[23]KAWAHARA T,SAIGUSA Y,YONEYAMAS,etal.De-
+velopmentandvalidationofasurvivalnomogramandcalcula-
+torformalepatientswithmetastaticcastration-resistantpros-
+tatecancertreated with abirateroneacetateand/orenzalu-
+tamide[J].BMCCancer,2023,23(1):214.
+[24] MEISEL A,DE WIT R,OUDARD S,etal.Neutropenia,
+neutrophilia,and neutrophil-lymphocyteratioasprognostic
+markersinpatientswith metastaticcastration-resistantpros-
+tatecancer[J].TherAdv MedOncol,2022,14:1758835922-
+1100022.
+[25]WARNERJN,NUNEZR N,MMEJECO,etal.Impactof
+marginstatusat37monthsafterrobotassistedradicalprosta-
+tectomy[J].CanJUrol,2011,18(6):6043-6049.
+(本文编辑 李京蔓 厉建强)
+·
+7
+6
+·

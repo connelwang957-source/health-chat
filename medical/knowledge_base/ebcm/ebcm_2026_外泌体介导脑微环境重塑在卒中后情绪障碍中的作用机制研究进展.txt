@@ -1,0 +1,738 @@
+标题: 外泌体介导脑微环境重塑在卒中后情绪障碍中的作用机制研究进展
+作者: 韵 丁, 静 滕, 元月 刘
+期刊: 临床医药循证研究 2026 第2卷 第3期
+DOI: 10.65140/ebcm202603.28
+来源URL: https://www.pangupress.com/journal/ebcm/2/3/28
+
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+20
+DOI: 10.65140/ebcm202603.28
+通讯作者：liuyuanyue@163.com
+外泌体介导脑微环境重塑在卒中后情绪障碍中的作用机制研究进展
+丁韵1，滕静2，刘元月1,*
+1 南京中医药大学第二附属医院，南京，210000
+2 顶山街道社区卫生服务中心，南京，210000
+摘
+要：卒中后抑郁与焦虑是卒中后高发神经精神并发症，可延缓神经康复，增加复发及死亡风险。该病临床漏诊
+率较高，缺乏早期特异性标志物，传统药物起效慢且不良反应明显。外泌体作为一类直径30~150 nm 的细胞外囊泡，
+稳定性强，可穿透血脑屏障，携带多种蛋白质及微小RNA 介导细胞间通讯，参与卒中后脑微环境重塑与情绪调控。
+卒中后胶质细胞与神经元释放病理性外泌体，通过加剧神经炎症、抑制BDNF/TrkB 通路损害突触可塑性、降解紧密
+连接蛋白破坏血脑屏障，并经肠-脑轴传递外周有害信号，诱发情绪障碍。干细胞及M2 型巨噬细胞来源的外泌体能
+逆转上述损伤，发挥神经保护作用。循环外泌体差异分子有望作为无创标志物用于筛查与病情评估；工程化外泌体
+可靶向递送活性物质，实现精准干预。然现有研究存在分离标准不一、出血性卒中机制不清、临床证据不足、制剂
+安全体系不完善等问题。后续需统一实验操作规范，结合多组学技术研发诊断标志物与靶向制剂，完善卒中后情绪
+障碍精准诊疗体系。
+关键词：细胞外囊泡；外泌体；卒中后情绪障碍；脑微环境重塑；神经炎症；
+基金项目：国家自然科学基金项目8220513；江苏省青年科技人才托举工程JSTJ-2025-215；院内菁英腾飞计划
+SEZJY202503；江苏省中医药学会雏鹰腾飞项目CYTF2024015
+Research Progress on the Mechanism of Exosomes Mediating
+Brain Microenvironment Remodeling in Post-stroke Emotional
+Disorders
+Yun Ding1 ,Jing Teng2,Yuanyue Liu1,*
+Abstract:Post-stroke depression and anxiety are highly prevalent neuropsychiatric complications following stroke, which
+can delay neurological recovery and increase the risk of recurrence and mortality. This disease features a high clinical
+missed diagnosis rate and lacks early specific biomarkers, while conventional pharmacological interventions have a slow
+onset of action and induce prominent adverse effects. As a class of extracellular vesicles with a diameter of 30–150 nm,
+exosomes exhibit high stability, can cross the blood-brain barrier, carry various proteins and microRNAs to mediate
+intercellular communication, and participate in post-stroke cerebral microenvironment remodeling and emotional regulation.
+After stroke, glial cells and neurons release pathological exosomes, which induce emotional disorders by exacerbating
+neuroinflammation, damaging synaptic plasticity via inhibiting the BDNF/TrkB pathway, disrupting the blood-brain barrier
+through degrading tight junction proteins, and transmitting peripheral harmful signals via the gut-brain axis. Exosomes
+derived from stem cells and M2 macrophages can reverse the aforementioned damage and exert neuroprotective effects.
+Differential molecules in circulating exosomes are promising as non-invasive biomarkers for screening and disease
+assessment; engineered exosomes can deliver active substances in a targeted manner to achieve precise intervention.
+
+临床医药循证研究杂志2026 年第2 卷第02 期
+21
+DOI: 10.65140/ebcm202603.28
+However, current research still has limitations including inconsistent isolation standards, unclear pathogenic mechanisms for
+hemorrhagic stroke, insufficient clinical evidence, and imperfect preparation safety systems. Future research should unify
+experimental operation specifications, develop diagnostic biomarkers and targeted preparations via integrating multi-omics
+technologies, and improve the precise diagnosis and treatment system for post-stroke mood disorders.
+Keywords: Extracellular Vesicles; Exosomes; Post-Stroke Mood Disorders; Cerebral Microenvironment Remodeling;
+Neuroinflammation
+1.
+引言
+卒中是全球致残、致死的主要病因之一。我
+国卒中后情绪障碍发病率居高不下，11%～41%患
+者2 年内发生卒中后抑郁（post-stroke depression，
+PSD），卒中后焦虑（post-stroke anxiety，PSA）
+发生率约35%，老年患者抑郁患病率达34.3%，
+且逐年上升[1-3]。PSD 与PSA 常共病存在、协同损
+害，显著降低康复依从性，阻碍神经功能恢复，
+增加卒中复发与死亡风险，严重影响预后。目前
+临床上因本病症状重叠易漏诊误诊、传统检查与
+标志物特异性不足，难以早期预警，同时一线药
+物起效慢、疗效差异大、不良反应明显[4]。因此，
+深入探索分子机制、研发精准诊疗策略，对完善
+卒中全程管理具有重要价值。
+细胞外囊泡是细胞分泌的纳米级脂质双层膜
+颗粒，可携带蛋白质、miRNA 等活性分子，介导
+细胞间信息传递。依据生成机制及粒径差异，细
+胞外囊泡主要分为外泌体（30～150 nm）、微囊
+泡（100～1000 nm）和凋亡小体（50～5000 nm）
+三大亚型[5]。外泌体具备突出优势：膜结构稳定，
+可保护内容物不被降解；能穿透血脑屏障，实现
+中枢与外周信号互通；不同来源外泌体具有特异
+性标志物与组织趋向性[6]，成为研究脑微环境重
+塑与情绪障碍机制的理想载体。
+近年研究证实，外泌体在卒中后情绪障碍中
+发挥双向调控作用。卒中可诱导神经元、胶质细
+胞等释放病理性外泌体，通过激活神经炎症、抑
+制神经可塑性、破坏血脑屏障、紊乱肠‑脑轴通路，
+介导并加剧PSD、PSA 的发生发展。而干细胞外
+泌体与工程化外泌体可递送抗炎、神经营养因子
+及功能性miRNA，修复脑微环境、改善情绪损伤，
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+22
+具备良好治疗潜力。同时，外泌体及其负载的分
+子谱可作为无创标志物，用于疾病早期筛查、诊
+断与预后评估。基于此，本文系统综述外泌体介
+导PSD/PSA 的生物学基础与核心机制，归纳其诊
+断与靶向治疗价值，梳理现有研究局限，展望临
+床转化方向，以期为卒中后情绪障碍的精准防治
+提供理论支撑与研究思路。
+2
+细胞外囊泡与外泌体的生物学基础
+2.1 EVs 与外泌体的分类、生成机制与生物学特征
+细胞外囊泡（EVs）是由细胞分泌的具有脂质
+双层膜结构的功能性纳米颗粒，在细胞间信息传
+递中扮演重要角色。外泌体作为EVs 中研究最为
+深入的亚型，粒径范围为30～150 nm，其生成涉
+及细胞内膜系统的有序调控：细胞膜通过内吞作
+用形成早期内体，继而成熟为晚期内体并在其膜
+上通过向内出芽形成多囊泡体（multivesicular
+body，MVB），其中包含大量腔内小泡。MVB
+可与溶酶体融合发生降解，与细胞膜融合将其内
+的腔内小泡释放至细胞外空间，这些释放出的腔
+内小泡被称为外泌体。外泌体富含四跨膜蛋白
+（CD9、CD63、CD81）、ESCRT 复合体相关蛋
+白以及热休克蛋白等特征性分子标志物，是鉴别
+外泌体与其他EVs 亚型的核心依据[5]。微囊泡是
+EVs 中粒径范围最宽的亚型（100～1000 nm），
+通过细胞膜直接向外出芽脱落的方式生成，涉及
+细胞骨架重塑、膜脂质组成变化和钙离子依赖性
+信号通路的激活。凋亡小体则是细胞发生程序性
+死亡时释放的最大尺寸EV 亚型（50～5000 nm），
+由凋亡细胞膜鼓泡后从细胞表面分离形成，其内
+部包含完整的细胞器、核碎片及染色质，表面暴
+露磷脂酰丝氨酸等“吞噬我”信号，主要功能是介
+导凋亡细胞的清除[7]。值得强调的是，目前相当
+数量的研究将“外泌体”与“EVs”概念混用，将本不
+属于外泌体的EV 组分错误归为外泌体，这种概
+念上的模糊严重影响了研究结果的可信度和可比
+性。因此，严格区分EVs 亚型并根据国际细胞外
+囊泡学会（ISEV）发布的MISEV 指南规范命名，
+已成为推动领域健康发展的基础性前提[8]。
+2.2 神经源性外泌体的特异性功能
+在中枢神经系统中，星形胶质细胞、小胶质
+细胞、神经元和少突胶质细胞等多种细胞类型均
+有分泌外泌体的能力，这些细胞来源的外泌体在
+脑内稳态维持和病理调控中发挥着不可替代的作
+用。其中星形胶质细胞是中枢神经系统中最丰富
+的胶质细胞，其释放的外泌体广泛参与神经元的
+成熟与保护、神经突生长、突触可塑性及神经炎
+症反应等关键过程。在生理条件下，星形胶质细
+胞源性外泌体通过转移miR-26a-5p 等miRNA 至
+神经元，靶向调控与神经元发育和形态相关的基
+因表达，影响树突复杂性；在氧化应激或缺氧条
+件下，星形胶质细胞利用外泌体将PrP 蛋白转移
+至神经元，从而提高神经元存活率[9]。然而，在
+炎症病理状态下，星形胶质细胞源性外泌体的释
+放数量显著增加，其内含物发生病理性改变，富
+含RhoA、MHC-I 和FSCN1 等抑制性蛋白，转而
+对神经突生长、分支和神经元电活动产生抑制作
+用。这种生理与病理条件下的功能转换，是星形
+胶质细胞源性外泌体在卒中后情绪调控中扮演
+“双刃剑”角色的结构基础。
+小胶质细胞作为中枢神经系统的常驻免疫细
+胞，其释放的外泌体在神经炎症调控中处于核心
+地位。在卒中病理状态下，小胶质细胞被激活并
+极化为M1（促炎）或M2（抗炎）表型，其分泌
+的外泌体携带相应的炎症相关miRNA 和细胞因
+子，靶向调控神经元与星形胶质细胞的功能状态
+[10]。研究证实，M2 型小胶质细胞/巨噬细胞来源
+的外泌体可通过抑制核因子κB（NF-κB）信号通
+路的激活，促进小胶质细胞由M1 型向M2 型转
+化，抑制肿瘤坏死因子-α（TNF-α）、白细胞介素
+-1β（IL-1β）等促炎因子的表达，上调抗炎因子
+IL-10 的表达[11]。神经元源性外泌体则主要参与突
+触可塑性和神经环路重塑的调控。神经元分泌的
+外泌体中含有miR-124a，可被星形胶质细胞摄取
+后上调兴奋性氨基酸转运体2/谷氨酸转运体1
+（EAAT2/GLT-1）的表达，增强星形胶质细胞摄
+取谷氨酸的能力，从而维持突触间隙的谷氨酸稳
+态[12]。此外，神经元外泌体也参与α-突触核蛋白、
+TDP-43 等病理蛋白在神经细胞间的传递，在神经
+退行性疾病的播散中发挥关键作用，提示其在卒
+中后继发性神经退行性变中也可能具有潜在参与。
+2.3 卒中病理状态下外泌体的表达与功能重塑
+卒中发生后，缺血缺氧、氧化应激和炎症反
+应等病理因素引发中枢及外周多种细胞分泌外泌
+体的数量、粒径分布及分子内容物发生显著改变。
+基于高通量测序的研究在缺血性卒中患者血浆外
+泌体中鉴定出95 个差异表达的miRNA，其中40
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+23
+个上调、55 个下调；进一步分析显示，
+hsa-miR-1303
+、
+hsa-miR-125b-1-3p
+和
+hsa-miR-548ab 在卒中组显著上调，hsa-miR-1289
+则显著下调。这些差异表达miRNA 的靶基因主要
+集中在PI3K-Akt、丝裂原活化蛋白激酶（MAPK）、
+钙信号和Ras 等信号通路，而这些通路恰好是神
+经元存活、突触可塑性和情绪调节的核心信号网
+络[13]。另一项独立研究也在急性缺血性卒中患者
+血清EVs 中鉴定出5 个差异表达miRNA，其中
+hsa-let-7b-5p、hsa-miR-16-5p 和hsa-miR-320c 显
+著上调，hsa-miR-548a-3p 和hsa-miR-6808-3p 显
+著下调，其靶基因涉及哺乳动物雷帕霉素靶蛋白
+（mTOR）、PI3K-Akt 和p53 等关键信号通路[14]。
+这些研究提示了卒中后循环外泌体中miRNA 的
+表达变化不仅是疾病的伴随现象，更可能通过调
+控靶细胞的功能状态直接参与卒中后继发性病理
+进程，包括PSD 和PSA 的发生发展。
+同时在蛋白质水平，卒中后外泌体也表现出
+显著的功能重塑。有研究发现，卒中模型来源的
+海马外泌体注射后显著加重了小鼠的抑郁样行为，
+伴随抑郁相关蛋白proBDNF 和p75NTR 表达升高，
+以及突触相关蛋白（Synaptotagmin 和PSD95）表
+达缺陷和树突棘密度降低[2]。这一发现直接证明，
+卒中后病理状态下外泌体内容物的异常改变不仅
+是应激响应的“旁观者”，更是推动情绪障碍发生
+的“主动参与者”。需要指出的是，现有研究主要
+聚焦于缺血性卒中后的外泌体改变，而对出血性
+卒中这一更具破坏性的卒中类型中外泌体的差异
+表达及其功能意义，目前尚缺乏系统性报道。缺
+血性与出血性卒中所引发的截然不同的病理生理
+过程，前者以能量耗竭和兴奋性毒性为核心，后
+者以血肿占位效应和血红蛋白降解产物的神经毒
+性为主导，极有可能导致外泌体的差异表达谱与
+功能重塑模式存在本质差异，这一方向亟待深入
+研究。
+3
+外泌体调控卒中后情绪障碍的核心分子机制
+卒中后情绪障碍的发病机制涉及脑微环境紊
+乱、神经环路损伤与情绪调控网络异常的复杂级
+联反应。外泌体通过介导多种病理生理过程的多
+维交互，在这一链条中发挥着双向调控作用。
+3.1 介导神经炎症级联反应诱发情绪异常
+卒中发生后，小胶质细胞被迅速激活并释放
+携带多种炎症相关分子的外泌体，介导脑内慢性
+神经炎症状态，这被认为是PSD 和PSA 发生的核
+心驱动机制之一。在炎症早期，M1 型小胶质细胞
+释放的外泌体富含促炎miRNA（如miR-155、
+miR-146a）和炎症细胞因子（如IL-1β、TNF-α），
+这些外泌体可被邻近的星形胶质细胞和神经元摄
+取，诱导其进入炎症激活状态，进而损伤海马、
+前额叶皮质和杏仁核等情绪调控核心脑区的神经
+元结构与功能[15]。尤其值得关注的是，缺血性脑
+卒中时外泌体介导的炎症因子可进一步加重血脑
+屏障损伤，形成“炎症-屏障损伤-炎症加重”的恶性
+循环，间接参与情绪障碍的发生。
+值得注意的是，外泌体在调控小胶质细胞极
+化状态方面展现出的双向调节潜力正在被逐步认
+知。研究表明，M2 型巨噬细胞来源的外泌体可通
+过抑制NF-κB 信号通路激活，有效促进小胶质细
+胞从促炎的M1 型向抗炎的M2 型转化，从而发
+挥抗炎与神经保护作用[11]。这一外泌体介导的免
+疫调节机制为卒中后情绪障碍的抗炎治疗开辟了
+新的切入点。研究者设计了巨噬细胞源性外泌体
+功能化的聚乳酸-羟基乙酸共聚物（PLGA）纳米
+制剂来递送雷公藤红醇和米诺环素，结果证实该
+制剂有效抑制了M1 型促炎极化（iNOS 和CD86
+水平显著降低），促进M2 型抗炎极化（Arg-1 和
+CD206 水平升高），同时减轻海马区的神经元损
+伤与炎症反应，显著改善了抑郁样行为[16]。最新
+研究还发现，间充质干细胞来源外泌体
+（MSC-Exos）可通过调节NLRP3 炎症小体活化，
+在神经炎症相关中枢神经系统疾病中发挥保护作
+用，这为外泌体靶向神经炎症治疗PSD 提供了新
+的分子靶点[17]。此外，研究证实海马外泌体通过
+调节proBDNF 和p75NTR 表达、改变树突棘密度
+加重PSD，进一步揭示了外泌体在神经炎症与突
+触损伤交互调控中的新机制[2]。这些发现提示，
+通过干预外泌体介导的小胶质细胞极化调控，可
+能成为治疗PSD 的有效策略之一。
+3.2 调控神经可塑性与突触重塑障碍
+脑源性神经营养因子（BDNF）及其下游TrkB
+信号通路是调控神经可塑性和突触重塑的核心分
+子系统，其功能异常与卒中后情绪障碍密切相关。
+现有研究表明，卒中后外泌体携带的BDNF 水平
+下降以及miRNA对BDNF/TrkB通路的负向调控，
+是PSD 发生的关键分子环节。卒中后异常表达的
+外泌体miRNA 可通过靶向BDNF 或TrkB 的3‘非
+翻译区（3’UTR），抑制BDNF 的转录与翻译，
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+24
+减少海马和前额叶皮质中BDNF 的含量，进而导
+致神经元存活率下降、树突复杂性降低和突触可
+塑性受损[18]。精神疾病相关研究证实，外泌体携
+带的microRNA（如miR-137、miR-132）可调控
+突触相关蛋白（如PSD-95、Synapsin I）的表达，
+与抑郁症、双相情感障碍的发病机制密切相关，
+为理解卒中后情绪障碍的突触水平调控提供了重
+要参考[19]。此外，外泌体还通过MAPK、PI3K-Akt
+等信号通路间接影响神经发生与突触重塑。这些
+通路活性的降低不仅削弱了神经元对损伤的修复
+能力，也破坏了情绪相关神经环路的重建，最终
+导致情绪调节功能障碍。
+3.3 破坏血脑屏障完整性加剧脑内微环境紊乱
+血脑屏障（Blood-Brain Barrier，BBB）的完
+整性是维持脑内微环境稳态的结构基础，而BBB
+功能障碍已被证实是PSD 发病的重要环节。卒中
+的发生可通过多种途径导致BBB 破坏。一方面，
+脑血管内皮细胞在缺血缺氧条件下释放病理性的
+外泌体，携带基质金属蛋白酶（MMPs）等分子，
+直接降解紧密连接蛋白（如claudin-5、occludin）
+和基底膜成分，增加BBB 通透性；另一方面，外
+周激活的免疫细胞释放含炎症因子的外泌体，进
+一步加剧BBB 功能障碍[20]。
+BBB 的破坏打破了脑内微环境的隔离状态，
+形成“外周炎症因子侵入→脑内炎症反应加剧
+→BBB 进一步破坏”的恶性循环，为外周来源的病
+理性分子进入脑内提供了通道。这些外来的炎症
+信号作用于海马、前额叶皮质等情绪调控脑区，
+可触发或加重神经炎症反应，进而损害情绪调节
+功能。目前，外泌体介导BBB 损伤参与卒中后情
+绪障碍的机制虽已有初步认识，但仍缺乏系统性
+总结与验证。基于工程化外泌体修复BBB 损伤的
+最新研究，如M2 巨噬细胞外泌体递送触珠蛋白
+和IL-10 质粒促进BBB 修复、槲皮素负载工程化
+外泌体靶向p21⁺CD86⁺小胶质细胞缓解BBB 破坏
+等，为未来通过外泌体干预修复BBB 功能从而改
+善PSD 提供了新思路[21, 22]。这一创新机制点的深
+入解析，将有助于揭示PSD 和PSA 发病机制中“外
+周-中枢”联动的全新维度。
+3.4 介导肠道菌群-脑轴调控卒中后情绪障碍
+肠道菌群-脑轴是连接消化系统与中枢神经
+系统的双向通讯通路，近年来在情绪调控中的作
+用日益受到重视。卒中事件可触发肠道菌群的显
+著紊乱-菌群多样度下降、有益菌与致病菌比例失
+调、短链脂肪酸等代谢产物谱改变。这些菌群失
+调会诱导肠道上皮屏障功能障碍，使细菌代谢物
+和内毒素（如脂多糖LPS）经受损的肠上皮进入
+门静脉循环和体循环，进而触发系统性低度炎症
+状态[23]。
+外泌体在这一过程中扮演着核心的信息传递
+载体角色。肠道菌群代谢物或LPS 可刺激肠黏膜
+免疫细胞和肠上皮细胞释放外泌体，这些外泌体
+携带炎症性miRNA 和蛋白质，经血液循环跨越受
+损的BBB，将“肠道异常信号”传递至中枢神经系
+统，激活脑内小胶质细胞，诱导神经炎症反应，
+最终影响情绪调控脑区的功能[24]。有研究发现抑
+郁症患者大脑细胞外囊泡中存在与突触功能相关
+的蛋白质表达差异，提示外周EVs 的蛋白组学变
+化可能反映中枢神经系统对肠道菌群紊乱的应答
+状态[25]。从“肠-脑”交互视角解析卒中后情绪障碍
+的发生机制，突破了传统以中枢为单一研究对象
+的局限，为开发基于肠道微生态和外周EVs 干预
+的全新治疗策略提供了理论依据。目前关于外泌
+体介导肠道菌群-脑轴调控PSD 和PSA 的报道仍
+较为零散，亟需整合性的机制解析和系统的实验
+验证。
+4
+外泌体在卒中后情绪障碍的生物标志物价值
+外泌体作为液体活检的理想载体，可跨血脑
+屏障进入外周循环，能客观反映中枢病理改变，
+是卒中后情绪障碍早期筛查的“液态窗口”。研究
+证实，卒中后抑郁患者血浆外泌体中miR-16-5p、
+miR-320c 等表达显著升高[14]，小胶质细胞外泌体
+中的维生素D 结合蛋白也具备潜在诊断价值，提
+示外泌体携带的miRNA、蛋白质可作为PSD 候
+选标志物[26]。外泌体兼具病理调控与分子标记双
+重作用，其跨血脑屏障特性使其成为精神障碍精
+准检测的优势靶点。但现有研究存在样本量偏小、
+缺乏PSD/PSA 共病分层等不足，构建多miRNA
+联合检测模型，可有效提升诊断效能。
+外泌体内容物水平与疾病严重程度、神经康
+复及复发风险密切相关。其miRNA 表达量与抑
+郁评分呈正相关，mRNA 及蛋白标志物可反映卒
+中后慢性神经炎症水平，是PSD 迁延不愈的重
+要病理基础。通过动态监测不同病程阶段外泌体
+标志物变化，可建立预后评估体系，为高风险患
+者识别与个体化干预提供客观依据。
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+25
+单一标志物难以满足临床需求，整合多组学
+与机器学习构建外泌体多分子联合诊断模型，是
+实现精准筛查的关键方向。高通量测序、质谱技
+术与人工智能算法的结合，可显著提升标志物筛
+选效率，推动外泌体从基础研究向临床转化，为
+卒中后情绪障碍早期诊断提供新策略
+5
+外泌体在卒中后情绪障碍治疗中的转化应用
+间充质干细胞来源外泌体（MSC-Exos）是卒
+中后神经修复最具转化潜力的治疗载体，可通过
+递送miRNA（如miR-133b、miR-17-92 簇）与神
+经营养因子，发挥抗炎、抗凋亡、促进神经发生
+与突触再生等作用，并能穿越血脑屏障、调控小
+胶质细胞活化，有效改善卒中后神经功能缺损
+[27-29]。尽管直接用于卒中后情绪障碍的研究有限，
+但其在神经修复中的明确疗效，为卒中后抑郁
+（PSD）与焦虑（PSA）治疗提供了重要依据。最
+近研究还发现MSC 外泌体中PINK1 可减轻脑出
+血后神经功能缺损和炎症反应，进一步拓展了
+MSC-Exos 在出血性卒中后并发症治疗中的应用
+前景[30]。NK 细胞来源的外泌体已被报道通过上
+调miR-207 减轻抑郁样症状，为免疫源性外泌体
+治疗PSD 开辟了新方向[31]。
+天然外泌体存在靶向性弱、载药效率低等局
+限，工程化外泌体可通过基因修饰、药物负载及
+表面改性，实现病变脑区精准递送与可控释放，
+成为突破治疗瓶颈的关键策略。有研究成功设计
+并构建了巨噬细胞源性外泌体功能化的PLGA 纳
+米制剂，将具有神经活性的雷公藤红醇和米诺环
+素封装其中用于治疗PSD 大鼠模型。该制剂不仅
+有效递送双药至脑内，还通过调控小胶质细胞
+M1/M2 极化，显著减轻海马区神经元损伤和神经
+炎症，改善抑郁样行为[16]。用于治疗缺血性卒中
+大鼠的miR-100-5p 拮抗剂负载工程化外泌体可促
+进神经功能恢复[32]。近期研究还构建了神经干细
+胞源性外泌体与负载玉郎伞多糖的脂质体融合的
+杂合纳米平台，兼具BBB 穿透性和抗炎活性[22]。
+在神经退行性疾病中，工程化M2 小胶质细胞来
+源外泌体实现了跨BBB 递送miR-124-3p，下调β-
+淀粉样蛋白沉积，抑制胶质细胞过度活化，改善
+认知功能[33]，这些研究为工程化外泌体靶向治疗
+PSD 和PSA 提供了重要的方法学借鉴。此外，针
+对微胶质细胞衰老的新型工程化外泌体递送槲皮
+素，可减轻BBB 破坏并促进有益的小胶质细胞极
+化[21]。
+当前外泌体治疗仍处于临床前期，主要面临
+规模化制备、质量控制、安全性评价及给药方案
+标准化等挑战。未来外泌体将以三种核心形式服
+务于卒中后情绪障碍：作为液体活检标志物实现
+早期预警；作为干细胞外泌体制剂辅助神经修复；
+作为工程化载体实现靶向药物/miRNA 精准递
+送。尽管外泌体在神经系统疾病中展现出良好前
+景，但其临床转化仍需大量基础研究与多中心临
+床试验支撑。
+6
+当前研究存在的问题与未来展望
+尽管外泌体在卒中后情绪障碍中的调控作用
+已得到初步证实，但该领域仍面临方法学、机制
+研究与临床转化等多重瓶颈，严重限制了研究的
+深度与应用价值。目前，细胞外囊泡的分离纯化
+与鉴定缺乏统一标准，研究结果难以重复与比对；
+且研究多局限于缺血性卒中模型，不同细胞来源
+外泌体的功能特异性尚未明确。机制研究仍停留
+在分子差异与表型观察层面，对外泌体介导神经
+炎症、突触重塑及肠–脑轴紊乱的核心信号通路缺
+乏系统性因果验证。
+临床转化方面，外泌体标志物缺乏大样本多
+中心临床研究支撑，诊断标准尚未统一；工程化
+外泌体的安全性、代谢规律及规模化制备体系尚
+未建立，且动物实验与临床应用间存在明显的物
+种差异。同时，领域内概念混用、命名不规范等
+问题突出，对卒中后抑郁与焦虑的亚型异质性关
+注不足，进一步降低了研究的精准性。
+未来研究应以精准化、标准化与临床转化为
+核心方向：利用基因编辑与多组学技术阐明外泌
+体的细胞特异性调控网络，构建疾病亚型精准机
+制模型；结合人工智能开发无创多分子联合诊断
+体系，实现早期预警与预后评估；优化工程化外
+泌体靶向递送系统，开展高级别临床前评价；建
+立标准化研究体系与多中心队列，最终构建覆盖
+预警、分型、治疗及监测的全流程精准诊疗新模
+式，为卒中后情绪障碍的基础研究与临床革新提
+供关键支撑。
+7.
+结论
+外泌体作为细胞间信息传递的新型载体，在
+卒中后情绪障碍的发病机制解析、生物标志物开
+发和靶向治疗探索中均展现出巨大潜力。本文系
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+26
+统梳理了外泌体在卒中后情绪障碍中的核心调控
+机制-包括介导神经炎症级联反应、调控神经可塑
+性与突触重塑、破坏血脑屏障完整性以及介导肠
+道菌群-脑轴通信等多维机制，明确了外泌体作为
+脑微环境重塑与情绪调控之间关键信号载体的科
+学价值。然而，当前研究在外泌体分离标准化、
+机制解析深度和临床验证规模等方面仍存在关键
+瓶颈，外泌体与EVs 概念混用的问题亟待规范。
+未来需依托大规模多中心临床研究，结合精准机
+制探索和跨界技术融合，推动外泌体从基础研究
+走向临床应用，为卒中后情绪障碍的精准防治提
+供全新思路与策略。
+【参考文献】
+[1]
+Sanmartin MX, Katz JM, Ali MM, et al. Trends
+and Disparities in Poststroke Depression Within 1
+Year of Ischemic Stroke. J Neuropsychiatry Clin
+Neurosci. 2026;38(2):120-127.
+[2]
+Huang S, Nie Y, Qin J, et al. Hippocampal
+exosomes
+from
+stroke
+aggravate
+post-stroke
+depression
+by
+regulating
+the
+expression
+of
+proBDNF and p75NTR and altering spine density.
+Sci Rep. 2024;14(1):28223.
+[3]
+Zheng M, Chen P, Zhang L, et al. Prevalence and
+network
+structure
+of
+depression
+and
+its
+association with quality of life among older stroke
+survivors: findings from a national survey in
+China. Gen Psychiatr. 2025;38(2):e101838.
+[4]
+Vogel-Eyny A, Jung YJ, Hyun J, et al. Prevalence
+of depression in post-stroke aphasia: systematic
+review
+and
+meta-analysis.
+BMC
+Neurol.
+2025;26(1):43.
+[5]
+Andjus P, Kosanović M, Milićević K, et al.
+Extracellular Vesicles as Innovative Tool for
+Diagnosis, Regeneration and Protection against
+Neurological
+Damage.
+Int
+J
+Mol
+Sci.
+2020;21(18):6859..
+[6]
+El Andaloussi S, Mäger I, Breakefield XO, et al.
+Extracellular
+vesicles:
+biology
+and
+emerging
+therapeutic opportunities. Nat Rev Drug Discov,
+2023, 22(7): 549-571.
+[7]
+van Niel G, D‘Angelo G, Raposo G. Shedding
+light on the cell biology of extracellular vesicles.
+Nat Rev Mol Cell Biol, 2018, 19(4): 213-228.
+[8]
+Witwer KW, Théry C. Extracellular vesicles or
+exosomes? On primacy, precision, and popularity
+influencing a choice of nomenclature. J Extracell
+Vesicles, 2019, 8(1): 1648167.
+[9]陈佳强,丁梅. 神经系统细胞外囊泡研究进展[J].
+遗
+传
+,
+2025,
+47
+(11):
+1197-1213.
+DOI:10.16288/j.yczz.24-372.
+[10] Paolicelli
+RC,
+Bergamini
+G,
+Rajendran
+L.
+Cell-to-cell
+Communication
+by
+Extracellular
+Vesicles:
+Focus
+on
+Microglia.
+Neuroscience.
+2019;405:148-157.
+[11]方俊,魏伟,薛亚婷,等. M2 型巨噬细胞衍生外泌
+体促进小胶质细胞M2 型极化[J]. 中国组织工
+程研究, 2025, 29 (25): 5320-5327.
+[12] Morel L, Regan
+M, Higashimori H, et al.
+Neuronal
+exosomal
+miRNA-dependent
+translational regulation of astroglial glutamate
+transporter GLT1. J Biol Chem, 2013, 288(10):
+7105-7116.
+[13] Lan HF, Yuan SS, Song YL, et al. Differential
+analysis of microRNAs in plasma exosomes in
+patients with cerebral ischemic stroke. Medicine,
+2024, 103(48): e40677.
+[14] Pir GJ, Choudhary S, Singh S, et al. Differentially
+expressed miRNA profiles of serum derived
+extracellular vesicles from patients with acute
+ischemic stroke. Brain Res, 2024, 1845: 149171.
+[15] Brites D, Fernandes A. Neuroinflammation and
+depression:
+microglia
+activation,
+extracellular
+microvesicles and microRNA dysregulation. Front
+Cell Neurosci, 2015, 9: 476.
+[16] Lv Z, Zhao C, Wu X, et al. Facile engineered
+macrophages-derived
+exosomes-functionalized
+PLGA nanocarrier for targeted delivery of dual
+drug formulation against neuroinflammation by
+modulation
+of
+microglial
+polarization
+in
+a
+post-stroke
+depression
+rat
+model.
+Biomed
+Pharmacother. 2024;179:117263.
+[17] Nazari
+S,
+Pourmand
+SM,
+Motevaseli
+E,
+Hassanzadeh G. Mesenchymal stem cells (MSCs)
+and MSC-derived exosomes in animal models of
+central nervous system diseases: Targeting the
+NLRP3
+inflammasome.
+IUBMB
+Life.
+2023;75(10):794-810.
+
+临床医药循证研究杂志2026 年第2 卷第03 期
+27
+[18]荣婧彤,孙思琦,刘忠纯. 外泌体在抑郁症中研究
+进展[J]. 中国神经精神疾病杂志, 2023, 49 (4):
+247-250.
+[19]陈海霞,叶军,陈海妮,等. 外泌体作为精神分裂症
+生物学标志物及检测技术的研究进展[J]. 临
+床检验杂志, 2026, 44 (1): 37-40.
+[20] Roig-Carles D, Willms E, Fontijn RD, et al.
+Endothelial-Derived Extracellular Vesicles Induce
+Cerebrovascular Dysfunction in Inflammation.
+Pharmaceutics. 2021;13(9):1525.
+[21] Yang J, Wu S, He M. Engineered Exosome-Based
+Senolytic Therapy Alleviates Stroke by Targeting
+p21+CD86+
+Microglia.
+Exploration
+(Beijing).
+2025;5(3):20240349.
+[22] Xie
+X,
+Zhou
+X,
+Chen
+W,
+et
+al.
+Hybrid
+Exosome-Liposome
+Nanoparticles
+for
+Dual
+Modulation
+of
+Neuroinflammation
+and
+Lipid
+Metabolism in Ischemic Stroke. ACS Nano.
+2025;19(37):33567-33586.
+[23]林晓丹,魏聪惠,罗军. “微生物-肠-脑”轴在抗抑郁
+治疗中的研究进展[J]. 南昌大学学报(医学版),
+2026, 66 (1): 92-99.
+[24]杨孜萌,孙璐,李新意,等. 外泌体在抑郁症发病机
+制及诊疗中的研究进展[J]. 中国神经精神疾
+病杂志, 2026, 52 (1): 43-48.
+[25]杨彤彤,隋华杰,朱腾高,等. 抑郁症发病的分子机
+制及检测技术研究[J/OL]. 中国科学:生命科学,
+1-16[2026-06-18].
+[26] Wu J, Lu J, Pan MZ, et al. Update on the roles
+and
+applications
+of
+extracellular
+vesicles
+in
+depression.
+World
+J
+Psychiatry.
+2025;15(3):102643.
+[27] Kumar
+RMR,
+Rajan
+L,
+Chidambaram
+SB.
+Exosomes as Emerging Therapeutic Platforms in
+Neurological
+and
+Psychiatric
+Disorders.
+Pharmaceut Med. 2025;39(6):427-443.
+[28]林亮吟,李小黎,刘海鹏,等. 外泌体源性miRNA
+在卒中及卒中后抑郁中的治疗作用及研究进展
+[J]. 世界科学技术-中医药现代化, 2020, 22 (9):
+3263-3269.
+[29]徐买元,薛京,田瑜,等. 干细胞外泌体递送脑源性
+神经营养因子治疗急性脑损伤的研究进展[J].
+检验医学与临床, 2026, 23 (6): 848-857+864.
+[30] Li J, Yang L, Zhao L, Li J. Exosomal PINK1 from
+Human Umbilical Cord Mesenchymal Stem Cells
+Attenuates
+Neurological
+Deficits
+and
+Inflammatory
+Responses
+after
+Intracerebral
+Hemorrhage
+in
+Mice. ACS
+Chem
+Neurosci.
+2025;16(4):619-627.
+[31] Li D, Wang Y, Jin X, et al. NK cell-derived
+exosomes
+carry
+miR-207
+and
+alleviate
+depression-like
+symptoms
+in
+mice.
+J
+Neuroinflammation. 2020;17(1):126.
+[32] Cheng Y, Gai C, Zhao Y, et al. Engineered
+Extracellular Vesicles Loaded with MiR-100-5p
+Antagonist
+Selectively
+Target
+the
+Lesioned
+Region to Promote Recovery from Brain Damage.
+Neurosci Bull. 2025;41(6):1021-1040.
+[33]陈曦,李玉姣,赵岚. microRNA-124 在阿尔兹海默
+症中的作用及针刺干预研究进展[J]. 天津中
+医药大学学报, 2024, 43 (1): 64-70.

@@ -1,0 +1,533 @@
+标题: 癫痫与睡眠障碍关系的相关机制研究进展
+作者: 胡雅婷, 孔庆霞, 闫换
+期刊: 精准医学杂志 2026 第41卷 第5期
+DOI: 10.13362/j.jpmed.202641026
+来源URL: https://jpmed.qdu.edu.cn/CN/10.13362/j.jpmed.202641026
+
+
+精准医学杂志2026年10月第41卷第5期 JPrecisMed,October2026,Vol.
+41,No.
+5
+doi:10.
+13362/j.
+jpmed.
+202641026  文章编号:2096-529X(2026)05-0466-04
+·综述·
+[收稿日期]2025-05-17; [修订日期]2025-12-18
+[基金项目]山东省医药卫生科技项目(2024403070145);济宁
+市重点研发计划项目(2023YXNS091)
+[通信作者] 孔庆霞,Email:kxdqy8@sohu.
+com;闫换,Email:
+4232112087@163.
+com
+癫痫与睡眠障碍关系的相关机制研究进展
+胡雅婷1,2 孔庆霞2 闫换2
+(1 济宁医学院,山东济宁 272000; 2 济宁医学院附属医院神经内科)
+[摘要] 睡眠障碍可能诱发或加重癫痫,而癫痫发作也可能干扰患者的睡眠状况。失眠、阻塞性睡眠呼吸暂
+停、发作性睡病、不宁腿综合征等睡眠障碍与癫痫共病的机制十分复杂,发作性睡病和癫痫可能具有相同的发病机
+制,非快速眼动睡眠相关异态睡眠与睡眠相关性过度运动性癫痫的诊断需相互鉴别。本文在阐述癫痫与睡眠障碍
+关系相关机制的同时,还阐述了睡眠结构对癫痫的影响,以期为有效控制癫痫发作和治疗该类患者的睡眠障碍提
+供参考。
+[关键词] 癫痫;睡眠觉醒障碍;入睡和睡眠障碍;睡眠呼吸暂停,阻塞性;发作性睡病;不宁腿综合征;睡眠,
+快速眼运动;睡眠结构;综述
+[中图分类号] R742.
+1;R749.
+7    [文献标志码] A
+Researchadvancesinthemechanismoftherelationshipbetweenepilepsyandsleepdisorders HUYa-
+ting,KONGQingxia,YAN Huan (JiningMedicalUniversity,Jining272000,China)
+[ABSTRACT] Sleepdisordersmayinduceorexacerbateepilepsy,andseizuresmayinterferewiththestatusofsleep.There
+arecomplexmechanismsforthecomorbiditybetweensleepdisorders(suchasinsomnia,obstructivesleepapnea,narcolepsy,and
+restlesslegssyndrome)andepilepsy;narcolepsyandepilepsy maysharethesamepathogenesis,andnon-rapideye movement
+sleep-relatedparasomniasandsleep-relatedhypermotorepilepsyneedtobedifferentiatedfromeachother.Thisarticledescribesthe
+mechanismoftherelationshipbetweenepilepsyandsleepdisordersandelaboratesontheinfluenceofsleeparchitectureonepilepsy,
+inordertoprovideareferenceforeffectiveseizurecontrolandthetreatmentofsleepdisordersinsuchpatients.
+[KEY WORDS] Epilepsy;Sleepwakedisorders;Sleepinitiationandmaintenancedisorders;Sleepapnea,obstructive;Nar-
+colepsy;Restlesslegssyndrome;Sleep,REM;Sleepstructure;Review
+  癫痫是由多种病因引起的慢性脑部疾病,由大脑神经元
+高度同步化异常放电所致,具有反复刻板性发作的临床特
+征,常伴随神经功能损害。睡眠障碍是癫痫患者的常见并发
+症。研究显示,癫痫和睡眠质量之间的关系是双向的,因为
+反复发作的癫痫会显著影响患者的睡眠,而良好的睡眠可以
+缓解癫痫的发作[1]。癫痫患者常伴有睡眠障碍,常见的睡眠
+障碍类型有失眠、阻塞性睡眠呼吸暂停(OSA)、发作性睡病、
+不宁腿综合征(RLS)以及非快速眼动睡眠(NREM)相关异
+态睡眠。癫痫患者中显著升高的睡眠障碍,构成癫痫发作频
+率增加及不良预后的独立风险因素。尽管人们对癫痫共患
+睡眠障碍的认识逐步提高,但目前仍缺乏癫痫与睡眠障碍关
+系相关机制的研究。现对近年关于睡眠结构对癫痫的影响、
+癫痫与睡眠障碍关系相关机制进行综述。
+1 癫痫与睡眠结构
+癫痫会扰乱睡眠结构,因此癫痫患者睡眠障碍的患病率
+更高。睡眠结构由NREM 期和快速眼动睡眠(REM)期组
+成。在REM 期,脑电图(EEG)呈现低幅快波模式,并伴随
+骨骼肌张力的完全抑制,REM 期通过增强前脑抑制性神经
+递质释放及抑制谷氨酸能传递,可以显著降低皮质神经元兴
+奋性,其抑制效应可达到:①痫样放电传播阻断;②发作间期
+癫痫样放电(IEDs)发生率降低≥70%(部分患者可以完全抑
+制)[2]。根据反映神经元活动的特定脑电波模式,NREM 期
+可分为N1、N2 和N3 三个阶段。NREM 期与REM 期以
+90~120min为周期交替循环,且周期结构呈动态演变:前
+半夜以N3阶段慢波睡眠为主,后半夜REM 期持续时间逐
+次延长[3]。在NREM 期,脑干网状上行激活系统对丘脑的
+兴奋性输入减弱,会导致丘脑皮质神经元超极化和同步化振
+荡。该同步化状态通过促进神经元集群的同步放电,显著增
+加IEDs的发生概率(较清醒期时增加3~5倍)。需要注意
+的是,REM 期持续存在的IEDs具有较高的致痫灶定位的价
+值———因其能在REM 期显著抑制性神经生理环境(高胆碱
+能张力、脑电去同步化、感觉门控增强)下持续存在,该现象
+可直接反映致痫灶兴奋性的异常情况[4]。基于此,REM 期
+痫样放电的空间分布可作为判断癫痫发作起始区定位的可
+靠依据[5]。REM 期患者神经元ATP/二磷酸腺苷(ADP)比
+值显著下降表明此时大脑处于极高的能量消耗状态,从而致
+大脑能量供需失衡,通过激活腺苷A1受体抑制大脑皮质的
+兴奋性,使REM 期局灶性癫痫发作频率较NREM 期降低
+83.
+2%
+[6]。因此,NREM 期同步化振荡网络促进癫痫样放电
+扩散,而在REM 期则是通过能量代谢依赖的腺苷能抑制通
+路发挥内源性抗痫作用。GIULIANO 等[7]及YEH 等[8]研
+·
+6
+6
+4
+·
+
+精准医学杂志2026年10月第41卷第5期 JPrecisMed,October2026,Vol.
+41,No.
+5
+究发现,局灶性癫痫患者REM 期占比显著降低,且REM 期
+占比降低程度与颞叶痫样放电负荷呈现显著负相关,提示
+REM 期时长缩短可通过减弱腺苷能抑制作用,促进致痫网
+络的兴奋性;同时发现NREM 期癫痫发作频率为REM 期
+的4.
+22倍,揭示NREM 期脑电同步化会让癫痫放电更容易
+扩散,而REM 期的自我保护机制则能压制癫痫发作。
+2 癫痫与失眠
+癫痫与失眠存在双向病理促进关系。一项癫痫与睡眠
+紊乱的前瞻性横断面研究显示,睡眠紊乱加剧了癫痫的发
+作[9]。MACÊDO 等[10]对成年与儿童癫痫患者睡眠质量进
+行研究,发现癫痫患者更易出现失眠症状,其中最常见的失
+眠症状是睡眠维持困难(6.
+9%~79.
+0%),其次是睡眠起始困
+难(12.
+9%~38.
+1%)。癫痫发作时外周和脑内的免疫细胞会
+异常活跃,释放危险信号,并产生促炎介质,包括细胞因子、
+补体因子、前列腺素等,引发一系列的神经炎症持续反应,最
+终可致神经变性[11]。同时,促炎介质的产生也会引发睡眠
+障碍,进而导致失眠[12]。而睡眠障碍也可促进神经元的丢
+失,致癫痫的发作频率增加和症状加剧[13]。综上,癫痫与失
+眠通过神经炎症介导形成双向恶性循环。
+3 癫痫与OSA
+OSA 的主要特点为发作性的呼吸暂停/低通气和觉醒
+状态,伴发间歇性低氧血症和睡眠剥夺。同时OSA 也会导
+致睡眠结构发生变化,即NREM 中的N2阶段增长、N3 阶
+段和REM 期时长缩短。癫痫发作呈显著睡眠依赖性,在
+NREM 期N2阶段发生率最高,其机制在于丘脑-皮质纺锤
+波振荡促进了神经元同步放电。OSA 通过延长N2阶段,扩
+大丘脑-皮质振荡网络的兴奋性时间窗,致使局灶性癫痫发
+作风险增加约3.
+2倍[14]。研究表明,未经治疗的OSA 具有
+间歇性低氧血症、睡眠结构紊乱、睡眠碎片化及睡眠效率降
+低等临床症状,可通过激活HIF-1α/NF-κB介导的神经炎症
+通路并诱发线粒体功能障碍,降低癫痫发作阈值,使发作风
+险增加约3.
+2倍[15]。一项针对84例癫痫患儿进行的前瞻性
+研究显示,在难治性癫痫(每月发作次数大于1次)患儿中,
+有43.
+8%同时患有OSA,而在发作频率为每月0次或1次
+的患儿中,约有30.
+7%患有OSA
+[16]。越来越多的研究证明,
+OSA 的低氧血症可能会引起氧化应激,进而激活炎症通路,
+产生白细胞介素-6和肿瘤坏死因子-α,从而引起癫痫发作。
+然而,也有一些研究认为,低氧血症不是导致癫痫发作的主
+要原因,因为患有OSA 的癫痫患者的血氧饱和度降低不够
+明显[17]。基于上述研究,建议未来应加强对低氧血症能否
+致癫痫发作的关注,以期进一步阐明低氧血症影响癫痫发作
+的机制。
+OSA 会加重癫痫,同样癫痫也会加重OSA。癫痫可以
+通过以下方式加重OSA:①额颞叶异常放电会抑制脑干的
+呼吸中枢,从而导致呼吸暂停[18]。②抗癫痫药物会降低患
+者呼吸中枢的反应能力,降低呼吸道的张力,从而导致呼吸
+困难[19]。PHABPHAL等[20]针对166例癫痫患者的横断面
+多中心研究结果显示,OSA 的发生比例为38%。在成人癫
+痫患者中,OSA 的发生率是正常对照组的2倍,且有随着年
+龄的增长而增加的趋势[21]。
+4 癫痫与发作性睡病
+发作性睡病是一种原因不明的慢性睡眠障碍,其特点是
+白天过度嗜睡、出现无法控制的频繁睡眠发作以及睡眠片
+段,还可能伴有猝倒、睡眠瘫痪和睡眠幻觉。该病有两种类
+型:发作性睡病1型(以前称为发作性睡病,伴猝倒)和发作
+性睡病2型(以前称为发作性睡病,无猝倒)。发作性睡病是
+一种罕见且诊断不足的疾病,据分析,发作性睡病被误诊的
+概率高达71.
+4%,其中被误诊为癫痫的概率达35%
+[22],特别
+是当其与癫痫共存时非常可能被忽视[23]。YANG 等[24]的
+研究发现,癫痫与发作性睡病均具有自身免疫性疾病的病理
+特征,自身免疫反应可能是两者共病的潜在机制。发作性睡
+病的发生主要受免疫相关基因的影响,该疾病与人类白细胞
+抗原DQA1*01:02\/DQB1*06:20 表型密切相关。癫痫
+和发作性睡病具有相同的HLA-DQB1*06:02发作性睡病
+相关等位基因,因此这可能是发作性睡病易被误诊为癫痫,
+且发作性睡病与癫痫共存的原因[25]。
+5 癫痫与RLS
+RLS又称不安腿综合征、Willis-Ekbom 病,是一种神经
+系统疾病,其特征是无法控制移动腿部的欲望和腿部存在有
+不适感,尤其是在夜间,从而导致睡眠障碍。RLS是一种因
+中枢铁储备降低引起的昼夜节律相关的感觉运动障碍,病变
+部位位于壳核和黑质。癫痫发作后海马及新皮质区铁浓度
+的升高会引发神经炎症,进而导致铁的重新分布,即增加了
+大脑新皮质中的铁沉积,减少了壳核、苍白球、黑质以及红核
+中的铁储备,因此癫痫患者可共患RLS
+[26]。SAFARPOUR
+LIMA 等[27]分析了70例癫痫患者,发现有28.
+6%的癫痫患
+者共患RLS。KHACHATRYAN 等[28]研究显示,癫痫患者
+中RLS的发生率(20.
+6%)明显高于非癫痫患者(6.
+1%)。
+6 睡眠相关过度运动性癫痫(SHE)与NREM 睡眠相关异
+态睡眠
+  NREM 相关异态睡眠以夜间行为异常、意识障碍以及
+自主神经系统激活为特征,其原因是觉醒受损,故也称为
+NREM 相关觉醒障碍。SHE 又称夜间额叶癫痫,是一种罕
+见的异质病因综合征,其特征是与睡眠相关的刻板化的局灶
+性癫痫。其癫痫发作主要发生在睡眠期间,更确切地说是发
+生在NREM 期。乙酰胆碱作为一种兴奋性神经递质,可以
+增强大脑皮质神经元的兴奋性,进而诱发觉醒,研究表明胆
+碱能系统在睡眠以及觉醒中起着关键作用[29]。SHE最常见
+的致病基因为与神经元烟碱型乙酰胆碱受体(nAChR)结合
+的基因突变[30]。nAChR 作为配体门控阳离子通道,在中枢
+神经系统中具有多离子通透性,同步介导Na
++ 、K
++ 跨膜流
+·
+7
+6
+4
+·
+
+精准医学杂志2026年10月第41卷第5期 JPrecisMed,October2026,Vol.
+41,No.
+5
+动并显著通透Ca
+2+ ,nAChR 通过增强神经递质的兴奋性传
+递及提升抑制性神经传递效能来调控神经递质动态平衡。
+编码nAChR 的基因若发生突变,可通过改变受体构象或通
+道功能,破坏神经元环路平衡,从而导致癫痫发作[31]。邹鑫
+平[32]研究发现编码nAChR 的基因突变影响患者乙酰胆碱
+的代谢,进而使睡眠时间减少,睡眠碎片化,睡眠质量下降。
+BISULLI等[33]研究显示,SHE家族中的觉醒障碍发生率较
+高。SHE的发作呈刻板性运动多模态谱系:以肌张力障碍
+性姿势及过度运动性自动症为核心,可伴发情感性先兆以及
+口咽部复杂自动症[34]。觉醒障碍通常于NREM 期的N3阶
+段发作,SHE主要于NREM 期的N2阶段发作,N3阶段以
+外的主要运动事件(过度运动性癫痫发作)对SHE的诊断具
+有较高提示价值[35]。与觉醒障碍患者相比,SHE 患者的睡
+眠质量明显受损,表现为较低的睡眠效率和N3 阶段缩短。
+SHE患者在睡眠期间的运动活动度明显增加,该类患者每
+晚睡眠相关运动次数高于觉醒障碍患者[36]。研究表明,与
+健康对照组相比,SHE 与觉醒障碍患者的循环交替模式
+(CAP)发生率显著升高,并且SHE 的癫痫性事件与觉醒障
+碍的异常觉醒事件均与CAP 的A 相存在明确的时序关联
+性,CAP-A 相触发的皮质下-皮质网络短暂激活是两类事件
+共同的病理基础[37]。
+7 小结
+癫痫与各种睡眠障碍之间的关系十分复杂,本文阐述了
+睡眠结构对癫痫的影响,总结了失眠、OSA、发作性睡病、
+RLS、NREM 相关异态睡眠等睡眠障碍与癫痫之间关系的
+相关机制,但仍需更加深入的研究以明确两者之间的具体影
+响机制,为更好控制癫痫发作和改善患者预后提供参考。
+作者声明:孔庆霞、闫换和胡雅婷参与了研究设计,胡雅婷参与了论
+文写作和修改。所有作者均阅读并同意发表该论文,且均声明不存
+在利益冲突。
+[参考文献]
+[1] BERTEOTTIC,CALVELLO C,LIGUORIC.Roleofthe
+orexinsysteminthebidirectionalrelationbetweensleepand
+epilepsy:Newchancesforpatientswithepilepsybytheanta-
+gonismtoorexinreceptors[J].Epilepsia,2023,64(8):1991-
+2005.
+[2] JASEJA H.Pedunculopontinenucleus:Rapideyemovement
+sleep:Electroencephalogram:Desynchronization(PRED)axis
+intheevolutionofepilepsy:A novelconcept[J].JEpilepsy
+Res,2021,11(1):1-5.
+[3] MOGAVERO M P,DELROSSOL M,LANZAG,etal.The
+dynamicsofcyclic-periodicphenomenaduringnon-rapidand
+rapideye movementsleep[J].JSleep Res,2025,34(2):
+e14265.
+[4] NOBILIL,CORDANIR,ARNALDID,etal.Rapideye
+movementsleepandepilepsy:Exploringinteractionsandthe-
+rapeuticprospects[J].JSleepRes,2025,34(2):e14251.
+[5] HO A,HANNAN S,THOMASJ,etal.Rapideye move-
+mentsleepaffectsinterictalepilepticactivitydifferentlyinme-
+siotemporalandneocorticalareas[J].Epilepsia,2023,64(11):
+3036-3048.
+[6] IKOMAY,TAKAHASHIY,SASAKID,etal.Propertiesof
+REMsleepalterationswithepilepsy[J].Brain,2023,146(6):
+2431-2442.
+[7] GIULIANOL,MAINIERIG,CICEROCE,etal.Parasom-
+nias,sleep-relatedmovementdisordersandphysiologicalsleep
+variantsinfocalepilepsy:Apolysomnographicstudy[J].Sei-
+zure,2020,81:84-90.
+[8] YEH W C,LIN HJ,LIYS,etal.Non-rapideyemovement
+sleepinstabilityinadultswithepilepsy:Asystematicreview
+and meta-analysis ofcyclic alternating pattern[J].Sleep,
+2022,45(4):zsac041.
+[9] PLANAS-BALLVÉ A,GRAU-LÓPEZL,JIMÉNEZ M,et
+al.Insomniaandpoorslleepqualityareassociated withpoor
+seizurecontrolinpatientswithepilepsy[J].Neurología,2022,
+37(8):639-646.
+[10]MACÊDO P J O M,DE OLIVEIRA P S,FOLDVARY-
+SCHAEFER N,etal.Insomniainpeoplewithepilepsy:Are-
+viewofinsomniaprevalence,riskfactorsandassociationswith
+epilepsy-relatedfactors[J].EpilepsyRes,2017,135:158-167.
+[11]VEGA GARCÍA A,LÓPEZ-MERAZ M L,GONZÁLEZ M
+I,etal.Immunityandneuroinflammationinearlystagesoflife
+andepilepsy[J].Epilepsia,2025,66(7):2157-2169.
+[12]ZIELINSKIM R,GIBBONSAJ.Neuroinflammation,sleep,
+andcircadianrhythms[J].FrontCellInfectMicrobiol,2022,
+12:853096.
+[13]BONILLA-JAIME H,ZELEKE H,ROJAS A,etal.Sleep
+disruptionworsensseizures:Neuroinflammationasapotential
+mechanisticlink[J].IntJMolSci,2021,22(22):12531.
+[14]和祯泉,孙涛.癫痫共患睡眠呼吸障碍的研究现状[J].中风与
+神经疾病杂志,2022,39(11):1049-1051.
+[15]SCHWARTZ K,LASTRA A C,BALABANOV A J.Ob-
+structiveandcentralsleepapnoeainapatientwith medically
+intractableepilepsy[J].BMJCaseRep,2022,15(9):e245564.
+[16]JAINSV,SIMAKAJORNBOONS,SHAPIROS M,etal.
+Obstructivesleepapneainchildrenwithepilepsy:Prospective
+pilottrial[J].ActaNeurolScand,2012,125(1):e3-6.
+[17]GOYALM,MISHRAP,JASEJA H.Obstructivesleepapnea
+andepilepsy:Understandingthepathophysiologyoftheco-
+morbidity[J].IntJPhysiolPathophysiolPharmacol,2023,15
+(4):105-114.
+[18]SCHARF M T,GREENBERGP,WONGS,etal.Obstruc-
+tivesleepapneariskinpatientswithfocalversusgeneralized
+epilepsy[J].EpilepsyBehav,2020,111:107190.
+[19]LIGUORIC,TOLEDO M,KOTHARES.Effectsofanti-sei-
+zuremedicationsonsleeparchitectureanddaytimesleepiness
+inpatientswithepilepsy:Aliteraturereview[J].Sleep Med
+Rev,2021,60:101559.
+(下转第470页)
+·
+8
+6
+4
+·
+
+精准医学杂志2026年10月第41卷第5期 JPrecisMed,October2026,Vol.
+41,No.
+5
+动并显著通透Ca
+2+ ,nAChR 通过增强神经递质的兴奋性传
+递及提升抑制性神经传递效能来调控神经递质动态平衡。
+编码nAChR 的基因若发生突变,可通过改变受体构象或通
+道功能,破坏神经元环路平衡,从而导致癫痫发作[31]。邹鑫
+平[32]研究发现编码nAChR 的基因突变影响患者乙酰胆碱
+的代谢,进而使睡眠时间减少,睡眠碎片化,睡眠质量下降。
+BISULLI等[33]研究显示,SHE家族中的觉醒障碍发生率较
+高。SHE的发作呈刻板性运动多模态谱系:以肌张力障碍
+性姿势及过度运动性自动症为核心,可伴发情感性先兆以及
+口咽部复杂自动症[34]。觉醒障碍通常于NREM 期的N3阶
+段发作,SHE主要于NREM 期的N2阶段发作,N3阶段以
+外的主要运动事件(过度运动性癫痫发作)对SHE的诊断具
+有较高提示价值[35]。与觉醒障碍患者相比,SHE 患者的睡
+眠质量明显受损,表现为较低的睡眠效率和N3 阶段缩短。
+SHE患者在睡眠期间的运动活动度明显增加,该类患者每
+晚睡眠相关运动次数高于觉醒障碍患者[36]。研究表明,与
+健康对照组相比,SHE 与觉醒障碍患者的循环交替模式
+(CAP)发生率显著升高,并且SHE 的癫痫性事件与觉醒障
+碍的异常觉醒事件均与CAP 的A 相存在明确的时序关联
+性,CAP-A 相触发的皮质下-皮质网络短暂激活是两类事件
+共同的病理基础[37]。
+7 小结
+癫痫与各种睡眠障碍之间的关系十分复杂,本文阐述了
+睡眠结构对癫痫的影响,总结了失眠、OSA、发作性睡病、
+RLS、NREM 相关异态睡眠等睡眠障碍与癫痫之间关系的
+相关机制,但仍需更加深入的研究以明确两者之间的具体影
+响机制,为更好控制癫痫发作和改善患者预后提供参考。
+作者声明:孔庆霞、闫换和胡雅婷参与了研究设计,胡雅婷参与了论
+文写作和修改。所有作者均阅读并同意发表该论文,且均声明不存
+在利益冲突。
+[参考文献]
+[1] BERTEOTTIC,CALVELLO C,LIGUORIC.Roleofthe
+orexinsysteminthebidirectionalrelationbetweensleepand
+epilepsy:Newchancesforpatientswithepilepsybytheanta-
+gonismtoorexinreceptors[J].Epilepsia,2023,64(8):1991-
+2005.
+[2] JASEJA H.Pedunculopontinenucleus:Rapideyemovement
+sleep:Electroencephalogram:Desynchronization(PRED)axis
+intheevolutionofepilepsy:A novelconcept[J].JEpilepsy
+Res,2021,11(1):1-5.
+[3] MOGAVERO M P,DELROSSOL M,LANZAG,etal.The
+dynamicsofcyclic-periodicphenomenaduringnon-rapidand
+rapideye movementsleep[J].JSleep Res,2025,34(2):
+e14265.
+[4] NOBILIL,CORDANIR,ARNALDID,etal.Rapideye
+movementsleepandepilepsy:Exploringinteractionsandthe-
+rapeuticprospects[J].JSleepRes,2025,34(2):e14251.
+[5] HO A,HANNAN S,THOMASJ,etal.Rapideye move-
+mentsleepaffectsinterictalepilepticactivitydifferentlyinme-
+siotemporalandneocorticalareas[J].Epilepsia,2023,64(11):
+3036-3048.
+[6] IKOMAY,TAKAHASHIY,SASAKID,etal.Propertiesof
+REMsleepalterationswithepilepsy[J].Brain,2023,146(6):
+2431-2442.
+[7] GIULIANOL,MAINIERIG,CICEROCE,etal.Parasom-
+nias,sleep-relatedmovementdisordersandphysiologicalsleep
+variantsinfocalepilepsy:Apolysomnographicstudy[J].Sei-
+zure,2020,81:84-90.
+[8] YEH W C,LIN HJ,LIYS,etal.Non-rapideyemovement
+sleepinstabilityinadultswithepilepsy:Asystematicreview
+and meta-analysis ofcyclic alternating pattern[J].Sleep,
+2022,45(4):zsac041.
+[9] PLANAS-BALLVÉ A,GRAU-LÓPEZL,JIMÉNEZ M,et
+al.Insomniaandpoorslleepqualityareassociated withpoor
+seizurecontrolinpatientswithepilepsy[J].Neurología,2022,
+37(8):639-646.
+[10]MACÊDO P J O M,DE OLIVEIRA P S,FOLDVARY-
+SCHAEFER N,etal.Insomniainpeoplewithepilepsy:Are-
+viewofinsomniaprevalence,riskfactorsandassociationswith
+epilepsy-relatedfactors[J].EpilepsyRes,2017,135:158-167.
+[11]VEGA GARCÍA A,LÓPEZ-MERAZ M L,GONZÁLEZ M
+I,etal.Immunityandneuroinflammationinearlystagesoflife
+andepilepsy[J].Epilepsia,2025,66(7):2157-2169.
+[12]ZIELINSKIM R,GIBBONSAJ.Neuroinflammation,sleep,
+andcircadianrhythms[J].FrontCellInfectMicrobiol,2022,
+12:853096.
+[13]BONILLA-JAIME H,ZELEKE H,ROJAS A,etal.Sleep
+disruptionworsensseizures:Neuroinflammationasapotential
+mechanisticlink[J].IntJMolSci,2021,22(22):12531.
+[14]和祯泉,孙涛.癫痫共患睡眠呼吸障碍的研究现状[J].中风与
+神经疾病杂志,2022,39(11):1049-1051.
+[15]SCHWARTZ K,LASTRA A C,BALABANOV A J.Ob-
+structiveandcentralsleepapnoeainapatientwith medically
+intractableepilepsy[J].BMJCaseRep,2022,15(9):e245564.
+[16]JAINSV,SIMAKAJORNBOONS,SHAPIROS M,etal.
+Obstructivesleepapneainchildrenwithepilepsy:Prospective
+pilottrial[J].ActaNeurolScand,2012,125(1):e3-6.
+[17]GOYALM,MISHRAP,JASEJA H.Obstructivesleepapnea
+andepilepsy:Understandingthepathophysiologyoftheco-
+morbidity[J].IntJPhysiolPathophysiolPharmacol,2023,15
+(4):105-114.
+[18]SCHARF M T,GREENBERGP,WONGS,etal.Obstruc-
+tivesleepapneariskinpatientswithfocalversusgeneralized
+epilepsy[J].EpilepsyBehav,2020,111:107190.
+[19]LIGUORIC,TOLEDO M,KOTHARES.Effectsofanti-sei-
+zuremedicationsonsleeparchitectureanddaytimesleepiness
+inpatientswithepilepsy:Aliteraturereview[J].Sleep Med
+Rev,2021,60:101559.
+(下转第470页)
+·
+8
+6
+4
+·
+
+精准医学杂志2026年10月第41卷第5期 JPrecisMed,October2026,Vol.
+41,No.
+5
+[参考文献]
+[1] SOARESKC,ARNAOUTAKISDJ,KAMELI,etal.Cho-
+ledochalcysts:Presentation,clinicaldifferentiation,and ma-
+nagement[J].JAm CollSurg,2014,219(6):1167-1180.
+[2] TODANIT,WATANABE Y,NARUSUE M,etal.Conge-
+nitalbileductcysts:Classification,operativeprocedures,and
+reviewofthirty-sevencasesincludingcancerarisingfromcho-
+ledochalcyst[J].AmJSurg,1977,134(2):263-269.
+[3] DECOURCY WHEELER WI.Anunusualcaseofobstruction
+tothecommonbile-duct(choledochocele?)[J].BJSBrJSurg,
+1940,27(107):446-448.
+[4] GORDONSR,LEVENICKJM,RATHDL,etal.Caseofa
+closedcholedochocelewithbiliaryandpancreaticdrainagevia
+theaccessoryductcausingacutepancreatitis[J].DigEndosc,
+2009,21(2):106-108.
+[5] MENG Y P,GUO K L,JIANG Y,etal.Todanitype Ⅲ:
+Likebiliarydilatationwithduodenalprolapse-acasereport[J].
+BMCGastroenterol,2022,22(1):220.
+[6] MANGIAVILLANOB,PARODIA,CONIO M.Endoscopic
+ultrasound-guidedERCPinthetreatmentofaTodanitype-Ⅲ
+cystcausing acute necrotizing pancreatitis[J].Endoscopy,
+2016,48(Suppl1UCTN):E44.
+[7] 蔡俊辉,轩俊,陈文.肝胆特异性对比剂增强MRI诊断胰头区
+胆总管囊肿合并胆管癌1例[J].湖北医药学院学报,2024,43
+(5):567-569,封3.
+[8] PARKD H,KIM M H,LEESK,etal.Can MRCPreplace
+the diagnosticrole of ERCP forpatients with choledochal
+cysts? [J].GastrointestEndosc,2005,62(3):360-366.
+[9] CAZARESJ,KOGA H,YAMATAKA A.Choledochalcyst
+[J].PediatrSurgInt,2023,39(1):209.
+(本文编辑 范睿心)
+􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍􀪍
+(上接第468页)
+[20]PHABPHALK,SRIPRADIT M,ALAN F G,etal.Identi-
+fying obstructivesleep apneain patients with epilepsy:A
+cross-sectionalmulticenterstudy[J].SeizureEurJEpilepsy,
+2022,100:87-94.
+[21]SETHJ,COUPERRG,BURNEOJG,etal.Effectsofva-
+gusnervestimulationonthequalityofsleepandsleepapneain
+patientswithdrug-resistantepilepsy:Asystematicreview[J].
+Epilepsia,2024,65(1):73-83.
+[22]马秀伟,郭婧,辜蕊洁,等.儿童发作性睡病误诊原因分析[J].
+临床误诊误治,2016,29(8):26-29.
+[23]JAINR,GANESANR A.Effectivediagnosisofvarioussleep
+disordersbyLEEclassifier:LightGBM-EOG-EEG[J].IEEEJ
+BiomedHealthInform,2024,29(4):2581-2588.
+[24]YANGZX,LIUXY,DONGXS,etal.Epilepsyandnarco-
+lepsy-cataplexyinachild[J].JChild Neurol,2012,27(6):
+807-810.
+[25]MIZUNO Y,UEHARAT,NAKAMURAY,etal.Acaseof
+monozygotictwins withhereditaryspasticparaplegiatype4
+andepilepsy,ofwhom onlyonedevelopednarcolepsytype1
+[J].JSleepRes,2024,33(4):e14102.
+[26]DYE T,SIMAKAJORNBOON N.Iron metabolism andthe
+roleofirontherapyinpediatricrestlesslegsyndrome[J].Sleep
+MedClin,2025,20(2):231-238.
+[27]SAFARPOURLIMAB,ZOKAEIA,ASSARZADEGANF,
+etal.Prevalenceofsleepdisordersinpatientswithepilepsy:A
+questionnaire-basedcross-sectionalstudy[J].EpilepsyBehav,
+2021,114:107635.
+[28]KHACHATRYAN S G, GHAHRAMANYAN L, TA-
+VADYANZ,etal.Sleep-relatedmovementdisordersinapo-
+pulationofpatientswithepilepsy:Prevalenceandimpactof
+restlesslegssyndromeandsleepbruxism[J].J Clin Sleep
+Med,2020,16(3):409-414.
+[29]GOTTJA,STÜCKERS,KANSKEP,etal.Acetylcholine
+and metacognitionduringsleep[J].ConsciousCogn,2024,
+117:103608.
+[30]徐佳慧,金搏,张力三,等.睡眠相关过度运动性癫痫的研究
+进展[J].浙江大学学报,2020.
+[31]BECCHETTIA,GRANDILC,CERINA M,etal.Nicotinic
+acetylcholinereceptorsandepilepsy[J].PharmacolRes,2023,
+189:106698.
+[32]邹鑫平.烟碱乙酰胆碱受体α4 突变对衰老果蝇睡眠的影响
+[D].天津:天津理工大学,2023.
+[33]BISULLIF,VIGNATELLIL,NALDII,etal.Increasedfre-
+quencyofarousalparasomniasinfamilieswithnocturnalfron-
+tallobeepilepsy:Acommonmechanism [J].Epilepsia,2010,
+51(9):1852-1860.
+[34]MORO M,PASTOREVP,MARCHESIG,etal.Automatic
+videoanalysisandclassification ofsleep-related hypermotor
+seizuresanddisordersofarousal[J].Epilepsia,2023,64(6):
+1653-1662.
+[35]PROSERPIOP,LODDO G,ZUBLER F,etal.Polysomno-
+graphicfeaturesdifferentiatingdisorderofarousalsfromsleep-
+relatedhypermotorepilepsy[J].Sleep,2019,42(12):zsz166.
+[36]LODDO G,BALDASSARRIL,ZENESINIC,etal.Seizures
+withparoxysmalarousalsinsleep-relatedhypermotorepilepsy
+(SHE):Dissectingepilepsyfrom NREMparasomnias[J].Epi-
+lepsia,2020,61(10):2194-2202.
+[37]MUTTIC,BERNABÈG,BAROZZIN,etal.Commonalities
+anddifferencesinNREMparasomniasandsleep-relatedepilep-
+sy:Isthereacontinuum betweenthetwoconditions [J].
+FrontNeurol,2020,11:600026.
+(本文编辑 耿波)
+·
+0
+7
+4
+·
