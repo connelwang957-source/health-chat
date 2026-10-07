@@ -1,0 +1,46 @@
+"""QAType 18 类枚举与 KG 查询模板测试。"""
+
+import pytest
+
+from app.domain.values import QAType
+from app.domain.services import build_cypher
+
+
+def test_18_types_complete():
+    assert len(list(QAType)) == 18
+    assert {t.code for t in QAType} == set(range(1, 19))
+    # 第 13/14 类名称区分（限制/推荐）
+    names = {t.name for t in QAType}
+    assert len(names) == 18
+
+
+def test_by_code():
+    assert QAType.by_code(11) is QAType.DISEASE_FOOD_AVOID
+    assert QAType.by_code(None) is None
+    with pytest.raises(ValueError):
+        QAType.by_code(99)
+
+
+def test_relation_cypher():
+    cy = build_cypher(QAType.DISEASE_FOOD_AVOID)
+    assert "MATCH (n:`疾病` {name: $entity})" in cy
+    assert "-[:`忌吃`]->" in cy
+    assert "RETURN m.name AS value" in cy
+
+
+def test_reverse_cypher():
+    cy = build_cypher(QAType.SYMPTOM_DISEASE)
+    assert "MATCH (n:`疾病`)-[:`症状`]->(m:`症状` {name: $entity})" in cy
+
+
+def test_property_cypher():
+    cy = build_cypher(QAType.DISEASE_DESC)
+    assert "RETURN n.`描述` AS value" in cy
+
+
+def test_all_templates_parameterized():
+    """全部 18 类模板必须参数化（防注入），禁止字符串直拼实体。"""
+    for t in QAType:
+        cy = build_cypher(t)
+        assert "$entity" in cy
+        assert "'感冒'" not in cy
