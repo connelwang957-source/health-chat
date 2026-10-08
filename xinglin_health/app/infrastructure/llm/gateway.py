@@ -16,9 +16,11 @@ logger = logging.getLogger(__name__)
 
 class LLMGateway:
     def __init__(self, base_url: str, api_key: str, model: str,
-                 temperature: float = 0.3, max_tokens: int = 800):
+                 temperature: float = 0.3, max_tokens: int = 800,
+                 trust_env: bool = False):
         self.base_url, self.api_key, self.model = base_url, api_key, model
         self.temperature, self.max_tokens = temperature, max_tokens
+        self.trust_env = trust_env
         self._chat = None
 
     @property
@@ -28,11 +30,14 @@ class LLMGateway:
 
     def _ensure_chat(self):
         if self._chat is None:
+            import httpx
             from langchain_openai import ChatOpenAI
+            # trust_env=False：忽略系统代理环境变量，国内 API 直连（可经 LLM_TRUST_ENV 开启）
+            http_client = httpx.Client(trust_env=self.trust_env, timeout=60)
             self._chat = ChatOpenAI(
                 model=self.model, api_key=self.api_key, base_url=self.base_url,
                 temperature=self.temperature, max_tokens=self.max_tokens,
-                timeout=60)
+                timeout=60, http_client=http_client)
         return self._chat
 
     def generate(self, messages) -> str:
@@ -50,4 +55,4 @@ class LLMGateway:
 def get_llm_gateway() -> LLMGateway:
     s = get_settings()
     return LLMGateway(s.llm_base_url, s.llm_api_key, s.llm_model,
-                      s.llm_temperature, s.llm_max_tokens)
+                      s.llm_temperature, s.llm_max_tokens, s.llm_trust_env)

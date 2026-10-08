@@ -19,11 +19,15 @@ class EmbedderUnavailable(Exception):
 @lru_cache
 def get_embeddings():
     """返回 langchain HuggingFaceEmbeddings 实例；不可用抛 EmbedderUnavailable。"""
+    import os
+
     s = get_settings()
+    # 模型已在本地 HF 缓存时离线加载，避免代理/网络问题（可用 HF_HUB_OFFLINE 外部覆盖）
+    os.environ.setdefault("HF_HUB_OFFLINE", "1" if s.hf_hub_offline else "0")
     try:
         from langchain_huggingface import HuggingFaceEmbeddings
     except ImportError as e:
         raise EmbedderUnavailable(
             "langchain-huggingface / sentence-transformers 未安装，无法本地向量化") from e
-    logger.info("loading embeddings: %s（首次加载需下载模型）", s.embedding_model)
+    logger.info("loading embeddings: %s", s.embedding_model)
     return HuggingFaceEmbeddings(model_name=s.embedding_model)

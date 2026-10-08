@@ -1,4 +1,4 @@
-"""QAType 18 类枚举与 KG 查询模板测试。"""
+"""QAType 18 类枚举与 KG 查询模板测试（已对齐 medical 库真实 schema）。"""
 
 import pytest
 
@@ -9,7 +9,6 @@ from app.domain.services import build_cypher
 def test_18_types_complete():
     assert len(list(QAType)) == 18
     assert {t.code for t in QAType} == set(range(1, 19))
-    # 第 13/14 类名称区分（限制/推荐）
     names = {t.name for t in QAType}
     assert len(names) == 18
 
@@ -21,21 +20,27 @@ def test_by_code():
         QAType.by_code(99)
 
 
+def test_node_labels_english():
+    assert QAType.DISEASE_SYMPTOM.source_role.node_label == "Disease"
+    assert QAType.DISEASE_SYMPTOM.target_role.node_label == "Symptom"
+    assert QAType.DISEASE_FOOD_AVOID.target_role.node_label == "Food"
+
+
 def test_relation_cypher():
     cy = build_cypher(QAType.DISEASE_FOOD_AVOID)
-    assert "MATCH (n:`疾病` {name: $entity})" in cy
-    assert "-[:`忌吃`]->" in cy
+    assert "MATCH (n:`Disease` {name: $entity})" in cy
+    assert "-[:`no_eat`]->" in cy
     assert "RETURN m.name AS value" in cy
 
 
 def test_reverse_cypher():
     cy = build_cypher(QAType.SYMPTOM_DISEASE)
-    assert "MATCH (n:`疾病`)-[:`症状`]->(m:`症状` {name: $entity})" in cy
+    assert "MATCH (n:`Disease`)-[:`has_symptom`]->(m:`Symptom` {name: $entity})" in cy
 
 
 def test_property_cypher():
     cy = build_cypher(QAType.DISEASE_DESC)
-    assert "RETURN n.`描述` AS value" in cy
+    assert "RETURN n.`desc` AS value" in cy
 
 
 def test_all_templates_parameterized():

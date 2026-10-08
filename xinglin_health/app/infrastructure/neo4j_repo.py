@@ -15,8 +15,9 @@ logger = logging.getLogger(__name__)
 
 
 class Neo4jRepo:
-    def __init__(self, uri: str, user: str, password: str):
+    def __init__(self, uri: str, user: str, password: str, database: str = "neo4j"):
         self._uri, self._user, self._password = uri, user, password
+        self._database = database
         self._driver = None
 
     def _ensure_driver(self):
@@ -33,7 +34,8 @@ class Neo4jRepo:
     def run_read(self, cypher: str, params: dict | None = None) -> list[dict]:
         """只读执行参数化 Cypher，返回 [{'value': ...}, ...]。"""
         driver = self._ensure_driver()
-        with driver.session(default_access_mode="READ") as session:
+        with driver.session(database=self._database,
+                            default_access_mode="READ") as session:
             result = session.run(cypher, params or {})
             return [r.data() for r in result]
 
@@ -54,4 +56,4 @@ class Neo4jRepo:
 @lru_cache
 def get_neo4j_repo() -> Neo4jRepo:
     s = get_settings()
-    return Neo4jRepo(s.neo4j_uri, s.neo4j_user, s.neo4j_password)
+    return Neo4jRepo(s.neo4j_uri, s.neo4j_user, s.neo4j_password, s.neo4j_database)

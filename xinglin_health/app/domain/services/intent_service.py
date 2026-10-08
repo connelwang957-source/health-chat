@@ -35,6 +35,8 @@ KEYWORD_RULES: list[tuple[tuple[str, ...], QAType]] = [
 ]
 
 STOPWORDS = ("请问", "我想知道", "帮我查", "查一下", "一下", "请问一下", "你好", "谢谢")
+TAIL_WORDS = ("什么", "哪些", "怎么", "如何", "吗", "呢", "啊", "了", "的",
+              "可以", "能够", "应该", "需要", "要", "有")
 
 
 class IntentOut(BaseModel):
@@ -102,13 +104,21 @@ class IntentService:
                       reason="未命中固定类型，转开放式问答")
 
     def _extract_entity(self, question: str, hit: str) -> str | None:
-        """规则模式下的朴素实体抽取：去掉停用词与命中的意图短语后取剩余主体。"""
+        """规则模式下的朴素实体抽取：去停用词与意图短语，再去首尾虚词，取剩余主体。"""
         q = question
         for w in STOPWORDS:
             q = q.replace(w, "")
         if hit:
             q = q.replace(hit, "")
         q = re.sub(r"[的了吗呢吧？?！!。,\s]+", "", q)
+        # 去尾部疑问/虚词（如"感冒什么"→"感冒"）
+        changed = True
+        while changed and q:
+            changed = False
+            for w in TAIL_WORDS:
+                if q.endswith(w) and len(q) > len(w):
+                    q = q[: -len(w)]
+                    changed = True
         return q[:12] if q else None
 
     def _guess_entity_type(self, question: str) -> str | None:

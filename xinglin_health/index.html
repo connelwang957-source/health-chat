@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>杏林大健康 · AI 问答</title>
+<style>
+/* ==========================================================
+   1. 设计变量
+   ========================================================== */
+:root {
+  /* 主色：医疗青绿 */
+  --teal-300: #5eead4;
+  --teal-400: #2dd4bf;
+  --teal-500: #14b8a6;
+  --teal-600: #0d9488;
+  /* 强调色 */
+  --sky-400: #38bdf8;
+  --purple-400: #a78bfa;
+  /* 状态色 */
+  --green-400: #4ade80;
+  --yellow-400: #facc15;
+  --red-400: #f87171;
+  /* 中性色（深蓝黑体系） */
+  --ink-900: #060b14;
+  --ink-850: #0a1120;
+  --ink-800: #0d1526;
+  --ink-700: #111c30;
+  --text-1: #e6edf6;
+  --text-2: #94a3b8;
+  --text-3: #64748b;
+  --line: rgba(148, 163, 184, 0.14);
+  --line-strong: rgba(148, 163, 184, 0.24);
+  /* 圆角 */
+  --radius: 18px;
+  --radius-sm: 12px;
+  --radius-xs: 9px;
+  /* 动效 */
+  --t-fast: 0.15s ease;
+  --t-mid: 0.25s ease;
+  --t-slow: 0.35s ease-out;
+}
+
+/* ==========================================================
+   2. 基础与背景（深蓝黑 + 双光晕 + 网格渐隐）
+   ========================================================== */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei",
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--ink-900);
+  color: var(--text-1);
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 120px;           /* 给底部固定条留空间 */
+}
+
+/* 双层径向光晕：青绿在左上、蓝在右上 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(900px 620px at 12% -8%,  rgba(20, 184, 166, 0.16), transparent 62%),
+    radial-gradient(860px 560px at 92% -6%,  rgba(56, 189, 248, 0.11), transparent 60%),
+    var(--ink-900);
+}
+
+/* 极淡网格线 + mask 渐隐 */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.05) 1px, transparent 1px);
+  background-size: 44px 44px;
+  -webkit-mask-image: radial-gradient(ellipse 100% 62% at 50% 0%, #000 30%, transparent 78%);
+          mask-image: radial-gradient(ellipse 100% 62% at 50% 0%, #000 30%, transparent 78%);
+  pointer-events: none;
+}
+
+/* ==========================================================
+   3. 顶栏
+   ========================================================== */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 13px 28px;
+  background: rgba(6, 11, 20, 0.72);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+
+.brand { display: flex; align-items: center; gap: 12px; }
+
+.logo {
+  width: 40px; height: 40px;
+  border-radius: 11px;
+  background: linear-gradient(135deg, var(--teal-400), var(--teal-600) 70%);
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 4px 18px rgba(20, 184, 166, 0.35);
+  flex-shrink: 0;
+}
+.logo svg { width: 20px; height: 20px; }
+
+.brand-title { font-size: 15.5px; font-weight: 600; letter-spacing: 0.5px; }
+.brand-sub {
+  font-size: 10.5px; color: var(--text-3);
+  letter-spacing: 1.6px; text-transform: uppercase; margin-top: 2px;
+}
+
+/* 健康状态胶囊 */
+.health-pill {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: rgba(13, 21, 38, 0.6);
+  font-size: 12.5px; color: var(--text-2);
+  transition: border-color var(--t-fast), color var(--t-fast);
+}
+.health-pill .dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--text-3);
+  transition: background var(--t-fast);
+}
+.health-pill.ok    .dot { background: var(--green-400); animation: pulse 2s ease-out infinite; }
+.health-pill.ok    { color: var(--green-400); border-color: rgba(74, 222, 128, 0.35); }
+.health-pill.error { color: var(--red-400);  border-color: rgba(248, 113, 113, 0.35); }
+.health-pill.error .dot { background: var(--red-400); }
+
+@keyframes pulse {
+  0%   { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.5); }
+  70%  { box-shadow: 0 0 0 7px rgba(74, 222, 128, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0); }
+}
+
+/* ==========================================================
+   4. 布局容器
+   ========================================================== */
+.container { max-width: 860px; margin: 0 auto; padding: 0 22px; }
+
+/* ==========================================================
+   5. Hero 区
+   ========================================================== */
+.hero { text-align: center; padding: 58px 0 34px; }
+
+.eyebrow {
+  display: inline-block;
+  font-size: 11px; font-weight: 500;
+  letter-spacing: 3px; text-transform: uppercase;
+  color: var(--teal-400);
+  border: 1px solid rgba(45, 212, 191, 0.35);
+  background: rgba(20, 184, 166, 0.07);
+  border-radius: 999px;
+  padding: 6px 16px;
+  margin-bottom: 22px;
+}
+
+.hero h1 {
+  font-size: 40px; font-weight: 700; letter-spacing: 1px;
+  background: linear-gradient(100deg, #f1f5f9 10%, var(--teal-400) 55%, var(--sky-400) 95%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.hero-sub { margin-top: 15px; font-size: 14px; color: var(--text-2); }
+
+/* ==========================================================
+   6. 输入区（渐变描边 + 玻璃内层）
+   ========================================================== */
+.g-border {
+  padding: 1px;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, rgba(45, 212, 191, 0.55), rgba(56, 189, 248, 0.32) 45%, rgba(148, 163, 184, 0.18));
+  box-shadow: 0 18px 50px rgba(2, 8, 20, 0.55);
+  transition: box-shadow var(--t-mid);
+}
+.g-border:focus-within {
+  box-shadow: 0 18px 60px rgba(20, 184, 166, 0.18);
+}
+
+.glass {
+  background: linear-gradient(180deg, rgba(13, 21, 38, 0.92), rgba(9, 15, 28, 0.92));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: calc(var(--radius) - 1px);
+}
+
+.input-card { margin-bottom: 26px; }
+.input-inner { padding: 6px 20px 14px; }
+
+#questionInput {
+  width: 100%;
+  min-height: 74px;
+  resize: vertical;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--text-1);
+  font-family: inherit;
+  font-size: 15.5px;
+  line-height: 1.7;
+  padding: 16px 4px 10px;
+}
+#questionInput::placeholder { color: var(--text-3); }
+
+.input-divider { height: 1px; background: var(--line); }
+
+.input-bottom {
+  display: flex; align-items: center; justify-content: space-between;
+  padding-top: 12px; gap: 12px;
+}
+
+.chips { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip {
+  font-size: 12px; color: var(--text-2);
+  border: 1px solid var(--line-strong);
+  background: rgba(17, 28, 48, 0.55);
+  border-radius: 999px;
+  padding: 5px 13px;
+  cursor: pointer;
+  transition: color var(--t-fast), border-color var(--t-fast), background var(--t-fast);
+}
+.chip:hover {
+  color: var(--teal-300);
+  border-color: rgba(45, 212, 191, 0.45);
+  background: rgba(20, 184, 166, 0.08);
+}
+.chip:active { transform: scale(0.97); }
+
+.input-right { display: flex; align-items: center; gap: 14px; margin-left: auto; }
+
+.counter { font-size: 12px; color: var(--text-3); transition: color var(--t-fast); }
+.counter.limit { color: var(--red-400); }
+
+/* 提问按钮 */
+.ask-btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  border: none; cursor: pointer;
+  font-family: inherit; font-size: 13.5px; font-weight: 600;
+  color: #04211c;
+  background: linear-gradient(135deg, var(--teal-300), var(--teal-500));
+  border-radius: var(--radius-sm);
+  padding: 10px 20px;
+  box-shadow: 0 4px 16px rgba(20, 184, 166, 0.3);
+  transition: transform var(--t-fast), box-shadow var(--t-fast), opacity var(--t-fast);
+}
+.ask-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 26px rgba(20, 184, 166, 0.45);
+}
+.ask-btn:active:not(:disabled) { transform: translateY(0); }
+.ask-btn:disabled { opacity: 0.55; cursor: not-allowed; }
+.ask-btn svg { width: 15px; height: 15px; }
+
+.spinner {
+  width: 14px; height: 14px;
+  border: 2px solid rgba(4, 33, 28, 0.25);
+  border-top-color: #04211c;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ==========================================================
+   7. 结果卡片
+   ========================================================== */
+.result-card { display: none; margin-bottom: 30px; animation: rise 0.35s ease-out; }
+.result-card.show { display: block; }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.result-inner { padding: 22px 26px 20px; }
+
+/* 提示条 */
+.banner {
+  display: none;
+  font-size: 13px;
+  border-radius: var(--radius-xs);
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  border: 1px solid transparent;
+}
+.banner.show { display: block; }
+.banner.warn { background: rgba(250, 204, 21, 0.08); border-color: rgba(250, 204, 21, 0.3); color: var(--yellow-400); }
+.banner.err  { background: rgba(248, 113, 113, 0.08); border-color: rgba(248, 113, 113, 0.3); color: var(--red-400); }
+
+/* 标签 pills */
+.pills { display: flex; flex-wrap: wrap; gap: 9px; margin-bottom: 16px; }
+
+.pill {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 12px;
+  border-radius: 999px;
+  padding: 4.5px 13px;
+  border: 1px solid var(--line-strong);
+  background: rgba(17, 28, 48, 0.5);
+  color: var(--text-2);
+  transition: transform var(--t-fast);
+}
+.pill .dot { width: 6px; height: 6px; border-radius: 50%; }
+
+.pill-green  { color: var(--green-400);  border-color: rgba(74, 222, 128, 0.35);  background: rgba(74, 222, 128, 0.07); }
+.pill-green .dot { background: var(--green-400); }
+.pill-yellow { color: var(--yellow-400); border-color: rgba(250, 204, 21, 0.35);  background: rgba(250, 204, 21, 0.07); }
+.pill-yellow .dot { background: var(--yellow-400); }
+.pill-red    { color: var(--red-400);    border-color: rgba(248, 113, 113, 0.35); background: rgba(248, 113, 113, 0.07); }
+.pill-red .dot { background: var(--red-400); }
+.pill-sky    { color: var(--sky-400);    border-color: rgba(56, 189, 248, 0.35);  background: rgba(56, 189, 248, 0.07); }
+.pill-purple { color: var(--purple-400); border-color: rgba(167, 139, 250, 0.4);  background: rgba(167, 139, 250, 0.08); }
+
+/* 回答正文 */
+.answer {
+  font-size: 15.5px;
+  line-height: 1.9;
+  color: #d7e2f0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  padding-bottom: 6px;
+}
+
+/* 风险提示 */
+.risk {
+  display: none;
+  margin-top: 12px;
+  font-size: 12.5px;
+  color: var(--yellow-400);
+  border-left: 2px solid rgba(250, 204, 21, 0.5);
+  padding: 4px 0 4px 12px;
+}
+.risk.show { display: block; }
+
+/* 来源区 */
+.sources-section { margin-top: 18px; border-top: 1px solid var(--line); padding-top: 14px; }
+
+.sources-toggle {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 13px; color: var(--text-2);
+  cursor: pointer; user-select: none;
+  transition: color var(--t-fast);
+}
+.sources-toggle:hover { color: var(--teal-300); }
+.sources-toggle .arrow {
+  display: inline-block;
+  font-size: 10px;
+  transition: transform var(--t-mid);
+}
+.sources-toggle.open .arrow { transform: rotate(90deg); }
+
+.sources-list {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height var(--t-slow), padding-top var(--t-slow);
+  padding-top: 0;
+}
+.sources-list.open { max-height: 1200px; padding-top: 14px; }
+
+.source-item {
+  display: flex; gap: 12px;
+  border: 1px solid var(--line);
+  background: rgba(17, 28, 48, 0.4);
+  border-radius: var(--radius-xs);
+  padding: 11px 14px;
+  margin-bottom: 9px;
+  position: relative;
+  transition: border-color var(--t-fast), background var(--t-fast);
+}
+.source-item::before {
+  content: "";
+  position: absolute; left: 0; top: 10px; bottom: 10px;
+  width: 2px; border-radius: 2px;
+  background: var(--teal-500);
+}
+.source-item:hover { border-color: rgba(45, 212, 191, 0.4); background: rgba(20, 184, 166, 0.05); }
+
+.source-tag {
+  flex-shrink: 0;
+  align-self: flex-start;
+  font-size: 11px;
+  border-radius: 6px;
+  padding: 2.5px 9px;
+  margin-top: 1px;
+}
+.source-tag.kg  { color: var(--teal-300); border: 1px solid rgba(45, 212, 191, 0.4);  background: rgba(20, 184, 166, 0.08); }
+.source-tag.lit { color: var(--sky-400);   border: 1px solid rgba(56, 189, 248, 0.4);  background: rgba(56, 189, 248, 0.08); }
+
+.source-body { font-size: 13px; color: var(--text-2); line-height: 1.75; }
+.source-body .s-main { color: var(--text-1); }
+.source-link {
+  color: var(--teal-300);
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+  margin-left: 8px;
+  transition: color var(--t-fast);
+}
+.source-link:hover { color: var(--teal-400); }
+
+/* 操作行 */
+.actions { margin-top: 16px; display: flex; gap: 10px; }
+
+.ghost-btn {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-family: inherit; font-size: 12.5px;
+  color: var(--text-2);
+  background: transparent;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-xs);
+  padding: 7px 15px;
+  cursor: pointer;
+  transition: color var(--t-fast), border-color var(--t-fast), background var(--t-fast), transform var(--t-fast);
+}
+.ghost-btn:hover { color: var(--teal-300); border-color: rgba(45, 212, 191, 0.45); background: rgba(20, 184, 166, 0.06); }
+.ghost-btn:active { transform: scale(0.97); }
+.ghost-btn svg { width: 13px; height: 13px; }
+
+/* ==========================================================
+   8. 底部固定条
+   ========================================================== */
+.disclaimer {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 40;
+  text-align: center;
+  padding: 16px 20px;
+  font-size: 12px;
+  color: var(--text-3);
+  background: linear-gradient(180deg, rgba(6, 11, 20, 0), rgba(6, 11, 20, 0.92) 40%);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-top: 1px solid var(--line);
+  pointer-events: none;
+}
+
+/* ==========================================================
+   9. 响应式
+   ========================================================== */
+@media (max-width: 640px) {
+  .brand-sub, .hero-sub, .chips { display: none; }
+  .hero { padding: 38px 0 26px; }
+  .hero h1 { font-size: 29px; }
+  .topbar { padding: 12px 18px; }
+  .container { padding: 0 16px; }
+  .result-inner { padding: 18px 18px 16px; }
+  .input-right { gap: 10px; }
+  body { padding-bottom: 100px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ================= 顶栏 ================= -->
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 5v14M5 12h14" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <div class="brand-title">杏林大健康 · AI 问答</div>
+      <div class="brand-sub">Xinglin Health Assistant</div>
+    </div>
+  </div>
+  <div class="health-pill" id="healthPill">
+    <span class="dot"></span>
+    <span id="healthText">检测中…</span>
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- ================= Hero ================= -->
+  <section class="hero">
+    <div class="eyebrow">Natural Language · Multi-Source</div>
+    <h1>用自然语言，问健康问题</h1>
+    <p class="hero-sub">覆盖疾病、症状、药品、食品、检查等大健康信息，回答附来源依据与可靠性提示</p>
+  </section>
+
+  <!-- ================= 输入区 ================= -->
+  <section class="g-border input-card">
+    <div class="glass input-inner">
+      <textarea id="questionInput" maxlength="500"
+                placeholder="输入你的健康问题，例如：感冒不能吃什么？"></textarea>
+      <div class="input-divider"></div>
+      <div class="input-bottom">
+        <div class="chips">
+          <button class="chip" data-q="感冒有哪些症状？">感冒有哪些症状？</button>
+          <button class="chip" data-q="咳嗽可能是什么疾病？">咳嗽可能是什么疾病？</button>
+          <button class="chip" data-q="感冒不能吃什么？">感冒不能吃什么？</button>
+        </div>
+        <div class="input-right">
+          <span class="counter" id="charCounter">0 / 500</span>
+          <button class="ask-btn" id="askBtn">
+            <svg id="askIcon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M21.4 3.1L2.9 10.4c-.8.3-.8 1.5.1 1.7l4.6 1.4 1.7 5.2c.3.8 1.3.9 1.8.2l2.5-3.2 4.6 3.4c.6.5 1.6.1 1.7-.7l2.5-13.7c.2-.9-.7-1.6-1.5-1.3z"
+                    stroke="#04211c" stroke-width="1.8" stroke-linejoin="round"/>
+            </svg>
+            <span id="askBtnText">提问</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= 结果卡片 ================= -->
+  <section class="g-border result-card" id="resultCard">
+    <div class="glass result-inner">
+
+      <div class="banner" id="statusBanner"></div>
+
+      <div class="pills" id="pillsRow"></div>
+
+      <div class="answer" id="answerText"></div>
+
+      <div class="risk" id="riskNotice"></div>
+
+      <div class="sources-section" id="sourcesSection" style="display:none;">
+        <span class="sources-toggle" id="sourcesToggle">
+          <span class="arrow">▶</span>
+          <span id="sourcesTitle">来源依据 · 0 条</span>
+        </span>
+        <div class="sources-list" id="sourcesList"></div>
+      </div>
+
+      <div class="actions">
+        <button class="ghost-btn" id="copyBtn">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="8" y="8" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.8"/>
+            <path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span id="copyBtnText">复制回答</span>
+        </button>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<!-- ================= 底部固定条 ================= -->
+<footer class="disclaimer">
+  本系统仅提供健康信息咨询，不构成医学诊断，不能替代医生处方或诊疗决策。
+</footer>
+
+<script>
+/* ==========================================================
+   1. 常量区
+   ========================================================== */
+const API_BASE = "http://127.0.0.1:8000";
+
+const reliabilityMap = {
+  high:    { label: "依据充分", cls: "pill-green" },
+  partial: { label: "部分依据", cls: "pill-yellow" },
+  low:     { label: "依据不足", cls: "pill-red" },
+};
+
+const modeMap = {
+  direct: "直接回答",
+  kg:     "知识图谱",
+  rag:    "文献检索",
+  hybrid: "混合检索",
+};
+
+const DEP_NAMES = {
+  neo4j: "知识图谱",
+  milvus: "向量检索",
+  redis: "缓存",
+  llm: "大模型",
+};
+
+const MAX_LEN = 500;
+
+/* ==========================================================
+   2. DOM 引用区
+   ========================================================== */
+const $ = (id) => document.getElementById(id);
+
+const healthPill   = $("healthPill");
+const healthText   = $("healthText");
+const questionInput = $("questionInput");
+const charCounter  = $("charCounter");
+const askBtn       = $("askBtn");
+const askBtnText   = $("askBtnText");
+const askIcon      = $("askIcon");
+const resultCard   = $("resultCard");
+const statusBanner = $("statusBanner");
+const pillsRow     = $("pillsRow");
+const answerText   = $("answerText");
+const riskNotice   = $("riskNotice");
+const sourcesSection = $("sourcesSection");
+const sourcesToggle  = $("sourcesToggle");
+const sourcesTitle   = $("sourcesTitle");
+const sourcesList    = $("sourcesList");
+const copyBtn      = $("copyBtn");
+const copyBtnText  = $("copyBtnText");
+
+/* ==========================================================
+   3. 事件绑定区
+   ========================================================== */
+askBtn.addEventListener("click", ask);
+
+questionInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    ask();
+  }
+});
+
+questionInput.addEventListener("input", updateCounter);
+
+document.querySelectorAll(".chip").forEach((chip) => {
+  chip.addEventListener("click", () => {
+    questionInput.value = chip.dataset.q;
+    updateCounter();
+    questionInput.focus();
+  });
+});
+
+sourcesToggle.addEventListener("click", () => {
+  sourcesToggle.classList.toggle("open");
+  sourcesList.classList.toggle("open");
+});
+
+copyBtn.addEventListener("click", copyAnswer);
+
+/* ==========================================================
+   4. 健康检查（30 秒轮询，失败不影响问答）
+   ========================================================== */
+function setHealth(cls, text) {
+  healthPill.className = "health-pill " + cls;
+  healthText.textContent = text;
+}
+
+async function checkHealth() {
+  try {
+    const resp = await fetch(API_BASE + "/health", { method: "GET" });
+    if (!resp.ok) throw new Error("http " + resp.status);
+    const data = await resp.json();
+    const deps = data.dependencies || {};
+    const failed = Object.entries(deps)
+      .filter(([k, v]) => v !== "ok" && v !== "configured")
+      .map(([k]) => DEP_NAMES[k] || k);
+    if (failed.length === 0) {
+      setHealth("ok", "服务正常");
+    } else {
+      setHealth("error", "异常：" + failed.join("、"));
+    }
+  } catch (e) {
+    setHealth("error", "无法连接");
+  }
+}
+checkHealth();
+setInterval(checkHealth, 30000);
+
+/* ==========================================================
+   5. 输入区交互
+   ========================================================== */
+function updateCounter() {
+  const len = questionInput.value.length;
+  charCounter.textContent = len + " / " + MAX_LEN;
+  charCounter.classList.toggle("limit", len >= MAX_LEN);
+}
+
+function setLoading(loading) {
+  askBtn.disabled = loading;
+  askBtnText.textContent = loading ? "思考中…" : "提问";
+  /* outerHTML 替换后旧引用失效，需实时重取 */
+  document.getElementById("askIcon").outerHTML = loading
+    ? '<span class="spinner" id="askIcon"></span>'
+    : '<svg id="askIcon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">' +
+      '<path d="M21.4 3.1L2.9 10.4c-.8.3-.8 1.5.1 1.7l4.6 1.4 1.7 5.2c.3.8 1.3.9 1.8.2l2.5-3.2 4.6 3.4c.6.5 1.6.1 1.7-.7l2.5-13.7c.2-.9-.7-1.6-1.5-1.3z" ' +
+      'stroke="#04211c" stroke-width="1.8" stroke-linejoin="round"/></svg>';
+}
+
+/* ==========================================================
+   6. 问答主流程
+   ========================================================== */
+async function ask() {
+  const question = questionInput.value.trim();
+  if (!question || askBtn.disabled) return;
+
+  setLoading(true);
+  try {
+    const resp = await fetch(API_BASE + "/ask", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question }),
+    });
+    if (!resp.ok) {
+      let friendly = "服务暂时不可用，请稍后重试。";
+      if (resp.status === 400) friendly = "问题格式不正确，请输入 1-500 字的健康问题。";
+      showError(friendly);
+      return;
+    }
+    const data = await resp.json();
+    renderAnswer(data);
+  } catch (e) {
+    showError("无法连接到问答服务，请确认后端已启动。");
+  } finally {
+    setLoading(false);
+  }
+}
+
+/* ==========================================================
+   7. 渲染函数
+   ========================================================== */
+function escapeHtml(s) {
+  return String(s ?? "")
+    .replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;").replaceAll("'", "&#39;");
+}
+
+function pill(cls, dotColor, text) {
+  return '<span class="pill ' + cls + '"><span class="dot"></span>' + escapeHtml(text) + "</span>";
+}
+
+function renderAnswer(data) {
+  resultCard.classList.add("show");
+
+  /* 提示条 */
+  statusBanner.className = "banner";
+  if (data.status === "insufficient_info") {
+    statusBanner.classList.add("warn", "show");
+    statusBanner.textContent = "当前信息依据不足，请结合实际情况判断。";
+  } else if (data.status === "service_unavailable") {
+    statusBanner.classList.add("err", "show");
+    statusBanner.textContent = "服务暂时不可用，请稍后重试。";
+  } else if (data.status === "rejected") {
+    statusBanner.classList.add("err", "show");
+    statusBanner.textContent = "该请求已被拒绝执行。";
+  } else {
+    statusBanner.classList.remove("show");
+  }
+
+  /* 标签行：可靠性 + 模式 + 缓存 */
+  const rel = reliabilityMap[data.reliability] || reliabilityMap.low;
+  const modeLabel = modeMap[data.mode] || data.mode || "直接回答";
+  let pills = pill(rel.cls, "", rel.label);
+  pills += pill("pill-sky", "", modeLabel);
+  if (data.cached) pills += pill("pill-purple", "", "缓存命中");
+  pillsRow.innerHTML = pills;
+
+  /* 正文 */
+  answerText.textContent = data.answer || "（无回答内容）";
+
+  /* 风险提示（10.4 健康边界） */
+  if (data.risk_notice) {
+    riskNotice.textContent = "⚠ " + data.risk_notice;
+    riskNotice.classList.add("show");
+  } else {
+    riskNotice.classList.remove("show");
+  }
+
+  /* 来源区（FR-022：来源类型必标） */
+  const sources = Array.isArray(data.sources) ? data.sources : [];
+  if (sources.length > 0) {
+    sourcesSection.style.display = "block";
+    sourcesTitle.textContent = "来源依据 · " + sources.length + " 条";
+    sourcesToggle.classList.remove("open");
+    sourcesList.classList.remove("open");
+
+    sourcesList.innerHTML = sources.map((s) => {
+      if (s.type === "kg") {
+        const main = [s.entity, s.relation, s.label].filter(Boolean)
+          .map(escapeHtml).join(' <span style="color:var(--text-3)">·</span> ');
+        return '<div class="source-item"><span class="source-tag kg">知识图谱</span>' +
+               '<div class="source-body"><span class="s-main">' + main + "</span></div></div>";
+      }
+      /* type = lit */
+      const bits = [];
+      if (s.title) bits.push('<span class="s-main">' + escapeHtml(s.title) + "</span>");
+      const meta = [s.journal, s.year, s.loc].filter(Boolean).map(escapeHtml).join(" · ");
+      if (meta) bits.push(meta);
+      let link = "";
+      if (s.url) {
+        link = '<a class="source-link" href="' + escapeHtml(s.url) +
+               '" target="_blank" rel="noopener noreferrer">查看原文</a>';
+      }
+      return '<div class="source-item"><span class="source-tag lit">医学文献</span>' +
+             '<div class="source-body">' + bits.join(" · ") + link + "</div></div>";
+    }).join("");
+  } else {
+    sourcesSection.style.display = "none";
+  }
+
+  resultCard.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function showError(msg) {
+  resultCard.classList.add("show");
+  statusBanner.className = "banner err show";
+  statusBanner.textContent = msg;
+  pillsRow.innerHTML = "";
+  answerText.textContent = "";
+  riskNotice.classList.remove("show");
+  sourcesSection.style.display = "none";
+  resultCard.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+/* ==========================================================
+   8. 复制回答
+   ========================================================== */
+async function copyAnswer() {
+  const text = answerText.textContent;
+  if (!text) return;
+  try {
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+    } else {
+      /* file:// 场景回退方案 */
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+    }
+    copyBtnText.textContent = "已复制 ✓";
+    setTimeout(() => { copyBtnText.textContent = "复制回答"; }, 1500);
+  } catch (e) {
+    copyBtnText.textContent = "复制失败";
+    setTimeout(() => { copyBtnText.textContent = "复制回答"; }, 1500);
+  }
+}
+</script>
+</body>
+</html>

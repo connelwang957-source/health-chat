@@ -1,18 +1,66 @@
-INFO:     Started server process [33324]
+INFO:     Started server process [30984]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-Milvus retriever unavailable: langchain-huggingface / sentence-transformers 未安装，无法本地向量化
-BM25 语料文件不存在（先运行 scripts/ingest_docs.py）: D:\project_phase\medical\xinglin_health\data\bm25_docs.json
-无任何可用检索路，RAG 通路降级
-KG retrieve failed: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: Unsupported authentication token, missing key `scheme`: {}} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
-INFO:     127.0.0.1:60811 - "POST /ask HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60839 - "POST /ask HTTP/1.1" 200 OK
-非法查询被拦截: drop table 疾病
-INFO:     127.0.0.1:60861 - "POST /ask HTTP/1.1" 200 OK
-Neo4j health failed: {neo4j_code: Neo.ClientError.Security.Unauthorized} {message: Unsupported authentication token, missing key `scheme`: {}} {gql_status: 42NFF} {gql_status_description: error: syntax error or access rule violation - permission/access denied. Access denied, see the security logs for details.}
 D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:50: PyMilvusDeprecationWarning: `connections.connect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
   connections.connect(alias="health_check", uri=c.milvus_uri, timeout=2)
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:51: PyMilvusDeprecationWarning: `utility.list_collections` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  utility.list_collections(using="health_check")
 D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:58: PyMilvusDeprecationWarning: `connections.disconnect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
   connections.disconnect("health_check")
-INFO:     127.0.0.1:60872 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51312 - "GET /health HTTP/1.1" 200 OK
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\Windows\AppData\Local\Temp\jieba.cache
+Loading model cost 1.154 seconds.
+Prefix dict has been built successfully.
+INFO:     127.0.0.1:51312 - "POST /ask HTTP/1.1" 200 OK
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:50: PyMilvusDeprecationWarning: `connections.connect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.connect(alias="health_check", uri=c.milvus_uri, timeout=2)
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:51: PyMilvusDeprecationWarning: `utility.list_collections` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  utility.list_collections(using="health_check")
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:58: PyMilvusDeprecationWarning: `connections.disconnect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.disconnect("health_check")
+INFO:     127.0.0.1:52112 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52112 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52147 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52183 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52223 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52260 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52271 - "OPTIONS /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52271 - "POST /ask HTTP/1.1" 200 OK
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:50: PyMilvusDeprecationWarning: `connections.connect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.connect(alias="health_check", uri=c.milvus_uri, timeout=2)
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:51: PyMilvusDeprecationWarning: `utility.list_collections` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  utility.list_collections(using="health_check")
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:58: PyMilvusDeprecationWarning: `connections.disconnect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.disconnect("health_check")
+INFO:     127.0.0.1:52272 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52301 - "OPTIONS /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52301 - "POST /ask HTTP/1.1" 200 OK
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:50: PyMilvusDeprecationWarning: `connections.connect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.connect(alias="health_check", uri=c.milvus_uri, timeout=2)
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:51: PyMilvusDeprecationWarning: `utility.list_collections` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  utility.list_collections(using="health_check")
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:58: PyMilvusDeprecationWarning: `connections.disconnect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.disconnect("health_check")
+INFO:     127.0.0.1:52302 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52349 - "OPTIONS /ask HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52349 - "POST /ask HTTP/1.1" 200 OK
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:50: PyMilvusDeprecationWarning: `connections.connect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.connect(alias="health_check", uri=c.milvus_uri, timeout=2)
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:51: PyMilvusDeprecationWarning: `utility.list_collections` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  utility.list_collections(using="health_check")
+D:\project_phase\medical\xinglin_health\app\infrastructure\milvus_retriever.py:58: PyMilvusDeprecationWarning: `connections.disconnect` is an ORM-style PyMilvus API and will be removed in PyMilvus 3.1. Use `MilvusClient` instead.
+  connections.disconnect("health_check")
+INFO:     127.0.0.1:52350 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52427 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52544 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52585 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52645 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52715 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52775 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52879 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52979 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53062 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53130 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56165 - "GET /health HTTP/1.1" 200 OK

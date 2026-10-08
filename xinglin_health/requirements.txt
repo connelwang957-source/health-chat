@@ -4,13 +4,16 @@ pydantic>=2.7
 pydantic-settings>=2.2
 
 # LangChain 全家桶（技术文档第 2 章：能用 LangChain 一律用 LangChain）
-langchain>=0.3
-langchain-core>=0.3
-langchain-openai>=0.2
-langchain-community>=0.3
-langchain-milvus>=0.1
-langchain-text-splitters>=0.3
-langgraph>=0.2
+# ⚠ 版本协同已实测：langchain 1.4.x + transformers 4.x（v5 无法加载旧版 ST 模型仓库）
+langchain>=1.4,<2
+langchain-core>=1.6
+langchain-openai>=1.6
+langchain-community>=0.4
+langchain-classic>=1.0        # EnsembleRetriever 所在包
+langchain-milvus>=0.4
+langchain-text-splitters>=1.1
+langgraph>=1.2
+transformers>=4.50
 
 # 存储与检索
 pymilvus>=2.4
@@ -19,9 +22,9 @@ redis>=5.0
 rank_bm25>=0.2.2
 jieba>=0.42
 
-# 本地向量化（体积大，按需安装：pip install langchain-huggingface sentence-transformers）
-# langchain-huggingface
-# sentence-transformers
+# 本地向量化（384 维 MiniLM，模型已在本地 HF 缓存）
+sentence-transformers>=6.1
+langchain-huggingface>=1.2
 
 # 开发
 pytest>=8.0

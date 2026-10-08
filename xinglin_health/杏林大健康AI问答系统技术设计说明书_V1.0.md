@@ -47,7 +47,7 @@
 | 知识图谱 | Neo4j Community（已建库） | 5.x | 已有数据，Cypher 表达 18 类关系 | 第 9 章 |
 | 向量库 | Milvus standalone（Docker），经 **langchain-milvus** 接入 | ≥2.4 | 稠密检索 + 元数据过滤 | FR-022 |
 | 文档切分 | **langchain-text-splitters**：RecursiveCharacterTextSplitter，自定义分隔符对齐 knowledge_base.txt 的文档/页标记 | — | RAG 入库切块 | 14.8 |
-| Embedding | BGE-M3，经 **langchain-huggingface** HuggingFaceEmbeddings 本地推理 | BAAI/bge-m3 | 中文强，稠密向量；19 篇语料 CPU 可跑 | 检索质量 |
+| Embedding | **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2**（本地已有，384 维多语言），经 **langchain-huggingface** HuggingFaceEmbeddings 本地推理 | — | 中文强；与建库侧向量模型一致 | 检索质量 |
 | 稀疏检索 | **langchain-community BM25Retriever**（rank_bm25，内存索引） | — | 语料量小，免维护独立引擎 | FR-022 |
 | 多路融合 | **langchain EnsembleRetriever**（内置 RRF）：稠密 + BM25 两路融合 | — | 免手写 RRF | FR-022、ACC-015 |
 | 重排（可选） | **ContextualCompressionRetriever + CrossEncoderReranker**（BGE-reranker-v2-m3），默认关 | — | 精度换延迟，按评测决定 | ACC-015 |
@@ -287,35 +287,43 @@ xinglin_health/
 
 ## 6. 数据设计
 
-### 6.1 知识图谱（已建库，映射待对齐）
+### 6.1 知识图谱（已建库，schema 已对齐）
 
-> ⚠ 现有 KG 由业务方提供。本章按通用医疗 KG 模式先行设计，**【待对齐】**项在实际 schema 确认后校准。需要业务方提供：节点标签清单、关系类型清单、属性字段、一条样例 Cypher/数据。
-
-假设的关系模式（【待对齐】）：
+实际 KG：Neo4j `medical` 库（liuhuanyong 医疗知识图谱模式），规模：
 
 ```text
-(:疾病 {name, 描述, 病因, 预防, 易感人群, 治疗周期, 治疗方式, 治愈概率, 所属科室})
-  -[:症状]-> (:症状 {name})
-  -[:并发症]-> (:疾病)
-  -[:药品]-> (:药品 {name, 厂商})
-  -[:检查]-> (:检查 {name})
-  -[:宜吃]-> (:食品 {name})
-  -[:忌吃]-> (:食品 {name})
+Disease 8808 ｜ Symptom 5998 ｜ Food 4870 ｜ Drug 3828 ｜ Check 3353 ｜ Department 54 ｜ Producer 17201
 ```
 
-18 类问答 → Cypher 模板映射（每类一个参数化模板，只读）：
+节点与关系（英文标签，QAType 枚举已按此校准）：
 
-| QAType | 模式（示意，【待对齐】） |
+```text
+(:Disease {name, desc 描述, cause 病因, prevent 预防, cure_lasttime 治疗周期,
+           cure_way 治疗方式, cure_prob 治愈概率, easy_get 易感人群, cure_department 科室})
+  -[:has_symptom]->   (:Symptom)
+  -[:acompany_with]-> (:Disease)     并发症
+  -[:no_eat]->        (:Food)        忌吃
+  -[:do_eat]->        (:Food)        宜吃
+  -[:recommand_drug]->(:Drug)        推荐用药
+  -[:need_check]->    (:Check)
+  -[:belongs_to]->    (:Department)
+(:Drug)-[:drugs_of]->(:Producer)
+```
+
+扩展关系（18 类未使用，可作后续问答类型扩展）：`recommand_eat`（推荐食材）、`command_drug`（忌用药品）。
+
+18 类问答 → Cypher 模板映射（每类一个参数化模板，只读，已实测）：
+
+| QAType | 模式 |
 |---|---|
-| 疾病—症状 | MATCH (d:疾病{name:$e})-[:症状]->(s) RETURN s.name |
-| 症状—疾病 | MATCH (d:疾病)-[:症状]->(s:症状{name:$e}) RETURN d.name |
-| 疾病—病因/预防/描述 | 属性读取：RETURN d.病因 / d.预防 / d.描述 |
-| 疾病—治疗周期/方式/治愈相关/易感人群 | 同上，属性读取 |
-| 疾病—并发症 | MATCH (d{name:$e})-[:并发症]->(c) RETURN c.name |
-| 疾病—忌吃/宜吃食品 | MATCH (d)-[:忌吃\|宜吃]->(f) RETURN f.name |
-| 食品—疾病（限制/推荐） | MATCH (d)-[:忌吃\|宜吃]->(f{name:$e}) RETURN d.name |
-| 疾病—药品 / 药品—疾病 | MATCH (d)-[:药品]->(m) / 反向 |
-| 疾病—检查 / 检查—疾病 | MATCH (d)-[:检查]->(c) / 反向 |
+| 疾病—症状(1) | MATCH (n:`Disease` {name:$e})-[:`has_symptom`]->(m) RETURN m.name |
+| 症状—疾病(2) | 反向 has_symptom |
+| 疾病—病因(3)/预防(4)/治疗周期(5)/治疗方式(6)/治愈相关(7)/易感人群(8)/描述(9) | 属性读取：cause / prevent / cure_lasttime / cure_way / cure_prob / easy_get / desc |
+| 疾病—并发症(10) | acompany_with |
+| 疾病—忌吃(11)/宜吃(12) | no_eat / do_eat |
+| 食品—疾病 限制(13)/推荐(14) | 反向 no_eat / do_eat |
+| 疾病—药品(15)/药品—疾病(16) | recommand_drug / 反向 |
+| 疾病—检查(17)/检查—疾病(18) | need_check / 反向 |
 
 实现形态：`QAType` 枚举挂载 `cypher_template` 与 `answer_template` 字段，新增问答类型=加枚举项（NFR-MNT-01）。
 
@@ -329,7 +337,7 @@ xinglin_health/
 |---|---|---|
 | id | INT64, auto-id | 主键 |
 | chunk_text | VARCHAR ≤ 4000 | 片段正文 |
-| dense | FLOAT_VECTOR(1024) | BGE-M3 稠密向量，HNSW(M=16, ef=200)，COSINE |
+| dense | FLOAT_VECTOR(384) | MiniLM-L12-v2 稠密向量，HNSW(M=16, ef=200)，COSINE |
 | doc_id | VARCHAR(64) | 源文件 SHA256 前 16 位 |
 | doc_title | VARCHAR(256) | 文件名去扩展名 |
 | page_num | INT32 | 页码 |
@@ -503,7 +511,7 @@ CACHE_TTL_HOURS=24     LOG_DIR=./logs
 
 | # | 事项 | 影响 | 状态 |
 |---|---|---|---|
-| 1 | **KG schema 对齐**：需业务方提供节点标签/关系/属性/样例数据 | 6.1 模板表落笔、I1 启动 | 【阻塞 I1】 |
+| 1 | ~~KG schema 对齐~~ **已完成**：schema 已从建库工程与实际库中导出并校准（6.1 节），I1 已实测连通 | — | ✅ 关闭 |
 | 2 | LLM 成本估算与厂商最终确认（DeepSeek/Qwen） | 8 章延迟指标 | 建议 I0 用 DeepSeek 实测 |
 | 3 | Windows Docker Desktop（WSL2）环境确认 | I0 | 待环境检查 |
 | 4 | rerank 是否启用 | ACC-015 精度 vs 延迟 | 默认关，I2 后按评测决定 |
