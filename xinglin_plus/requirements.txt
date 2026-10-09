@@ -1,0 +1,47 @@
+# 杏林大健康 AI 问答系统（第二代 · xinglin_plus）—— 依赖清单
+#
+# 安装（Python 3.11+）：
+#     .venv\Scripts\python.exe -m pip install -r requirements.txt
+#
+# 版本为**已验证可用**的组合（与本目录 .venv 一致），并非理论最新版。
+# 向量模型 sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 走本机 HF 缓存，
+# 首次使用需要联网下载一次（之后 HF_HUB_OFFLINE=true 即可离线）。
+
+# ---- 编排与检索 ----
+langchain==1.4.3
+langchain-core==1.6.7
+langchain-classic==1.0.8
+langchain-community==0.4.2
+langchain-text-splitters==1.1.3
+langgraph==1.2.14
+
+# ---- 向量：Milvus 客户端 + 本地嵌入 ----
+langchain-milvus==0.4.0
+pymilvus==3.0.2
+langchain-huggingface==1.2.2
+sentence-transformers==6.1.0
+
+# ---- 图谱 ----
+neo4j==6.4.0
+
+# ---- 大模型（OpenAI 兼容 / DeepSeek）----
+langchain-openai==1.6.7
+openai==3.26.0
+
+# ---- 缓存 ----
+redis==8.1.0
+
+# ---- 数据、配置与中文处理 ----
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.4
+jieba==0.42.1
+pypdf==6.19.0
+numpy==2.5.3
+
+# ---- 接口层 ----
+fastapi==0.142.2
+uvicorn==0.54.0
+
+# ---- 测试 ----
+pytest==9.1.1
