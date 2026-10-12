@@ -32,6 +32,8 @@ DISEASE_OF_HINTS: tuple[str, ...] = (
 
 # 疾病端按属性/关系问法（按顺序命中即用）
 DISEASE_INTENT_RULES: tuple[tuple[tuple[str, ...], QAType], ...] = (
+    (("看什么科", "挂什么科", "看哪个科", "哪个科室", "什么科室", "就诊科室"),
+     QAType.DISEASE_DEPARTMENT),
     (("症状", "表现"), QAType.DISEASE_SYMPTOM),
     (("并发症", "并发"), QAType.DISEASE_COMPLICATION),
     (("病因", "原因", "引起"), QAType.DISEASE_CAUSE),
@@ -48,7 +50,8 @@ DISEASE_INTENT_RULES: tuple[tuple[tuple[str, ...], QAType], ...] = (
 FOOD_HINTS: tuple[str, ...] = ("吃", "食", "忌口", "饮食", "喝")
 
 # 非疾病角色：问「某物对应什么疾病」时，锚点应优先取它们
-NON_DISEASE_ROLES: tuple[str, ...] = ("Symptom", "Drug", "Food", "Check")
+# 含 Department：问「泌尿内科看哪些疾病」时，锚点应是科室而不是疾病
+NON_DISEASE_ROLES: tuple[str, ...] = ("Symptom", "Drug", "Food", "Check", "Department")
 
 
 def preferred_roles(question: str) -> tuple[str, ...] | None:
@@ -73,6 +76,11 @@ def classify(question: str, entity: str | None, role: str | None,
     q = question or ""
 
     # ① 实体角色优先
+    # 科室锚点：问的就是"这个科室治哪些病"（需求 14.7）。
+    # 必须排在关键词表之前——否则「泌尿内科看哪些疾病」会被「哪些疾病」
+    # 抢去当成"症状—疾病"查询。
+    if role == "Department":
+        return QAType.DEPARTMENT_DISEASE
     if role == "Food":
         qa_type = QAType.FOOD_DISEASE_AVOID if denied else QAType.FOOD_DISEASE_RECOMMEND
         return adjust_food_qa_type(q, qa_type)

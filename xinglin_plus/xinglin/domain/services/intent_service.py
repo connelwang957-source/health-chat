@@ -2,7 +2,7 @@
 
 两条通道，先 LLM 后规则：
 
-1. **LLM 通道**：把 18 类编号表交给大模型，要求它只回一个 JSON；
+1. **LLM 通道**：把固定问答类型编号表交给大模型，要求它只回一个 JSON；
 2. **规则通道**（LLM 不可用 / 失败时）：共享关键词表 + 第 10.2 条默认规则。
 
 实体识别**只有一个口径**：`EntityRecognizer` 端口（词典最长匹配，组合根注入），
@@ -23,7 +23,7 @@ from xinglin.domain.rules import (
 )
 from xinglin.domain.values import EntityRole, QAType
 
-# 交给 LLM 的 18 类编号表
+# 交给 LLM 的固定问答类型编号表（第 9 章 18 类 + 需求 14.7 的科室 2 类）
 QA_TYPE_LIST = "\n".join(f"{t.code}. {t.cn_name} —— {t.intent}" for t in QAType)
 
 INTENT_SYSTEM_PROMPT = (
@@ -31,8 +31,8 @@ INTENT_SYSTEM_PROMPT = (
     "并且**只输出一个 JSON 对象**，不要任何解释、不要 markdown 代码块。\n\n"
     f"固定问答类型编号表（qa_type_code 取其中之一；无法归入则填 null）：\n{QA_TYPE_LIST}\n\n"
     "JSON 字段：\n"
-    '  "entity": 问题中的核心健康对象名（疾病/症状/药品/食品/检查名），没有则 null\n'
-    '  "entity_type": 该对象类型，取「疾病/症状/药品/食品/检查」，不确定则 null\n'
+    '  "entity": 问题中的核心健康对象名（疾病/症状/药品/食品/检查/科室名），没有则 null\n'
+    '  "entity_type": 该对象类型，取「疾病/症状/药品/食品/检查/科室」，不确定则 null\n'
     '  "qa_type_code": 上述编号（整数）或 null\n'
     '  "open_ended": 是否属于开放式问题（无法归入固定类型时为 true）'
 )
@@ -41,8 +41,8 @@ INTENT_SYSTEM_PROMPT = (
 class IntentOut(BaseModel):
     """LLM 结构化输出的意图模型。"""
     entity: str | None = None
-    entity_type: str | None = None      # 疾病/症状/药品/食品/检查/None
-    qa_type_code: int | None = None     # 1-18；开放式为 null
+    entity_type: str | None = None      # 疾病/症状/药品/食品/检查/科室/None
+    qa_type_code: int | None = None     # 1-20；开放式为 null
     open_ended: bool = False
 
 
@@ -104,6 +104,15 @@ class IntentService:
             return Intent(entity=entity, entity_type=entity_type, open_ended=True,
                           confidence=0.5, decided_by="rule",
                           reason="开放式提问（进展/因果/对比），转文献或多路召回")
+
+        # 科室锚点：问的就是"这个科室治哪些病"（需求 14.7）。
+        # 必须早于关键词表——否则「泌尿内科看哪些疾病」会被泛化的「哪些疾病」
+        # 匹配成"症状—疾病"，把科室当症状去查。
+        if entity_type == EntityRole.DEPARTMENT.value:
+            return Intent(entity=entity, entity_type=entity_type,
+                          qa_type=QAType.DEPARTMENT_DISEASE, open_ended=False,
+                          confidence=0.6, decided_by="rule",
+                          reason="实体角色为科室，按「科室—疾病」查询")
 
         if (matched := match_keyword(q)) is not None:
             qa_type, word = matched

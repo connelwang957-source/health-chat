@@ -31,6 +31,8 @@ ASPECT_TEXT: dict[QAType, str] = {
     QAType.DRUG_DISEASE: "主要针对的疾病",
     QAType.DISEASE_EXAM: "相关检查项目",
     QAType.EXAM_DISEASE: "相关疾病",
+    QAType.DISEASE_DEPARTMENT: "就诊科室",
+    QAType.DEPARTMENT_DISEASE: "主要诊治的疾病",
 }
 
 DEFAULT_LIMIT = 10
@@ -59,6 +61,10 @@ def render_facts(entity: str, facts: list[Fact], qa_type: QAType | None = None,
     if not values:
         return ""
     joined = "、".join(values)
+
+    # 科室端：用"诊治范围"表述，比「{实体}的{方面}：」更自然
+    if qa_type is QAType.DEPARTMENT_DISEASE:
+        return f"根据健康知识库，{entity}主要诊治以下疾病：{joined}。"
 
     # 食品端关系用"限制/推荐"措辞（第 10.1 条方向校正后的类型）
     if qa_type in (QAType.FOOD_DISEASE_AVOID, QAType.FOOD_DISEASE_RECOMMEND):

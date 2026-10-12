@@ -12,12 +12,18 @@ from pathlib import Path
 
 from xinglin.domain.values import EntityRole
 
-# 角色优先级：越靠前越优先（同一个词可能同时出现在多张表里）
-ROLE_PRIORITY: tuple[str, ...] = tuple(role.node_label for role in EntityRole) \
-    + ("Department", "Producer")
+# 角色优先级：越靠前越优先（同一个词可能同时出现在多张表里）。
+# 直接从 `EntityRole` 推导，避免"角色清单"在两处各维护一份而漂移。
+ROLE_PRIORITY: tuple[str, ...] = tuple(role.node_label for role in EntityRole)
 DENY_ROLE = "deny"
 
 # dict/*.txt 文件名 → 角色（与图谱标签一致；deny 为否定词，不属于实体）
+#
+# 刻意**不加载** `producer.txt`：既有图谱的 Producer 节点名是「厂商 + 药名」的拼接串
+# （如「999华蟾素口服液」，共 17201 条），且 `drugs_of` 关系只有 251 条、指向同名节点。
+# 这类脏名字**更长**，在「最长优先匹配」里会压过正确实体
+# —— 实测「太极阿胶能吃吗」被识别成 Producer，而非食品「阿胶」。
+# 数据修复后再加回 ("producer", "Producer")。
 FILE_ROLES: tuple[tuple[str, str], ...] = (
     ("disease", "Disease"),
     ("symptom", "Symptom"),
@@ -25,7 +31,6 @@ FILE_ROLES: tuple[tuple[str, str], ...] = (
     ("food", "Food"),
     ("check", "Check"),
     ("department", "Department"),
-    ("producer", "Producer"),
     ("deny", DENY_ROLE),
 )
 

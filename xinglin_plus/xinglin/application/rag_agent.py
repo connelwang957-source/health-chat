@@ -11,6 +11,7 @@ from xinglin.application.runtime import (
     get_generation_service,
     get_intent_service,
     get_retrieval_service,
+    guarded,
 )
 from xinglin.domain.entities import Answer
 from xinglin.domain.values import Mode
@@ -52,6 +53,7 @@ class RAGAgent:
         return "\n\n".join(blocks)
 
     # -- 主入口 -------------------------------------------------------------
+    @guarded                        # 12.7：非法查询在入口就被拦住
     def chat_main(self, question: str) -> Answer:
         docs = self.collect_docs(question)
         answer = self._generation.generate(question, Mode.RAG, [], docs)

@@ -10,10 +10,14 @@ prompt 属于应用层资产，由组合根以 ``prompt_builder`` 注入（domai
 `prompt_builder(question=..., kg_facts=..., docs=..., mode=...) -> (system, user)`。
 """
 
+import logging
+
 from xinglin.domain.entities import Answer, Fact, Source
 from xinglin.domain.ports import LLM
 from xinglin.domain.rules import build_risk_notice, needs_risk_notice, render_facts
 from xinglin.domain.values import Mode, Reliability, SourceType
+
+logger = logging.getLogger(__name__)
 
 
 class GenerationService:
@@ -29,9 +33,18 @@ class GenerationService:
         if mode is Mode.DIRECT or self._llm is None or not getattr(self._llm, "available", False):
             text = self.template_answer(question, mode, kg_facts, docs)
         else:
-            system, user = self._prompt_builder(question=question, kg_facts=kg_facts,
-                                                docs=docs, mode=mode)
-            text = self._llm.complete(system, user, temperature=0.3, max_tokens=800).strip()
+            # 12.3 回答生成失败 / Key 失效：**绝不能把异常抛给用户**。
+            # 失败（含返回空内容）一律降级为模板组装——内容 100% 来自证据、零幻觉。
+            try:
+                system, user = self._prompt_builder(question=question, kg_facts=kg_facts,
+                                                    docs=docs, mode=mode)
+                text = self._llm.complete(system, user,
+                                          temperature=0.3, max_tokens=800).strip()
+            except Exception as exc:        # noqa: BLE001 —— 降级链路的一部分
+                logger.warning("[生成失败] 降级为模板回答：%s: %s", type(exc).__name__, exc)
+                text = ""
+            if not text:
+                text = self.template_answer(question, mode, kg_facts, docs)
 
         return self.compose(question, mode, text, kg_facts, docs)
 

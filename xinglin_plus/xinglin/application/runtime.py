@@ -8,7 +8,8 @@
 允许 import `xinglin.infrastructure` 的地方（由 `tests/test_architecture.py` 固化）。
 """
 
-from functools import lru_cache
+import logging
+from functools import lru_cache, wraps
 
 from xinglin.config import (
     BM25_DOCS_PATH,
@@ -20,6 +21,7 @@ from xinglin.domain.entities import Answer, Fact
 from xinglin.domain.graph import NL2Cypher
 from xinglin.domain.guardrail import FactGuardrail
 from xinglin.domain.rag import HybridRetriever, MilvusVectorStore
+from xinglin.domain.rules import ILLEGAL_REPLY, is_illegal_query
 from xinglin.domain.services import (
     CacheService,
     GenerationService,
@@ -28,9 +30,11 @@ from xinglin.domain.services import (
     ReliabilityService,
     RetrievalService,
 )
-from xinglin.domain.values import Mode
+from xinglin.domain.values import Mode, Reliability
 from xinglin.fallback import MedicalDictionary, RobotQwen, load_words, xing_lin
 from xinglin.infrastructure import Neo4jGraph, OpenAILlm, RedisManager, create_llm
+
+logger = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------- 基础设施适配器
@@ -147,7 +151,38 @@ def get_default_agent():
     return HybridAgent()
 
 
-# ---------------------------------------------------------------- 公共收尾
+# ---------------------------------------------------------------- 公共入口 / 收尾
+def reject_if_illegal(question: str) -> Answer | None:
+    """12.7 非法查询**前置拦截**：命中即拒绝，不进入任何检索环节。
+
+    这是四道防线里的第 ① 道（输入拦截），另外三道是：Neo4j 只读会话、
+    Cypher 全参数化、NL2Cypher 只读校验器。
+
+    以前只有后三道在链路里生效，非法请求会一路走到检索 + LLM 再靠模型"自觉"拒绝
+    ——既白花一次 LLM 调用，也不可靠（模型可能被绕过）。
+
+    Returns:
+        命中时返回拒绝用的 `Answer`（`status="rejected"`、`mode=direct`、零检索）；
+        否则返回 None，调用方继续正常流程。
+    """
+    if not is_illegal_query(question):
+        return None
+    logger.warning("[12.7 非法查询拦截] %s", (question or "")[:60])
+    return Answer(status="rejected", mode=Mode.DIRECT, answer=ILLEGAL_REPLY,
+                  reliability=Reliability.LOW)
+
+
+def guarded(method):
+    """Agent 入口装饰器：统一做 12.7 非法查询前置拦截。"""
+    @wraps(method)
+    def wrapper(self, question: str, *args, **kwargs):
+        blocked = reject_if_illegal(question)
+        if blocked is not None:
+            return blocked
+        return method(self, question, *args, **kwargs)
+    return wrapper
+
+
 def finalize_answer(question: str, answer: Answer,
                     kg_facts: list[Fact], docs: list[dict]) -> Answer:
     """所有 Agent 共用的收尾：依据分级（FR-023）。
@@ -163,9 +198,10 @@ def finalize_answer(question: str, answer: Answer,
 def needs_retry(answer: Answer) -> bool:
     """是否需要换检索通路重试（FR-026）：**完全没有依据**（low）时才换。
 
-    注意：事实护栏"未通过"（答案里出现了证据中没有的数字）**刻意不触发换路**——
-    换另一条通路同样拿不到那些数字，只会让 `mode` 漂移、答案更差。
-    这类情况如实记录在 `meta.grounding`，由展示层提示用户谨慎参考。
+    注意：事实护栏"未通过"**刻意不触发换路**——换另一条通路同样拿不到那份依据，
+    只会让 `mode` 漂移、答案更差。按文档 §9「提醒不拦截」，护栏未通过时的动作是
+    **在答案末尾追加"请谨慎参考"提醒**（`domain.guardrail.add_unsupported_note`），
+    不改变答案内容、也不写 `meta`。
     """
     if answer.status != "ok" or answer.mode is Mode.DIRECT:
         return False

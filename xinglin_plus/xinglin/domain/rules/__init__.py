@@ -24,8 +24,17 @@ from xinglin.domain.rules.diet_rule import (
 )
 from xinglin.domain.rules.insufficiency import INSUFFICIENT_ANSWER, is_insufficient
 from xinglin.domain.rules.keyword_intent import KEYWORD_RULES, match_keyword
-from xinglin.domain.rules.openness import OPEN_MARKERS, is_open_ended
-from xinglin.domain.rules.query_guard import ILLEGAL_PATTERNS, is_illegal_query
+from xinglin.domain.rules.openness import (
+    OPEN_MARKERS,
+    SMALL_TALK_MARKERS,
+    is_open_ended,
+    is_small_talk,
+)
+from xinglin.domain.rules.query_guard import (
+    ILLEGAL_PATTERNS,
+    ILLEGAL_REPLY,
+    is_illegal_query,
+)
 from xinglin.domain.rules.risk_notice import (
     RISK_NOTICE,
     TREATMENT_HINTS,
@@ -47,8 +56,9 @@ __all__ = [
     "RISK_NOTICE", "TREATMENT_HINTS", "build_risk_notice", "needs_risk_notice",
     # 共享关键词表
     "KEYWORD_RULES", "match_keyword",
-    # FR-024 开放式判定
+    # FR-024 开放式判定 + 寒暄判定
     "OPEN_MARKERS", "is_open_ended",
+    "SMALL_TALK_MARKERS", "is_small_talk",
     # 12.7 非法拦截
-    "ILLEGAL_PATTERNS", "is_illegal_query",
+    "ILLEGAL_PATTERNS", "is_illegal_query", "ILLEGAL_REPLY",
 ]

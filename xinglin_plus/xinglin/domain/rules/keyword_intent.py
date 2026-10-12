@@ -14,6 +14,9 @@ from xinglin.domain.values import QAType
 
 KEYWORD_RULES: tuple[tuple[tuple[str, ...], QAType], ...] = (
     # ---- 疾病端 ----
+    # 就诊科室（FR-002「科室」对象 / 需求 14.7）：问法具体，须排在其它疾病端规则之前
+    (("看什么科", "挂什么科", "看哪个科", "哪个科室", "什么科室", "就诊科室",
+      "该看什么科", "属于什么科", "去什么科"), QAType.DISEASE_DEPARTMENT),
     (("症状", "表现", "有哪些表现"), QAType.DISEASE_SYMPTOM),
     (("并发症", "并发", "会引起什么"), QAType.DISEASE_COMPLICATION),
     (("病因", "原因", "怎么引起", "为什么会得"), QAType.DISEASE_CAUSE),

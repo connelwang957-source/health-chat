@@ -20,11 +20,13 @@ from xinglin.application.runtime import (
     get_fact_guardrail,
     get_generation_service,
     get_intent_service,
+    guarded,
     needs_retry,
 )
 from xinglin.config import GUARDRAIL_ENABLED
 from xinglin.domain.entities import Answer, Fact
 from xinglin.domain.guardrail import add_unsupported_note
+from xinglin.domain.rules import is_small_talk
 from xinglin.domain.values import Mode
 
 logger = logging.getLogger(__name__)
@@ -47,9 +49,10 @@ class HybridAgent:
                                         if self._enable_guardrail else None)
 
     # -- 主入口 -------------------------------------------------------------
+    @guarded                        # 12.7：非法查询在这里就被拦住，不进检索
     def chat_main(self, question: str) -> Answer:
         intent = self._intent.classify(question)
-        mode = self._route(intent)
+        mode = self._route(intent, question)
 
         answer = self._answer_with(question, intent, mode)
 
@@ -121,7 +124,7 @@ class HybridAgent:
             return [], False
 
     @staticmethod
-    def _route(intent) -> Mode:
+    def _route(intent, question: str = "") -> Mode:
         """FR-024 自动选路（对应 4.3 策略表）。
 
         顺序即优先级：**开放程度**优先于"命中了哪一类"——
@@ -129,6 +132,10 @@ class HybridAgent:
         也应当去查文献，而不是被模板问题抢走、答一句"资料未收录"。
         """
         if intent.open_ended:
+            # 寒暄/闲聊会被 LLM 判成"开放式"（确实归不进固定类型），但它**不是健康问题**，
+            # 不该触发检索——否则一句"你好"也要跑一遍向量检索 + 一次 LLM 生成。
+            if not intent.entity and is_small_talk(question):
+                return Mode.DIRECT
             return Mode.HYBRID if intent.entity else Mode.RAG
         if intent.qa_type is not None or intent.entity:
             return Mode.KG                # 可枚举的信息需求 → 结构化知识

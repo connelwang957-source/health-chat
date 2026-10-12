@@ -1,8 +1,13 @@
 """图谱 schema 知识（domain/graph）：NL2Cypher 提示词与校验器的**共同事实源**。
 
 来自 `medical` 库实测导出（**7 类节点、10 类关系**）。
-与 `QAType` 元数据同源但**更完整**：`belongs_to`（科室）、`drugs_of`（药品厂商）、
-`command_drug` / `recommand_eat` 这些 18 类固定问答没覆盖的关系，NL2Cypher 可以到达。
+与 `QAType` 元数据同源但**更完整**：`command_drug`（常用药品）、`recommand_eat`（推荐食品）
+这些固定问答类型没覆盖的关系，NL2Cypher 可以到达；反过来，`has_symptom`、`belongs_to`
+这类已建模的走模板快路径（零 LLM）。
+
+⚠ ``drugs_of``（药品→厂商）虽是图谱里真实存在的关系，但**数据不可用**：
+仅 251 条、且指向同名节点，Producer 节点名还是「厂商 + 药名」的拼接串。
+因此它**没有**对应的固定问答类型，NL2Cypher 走到它也只会返回脏值。
 
 > 一致性由 `tests/test_graph_schema.py` 固化：
 > `QAType` 里用到的每个标签 / 关系 / 属性都必须能在本 schema 中找到。

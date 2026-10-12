@@ -3,7 +3,7 @@
 文档里的形态是「主路径 NL2Cypher + 旧流水线兜底」；本项目在此基础上**前接一层模板**，
 形成图谱通路的**三层递进**（同时也是 FR-025「多次信息查询」的落点）：
 
-    ① 模板精确查询（`QAType` 元数据，零 LLM、结果确定）—— 18 类固定问答的主路径
+    ① 模板精确查询（`QAType` 元数据，零 LLM、结果确定）—— 固定问答类型的主路径（第 9 章 18 类 + 需求 14.7 科室 2 类）
     ② NL2Cypher（LLM 生成语句 + 规则/EXPLAIN 校验）—— 覆盖模板外的关系
     ③ 第 1 代规则链（`xing_lin()`，零 LLM）—— 模型挂了也保住图谱能力
 
@@ -19,6 +19,7 @@ from xinglin.application.runtime import (
     get_intent_service,
     get_kg_query_service,
     get_nl2cypher,
+    guarded,
 )
 from xinglin.domain.entities import Answer, Fact
 from xinglin.domain.values import Mode
@@ -68,6 +69,7 @@ class NL2CypherAgent:
         return []
 
     # -- 主入口 -------------------------------------------------------------
+    @guarded                        # 12.7：非法查询在入口就被拦住
     def chat_main(self, question: str) -> Answer:
         facts = self.collect_facts(question)
         answer = self._generation.generate(question, Mode.KG, facts, [])

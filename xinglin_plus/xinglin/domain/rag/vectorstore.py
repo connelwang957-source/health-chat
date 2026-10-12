@@ -39,6 +39,8 @@ from xinglin.config import (
     BM25_DOCS_PATH,
     CHUNK_OVERLAP,
     CHUNK_SIZE,
+    HYBRID_DENSE_WEIGHT,
+    HYBRID_SPARSE_WEIGHT,
     MILVUS_CONFIG,
     PDF_DATA_DIR,
     RETRIEVAL_TOP_K,
@@ -274,7 +276,10 @@ class HybridRetriever:
     实现领域端口 ``LiteratureSearch``（`available` / `search`）。
     """
 
-    WEIGHTS = (0.6, 0.4)        # (稠密, 稀疏)
+    # (稠密, 稀疏)：由 config 提供，可用环境变量覆盖以做**权重消融**。
+    # 实测（evals/ablation.py）：默认 0.6/0.4 下融合结果与"仅 dense"**逐位相同**——
+    # 稠密路完全主导，稀疏路对最终名次没有贡献。
+    WEIGHTS = (HYBRID_DENSE_WEIGHT, HYBRID_SPARSE_WEIGHT)
 
     def __init__(self, store: MilvusVectorStore | None = None,
                  docs_path: str = BM25_DOCS_PATH, top_k: int = RETRIEVAL_TOP_K):
@@ -306,8 +311,16 @@ class HybridRetriever:
                 names.append(f"bm25({len(docs)})")
 
         # 稠密路：Milvus
-        store = self._store or MilvusVectorStore()
-        if (vectorstore := store.load()) is not None:
+        # 单独捕获：Milvus 不可用时**只丢这一路**，别把已经建好的 BM25 一起拖垮
+        # （否则 `load()` 抛的 MilvusException 会冒泡到 __init__，令整个检索组件
+        # 判为"未就绪"——实测 Milvus 停服时就会出现这种"双路一起失效"）
+        try:
+            store = self._store or MilvusVectorStore()
+            vectorstore = store.load()
+        except Exception as e:      # noqa: BLE001 —— 单路失败即降级为另一路
+            print(f"[警告] 稠密路（Milvus）不可用，降级为稀疏单路：{type(e).__name__}: {e}")
+            vectorstore = None
+        if vectorstore is not None:
             retrievers.append(vectorstore.as_retriever(search_kwargs={"k": self._top_k}))
             weights.append(self.WEIGHTS[0])
             names.append(f"milvus({store.collection_name})")

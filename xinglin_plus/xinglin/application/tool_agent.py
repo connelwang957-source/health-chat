@@ -19,6 +19,7 @@ from xinglin.application.runtime import (
     finalize_answer,
     get_chat_model,
     get_generation_service,
+    guarded,
 )
 from xinglin.application.tools import build_tools
 from xinglin.domain.entities import Answer, Fact
@@ -52,6 +53,7 @@ class ToolCallingAgent:
         self._recursion_limit = recursion_limit
 
     # -- 主入口 -------------------------------------------------------------
+    @guarded                        # 12.7：非法查询在入口就被拦住
     def chat_main(self, question: str) -> Answer:
         collector: dict = {"facts": [], "docs": []}
         tools = build_tools(self._nl2.collect_facts, self._rag.collect_docs, collector)

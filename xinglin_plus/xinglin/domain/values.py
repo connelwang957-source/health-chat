@@ -3,7 +3,15 @@
 - ``EntityRole``：健康对象角色 ↔ 图谱节点标签（FR-002）；
 - ``Mode``：一次问答**实际走通**的检索通路；
 - ``Reliability`` / ``SourceType``：FR-022/023 的来源标识与可靠性分级；
-- ``QAType``：**第 9 章 18 类固定问答的唯一事实源**（挂载 Cypher 模板元数据）。
+- ``QAType``：**第 9 章固定问答类型的唯一事实源**（挂载 Cypher 模板元数据）。
+
+> **关于「药品厂商」（FR-002 的 7 类健康对象之一）**：既有 `medical` 库的数据不可用——
+> ``Producer`` 节点名是「厂商 + 药名」的拼接串（如「999华蟾素口服液」，共 17201 条），
+> 且 ``drugs_of`` 关系只有 251 条并指向**同名节点**（药名 == 厂商名）。
+> 因此本枚举**暂不声明** ``PRODUCER``，词典侧也不加载 ``producer.txt``：
+> 那些脏名字**更长**，在「最长优先匹配」里会压过正确实体
+> （实测「太极阿胶能吃吗」被识别成 Producer，而非食品「阿胶」）。
+> 待数据修复（根因是 `build_graph.parse_drug_detail` 的括号内外配对颠倒）后再启用。
 """
 
 from enum import Enum
@@ -17,16 +25,23 @@ class EntityRole(str, Enum):
     DRUG = "药品"
     FOOD = "食品"
     EXAM = "检查"
+    DEPARTMENT = "科室"
 
     @property
     def node_label(self) -> str:
-        """已校准：与 medical 库实际标签一致（Disease / Symptom / Drug / Food / Check）。"""
+        """已校准：与 medical 库实际标签一致。
+
+        覆盖 Disease / Symptom / Drug / Food / Check / Department。
+        末端追加的 ``DEPARTMENT`` 是需求 14.7 的科室数据（`belongs_to` 关系，
+        实测覆盖 8807/8808 疾病），用于「疾病→就诊科室 / 科室→诊治疾病」两类问答。
+        """
         return {
             EntityRole.DISEASE: "Disease",
             EntityRole.SYMPTOM: "Symptom",
             EntityRole.DRUG: "Drug",
             EntityRole.FOOD: "Food",
             EntityRole.EXAM: "Check",
+            EntityRole.DEPARTMENT: "Department",
         }[self]
 
     @classmethod
@@ -66,7 +81,11 @@ class SourceType(str, Enum):
 
 
 class QAType(Enum):
-    """第 9 章 18 类固定问答（路由与 KG 查询的唯一依据）。
+    """固定问答类型（路由与 KG 查询的唯一依据）。
+
+    **第 9 章的 18 类**逐条对应（编号 1~18）；编号 19~20 是需求 14.7「科室数据」的扩展——
+    该章要求"科室名称 + 相关疾病"，原 18 类未覆盖。需求原文是"**至少**支持以下 18 类"，
+    因此扩展不与之冲突。
 
     ``kind``：property=读节点属性 ｜ relation=正向关系 ｜ reverse=反向关系
     ``source_role``：问题中给定实体的角色（Cypher 锚点节点）
@@ -74,6 +93,7 @@ class QAType(Enum):
     ``target_role``：关系指向的节点角色
     """
 
+    # ---- 第 9 章 1~18 ----
     DISEASE_SYMPTOM = (1, "疾病—症状", "查询疾病有哪些症状", EntityRole.DISEASE, "relation", "has_symptom", EntityRole.SYMPTOM)
     SYMPTOM_DISEASE = (2, "症状—疾病", "查询某症状可能对应哪些疾病", EntityRole.SYMPTOM, "reverse", "has_symptom", EntityRole.DISEASE)
     DISEASE_CAUSE = (3, "疾病—病因", "查询疾病产生的原因", EntityRole.DISEASE, "property", "cause", None)
@@ -83,6 +103,9 @@ class QAType(Enum):
     DISEASE_CURE = (7, "疾病—治愈相关", "查询疾病治愈概率等信息", EntityRole.DISEASE, "property", "cure_prob", None)
     DISEASE_SUSCEPTIBLE = (8, "疾病—易感人群", "查询哪些人容易患该疾病", EntityRole.DISEASE, "property", "easy_get", None)
     DISEASE_DESC = (9, "疾病—描述", "查询疾病基本信息", EntityRole.DISEASE, "property", "desc", None)
+    # ⚠ 关系名是 `acompany_with`（**不是** accompany_with）：沿用源数据 `medical.json`
+    # 的字段名 `acompany`，图谱里就是这么建的。写错一个字母，模板查询会永远查空
+    # —— 这条由 `tests/test_graph_schema.py` 与 schema 的一致性断言守住。
     DISEASE_COMPLICATION = (10, "疾病—并发症", "查询疾病可能产生的并发症", EntityRole.DISEASE, "relation", "acompany_with", EntityRole.DISEASE)
     DISEASE_FOOD_AVOID = (11, "疾病—忌吃食品", "查询患病后不适合食用的食品", EntityRole.DISEASE, "relation", "no_eat", EntityRole.FOOD)
     DISEASE_FOOD_RECOMMEND = (12, "疾病—宜吃食品", "查询患病后适合食用的食品", EntityRole.DISEASE, "relation", "do_eat", EntityRole.FOOD)
@@ -92,6 +115,10 @@ class QAType(Enum):
     DRUG_DISEASE = (16, "药品—疾病", "查询药品主要用于哪些疾病", EntityRole.DRUG, "reverse", "recommand_drug", EntityRole.DISEASE)
     DISEASE_EXAM = (17, "疾病—检查", "查询疾病相关检查项目", EntityRole.DISEASE, "relation", "need_check", EntityRole.EXAM)
     EXAM_DISEASE = (18, "检查—疾病", "查询某检查可能对应的疾病", EntityRole.EXAM, "reverse", "need_check", EntityRole.DISEASE)
+
+    # ---- 科室扩展（需求 14.7；图谱 belongs_to 关系，覆盖 8807/8808 疾病）----
+    DISEASE_DEPARTMENT = (19, "疾病—科室", "查询疾病应该去哪个科室就诊", EntityRole.DISEASE, "relation", "belongs_to", EntityRole.DEPARTMENT)
+    DEPARTMENT_DISEASE = (20, "科室—疾病", "查询某科室主要诊治哪些疾病", EntityRole.DEPARTMENT, "reverse", "belongs_to", EntityRole.DISEASE)
 
     def __init__(self, code: int, cn_name: str, intent: str,
                  source_role: EntityRole, kind: str, key: str,

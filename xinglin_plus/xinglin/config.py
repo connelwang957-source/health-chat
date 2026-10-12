@@ -80,6 +80,15 @@ RERANK_ENABLED: bool = _env("RERANK_ENABLED", "false").lower() == "true"
 # 稠密路相似度阈值（余弦，向量已归一化）：低于它的片段直接丢弃（文档 §11.1.1）
 # 注意：该阈值只适用于**单路**的绝对分；融合后的分数是相对分，量纲不同、不可套用。
 SEARCH_SCORE_THRESHOLD: float = float(_env("SEARCH_SCORE_THRESHOLD", "0.65"))
+# 双路融合权重（稠密, 稀疏）：可被环境变量覆盖，便于做**权重消融**
+# RRF 是"排名融合"，两路返回重叠切片时，权重决定谁主导最终名次。
+#
+# 默认值 0.5/0.5 是**权重消融**的结论（`evals/ablation.py --only weights`）：
+#   0.6/0.4 → 要点覆盖率 92.1%（融合退化为"仅 dense"，稀疏路毫无贡献）
+#   0.5/0.5 → 97.4%　0.4/0.6 → 97.4%　0.3/0.7 → 97.4%
+# 原默认 0.6/0.4 是四组里**最差**的——稠密路独裁会把稀疏路的精确匹配优势吃掉。
+HYBRID_DENSE_WEIGHT: float = float(_env("HYBRID_DENSE_WEIGHT", "0.5"))
+HYBRID_SPARSE_WEIGHT: float = float(_env("HYBRID_SPARSE_WEIGHT", "0.5"))
 
 # ---------------------------------------------------------------- Redis
 REDIS_CONFIG: dict = {

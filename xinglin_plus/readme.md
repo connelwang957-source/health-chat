@@ -72,7 +72,7 @@ REM 端点：POST /v1/chat ｜ GET /health
 用户问题：「2型糖尿病的药物治疗有哪些新进展？」
     │
     ├─① 意图分类（domain/services/intent_service.py）
-    │     LLM 通道：把 18 类编号表交给模型，要求只回一个 JSON
+    │     LLM 通道：把固定问答类型编号表交给模型，要求只回一个 JSON
     │               （entity / entity_type / qa_type_code / open_ended）
     │     规则通道：LLM 不可用时 → 词典最长匹配实体 + 关键词表 + 10.2 默认规则
     │     开放式信号词（"新进展 / 为什么 / 对比 / 机制"）优先于关键词命中
@@ -81,7 +81,7 @@ REM 端点：POST /v1/chat ｜ GET /health
     ├─② 自动选路（application/hybrid_agent.py::_route）—— FR-024
     │     开放式 + 有实体 ──▶ hybrid 双路
     │     开放式 无实体   ──▶ rag 文献
-    │     命中 18 类/有实体 ─▶ kg 结构化知识
+    │     命中固定类型/有实体 ─▶ kg 结构化知识
     │     寒暄 / 常识      ──▶ direct 不检索
     │     ──▶ Mode.HYBRID
     │
@@ -187,7 +187,7 @@ nl2cypher: 问题 → 意图分类 → 图谱三层递进（模板 → NL2Cypher
 │   rules/      第 10 章业务规则（8 个纯函数模块）                  │
 │   services/   意图 / 图谱查询 / 文献检索 / 生成 / 依据分级 / 缓存  │
 │   ports.py    端口抽象：LLM、GraphStore、LiteratureSearch …      │
-│   values.py   值对象：QAType（18 类固定问答）、Mode、Reliability  │
+│   values.py   值对象：QAType（固定问答 20 类）、Mode、Reliability  │
 │   entities.py 领域实体：Intent、Fact、Source、Answer              │
 └───────────────────────────────┬────────────────────────────────┘
                                 │ 端口实现（依赖倒置）
@@ -284,7 +284,7 @@ REM （可选）从 data/medical.json 重建图谱：MERGE 幂等，先干跑再
 
 | 构件 | 位置 | 作用 |
 |---|---|---|
-| **`QAType`** | `domain/values.py` | 18 类固定问答的**唯一事实源**，每条挂载 Cypher 模板元数据（kind / key / source_role / target_role），路由与图谱查询都以它为准 |
+| **`QAType`** | `domain/values.py` | 固定问答类型的**唯一事实源**（第 9 章 18 类 + 需求 14.7 科室 2 类），每条挂载 Cypher 模板元数据（kind / key / source_role / target_role），路由与图谱查询都以它为准 |
 | **`EntityRole`** | `domain/values.py` | 中文业务名 ↔ 图谱节点标签的唯一映射 |
 | `domain/rules/` | 8 个纯函数模块 | 第 10 章业务规则：宜忌方向、默认意图、信息不足、风险提示、非法拦截、关键词表、开放式判定、话术模板 |
 | `fallback/dictionary.py` | 8 类词典 | **最长优先**实体识别，实现 `EntityRecognizer` 端口（意图分类与规则链共用同一口径） |
@@ -323,6 +323,28 @@ docker exec xinglin-redis redis-cli FLUSHDB
 ```
 
 ---
+
+### 5.3 效果评测与消融（`evals/`，与 `tests/` 分工）
+
+`tests/` 管"**逻辑对不对**"（离线单测，CI 必跑、零外部依赖）；`evals/` 管"**效果好不好**"
+（真机跑，依赖 Neo4j / Milvus / LLM）。两者刻意分开，避免"要联网才能跑单测"。
+
+| 脚本 | 作用 | 命令 |
+|---|---|---|
+| `run_eval.py` | 分层效果评测（固定问答 / 开放式 / 边界 / 安全）→ 通过率、路由准确率、时延、护栏触发 | `python -m evals.run_eval --dataset all --limit 2` |
+| `degradation.py` | 6 个拉闸场景验证"降级不阻断"（Neo4j / Milvus / LLM Key / Redis / 护栏超时 / 护栏乱码） | `python -m evals.degradation` |
+| `ablation.py` | 检索消融（双路 / 仅dense / 仅BM25）、**权重扫参**、护栏混淆矩阵、图谱消融 | `python -m evals.ablation --only retrieval` |
+| `performance.py` | 时延构成、并发阶梯（1/5/10/20）、hybrid vs agent 对比 | `python -m evals.performance` |
+
+评测集在 `evals/dataset/`：`fixed_qa`（从图谱**自动生成**）、`open_ended`、`semantic_rewrite`、
+`edge_cases`、`injection`。报告统一写入 `evals/reports/`。
+
+**关键设计——真值必须独立**：评测集的真值 Cypher **手写在生成脚本里**，不 import 生产的
+`kg_query_service.build_cypher`。否则代码把关系名写错时（曾经把图谱的 `acompany_with`
+写成 `accompany_with`），真值会一起错，评测就永远"通过"。
+
+**安全用例已接进 CI**：`tests/test_security_cases.py` 把 `evals/dataset/` 里能用规则层判定的
+用例（非法查询 / 信息索取 / 寒暄 / 注入参数化）固化成离线单测，每次提交都能挡住回归。
 
 ## 六、文档导航
 
