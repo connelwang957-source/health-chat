@@ -7,6 +7,7 @@
 import json
 from typing import Any, Dict
 
+from xinglin.domain.entities import Fact
 from xinglin.domain.ports import LLM
 
 FACT_CHECK_SYSTEM = (
@@ -93,5 +94,43 @@ def add_unsupported_note(answer: str, unsupported: list[str]) -> str:
     return answer + note
 
 
-__all__ = ["FactGuardrail", "add_unsupported_note",
+def build_context(facts: list[Fact] | None, docs: list[dict] | None) -> str:
+    """拼接护栏核查用的**证据上下文**（两类证据合起来作为"参考依据"）。
+
+    这是护栏的输入之一，与"答案"配对送去核查。图谱事实给出确定关系，
+    文献片段给出论述依据——核查判的是"答案能否被这份上下文支撑"。
+    """
+    parts: list[str] = []
+    if facts:
+        parts.append("【知识图谱事实】\n"
+                     + "\n".join(f"{f.entity} {f.relation} {f.value}" for f in facts))
+    if docs:
+        parts.append("【检索文档】\n"
+                     + "\n".join(str(d.get("text", "")) for d in docs))
+    return "\n\n".join(parts)
+
+
+def guard_answer(answer_text: str, context: str,
+                 guardrail: "FactGuardrail | None") -> str:
+    """对答案执行事实护栏，返回**最终要交付给用户的文本**。
+
+    「提醒不拦截」：核查未通过时**保留原答案**，只在末尾追加"请谨慎参考"提醒
+    （理由与措辞见 `add_unsupported_note`）。
+
+    以下情况原样返回（护栏自身降级，不阻塞主流程）：
+    - 护栏未装配或已关闭；
+    - 证据上下文为空（如纯寒暄的通路，本就没有可核查的依据）。
+
+    **任何对话链路都应经过本函数**——它是"答案级"的最后一关，
+    与生成逻辑无关，所以放在护栏模块里供各链路复用。
+    """
+    if guardrail is None or not context:
+        return answer_text
+    verdict = guardrail.check(answer_text, context)
+    if verdict.get("grounded"):
+        return answer_text
+    return add_unsupported_note(answer_text, verdict.get("unsupported") or [])
+
+
+__all__ = ["FactGuardrail", "add_unsupported_note", "build_context", "guard_answer",
            "FACT_CHECK_SYSTEM", "FACT_CHECK_USER"]

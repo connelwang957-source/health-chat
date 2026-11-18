@@ -9,6 +9,8 @@
 from xinglin.domain.guardrail.fact_guardrail import (
     FactGuardrail,
     add_unsupported_note,
+    build_context,
+    guard_answer,
 )
 
-__all__ = ["FactGuardrail", "add_unsupported_note"]
+__all__ = ["FactGuardrail", "add_unsupported_note", "build_context", "guard_answer"]

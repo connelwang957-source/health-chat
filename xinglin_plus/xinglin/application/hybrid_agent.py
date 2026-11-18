@@ -25,7 +25,7 @@ from xinglin.application.runtime import (
 )
 from xinglin.config import GUARDRAIL_ENABLED
 from xinglin.domain.entities import Answer, Fact
-from xinglin.domain.guardrail import add_unsupported_note
+from xinglin.domain.guardrail import build_context, guard_answer
 from xinglin.domain.rules import is_small_talk
 from xinglin.domain.values import Mode
 
@@ -77,32 +77,18 @@ class HybridAgent:
         facts, docs = self._gather(question, intent, mode)
         answer = finalize_answer(
             question, self._generation.generate(question, mode, facts, docs), facts, docs)
-        answer.answer = self._guard(answer.answer, self._fuse(facts, docs))
+        answer.answer = self._guard(answer.answer, build_context(facts, docs))
         return answer
 
-    @staticmethod
-    def _fuse(facts: list[Fact], docs: list[dict]) -> str:
-        """拼接两路上下文，作为护栏核查的依据（文档 §9 `_fuse`）。"""
-        parts: list[str] = []
-        if facts:
-            parts.append("【知识图谱事实】\n"
-                         + "\n".join(f"{f.entity} {f.relation} {f.value}" for f in facts))
-        if docs:
-            parts.append("【检索文档】\n"
-                         + "\n".join(str(d.get("text", "")) for d in docs))
-        return "\n\n".join(parts)
-
     def _guard(self, answer: str, context: str) -> str:
-        """事实护栏：无依据时在答案后追加提醒——**不拦截、只提醒**（文档 §9 `_guard`）。
+        """事实护栏：无依据时在答案后追加提醒——**不拦截、只提醒**。
 
-        无上下文（如 direct 通路）时跳过；核查失败时护栏自身降级放行。
+        证据上下文的拼接与核查逻辑都收敛在 `domain.guardrail`，与其它对话链路
+        共用同一份实现；本方法只负责"是否启用护栏"这一层开关。
         """
-        if not self._enable_guardrail or self._guardrail is None or not context:
+        if not self._enable_guardrail:
             return answer
-        verdict = self._guardrail.check(answer, context)
-        if verdict.get("grounded"):
-            return answer
-        return add_unsupported_note(answer, verdict.get("unsupported") or [])
+        return guard_answer(answer, context, self._guardrail)
 
     def _gather(self, question: str, intent, mode: Mode) -> tuple[list[Fact], list[dict]]:
         """按通路取证据（图谱 / 文献 / 双路）。"""

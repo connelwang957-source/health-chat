@@ -277,7 +277,7 @@ class HybridRetriever:
     """
 
     # (稠密, 稀疏)：由 config 提供，可用环境变量覆盖以做**权重消融**。
-    # 实测（evals/ablation.py）：默认 0.6/0.4 下融合结果与"仅 dense"**逐位相同**——
+    # 实测（evals/ablation.py）：原默认 0.6/0.4 下融合结果与"仅 dense"**逐位相同**——
     # 稠密路完全主导，稀疏路对最终名次没有贡献。
     WEIGHTS = (HYBRID_DENSE_WEIGHT, HYBRID_SPARSE_WEIGHT)
 

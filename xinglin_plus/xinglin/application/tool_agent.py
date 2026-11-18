@@ -18,11 +18,14 @@ from xinglin.application.rag_agent import RAGAgent
 from xinglin.application.runtime import (
     finalize_answer,
     get_chat_model,
+    get_fact_guardrail,
     get_generation_service,
     guarded,
 )
 from xinglin.application.tools import build_tools
+from xinglin.config import GUARDRAIL_ENABLED
 from xinglin.domain.entities import Answer, Fact
+from xinglin.domain.guardrail import build_context, guard_answer
 from xinglin.domain.values import Mode
 
 logger = logging.getLogger(__name__)
@@ -45,12 +48,17 @@ class ToolCallingAgent:
     """ReAct 工具调用 Agent（LLM 自主决定检索策略）。"""
 
     def __init__(self, model=None, generation=None, nl2cypher_agent=None,
-                 rag_agent=None, recursion_limit: int = RECURSION_LIMIT):
+                 rag_agent=None, recursion_limit: int = RECURSION_LIMIT,
+                 enable_guardrail: bool = True, guardrail=None):
         self._model = model or get_chat_model()
         self._generation = generation or get_generation_service()
         self._nl2 = nl2cypher_agent or NL2CypherAgent()
         self._rag = rag_agent or RAGAgent()
         self._recursion_limit = recursion_limit
+        # 事实护栏（与自动问答链路共用同一份实现，见 domain/guardrail）
+        self._enable_guardrail = enable_guardrail and GUARDRAIL_ENABLED
+        self._guardrail = guardrail or (get_fact_guardrail()
+                                        if self._enable_guardrail else None)
 
     # -- 主入口 -------------------------------------------------------------
     @guarded                        # 12.7：非法查询在入口就被拦住
@@ -73,13 +81,17 @@ class ToolCallingAgent:
             return self._fallback(question)
 
         answer = self._generation.compose(question, _mode_of(facts, docs), text, facts, docs)
+        # 事实护栏：与其它链路共用同一份实现，无依据时在末尾追加提醒（不拦截）
+        answer.answer = guard_answer(answer.answer, build_context(facts, docs),
+                                     self._guardrail if self._enable_guardrail else None)
         return finalize_answer(question, answer, facts, docs)
 
     def _fallback(self, question: str) -> Answer:
         """ReAct 失败 → 回落默认 Agent（双路 + 自动路由），保证有答案。"""
         from xinglin.application.hybrid_agent import HybridAgent
         return HybridAgent(nl2cypher_agent=self._nl2, rag_agent=self._rag,
-                           generation=self._generation).chat_main(question)
+                           generation=self._generation,
+                           enable_guardrail=self._enable_guardrail).chat_main(question)
 
 
 def _mode_of(facts: list[Fact], docs: list[dict]) -> Mode:
